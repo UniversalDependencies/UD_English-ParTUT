@@ -62,6 +62,7 @@ We are deeply grateful to Project Syndicate© for letting us download and exploi
 
 ## Language metadata
 
+=== Machine-readable metadata =================================================
 Documentation status: partial
 Data source: semi-automatic
 Data available since: UD v2.0
@@ -69,3 +70,5 @@ License: CC BY-NC-SA 4.0
 Genre: legal news wiki 
 Contributors: Bosco, Cristina; Sanguinetti, Manuela
 Contact: msanguin@di.unito.it 
+===============================================================================
+
