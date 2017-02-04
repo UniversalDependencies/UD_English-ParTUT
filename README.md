@@ -60,8 +60,6 @@ are found in the training, development and test set of UD_French-ParTUT and UD_I
 We are deeply grateful to Project Syndicate© for letting us download and exploit their articles as text material, under the terms of educational use. 
 
 
-## Language metadata
-
 === Machine-readable metadata =================================================
 Documentation status: partial
 Data source: semi-automatic
