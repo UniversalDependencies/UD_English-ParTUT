@@ -10321,7 +10321,7 @@
 # text = Fungi don't like to rot from bacteria, and so our best antibiotics come from fungi.
 1	Fungi	Fungi	PROPN	SP	_	4	nsubj	_	_
 2-3	don't	_	_	_	_	_	_	_	_
-2	do	do	AUX	VM	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	aux	_	SpaceAfter=No
+2	do	do	AUX	VM	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	aux	_	_
 3	not	not	PART	PART	Polarity=Neg	4	advmod	_	_
 4	like	like	VERB	V	VerbForm=Inf	0	root	_	_
 5	to	to	ADP	E	_	6	mark	_	_

@@ -17,7 +17,7 @@
 15	.	.	PUNCT	FS	_	8	punct	_	_
 
 # sent_id = partut_ud-5
-# text = Creative Commons makes no warraties regarding the information provided, and disclaims liability for damages resulting from its use.
+# text = Creative Commons makes no warranties regarding the information provided, and disclaims liability for damages resulting from its use.
 1	Creative	Creative	PROPN	SP	_	3	nsubj	_	_
 2	Commons	Commons	PROPN	SP	_	1	flat:name	_	_
 3	makes	make	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
@@ -914,7 +914,7 @@
 17	.	.	PUNCT	FS	_	2	punct	_	_
 
 # sent_id = partut_ud-167
-# text = Madam President, if the vote records correctly how my Group voted I shall not, and cannot , object to that.
+# text = Madam President, if the vote records correctly how my Group voted I shall not, and cannot, object to that.
 1	Madam	madam	NOUN	S	Gender=Fem|Number=Sing	21	vocative	_	_
 2	President	president	NOUN	S	Number=Sing	1	compound	_	SpaceAfter=No
 3	,	,	PUNCT	FF	_	1	punct	_	_
@@ -932,9 +932,9 @@
 15	not	not	PART	PART	Polarity=Neg	21	advmod	_	SpaceAfter=No
 16	,	,	PUNCT	FF	_	18	punct	_	_
 17	and	and	CCONJ	CC	_	18	cc	_	_
-18-19	cannot	_	_	_	_	_	_	_	_
+18-19	cannot	_	_	_	_	_	_	_	SpaceAfter=No
 18	can	can	AUX	VM	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	14	conj	_	_
-19	not	not	PART	PART	Polarity=Neg	21	advmod	_	SpaceAfter=No
+19	not	not	PART	PART	Polarity=Neg	21	advmod	_	_
 20	,	,	PUNCT	FF	_	21	punct	_	_
 21	object	object	VERB	V	VerbForm=Inf	0	root	_	_
 22	to	to	ADP	E	_	23	case	_	_
