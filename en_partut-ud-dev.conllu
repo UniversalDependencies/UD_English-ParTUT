@@ -134,7 +134,7 @@
 9	such	such	DET	DD	PronType=Dem	10	det	_	_
 10	modifications	modification	NOUN	S	Number=Plur	8	obj	_	_
 11	as	as	ADP	E	_	14	mark	_	_
-12	are	be	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	14	cop	_	_
+12	are	be	AUX	VA	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	14	cop	_	_
 13	technically	technically	ADV	B	_	14	advmod	_	_
 14	necessary	necessary	ADJ	A	Degree=Pos	8	advcl	_	_
 15	to	to	ADP	E	_	16	mark	_	_
@@ -669,7 +669,7 @@
 10	license	license	NOUN	S	Number=Sing	14	nsubj	_	_
 11	granted	grant	VERB	V	Tense=Past|VerbForm=Part	10	acl	_	_
 12	here	here	ADV	B	_	11	advmod	_	_
-13	is	be	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	_
+13	is	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	_
 14	perpetual	perpetual	ADJ	A	Degree=Pos	0	root	_	_
 15	(	(	PUNCT	FB	_	18	punct	_	SpaceAfter=No
 16	for	for	ADP	E	_	18	case	_	_
@@ -789,7 +789,7 @@
 2	Commons	Commons	PROPN	SP	_	1	flat:name	_	_
 3	will	will	AUX	VM	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	_
 4	not	not	PART	PART	Polarity=Neg	6	advmod	_	_
-5	be	be	VERB	V	VerbForm=Inf	6	cop	_	_
+5	be	be	AUX	VA	VerbForm=Inf	6	cop	_	_
 6	liable	liable	ADJ	A	Degree=Pos	0	root	_	_
 7	to	to	ADP	E	_	8	case	_	_
 8	You	You	PROPN	SP	_	6	obl	_	_
@@ -916,7 +916,7 @@
 8	in	in	ADP	E	_	9	case	_	_
 9	Sri	Sri	PROPN	SP	_	5	obl	_	_
 10	Lanka	Lanka	PROPN	SP	_	9	flat:name	_	_
-11	was	be	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	12	cop	_	_
+11	was	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	12	cop	_	_
 12	Mr	mister	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
 13	Kumar	Kumar	PROPN	SP	_	12	flat	_	_
 14	Ponnambalam	Ponnambalam	PROPN	SP	_	13	flat:name	_	SpaceAfter=No
@@ -938,7 +938,7 @@
 # text = Would it be appropriate for you, Madam President, to write a letter to the Sri Lankan President expressing Parliament's regret at his and the other violent deaths in Sri Lanka and urging her to do everything she possibly can to seek a peaceful reconciliation to a very difficult situation?
 1	Would	will	AUX	VM	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	4	aux	_	_
 2	it	it	PRON	PE	Number=Sing|Person=3|PronType=Prs	4	expl	_	_
-3	be	be	VERB	V	VerbForm=Inf	4	cop	_	_
+3	be	be	AUX	VA	VerbForm=Inf	4	cop	_	_
 4	appropriate	appropriate	ADJ	A	Degree=Pos	0	root	_	_
 5	for	for	ADP	E	_	6	case	_	_
 6	you	you	PRON	PE	Person=2|PronType=Prs	4	obl	_	SpaceAfter=No
@@ -979,7 +979,7 @@
 41	possibly	possibly	ADV	B	_	42	advmod	_	_
 42	can	can	AUX	VM	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	39	acl:relcl	_	_
 43	to	to	ADP	E	_	44	mark	_	_
-44	seek	seek	VERB	V	VerbForm=Inf	42	advcl	_	_
+44	seek	seek	VERB	V	VerbForm=Inf	38	advcl	_	_
 45	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	47	det	_	_
 46	peaceful	peaceful	ADJ	A	Degree=Pos	47	amod	_	_
 47	reconciliation	reconciliation	NOUN	S	Number=Sing	44	obj	_	_
@@ -1009,7 +1009,7 @@
 15	just	just	ADV	B	_	16	advmod	_	_
 16	suggested	suggest	VERB	V	Tense=Past|VerbForm=Part	12	acl:relcl	_	_
 17	would	will	AUX	VM	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	20	aux	_	_
-18	be	be	VERB	V	VerbForm=Inf	20	cop	_	_
+18	be	be	AUX	VA	VerbForm=Inf	20	cop	_	_
 19	entirely	entirely	ADV	B	_	20	advmod	_	_
 20	appropriate	appropriate	ADJ	A	Degree=Pos	7	ccomp	_	SpaceAfter=No
 21	.	.	PUNCT	FS	_	7	punct	_	_
@@ -1104,7 +1104,7 @@
 2	of	of	ADP	E	_	3	case	_	_
 3	us	us	PRON	PE	Number=Plur|Person=1|PronType=Prs	1	nmod	_	_
 4	here	here	ADV	B	_	6	advmod	_	_
-5	are	be	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	6	cop	_	_
+5	are	be	AUX	VA	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	6	cop	_	_
 6	pleased	pleased	ADJ	A	Degree=Pos	0	root	_	_
 7	that	that	SCONJ	CS	_	11	mark	_	_
 8	the	the	DET	RD	Definite=Def|PronType=Art	9	det	_	_
@@ -1126,7 +1126,7 @@
 24	to	to	ADP	E	_	26	case	_	_
 25	environmental	environmental	ADJ	A	Degree=Pos	26	amod	_	_
 26	information	information	NOUN	S	Number=Sing	23	nmod	_	_
-27	is	be	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	30	cop	_	_
+27	is	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	30	cop	_	_
 28	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	30	det	_	_
 29	constitutional	constitutional	ADJ	A	Degree=Pos	30	amod	_	_
 30	right	right	ADJ	A	Degree=Pos	14	ccomp	_	SpaceAfter=No
@@ -1164,7 +1164,7 @@
 28	,	,	PUNCT	FF	_	7	punct	_	_
 29	that	that	SCONJ	CS	_	36	mark	_	_
 30	this	this	PRON	PD	Number=Sing|PronType=Dem	36	nsubj	_	_
-31	is	be	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	36	cop	_	_
+31	is	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	36	cop	_	_
 32	not	not	PART	PART	Polarity=Neg	33	advmod	_	_
 33	solely	solely	ADV	B	_	36	advmod	_	_
 34	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	36	det	_	_
@@ -1173,7 +1173,7 @@
 37	and	and	CCONJ	CC	_	41	cc	_	_
 38	that	that	SCONJ	CS	_	41	mark	_	_
 39	it	it	PRON	PE	Number=Sing|Person=3|PronType=Prs	41	expl	_	_
-40	is	be	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	41	cop	_	_
+40	is	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	41	cop	_	_
 41	wrong	wrong	ADJ	A	Degree=Pos	36	conj	_	_
 42	for	for	ADP	E	_	43	case	_	_
 43	Alexander	Alexander	PROPN	SP	_	41	obl	_	_
@@ -1231,10 +1231,10 @@
 8	can	can	AUX	VM	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	9	aux	_	_
 9	tell	tell	VERB	V	VerbForm=Inf	0	root	_	_
 10	you	you	PRON	PE	Person=2|PronType=Prs	9	iobj	_	_
-11	that	that	SCONJ	CS	_	14	mark	_	_
+11	that	that	SCONJ	CS	_	17	mark	_	_
 12	this	this	DET	DD	Number=Sing|PronType=Dem	13	det	_	_
 13	matter	matter	NOUN	S	Number=Sing	17	nsubj	_	_
-14	is	be	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	cop	_	_
+14	is	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	cop	_	_
 15	on	on	ADP	E	_	17	case	_	_
 16	the	the	DET	RD	Definite=Def|PronType=Art	17	det	_	_
 17	agenda	agenda	NOUN	S	Number=Sing	9	ccomp	_	_
@@ -1298,7 +1298,7 @@
 2	Lynne	Lynne	PROPN	SP	_	1	flat	_	SpaceAfter=No
 3	,	,	PUNCT	FF	_	1	punct	_	_
 4	you	you	PRON	PE	Person=2|PronType=Prs	7	nsubj	_	_
-5	are	be	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	7	cop	_	_
+5	are	be	AUX	VA	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	7	cop	_	_
 6	quite	quite	ADV	B	_	7	advmod	_	_
 7	right	right	ADJ	A	Degree=Pos	0	root	_	_
 8	and	and	CCONJ	CC	_	11	cc	_	_
@@ -1330,12 +1330,12 @@
 12	,	,	PUNCT	FF	_	16	punct	_	_
 13	and	and	CCONJ	CC	_	16	cc	_	_
 14	I	I	PRON	PE	Number=Sing|Person=1|PronType=Prs	16	nsubj	_	_
-15	am	be	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	16	cop	_	_
+15	am	be	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	16	cop	_	_
 16	certain	certain	ADJ	A	Degree=Pos	4	conj	_	_
 17	that	that	SCONJ	CS	_	21	mark	_	_
 18	they	they	PRON	PE	Number=Plur|Person=3|PronType=Prs	21	nsubj	_	_
 19	will	will	AUX	VM	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	21	aux	_	_
-20	be	be	VERB	V	VerbForm=Inf	21	cop	_	_
+20	be	be	AUX	VA	VerbForm=Inf	21	cop	_	_
 21	keen	keen	ADJ	A	Degree=Pos	16	ccomp	_	_
 22	to	to	ADP	E	_	23	mark	_	_
 23	ensure	ensure	VERB	V	VerbForm=Inf	21	advcl	_	_
@@ -1396,7 +1396,7 @@
 7	,	,	PUNCT	FF	_	6	punct	_	_
 8	since	since	SCONJ	CS	_	13	mark	_	_
 9	this	this	PRON	PD	Number=Sing|PronType=Dem	13	nsubj	_	_
-10	is	be	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	_
+10	is	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	_
 11	not	not	PART	PART	Polarity=Neg	13	advmod	_	_
 12	the	the	DET	RD	Definite=Def|PronType=Art	13	det	_	_
 13	case	case	NOUN	S	Number=Sing	6	advcl	_	SpaceAfter=No
@@ -1428,7 +1428,7 @@
 9	matter	matter	NOUN	S	Number=Sing	10	nsubj	_	_
 10	seems	seem	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ccomp	_	_
 11	to	to	ADP	E	_	14	mark	_	_
-12	be	be	VERB	V	VerbForm=Inf	14	cop	_	_
+12	be	be	AUX	VA	VerbForm=Inf	14	cop	_	_
 13	somewhat	somewhat	ADV	B	_	14	advmod	_	_
 14	confused	confused	ADJ	A	Degree=Pos	10	ccomp	_	SpaceAfter=No
 15	.	.	PUNCT	FS	_	2	punct	_	_
@@ -1443,7 +1443,7 @@
 6	renew	renew	VERB	V	VerbForm=Inf	3	acl	_	_
 7	the	the	DET	RD	Definite=Def|PronType=Art	8	det	_	_
 8	embargo	embargo	NOUN	S	Gender=Masc|Number=Sing	6	obj	_	_
-9	is	be	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	_
+9	is	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	_
 10	extremely	extremely	ADV	B	_	11	advmod	_	_
 11	dangerous	dangerous	ADJ	A	Degree=Pos	0	root	_	_
 12	considering	consider	VERB	V	VerbForm=Ger	11	advcl	_	_
@@ -1463,7 +1463,7 @@
 7	,	,	PUNCT	FF	_	4	punct	_	_
 8	since	since	SCONJ	CS	_	12	mark	_	_
 9	that	that	PRON	PD	Number=Sing|Person=3|PronType=Dem	12	nsubj	_	_
-10	is	be	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	_
+10	is	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	_
 11	the	the	DET	RD	Definite=Def|PronType=Art	12	det	_	_
 12	wish	wish	NOUN	S	Number=Sing	4	advcl	_	_
 13	of	of	ADP	E	_	16	case	_	_
@@ -1475,7 +1475,7 @@
 # sent_id = en_partut-ud-124
 # text = It is irresponsible of EU Member States to refuse to renew the embargo.
 1	It	it	PRON	PE	Number=Sing|Person=3|PronType=Prs	3	expl	_	_
-2	is	be	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+2	is	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
 3	irresponsible	irresponsible	ADJ	A	Degree=Pos	0	root	_	_
 4	of	of	ADP	E	_	7	case	_	_
 5	EU	EU	PROPN	SP	_	6	nmod	_	_
@@ -1507,7 +1507,7 @@
 14	the	the	DET	RD	Definite=Def|PronType=Art	16	det	_	_
 15	whole	whole	ADJ	A	Degree=Pos	16	amod	_	_
 16	legislature	legislature	NOUN	S	Number=Sing	12	nmod	_	_
-17	was	be	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	20	cop	_	_
+17	was	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	20	cop	_	_
 18	initially	initially	ADV	B	_	20	advmod	_	_
 19	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	20	det	_	_
 20	proposal	proposal	NOUN	S	Number=Sing	0	root	_	_
@@ -1595,7 +1595,7 @@
 4	President	president	NOUN	S	Number=Sing	10	nmod	_	SpaceAfter=No
 5	,	,	PUNCT	FF	_	10	punct	_	_
 6	it	it	PRON	PE	Number=Sing|Person=3|PronType=Prs	10	nsubj	_	_
-7	is	be	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
+7	is	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
 8	in	in	ADP	E	_	10	case	_	_
 9	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	10	det	_	_
 10	position	position	NOUN	S	Number=Sing	0	root	_	_
@@ -1639,7 +1639,7 @@
 31	if	if	SCONJ	CS	_	35	mark	_	_
 32	the	the	DET	RD	Definite=Def|PronType=Art	33	det	_	_
 33	Commission	commission	NOUN	S	Number=Sing	35	nsubj	_	_
-34	is	be	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	35	cop	_	_
+34	is	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	35	cop	_	_
 35	ready	ready	ADJ	A	Degree=Pos	42	advcl	_	_
 36	to	to	ADP	E	_	37	mark	_	_
 37	do	do	VERB	V	VerbForm=Inf	35	advcl	_	_
@@ -1773,7 +1773,7 @@
 # text = My vote was "in favour".
 1	My	my	DET	AP	Number=Sing|Poss=Yes|PronType=Prs	2	nmod:poss	_	_
 2	vote	vote	NOUN	S	Number=Sing	6	nsubj	_	_
-3	was	be	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	cop	_	_
+3	was	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	cop	_	_
 4	"	"	PUNCT	FB	_	6	punct	_	SpaceAfter=No
 5	in	in	ADP	E	_	6	case	_	_
 6	favour	favour	NOUN	S	Number=Sing	0	root	_	SpaceAfter=No
@@ -1827,7 +1827,7 @@
 # sent_id = en_partut-ud-157
 # text = This is an important matter.
 1	This	this	PRON	PD	Number=Sing|PronType=Dem	5	nsubj	_	_
-2	is	be	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+2	is	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
 3	an	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	5	det	_	_
 4	important	important	ADJ	A	Degree=Pos	5	amod	_	_
 5	matter	matter	NOUN	S	Number=Sing	0	root	_	SpaceAfter=No
@@ -1918,7 +1918,7 @@
 6	,	,	PUNCT	FF	_	1	punct	_	_
 7	would	will	AUX	VM	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	10	aux	_	_
 8	this	this	PRON	PD	Number=Sing|PronType=Dem	10	nsubj	_	_
-9	be	be	VERB	V	VerbForm=Inf	10	cop	_	_
+9	be	be	AUX	VA	VerbForm=Inf	10	cop	_	_
 10	acceptable	acceptable	ADJ	A	Degree=Pos	0	root	_	_
 11	to	to	ADP	E	_	12	case	_	_
 12	you	you	PRON	PE	Person=2|PronType=Prs	10	obl	_	SpaceAfter=No
@@ -1929,7 +1929,7 @@
 1	If	if	SCONJ	CS	_	3	mark	_	_
 2	your	you	DET	AP	Poss=Yes|PronType=Prs	3	nmod:poss	_	_
 3	ruling	ruling	NOUN	S	Number=Sing	16	advcl	_	_
-4	is	be	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+4	is	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
 5	that	that	SCONJ	CS	_	9	mark	_	_
 6	I	I	PRON	PE	Number=Sing|Person=1|PronType=Prs	9	nsubj	_	_
 7-8	cannot	_	_	_	_	_	_	_	_
@@ -2183,7 +2183,7 @@
 25	safety	safety	NOUN	S	Number=Sing	29	nsubj	_	_
 26	in	in	ADP	E	_	27	case	_	_
 27	Europe	Europe	PROPN	SP	_	24	nmod	_	_
-28	is	be	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	29	cop	_	_
+28	is	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	29	cop	_	_
 29	concerned	concerned	ADJ	A	Degree=Pos	32	advcl	_	SpaceAfter=No
 30	,	,	PUNCT	FF	_	29	punct	_	_
 31	there	there	ADV	B	_	29	expl	_	_
@@ -2202,7 +2202,7 @@
 2	safety	safety	NOUN	S	Number=Sing	8	nsubj	_	_
 3	has	have	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	_
 4	sadly	sadly	ADV	B	_	8	advmod	_	_
-5	been	be	VERB	V	Tense=Past|VerbForm=Part	8	cop	_	_
+5	been	be	AUX	VA	Tense=Past|VerbForm=Part	8	cop	_	_
 6	in	in	ADP	E	_	8	case	_	_
 7	the	the	DET	RD	Definite=Def|PronType=Art	8	det	_	_
 8	news	news	NOUN	S	Number=Sing	0	root	_	_
@@ -2401,7 +2401,7 @@
 7	where	where	ADV	B	_	11	advmod	_	_
 8	safety	safety	NOUN	S	Number=Sing	9	nmod	_	_
 9	advisers	adviser	NOUN	S	Number=Plur	11	nsubj	_	_
-10	are	be	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	11	cop	_	_
+10	are	be	AUX	VA	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	11	cop	_	_
 11	concerned	concerned	ADJ	A	Degree=Pos	6	acl:relcl	_	SpaceAfter=No
 12	,	,	PUNCT	FF	_	3	punct	_	_
 13	in	in	ADP	E	_	15	case	_	_
@@ -2410,7 +2410,7 @@
 16	of	of	ADP	E	_	17	case	_	_
 17	countries	country	NOUN	S	Number=Plur	15	nmod	_	_
 18	it	it	PRON	PE	Number=Sing|Person=3|PronType=Prs	20	expl	_	_
-19	is	be	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	cop	_	_
+19	is	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	cop	_	_
 20	compulsory	compulsory	ADJ	A	Degree=Pos	0	root	_	_
 21	to	to	ADP	E	_	22	mark	_	_
 22	employ	employ	VERB	V	VerbForm=Inf	20	csubj	_	_
@@ -2657,7 +2657,7 @@
 19	though	though	SCONJ	CS	_	20	mark	_	_
 20	technical	technical	ADJ	A	Degree=Pos	27	acl	_	SpaceAfter=No
 21	,	,	PUNCT	FF	_	20	punct	_	_
-22	are	be	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	27	cop	_	_
+22	are	be	AUX	VA	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	27	cop	_	_
 23	nonetheless	nonetheless	ADV	B	_	27	advmod	_	_
 24	of	of	ADP	E	_	27	case	_	_
 25	very	very	ADV	B	_	26	advmod	_	_
@@ -2700,7 +2700,7 @@
 29	this	this	DET	DD	Number=Sing|PronType=Dem	31	det	_	_
 30	time	time	NOUN	S	Number=Sing	31	nmod	_	_
 31	lag	lag	NOUN	S	Number=Sing	36	nsubj	_	_
-32	is	be	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	36	cop	_	_
+32	is	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	36	cop	_	_
 33	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	34	det	_	_
 34	little	little	ADV	B	_	35	advmod	_	_
 35	too	too	ADV	B	_	36	advmod	_	_
@@ -2710,7 +2710,7 @@
 # sent_id = en_partut-ud-218
 # text = This is not just the fault of the Commission, but I believe that we need to take action more quickly so as to achieve harmonisation in this area as well.
 1	This	this	PRON	PD	Number=Sing|PronType=Dem	6	nsubj	_	_
-2	is	be	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+2	is	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
 3	not	not	PART	PART	Polarity=Neg	4	advmod	_	_
 4	just	just	ADV	B	_	6	advmod	_	_
 5	the	the	DET	RD	Definite=Def|PronType=Art	6	det	_	_
@@ -2753,7 +2753,7 @@
 7	safety	safety	NOUN	S	Number=Sing	5	obl	_	SpaceAfter=No
 8	,	,	PUNCT	FF	_	5	punct	_	_
 9	I	I	PRON	PE	Number=Sing|Person=1|PronType=Prs	5	xcomp	_	_
-10	am	be	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	12	cop	_	_
+10	am	be	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	12	cop	_	_
 11	rather	rather	ADV	B	_	12	advmod	_	_
 12	sceptical	sceptical	ADJ	A	Degree=Pos	0	root	_	_
 13	because	because	SCONJ	CS	_	25	mark	_	_
@@ -2764,7 +2764,7 @@
 18	for	for	ADP	E	_	19	case	_	_
 19	example	example	NOUN	S	Number=Sing	16	nmod	_	SpaceAfter=No
 20	,	,	PUNCT	FF	_	19	punct	_	_
-21	is	be	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	25	cop	_	_
+21	is	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	25	cop	_	_
 22	in	in	ADP	E	_	23	case	_	_
 23	principle	principle	NOUN	S	Number=Sing	25	obl	_	_
 24	no	no	ADV	BN	PronType=Neg	25	advmod	_	_
@@ -2872,7 +2872,7 @@
 2	understand	understand	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	that	that	SCONJ	CS	_	6	mark	_	_
 4	it	it	PRON	PE	Number=Sing|Person=3|PronType=Prs	6	expl	_	_
-5	is	be	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+5	is	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
 6	important	important	ADJ	A	Degree=Pos	2	ccomp	_	_
 7	that	that	SCONJ	CS	_	16	mark	_	_
 8	the	the	DET	RD	Definite=Def|PronType=Art	10	det	_	_
@@ -2906,7 +2906,7 @@
 36	transport	transport	NOUN	S	Number=Sing	37	nmod	_	_
 37	group	group	NOUN	S	Number=Sing	27	conj	_	SpaceAfter=No
 38	,	,	PUNCT	FF	_	37	punct	_	_
-39	is	be	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	40	cop	_	_
+39	is	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	40	cop	_	_
 40	magnificent	magnificent	ADJ	A	Degree=Pos	16	conj	_	SpaceAfter=No
 41	.	.	PUNCT	FS	_	2	punct	_	_
 
@@ -2951,7 +2951,7 @@
 37	date	date	NOUN	S	Number=Sing	33	nmod	_	SpaceAfter=No
 38	,	,	PUNCT	FF	_	37	punct	_	_
 39	which	which	PRON	PR	PronType=Rel	43	nsubj	_	_
-40	is	be	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	43	cop	_	_
+40	is	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	43	cop	_	_
 41	much	much	ADV	B	_	42	advmod	_	_
 42	more	more	ADV	B	Degree=Cmp	43	advmod	_	_
 43	realistic	realistic	ADJ	A	Degree=Pos	37	acl:relcl	_	_
@@ -3011,7 +3011,7 @@
 6	say	say	VERB	V	VerbForm=Inf	4	xcomp	_	_
 7	that	that	SCONJ	CS	_	12	mark	_	_
 8	safety	safety	NOUN	S	Number=Sing	12	nsubj	_	_
-9	is	be	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	_
+9	is	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	_
 10	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	12	det	_	_
 11	priority	priority	NOUN	S	Number=Sing	12	nmod	_	_
 12	objective	objective	NOUN	S	Number=Sing	6	ccomp	_	_
@@ -3109,7 +3109,7 @@
 # text = The debate is closed.
 1	The	the	DET	RD	Definite=Def|PronType=Art	2	det	_	_
 2	debate	debate	NOUN	S	Number=Sing	4	nsubj	_	_
-3	is	be	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	is	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
 4	closed	closed	ADJ	A	Degree=Pos	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	FS	_	4	punct	_	_
 
@@ -3176,7 +3176,7 @@
 3	realise	realize	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	that	that	SCONJ	CS	_	10	mark	_	_
 5	this	this	PRON	PD	Number=Sing|PronType=Dem	10	nsubj	_	_
-6	is	be	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
+6	is	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
 7	only	only	ADV	B	_	10	advmod	_	_
 8	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	10	det	_	_
 9	small	small	ADJ	A	Degree=Pos	10	amod	_	_
@@ -3236,7 +3236,7 @@
 8	C	Celsius	PROPN	SP	_	7	nmod	_	_
 9	would	will	AUX	VM	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	12	aux	_	_
 10	have	have	AUX	VA	VerbForm=Inf	12	aux	_	_
-11	been	be	VERB	V	Tense=Past|VerbForm=Part	12	cop	_	_
+11	been	be	AUX	VA	Tense=Past|VerbForm=Part	12	cop	_	_
 12	sufficient	sufficient	ADJ	A	Degree=Pos	0	root	_	SpaceAfter=No
 13	.	.	PUNCT	FS	_	12	punct	_	_
 
@@ -3293,10 +3293,10 @@
 12	of	of	ADP	E	_	13	case	_	_
 13	Europe	Europe	PROPN	SP	_	11	nmod	_	_
 14	must	must	AUX	VM	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	16	aux	_	_
-15	be	be	VERB	V	VerbForm=Inf	16	cop	_	_
+15	be	be	AUX	VA	VerbForm=Inf	16	cop	_	_
 16	able	able	ADJ	A	Degree=Pos	8	ccomp	_	_
 17	to	to	ADP	E	_	19	mark	_	_
-18	be	be	VERB	V	VerbForm=Inf	19	cop	_	_
+18	be	be	AUX	VA	VerbForm=Inf	19	cop	_	_
 19	confident	confident	ADJ	A	Degree=Pos	16	xcomp	_	_
 20	that	that	SCONJ	CS	_	44	mark	_	_
 21	the	the	DET	RD	Definite=Def|PronType=Art	22	det	_	_
@@ -3305,7 +3305,7 @@
 24	however	however	ADV	B	_	25	advmod	_	_
 25	dangerous	dangerous	ADJ	A	Degree=Pos	22	acl	_	_
 26	they	they	PRON	PE	Number=Plur|Person=3|PronType=Prs	25	nsubj	_	_
-27	are	be	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	25	cop	_	_
+27	are	be	AUX	VA	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	25	cop	_	_
 28	-	-	PUNCT	FF	_	22	punct	_	_
 29	which	which	PRON	PR	PronType=Rel	31	nsubj:pass	_	_
 30	are	be	AUX	VA	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	31	aux:pass	_	_
@@ -3320,7 +3320,7 @@
 39	and	and	CCONJ	CC	_	35	cc	_	_
 40	so	so	ADV	B	_	41	advmod	_	_
 41	on	on	ADV	B	_	35	advmod	_	_
-42	are	be	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	44	cop	_	_
+42	are	be	AUX	VA	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	44	cop	_	_
 43	as	as	ADV	B	_	44	advmod	_	_
 44	safe	safe	ADJ	A	Degree=Pos	19	advcl	_	_
 45	as	as	ADP	E	_	46	case	_	_
@@ -3330,7 +3330,7 @@
 # sent_id = en_partut-ud-282
 # text = This is also important where the prerequisites for the internal market are concerned.
 1	This	this	PRON	PD	Number=Sing|PronType=Dem	4	nsubj	_	_
-2	is	be	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+2	is	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
 3	also	also	ADV	B	_	4	advmod	_	_
 4	important	important	ADJ	A	Degree=Pos	0	root	_	_
 5	where	where	SCONJ	CS	_	13	mark	_	_
@@ -3340,7 +3340,7 @@
 9	the	the	DET	RD	Definite=Def|PronType=Art	11	det	_	_
 10	internal	internal	ADJ	A	Degree=Pos	11	amod	_	_
 11	market	market	NOUN	S	Number=Sing	7	nmod	_	_
-12	are	be	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	13	cop	_	_
+12	are	be	AUX	VA	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	13	cop	_	_
 13	concerned	concerned	ADJ	A	Degree=Pos	4	advcl	_	SpaceAfter=No
 14	.	.	PUNCT	FS	_	4	punct	_	_
 
@@ -3361,7 +3361,7 @@
 13	running	running	VERB	V	Number=Sing|Tense=Pres|VerbForm=Part	11	conj	_	SpaceAfter=No
 14	,	,	PUNCT	FF	_	3	punct	_	_
 15	it	it	PRON	PE	Number=Sing|Person=3|PronType=Prs	17	expl	_	_
-16	is	be	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	cop	_	_
+16	is	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	cop	_	_
 17	important	important	ADJ	A	Degree=Pos	0	root	_	_
 18	that	that	SCONJ	CS	_	23	mark	_	_
 19	we	we	PRON	PE	Number=Plur|Person=1|PronType=Prs	23	nsubj	_	_
@@ -3395,7 +3395,7 @@
 3	that	that	SCONJ	CS	_	7	mark	_	_
 4	the	the	DET	RD	Definite=Def|PronType=Art	5	det	_	_
 5	Commission	commission	NOUN	S	Number=Sing	7	nsubj	_	_
-6	is	be	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+6	is	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
 7	able	able	ADJ	A	Degree=Pos	2	ccomp	_	_
 8	to	to	ADP	E	_	9	mark	_	_
 9	accept	accept	VERB	V	VerbForm=Inf	7	xcomp	_	_
@@ -3626,7 +3626,7 @@
 # sent_id = en_partut-ud-311
 # text = We are dissatisfied with the fact that those figures seem to have been in some way hidden within UK figures.
 1	We	we	PRON	PE	Number=Plur|Person=1|PronType=Prs	3	nsubj	_	_
-2	are	be	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	3	cop	_	_
+2	are	be	AUX	VA	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	3	cop	_	_
 3	dissatisfied	dissatisfied	ADJ	A	Degree=Pos	0	root	_	_
 4	with	with	ADP	E	_	6	case	_	_
 5	the	the	DET	RD	Definite=Def|PronType=Art	6	det	_	_
@@ -3659,7 +3659,7 @@
 8	ensure	ensure	VERB	V	VerbForm=Inf	2	advcl	_	_
 9	that	that	SCONJ	CS	_	11	mark	_	_
 10	there	there	ADV	B	_	11	expl	_	_
-11	is	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	ccomp	_	_
+11	is	be	VERB	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	ccomp	_	_
 12	matched	match	VERB	V	Tense=Past|VerbForm=Part	13	acl	_	_
 13	funding	funding	NOUN	S	Number=Sing	11	nsubj	_	_
 14	for	for	ADP	E	_	15	case	_	_
@@ -3686,7 +3686,7 @@
 16	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	17	det	_	_
 17	way	way	NOUN	S	Number=Sing	14	obl	_	_
 18	which	which	PRON	PR	PronType=Rel	20	nsubj	_	_
-19	is	be	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	cop	_	_
+19	is	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	cop	_	_
 20	transparent	transparent	ADJ	A	Degree=Pos	17	acl:relcl	_	SpaceAfter=No
 21	.	.	PUNCT	FS	_	4	punct	_	_
 
@@ -3701,7 +3701,7 @@
 7	within	within	ADP	E	_	9	case	_	_
 8	this	this	DET	DD	Number=Sing|PronType=Dem	9	det	_	_
 9	Parliament	parliament	NOUN	S	Number=Sing	5	obl	_	_
-10	is	be	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	_
+10	is	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	_
 11	not	not	PART	PART	Polarity=Neg	12	advmod	_	_
 12	transparent	transparent	ADJ	A	Degree=Pos	0	root	_	SpaceAfter=No
 13	.	.	PUNCT	FS	_	12	punct	_	_
@@ -4091,7 +4091,7 @@
 23	,	,	PUNCT	FF	_	22	punct	_	_
 24	which	which	PRON	PR	PronType=Rel	27	nsubj	_	_
 25	furthermore	furthermore	ADV	B	_	27	advmod	_	_
-26	is	be	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	27	cop	_	_
+26	is	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	27	cop	_	_
 27	seasonal	seasonal	ADJ	A	Degree=Pos	22	acl:relcl	_	_
 28	and	and	CCONJ	CC	_	29	cc	_	_
 29	lacks	lack	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	27	conj	_	_
@@ -4115,12 +4115,12 @@
 6	role	role	NOUN	S	Number=Sing	11	nsubj	_	_
 7	of	of	ADP	E	_	8	case	_	_
 8	agriculture	agriculture	NOUN	S	Number=Sing	6	nmod	_	_
-9	is	be	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	_
+9	is	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	_
 10	not	not	PART	PART	Polarity=Neg	11	advmod	_	_
 11	exclusive	exclusive	ADJ	A	Degree=Pos	16	advcl	_	SpaceAfter=No
 12	,	,	PUNCT	FF	_	11	punct	_	_
 13	it	it	PRON	PE	Number=Sing|Person=3|PronType=Prs	16	nsubj	_	_
-14	is	be	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	cop	_	_
+14	is	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	cop	_	_
 15	still	still	ADV	B	_	16	advmod	_	_
 16	essential	essential	ADJ	A	Degree=Pos	0	root	_	SpaceAfter=No
 17	,	,	PUNCT	FF	_	16	punct	_	_
@@ -4204,7 +4204,7 @@
 38	rural	rural	ADJ	A	Degree=Pos	39	amod	_	_
 39	areas	area	NOUN	S	Number=Plur	34	obl	_	_
 40	must	must	AUX	VM	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	42	aux	_	_
-41	be	be	VERB	V	VerbForm=Inf	42	cop	_	_
+41	be	be	AUX	VA	VerbForm=Inf	42	cop	_	_
 42	one	one	NUM	N	NumType=Card	26	ccomp	_	_
 43	of	of	ADP	E	_	46	case	_	_
 44	the	the	DET	RD	Definite=Def|PronType=Art	46	det	_	_
@@ -4220,7 +4220,7 @@
 4	the	the	DET	RD	Definite=Def|PronType=Art	5	det	_	_
 5	matter	matter	NOUN	S	Number=Sing	2	nmod	_	_
 6	though	though	ADV	B	_	2	advmod	_	_
-7	is	be	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
+7	is	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
 8	that	that	SCONJ	CS	_	10	mark	_	_
 9	we	we	PRON	PE	Number=Plur|Person=1|PronType=Prs	10	nsubj	_	_
 10	believe	believe	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	2	csubj	_	_
@@ -4326,7 +4326,7 @@
 56	of	of	ADP	E	_	57	case	_	_
 57	jobs	job	NOUN	S	Number=Plur	55	nmod	_	_
 58	which	which	PRON	PR	PronType=Rel	71	nsubj	_	_
-59	are	be	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	71	cop	_	SpaceAfter=No
+59	are	be	AUX	VA	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	71	cop	_	SpaceAfter=No
 60	,	,	PUNCT	FF	_	59	punct	_	_
 61	when	when	SCONJ	CS	_	64	mark	_	_
 62	all	all	PRON	PI	PronType=Ind	64	nsubj:pass	_	_
@@ -4453,7 +4453,7 @@
 2	President	president	NOUN	S	Number=Sing	1	compound	_	SpaceAfter=No
 3	,	,	PUNCT	FF	_	1	punct	_	_
 4	it	it	PRON	PE	Number=Sing|Person=3|PronType=Prs	6	expl	_	_
-5	is	be	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+5	is	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
 6	incumbent	incumbent	ADJ	A	Degree=Pos	0	root	_	_
 7	upon	upon	ADP	E	_	8	case	_	_
 8	me	i	PRON	PE	Number=Sing|Person=1|PronType=Prs	6	obl	_	_
@@ -4491,7 +4491,7 @@
 12	Mr	mister	NOUN	S	Gender=Masc|Number=Sing	10	appos	_	_
 13	Hague	Hague	PROPN	SP	_	12	flat	_	SpaceAfter=No
 14	,	,	PUNCT	FF	_	10	punct	_	_
-15	was	be	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	16	cop	_	_
+15	was	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	16	cop	_	_
 16	Secretary	secretary	NOUN	S	Number=Sing	23	advcl	_	_
 17	of	of	ADP	E	_	18	case	_	_
 18	State	state	NOUN	S	Number=Sing	16	nmod	_	_
@@ -4533,7 +4533,7 @@
 6	the	the	DET	RD	Definite=Def|PronType=Art	8	det	_	_
 7	British	British	ADJ	A	Degree=Pos	8	amod	_	_
 8	Government	government	NOUN	S	Number=Sing	10	nsubj	_	_
-9	is	be	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
+9	is	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
 10	aware	aware	ADJ	A	Degree=Pos	3	ccomp	_	_
 11	of	of	ADP	E	_	14	case	_	_
 12	its	its	DET	AP	Number=Sing|Poss=Yes|PronType=Prs	14	nmod:poss	_	_
@@ -4567,7 +4567,7 @@
 1	They	they	PRON	PE	Number=Plur|Person=3|PronType=Prs	6	nsubj	_	_
 2	should	shall	AUX	VM	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	6	aux	_	_
 3	not	not	PART	PART	Polarity=Neg	6	advmod	_	_
-4	be	be	VERB	V	VerbForm=Inf	6	cop	_	_
+4	be	be	AUX	VA	VerbForm=Inf	6	cop	_	_
 5	about	about	ADP	E	_	6	mark	_	_
 6	creating	create	VERB	V	VerbForm=Ger	0	root	_	_
 7	additional	additional	ADJ	A	Degree=Pos	8	amod	_	_
@@ -4655,7 +4655,7 @@
 10	for	for	ADP	E	_	11	case	_	_
 11	guidelines	guideline	NOUN	S	Number=Plur	7	obl	_	_
 12	to	to	ADP	E	_	14	mark	_	_
-13	be	be	VERB	V	VerbForm=Inf	14	cop	_	_
+13	be	be	AUX	VA	VerbForm=Inf	14	cop	_	_
 14	broad	broad	ADJ	A	Degree=Pos	7	advcl	_	SpaceAfter=No
 15	,	,	PUNCT	FF	_	16	punct	_	_
 16	indicative	indicative	ADJ	A	Degree=Pos	14	conj	_	_
@@ -4811,7 +4811,7 @@
 37	,	,	PUNCT	FF	_	26	punct	_	_
 38	has	have	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	41	aux	_	_
 39	not	not	PART	PART	Polarity=Neg	38	advmod	_	_
-40	been	be	VERB	V	Tense=Past|VerbForm=Part	41	cop	_	_
+40	been	be	AUX	VA	Tense=Past|VerbForm=Part	41	cop	_	_
 41	able	able	ADJ	A	Degree=Pos	0	root	_	_
 42	to	to	ADP	E	_	43	mark	_	_
 43	reach	reach	VERB	V	VerbForm=Inf	41	xcomp	_	_
@@ -4962,7 +4962,7 @@
 19	regional	regional	ADJ	A	Degree=Pos	20	amod	_	_
 20	societies	society	NOUN	S	Number=Plur	17	nmod	_	_
 21	that	that	PRON	PR	PronType=Rel	26	nsubj	_	_
-22	are	be	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	26	cop	_	_
+22	are	be	AUX	VA	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	26	cop	_	_
 23	in	in	ADP	E	_	26	case	_	_
 24	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	26	det	_	_
 25	worse	worse	ADJ	A	Degree=Cmp	26	amod	_	_
@@ -4998,7 +4998,7 @@
 # sent_id = en_partut-ud-405
 # text = This is what we are today asking the Commissioner for.
 1	This	this	PRON	PD	Number=Sing|PronType=Dem	3	nsubj	_	_
-2	is	be	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+2	is	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
 3	what	what	PRON	PR	Number=Sing|PronType=Rel	0	root	_	_
 4	we	we	PRON	PE	Number=Plur|Person=1|PronType=Prs	7	nsubj	_	_
 5	are	be	AUX	VA	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	7	aux	_	_
@@ -5187,7 +5187,7 @@
 # sent_id = en_partut-ud-417
 # text = They are particularly beneficial to the Member States, and I would particularly like to draw your attention to the emphasis the Commission has placed on the issues of sustainable development, job creation and, more particularly, on equal opportunities and transport issues.
 1	They	they	PRON	PE	Number=Plur|Person=3|PronType=Prs	4	nsubj	_	_
-2	are	be	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	4	cop	_	_
+2	are	be	AUX	VA	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	4	cop	_	_
 3	particularly	particularly	ADV	B	_	4	advmod	_	_
 4	beneficial	beneficial	ADJ	A	Degree=Pos	0	root	_	_
 5	to	to	ADP	E	_	8	case	_	_
@@ -5269,7 +5269,7 @@
 # sent_id = en_partut-ud-425
 # text = I am absolutely certain that this code will be observed and that Parliament will keep abreast of all the developments and details concerning the implementation of the programmes.
 1	I	I	PRON	PE	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
-2	am	be	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	cop	_	_
+2	am	be	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	cop	_	_
 3	absolutely	absolutely	ADV	B	_	4	advmod	_	_
 4	certain	certain	ADJ	A	Degree=Pos	0	root	_	_
 5	that	that	SCONJ	CS	_	10	mark	_	_
@@ -5316,7 +5316,7 @@
 14	our	us	DET	AP	Poss=Yes|PronType=Prs	15	nmod:poss	_	_
 15	praise	praise	NOUN	S	Number=Sing	13	obj	_	_
 16	for	for	ADP	E	_	19	mark	_	_
-17	being	be	VERB	V	VerbForm=Ger	19	cop	_	_
+17	being	be	AUX	VA	VerbForm=Ger	19	cop	_	_
 18	particularly	particularly	ADV	B	_	19	advmod	_	_
 19	open	open	ADJ	A	Degree=Pos	13	advcl	_	_
 20	and	and	CCONJ	CC	_	21	cc	_	_
@@ -5331,7 +5331,7 @@
 29	I	I	PRON	PE	Number=Sing|Person=1|PronType=Prs	30	nsubj	_	_
 30	think	think	NOUN	S	Number=Sing	26	conj	_	_
 31	it	it	PRON	PE	Number=Sing|Person=3|PronType=Prs	34	nsubj	_	_
-32	is	be	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	34	cop	_	_
+32	is	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	34	cop	_	_
 33	this	this	DET	DD	Number=Sing|PronType=Dem	34	det	_	_
 34	openness	openness	NOUN	S	Number=Sing	30	ccomp	_	_
 35	which	which	PRON	PR	PronType=Rel	37	nsubj	_	_
@@ -5381,7 +5381,7 @@
 31	with	with	ADP	E	_	33	case	_	_
 32	the	the	DET	RD	Definite=Def|PronType=Art	33	det	_	_
 33	states	state	NOUN	S	Number=Plur	30	nmod	_	_
-34	is	be	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	37	cop	_	_
+34	is	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	37	cop	_	_
 35	so	so	ADV	B	_	37	advmod	_	_
 36	far	far	ADV	B	_	35	fixed	_	_
 37	advanced	advanced	ADJ	A	Degree=Pos	13	advcl	_	_
@@ -5404,7 +5404,7 @@
 53	in	in	ADP	E	_	55	case	_	_
 54	my	my	DET	AP	Number=Sing|Poss=Yes|PronType=Prs	55	nmod:poss	_	_
 55	view	view	NOUN	S	Number=Sing	58	nmod	_	_
-56	is	be	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	58	cop	_	_
+56	is	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	58	cop	_	_
 57	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	58	det	_	_
 58	pity	pity	NOUN	S	Number=Sing	42	advcl	_	SpaceAfter=No
 59	.	.	PUNCT	FS	_	2	punct	_	_
@@ -5414,7 +5414,7 @@
 1	The	the	DET	RD	Definite=Def|PronType=Art	3	det	_	_
 2	second	second	ADJ	NO	Degree=Pos|NumType=Ord	3	amod	_	_
 3	challenge	challenge	NOUN	S	Number=Sing	5	nsubj	_	_
-4	is	be	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	is	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
 5	that	that	PRON	PD	Number=Sing|PronType=Dem	0	root	_	_
 6	of	of	ADP	E	_	7	case	_	_
 7	enlargement	enlargement	NOUN	S	Number=Sing	5	nmod	_	_
@@ -5469,7 +5469,7 @@
 1	Europe	Europe	PROPN	SP	_	6	nsubj	_	_
 2	should	shall	AUX	VM	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	6	aux	_	_
 3	not	not	PART	PART	Polarity=Neg	6	advmod	_	_
-4	be	be	VERB	V	VerbForm=Inf	6	cop	_	_
+4	be	be	AUX	VA	VerbForm=Inf	6	cop	_	_
 5	completely	completely	ADV	B	_	6	advmod	_	_
 6	absent	absent	ADJ	A	Degree=Pos	0	root	_	SpaceAfter=No
 7	,	,	PUNCT	FF	_	6	punct	_	_
@@ -5487,7 +5487,7 @@
 2	think	think	NOUN	S	Number=Sing	0	root	_	_
 3	we	we	PRON	PE	Number=Plur|Person=1|PronType=Prs	6	nsubj	_	_
 4	should	shall	AUX	VM	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	6	aux	_	_
-5	be	be	VERB	V	VerbForm=Inf	6	cop	_	_
+5	be	be	AUX	VA	VerbForm=Inf	6	cop	_	_
 6	capable	capable	ADJ	A	Degree=Pos	2	ccomp	_	_
 7	of	of	ADP	E	_	8	mark	_	_
 8	saying	say	VERB	V	VerbForm=Ger	6	advcl	_	_
@@ -5597,7 +5597,7 @@
 1	For	for	ADP	E	_	2	case	_	_
 2	this	this	PRON	PD	Number=Sing|PronType=Dem	7	nmod	_	_
 3	to	to	ADP	E	_	5	mark	_	_
-4	be	be	VERB	V	VerbForm=Inf	5	cop	_	_
+4	be	be	AUX	VA	VerbForm=Inf	5	cop	_	_
 5	possible	possible	ADJ	A	Degree=Pos	2	acl	_	SpaceAfter=No
 6	,	,	PUNCT	FF	_	2	punct	_	_
 7	what	what	PRON	PR	Number=Sing|PronType=Rel	0	root	_	_
@@ -5607,7 +5607,7 @@
 11	the	the	DET	RD	Definite=Def|PronType=Art	13	det	_	_
 12	European	European	NOUN	S	_	13	nmod	_	_
 13	Commission	commission	NOUN	S	Number=Sing	9	obl	_	_
-14	are	be	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	7	cop	_	_
+14	are	be	AUX	VA	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	7	cop	_	_
 15	not	not	PART	PART	Polarity=Neg	16	advmod	_	_
 16	just	just	ADV	B	_	17	advmod	_	_
 17	good	good	ADJ	A	Degree=Pos	18	amod	_	_
@@ -5688,7 +5688,7 @@
 
 # sent_id = en_partut-ud-462
 # text = Is it true that Facebook is going to charge to use the site?
-1	Is	be	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+1	Is	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
 2	it	it	PRON	PE	Number=Sing|Person=3|PronType=Prs	3	expl	_	_
 3	true	true	ADV	B	_	0	root	_	_
 4	that	that	SCONJ	CS	_	7	mark	_	_
@@ -5706,7 +5706,7 @@
 # sent_id = en_partut-ud-463
 # text = Facebook is a free site and will never require that you pay to continue using the site.
 1	Facebook	Facebook	PROPN	SP	_	5	nsubj	_	_
-2	is	be	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+2	is	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
 3	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	5	det	_	_
 4	free	free	ADJ	A	Number=Sing	5	amod	_	_
 5	site	site	NOUN	S	Number=Sing	0	root	_	_
@@ -5777,7 +5777,7 @@
 17	that	that	SCONJ	CS	_	21	mark	_	_
 18	you	you	PRON	PE	Person=2|PronType=Prs	21	nsubj	_	_
 19	will	will	AUX	VM	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	21	aux	_	_
-20	be	be	VERB	V	VerbForm=Inf	21	cop	_	_
+20	be	be	AUX	VA	VerbForm=Inf	21	cop	_	_
 21	responsible	responsible	ADJ	A	Degree=Pos	16	ccomp	_	_
 22	for	for	ADP	E	_	24	case	_	_
 23	any	any	DET	DI	PronType=Ind	24	det	_	_
@@ -5803,7 +5803,7 @@
 # sent_id = en_partut-ud-466
 # text = What is the minimum age required to sign up for Facebook?
 1	What	what	PRON	PQ	PronType=Int	0	root	_	_
-2	is	be	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	cop	_	_
+2	is	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	cop	_	_
 3	the	the	DET	RD	Definite=Def|PronType=Art	5	det	_	_
 4	minimum	minimum	ADJ	A	Degree=Pos	5	amod	_	_
 5	age	age	NOUN	S	Number=Sing	1	nsubj	_	_
@@ -5977,7 +5977,7 @@
 5	you	you	PRON	PE	Person=2|PronType=Prs	4	nsubj	_	_
 6	select	select	VERB	V	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	4	acl:relcl	_	_
 7	should	shall	AUX	VM	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	9	aux	_	_
-8	be	be	VERB	V	VerbForm=Inf	9	cop	_	_
+8	be	be	AUX	VA	VerbForm=Inf	9	cop	_	_
 9	easy	easy	ADJ	A	Degree=Pos	0	root	_	_
 10	for	for	ADP	E	_	11	case	_	_
 11	you	you	PRON	PE	Person=2|PronType=Prs	9	obl	_	_
@@ -6004,7 +6004,7 @@
 7	password	password	NOUN	S	Number=Sing	11	nsubj	_	_
 8	should	shall	AUX	VM	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	11	aux	_	_
 9	also	also	ADV	B	_	11	advmod	_	_
-10	be	be	VERB	V	VerbForm=Inf	11	cop	_	_
+10	be	be	AUX	VA	VerbForm=Inf	11	cop	_	_
 11	different	different	ADJ	A	Degree=Pos	0	root	_	_
 12	than	than	ADP	E	_	14	case	_	_
 13	other	other	ADJ	A	Degree=Pos	14	amod	_	_
@@ -6023,7 +6023,7 @@
 2	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	4	det	_	_
 3	security	security	NOUN	S	Number=Sing	4	nmod	_	_
 4	question	question	NOUN	S	Number=Sing	1	obj	_	_
-5	is	be	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+5	is	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
 6	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	8	det	_	_
 7	useful	useful	ADJ	A	Degree=Pos	8	amod	_	_
 8	way	way	NOUN	S	Number=Sing	0	root	_	_
@@ -6151,7 +6151,7 @@
 3	daily	daily	ADJ	A	Degree=Pos	4	amod	_	_
 4	budget	budget	NOUN	S	Number=Sing	1	obj	_	_
 5	you	you	PRON	PE	Person=2|PronType=Prs	7	nsubj	_	_
-6	are	be	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	7	cop	_	_
+6	are	be	AUX	VA	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	7	cop	_	_
 7	comfortable	comfortable	ADJ	A	Degree=Pos	4	acl:relcl	_	_
 8	with	with	ADP	E	_	7	obl	_	SpaceAfter=No
 9	.	.	PUNCT	FS	_	1	punct	_	_
@@ -6235,7 +6235,7 @@
 6	Facebook	Facebook	PROPN	SP	_	8	nmod	_	_
 7	advert	advert	NOUN	S	Number=Sing	8	nmod	_	_
 8	campaign	campaign	NOUN	S	Number=Sing	2	nmod	_	_
-9	were	be	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin	10	cop	_	_
+9	were	be	AUX	VA	Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin	10	cop	_	_
 10	one	one	NUM	N	NumType=Card	0	root	_	_
 11	of	of	ADP	E	_	17	case	_	_
 12	their	their	DET	AP	Poss=Yes|PronType=Prs	17	nmod:poss	_	_
@@ -6344,14 +6344,14 @@
 4	positive	positive	ADJ	A	Degree=Pos	5	amod	_	_
 5	ROI	ROI	PROPN	SP	_	2	obl	_	_
 6	which	which	PRON	PR	PronType=Rel	8	nsubj	_	_
-7	is	be	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+7	is	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
 8	unique	unique	ADJ	A	Degree=Pos	5	acl:relcl	_	_
 9	for	for	ADP	E	_	10	case	_	_
 10	ANA	ANA	PROPN	SP	_	8	obl	_	_
 11	considering	consider	VERB	V	VerbForm=Ger	8	advcl	_	_
 12	their	their	DET	AP	Poss=Yes|PronType=Prs	13	nmod:poss	_	_
 13	product	product	NOUN	S	Number=Sing	18	nsubj	_	_
-14	is	be	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	cop	_	_
+14	is	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	cop	_	_
 15	not	not	PART	PART	Polarity=Neg	18	advmod	_	_
 16	an	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	18	det	_	_
 17	impulse	impulse	NOUN	S	Number=Sing	18	nmod	_	_
@@ -6570,7 +6570,7 @@
 5	ecodesign	ecodesign	NOUN	S	Number=Sing	11	nsubj	_	_
 6	of	of	ADP	E	_	7	case	_	_
 7	products	product	NOUN	S	Number=Plur	5	nmod	_	_
-8	is	be	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	_
+8	is	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	_
 9	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	11	det	_	_
 10	crucial	crucial	ADJ	A	Degree=Pos	11	amod	_	_
 11	factor	factor	NOUN	S	Number=Sing	0	root	_	_
@@ -6639,7 +6639,7 @@
 11	the	the	DET	RD	Definite=Def|Number=Sing|PronType=Art	13	det	_	_
 12	available	available	ADJ	A	Degree=Pos	13	amod	_	_
 13	options	option	NOUN	S	Number=Plur	9	nmod	_	_
-14	being	be	VERB	V	VerbForm=Ger	9	cop	_	_
+14	being	be	AUX	VA	VerbForm=Ger	9	cop	_	_
 15	more	more	ADV	B	Degree=Cmp	16	advmod	_	_
 16	efficient	efficient	ADJ	A	Degree=Pos	18	amod	_	_
 17	end	end	NOUN	S	Number=Sing	18	nmod	_	_
@@ -6669,7 +6669,7 @@
 # text = Climate change is one of the priorities of the Sixth Community Environment Action Programme, laid down by Decision No 1600/2002/EC of the European Parliament and of the Council [3].
 1	Climate	climate	NOUN	S	Number=Sing	2	nmod	_	_
 2	change	change	NOUN	S	Number=Sing	4	nsubj	_	_
-3	is	be	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	is	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
 4	one	one	NUM	N	NumType=Card	0	root	_	_
 5	of	of	ADP	E	_	7	case	_	_
 6	the	the	DET	RD	Definite=Def|PronType=Art	7	det	_	_
@@ -6735,7 +6735,7 @@
 26	which	which	PRON	PR	PronType=Rel	30	nsubj	_	_
 27	will	will	AUX	VM	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	30	aux	_	_
 28	ultimately	ultimately	ADV	B	_	30	advmod	_	_
-29	be	be	VERB	V	VerbForm=Inf	30	cop	_	_
+29	be	be	AUX	VA	VerbForm=Inf	30	cop	_	_
 30	beneficial	beneficial	ADJ	A	Degree=Pos	24	acl:relcl	_	_
 31	to	to	ADP	E	_	32	case	_	_
 32	consumers	consumer	NOUN	S	Number=Plur	30	obl	_	_
@@ -6763,7 +6763,7 @@
 13	design	design	NOUN	S	_	10	nmod	_	_
 14	it	it	PRON	PE	Number=Sing|Person=3|PronType=Prs	17	expl	_	_
 15	may	may	AUX	VM	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	17	aux	_	_
-16	be	be	VERB	V	VerbForm=Inf	17	cop	_	_
+16	be	be	AUX	VA	VerbForm=Inf	17	cop	_	_
 17	necessary	necessary	ADJ	A	Degree=Pos	0	root	_	_
 18	to	to	ADP	E	_	19	mark	_	_
 19	inform	inform	VERB	V	VerbForm=Inf	17	csubj	_	_
@@ -6789,7 +6789,7 @@
 39	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	40	det	_	_
 40	manner	manner	NOUN	S	Number=Sing	37	nmod	_	_
 41	which	which	PRON	PR	PronType=Rel	44	nsubj	_	_
-42	is	be	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	44	cop	_	_
+42	is	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	44	cop	_	_
 43	environmentally	environmentally	ADV	B	_	44	advmod	_	_
 44	friendly	friendly	ADJ	A	Degree=Pos	40	acl:relcl	_	SpaceAfter=No
 45	.	.	PUNCT	FS	_	17	punct	_	_
@@ -6988,7 +6988,7 @@
 26	following	following	ADJ	A	Degree=Pos	27	amod	_	_
 27	issues	issue	NOUN	S	Number=Plur	21	nmod	_	_
 28	should	shall	AUX	VM	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	30	aux	_	_
-29	be	be	VERB	V	VerbForm=Inf	30	cop	_	_
+29	be	be	AUX	VA	VerbForm=Inf	30	cop	_	_
 30	available	available	ADJ	A	Degree=Pos	0	root	_	SpaceAfter=No
 31	:	:	PUNCT	FC	_	30	punct	_	_
 
@@ -7107,7 +7107,7 @@
 4	of	of	ADP	E	_	6	case	_	_
 5	implementing	implement	ADJ	A	Degree=Pos	6	amod	_	_
 6	measures	measure	NOUN	S	Number=Plur	3	nmod	_	_
-7	is	be	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+7	is	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
 8	necessary	necessary	ADJ	A	Degree=Pos	0	root	_	_
 9	to	to	ADP	E	_	10	mark	_	_
 10	reduce	reduce	VERB	V	VerbForm=Inf	8	advcl	_	_
@@ -7232,7 +7232,7 @@
 14	efforts	effort	NOUN	S	Number=Plur	10	obl:agent	_	_
 15	of	of	ADP	E	_	16	case	_	_
 16	manufacturers	manufacturer	NOUN	S	Number=Plur	14	nmod	_	_
-17	is	be	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	cop	_	_
+17	is	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	cop	_	_
 18	one	one	NUM	N	NumType=Card	0	root	_	_
 19	of	of	ADP	E	_	22	case	_	_
 20	the	the	DET	RD	Definite=Def|PronType=Art	22	det	_	_
@@ -7251,7 +7251,7 @@
 4	A	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	6	det	_	_
 5	competent	competent	ADJ	A	Degree=Pos	6	amod	_	_
 6	body	body	NOUN	S	Number=Sing	13	nsubj	_	_
-7	is	be	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	_
+7	is	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	_
 8	usually	usually	ADV	B	_	13	advmod	_	_
 9	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	13	det	_	_
 10	public	public	ADJ	A	Degree=Pos	13	amod	_	_
@@ -7318,7 +7318,7 @@
 18	the	the	DET	RD	Definite=Def|PronType=Art	20	det	_	_
 19	necessary	necessary	ADJ	A	Degree=Pos	20	amod	_	_
 20	means	mean	NOUN	S	Number=Plur	22	nsubj	_	_
-21	are	be	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	22	cop	_	_
+21	are	be	AUX	VA	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	22	cop	_	_
 22	available	available	ADJ	A	Degree=Pos	16	ccomp	_	_
 23	for	for	ADP	E	_	26	case	_	_
 24	effective	effective	ADJ	A	Degree=Pos	25	amod	_	_
@@ -7344,7 +7344,7 @@
 14	,	,	PUNCT	FF	_	13	punct	_	_
 15	it	it	PRON	PE	Number=Sing|Person=3|PronType=Prs	18	expl	_	_
 16	may	may	AUX	VM	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	18	aux	_	_
-17	be	be	VERB	V	VerbForm=Inf	18	cop	_	_
+17	be	be	AUX	VA	VerbForm=Inf	18	cop	_	_
 18	appropriate	appropriate	ADJ	A	Degree=Pos	0	root	_	_
 19	to	to	ADP	E	_	20	mark	_	_
 20	consider	consider	VERB	V	VerbForm=Inf	18	csubj	_	_
@@ -7426,7 +7426,7 @@
 10	harmonised	harmonize	VERB	V	Tense=Past|VerbForm=Part	11	acl	_	_
 11	standards	standard	NOUN	S	Number=Plur	8	nmod	_	_
 12	should	shall	AUX	VM	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	4	aux	_	_
-13	be	be	VERB	V	VerbForm=Inf	4	cop	_	_
+13	be	be	AUX	VA	VerbForm=Inf	4	cop	_	_
 14	to	to	ADP	E	_	15	mark	_	_
 15	help	help	VERB	V	VerbForm=Inf	4	csubj	_	_
 16	manufacturers	manufacturer	NOUN	S	Number=Plur	15	obj	_	_
@@ -7467,7 +7467,7 @@
 3	)	)	PUNCT	FB	_	2	punct	_	_
 4	This	this	DET	DD	Number=Sing|PronType=Dem	5	det	_	_
 5	Directive	Directive	NOUN	S	Number=Sing	7	nsubj	_	_
-6	is	be	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+6	is	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
 7	complementary	complementary	ADJ	A	Degree=Pos	0	root	_	_
 8	to	to	ADP	E	_	11	case	_	_
 9	existing	existing	ADJ	A	Degree=Pos	11	amod	_	_
@@ -8101,7 +8101,7 @@
 10	chambers	chamber	NOUN	S	Number=Plur	1	conj	_	_
 11	of	of	ADP	E	_	12	case	_	_
 12	commerce	commerce	NOUN	S	Number=Sing	10	nmod	_	_
-13	was	be	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	15	cop	_	_
+13	was	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	15	cop	_	_
 14	not	not	PART	PART	Polarity=Neg	15	advmod	_	_
 15	sufficient	sufficient	ADJ	A	Degree=Pos	0	root	_	SpaceAfter=No
 16	.	.	PUNCT	FS	_	15	punct	_	_
@@ -8147,7 +8147,7 @@
 4	should	shall	AUX	VM	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	5	aux	_	_
 5	continue	continue	VERB	V	VerbForm=Inf	0	root	_	_
 6	to	to	ADP	E	_	8	mark	_	_
-7	be	be	VERB	V	VerbForm=Inf	8	cop	_	_
+7	be	be	AUX	VA	VerbForm=Inf	8	cop	_	_
 8	available	available	ADJ	A	Degree=Pos	5	ccomp	_	_
 9	to	to	ADP	E	_	12	case	_	_
 10	all	all	DET	T	PronType=Tot	12	det	_	_
@@ -8215,7 +8215,7 @@
 # text = These activities are also more cost efficient.
 1	These	this	DET	DD	Number=Plur|PronType=Dem	2	det	_	_
 2	activities	activity	NOUN	S	Number=Plur	7	nsubj	_	_
-3	are	be	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	7	cop	_	_
+3	are	be	AUX	VA	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	7	cop	_	_
 4	also	also	ADV	B	_	7	advmod	_	_
 5	more	more	ADV	B	Degree=Cmp	7	advmod	_	_
 6	cost	cost	NOUN	S	Number=Sing	7	obl	_	_
@@ -8280,7 +8280,7 @@
 4	actions	action	NOUN	S	Number=Plur	1	obl	_	_
 5	carried	carry	VERB	V	Tense=Past|VerbForm=Part	4	acl	_	_
 6	out	out	ADP	E	_	5	compound:prt	_	_
-7	are	be	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	8	cop	_	_
+7	are	be	AUX	VA	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	8	cop	_	_
 8	conferences	conference	NOUN	S	Number=Plur	0	root	_	SpaceAfter=No
 9	,	,	PUNCT	FF	_	10	punct	_	_
 10	seminars	seminar	NOUN	S	Number=Plur	8	conj	_	_
@@ -8322,7 +8322,7 @@
 6	majority	majority	NOUN	S	Number=Sing	0	root	_	_
 7	of	of	ADP	E	_	8	case	_	_
 8	participants	participant	NOUN	S	Number=Plur	6	nmod	_	_
-9	were	be	VERB	V	Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	6	cop	_	_
+9	were	be	AUX	VA	Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	6	cop	_	_
 10	law	law	NOUN	S	Number=Sing	11	nmod	_	_
 11	enforcement	enforcement	NOUN	S	Number=Sing	12	nmod	_	_
 12	agents	agent	NOUN	S	Number=Plur	6	nsubj	_	SpaceAfter=No
@@ -8371,7 +8371,7 @@
 22	%	%	SYM	X	_	30	nsubj	_	_
 23	of	of	ADP	E	_	24	case	_	_
 24	participants	participant	NOUN	S	Number=Plur	22	nmod	_	_
-25	were	be	VERB	V	Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	30	cop	_	_
+25	were	be	AUX	VA	Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	30	cop	_	_
 26	mainly	mainly	ADV	B	_	30	advmod	_	_
 27	from	from	ADP	E	_	30	case	_	_
 28	law	law	NOUN	S	Number=Sing	29	nmod	_	_
@@ -8427,7 +8427,7 @@
 # sent_id = en_partut-ud-712
 # text = Such is the case with actions undertaken in Colombia, for all South American countries and Bulgaria, also including other South-Eastern European countries.
 1	Such	such	ADJ	A	Degree=Pos	0	root	_	_
-2	is	be	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	cop	_	_
+2	is	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	cop	_	_
 3	the	the	DET	RD	Definite=Def|PronType=Art	4	det	_	_
 4	case	case	NOUN	S	Number=Sing	1	nsubj	_	_
 5	with	with	ADP	E	_	6	case	_	_
@@ -8534,7 +8534,7 @@
 # sent_id = en_partut-ud-716
 # text = This is in also line with Recital (7) of the Pericles Decision.
 1	This	this	PRON	PD	Number=Sing|PronType=Dem	5	nsubj	_	_
-2	is	be	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+2	is	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
 3	in	in	ADP	E	_	5	case	_	_
 4	also	also	ADV	B	_	5	advmod	_	_
 5	line	line	NOUN	S	Number=Sing	0	root	_	_
@@ -8582,7 +8582,7 @@
 # text = Such actions are mainly single-country or single-subject actions (i.e. not eligible under Pericles) and are systematically coordinated with Pericles by the competent service in the Commission in coordination with Member States.
 1	Such	such	DET	DD	PronType=Dem	2	det	_	_
 2	actions	action	NOUN	S	Number=Plur	12	nsubj	_	_
-3	are	be	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	12	cop	_	_
+3	are	be	AUX	VA	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	12	cop	_	_
 4	mainly	mainly	ADV	B	_	5	advmod	_	_
 5	single	single	ADJ	A	Degree=Pos	7	amod	_	SpaceAfter=No
 6	-	-	PUNCT	FF	_	7	punct	_	SpaceAfter=No
@@ -8668,7 +8668,7 @@
 3	period	period	NOUN	S	Number=Sing	8	nsubj	_	_
 4	for	for	ADP	E	_	5	case	_	_
 5	extension	extension	NOUN	S	Number=Sing	3	nmod	_	_
-6	is	be	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+6	is	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
 7	six	six	NUM	N	NumType=Card	8	nummod	_	_
 8	years	year	NOUN	S	Number=Plur	0	root	_	_
 9	and	and	CCONJ	CC	_	13	cc	_	_
@@ -8877,7 +8877,7 @@
 18	the	the	DET	RD	Definite=Def|PronType=Art	20	det	_	_
 19	human	human	ADJ	A	Degree=Pos	20	amod	_	_
 20	family	family	NOUN	S	Number=Sing	16	nmod	_	_
-21	is	be	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	23	cop	_	_
+21	is	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	23	cop	_	_
 22	the	the	DET	RD	Definite=Def|PronType=Art	23	det	_	_
 23	foundation	foundation	NOUN	S	Number=Sing	0	root	_	_
 24	of	of	ADP	E	_	25	case	_	_
@@ -8953,7 +8953,7 @@
 # text = Whereas it is essential to promote the development of friendly relations between nations;
 1	Whereas	whereas	SCONJ	CS	_	4	mark	_	_
 2	it	it	PRON	PE	Number=Sing|Person=3|PronType=Prs	4	expl	_	_
-3	is	be	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	is	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
 4	essential	essential	ADJ	A	Degree=Pos	0	root	_	_
 5	to	to	ADP	E	_	6	mark	_	_
 6	promote	promote	VERB	V	VerbForm=Inf	4	csubj	_	_
@@ -9083,7 +9083,7 @@
 77	and	and	CCONJ	CC	_	78	cc	_	_
 78	observance	observance	NOUN	S	Number=Sing	76	conj	_	SpaceAfter=No
 79	,	,	PUNCT	FF	_	71	punct	_	_
-80	both	both	CCONJ	CC	Degree=Pos	83	cc	_	_
+80	both	both	CCONJ	CC	_	83	cc	_	_
 81	among	among	ADP	E	_	83	case	_	_
 82	the	the	DET	RD	Definite=Def|PronType=Art	83	det	_	_
 83	peoples	people	NOUN	S	Number=Plur	71	obl	_	_
@@ -9188,7 +9188,7 @@
 29	,	,	PUNCT	FF	_	28	punct	_	_
 30	whether	whether	SCONJ	CS	_	33	mark	_	_
 31	it	it	PRON	PE	Number=Sing|Person=3|PronType=Prs	33	nsubj	_	_
-32	be	be	VERB	V	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	33	cop	_	_
+32	be	be	AUX	VA	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	33	cop	_	_
 33	independent	independent	ADJ	A	Degree=Pos	28	advcl	_	SpaceAfter=No
 34	,	,	PUNCT	FF	_	35	punct	_	_
 35	trust	trust	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	33	conj	_	SpaceAfter=No
@@ -9378,7 +9378,7 @@
 3	)	)	PUNCT	FB	_	2	punct	_	_
 4	The	the	DET	RD	Definite=Def|PronType=Art	5	det	_	_
 5	family	family	NOUN	S	Number=Sing	12	nsubj	_	_
-6	is	be	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	_
+6	is	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	_
 7	the	the	DET	RD	Definite=Def|PronType=Art	12	det	_	_
 8	natural	natural	ADJ	A	Degree=Pos	11	amod	_	_
 9	and	and	CCONJ	CC	_	10	cc	_	_
@@ -9774,7 +9774,7 @@
 26	of	of	ADP	E	_	27	case	_	_
 27	which	which	PRON	PR	PronType=Rel	31	nmod	_	_
 28	he	he	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	31	nsubj	_	_
-29	is	be	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	31	cop	_	_
+29	is	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	31	cop	_	_
 30	the	the	DET	RD	Definite=Def|PronType=Art	31	det	_	_
 31	author	author	NOUN	S	Number=Sing	25	acl:relcl	_	SpaceAfter=No
 32	.	.	PUNCT	FS	_	5	punct	_	_
@@ -9801,7 +9801,7 @@
 18	of	of	ADP	E	_	20	case	_	_
 19	his	his	DET	AP	Poss=Yes|PronType=Prs	20	nmod:poss	_	_
 20	personality	personality	NOUN	S	Number=Sing	17	nmod	_	_
-21	is	be	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	22	cop	_	_
+21	is	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	22	cop	_	_
 22	possible	possible	ADJ	A	Degree=Pos	9	acl:relcl	_	SpaceAfter=No
 23	.	.	PUNCT	FS	_	5	punct	_	_
 
@@ -9809,7 +9809,7 @@
 # text = It can be a very complicated thing, the ocean.
 1	It	it	PRON	PE	Number=Sing|Person=3|PronType=Prs	7	nsubj	_	_
 2	can	can	AUX	VM	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	_
-3	be	be	VERB	V	VerbForm=Inf	7	cop	_	_
+3	be	be	AUX	VA	VerbForm=Inf	7	cop	_	_
 4	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	7	det	_	_
 5	very	very	ADV	B	_	6	advmod	_	_
 6	complicated	complicated	ADJ	A	Degree=Pos	7	amod	_	_
@@ -9824,7 +9824,7 @@
 1	And	and	CCONJ	CC	_	8	cc	_	_
 2	it	it	PRON	PE	Number=Sing|Person=3|PronType=Prs	8	nsubj	_	_
 3	can	can	AUX	VM	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	_
-4	be	be	VERB	V	VerbForm=Inf	8	cop	_	_
+4	be	be	AUX	VA	VerbForm=Inf	8	cop	_	_
 5	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	8	det	_	_
 6	very	very	ADV	B	_	7	advmod	_	_
 7	complicated	complicated	ADJ	A	Degree=Pos	8	amod	_	_
@@ -9833,7 +9833,7 @@
 10	what	what	PRON	PQ	PronType=Int	8	dislocated	_	_
 11	human	human	ADJ	A	Degree=Pos	12	amod	_	_
 12	health	health	NOUN	S	Number=Sing	10	nsubj	_	_
-13	is	be	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	SpaceAfter=No
+13	is	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	SpaceAfter=No
 14	.	.	PUNCT	FS	_	8	punct	_	_
 
 # sent_id = en_partut-ud-811
@@ -9860,7 +9860,7 @@
 # sent_id = en_partut-ud-817
 # text = This is a shot of Cannery Row in 1932.
 1	This	this	PRON	PD	Number=Sing|PronType=Dem	4	nsubj	_	_
-2	is	be	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+2	is	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
 3	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	4	det	_	_
 4	shot	shot	NOUN	S	Number=Sing	0	root	_	_
 5	of	of	ADP	E	_	6	case	_	_
@@ -9927,7 +9927,7 @@
 20	how	how	ADV	B	_	24	advmod	_	_
 21	those	that	DET	DD	Number=Plur|PronType=Dem	22	det	_	_
 22	animals	animal	NOUN	S	Number=Plur	24	nsubj	_	_
-23	are	be	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	24	cop	_	_
+23	are	be	AUX	VA	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	24	cop	_	_
 24	food	food	NOUN	S	Number=Sing	19	ccomp	_	_
 25	to	to	ADP	E	_	26	case	_	_
 26	animals	animal	NOUN	S	Number=Plur	24	nmod	_	_
@@ -10027,7 +10027,7 @@
 14	those	that	DET	DD	Number=Plur|PronType=Dem	15	det	_	_
 15	PCBs	PCB	PROPN	SP	_	20	nsubj	_	SpaceAfter=No
 16	,	,	PUNCT	FF	_	15	punct	_	_
-17	being	be	VERB	V	Number=Sing|Tense=Pres|VerbForm=Part	18	cop	_	_
+17	being	be	AUX	VA	Number=Sing|Tense=Pres|VerbForm=Part	18	cop	_	_
 18	fat-soluble	fat-soluble	ADJ	A	Degree=Pos	15	advcl	_	SpaceAfter=No
 19	,	,	PUNCT	FF	_	15	punct	_	_
 20	accumulate	accumulate	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	11	conj	_	_
@@ -10084,7 +10084,7 @@
 15	female	female	ADJ	A	Degree=Pos	16	amod	_	_
 16	dolphin	dolphin	NOUN	S	Number=Sing	11	nmod	_	SpaceAfter=No
 17	,	,	PUNCT	FF	_	11	punct	_	_
-18	is	be	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	cop	_	_
+18	is	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	cop	_	_
 19	60	60	NUM	N	NumType=Card	0	root	_	_
 20	to	to	ADP	E	_	22	case	_	_
 21	80	80	NUM	N	NumType=Card	22	nummod	_	_
@@ -10116,7 +10116,7 @@
 5	of	of	ADV	B	_	3	advmod	_	_
 6	course	course	ADV	B	_	5	fixed	_	SpaceAfter=No
 7	,	,	PUNCT	FF	_	3	punct	_	_
-8	is	be	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+8	is	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
 9	us	us	PRON	PE	Number=Plur|Person=1|PronType=Prs	3	nsubj	_	SpaceAfter=No
 10	.	.	PUNCT	FS	_	3	punct	_	_
 
@@ -10132,7 +10132,7 @@
 8	few	few	ADJ	A	Degree=Pos	9	amod	_	_
 9	years	year	NOUN	S	Number=Plur	10	obl	_	_
 10	ago	ago	ADV	B	_	6	advmod	_	_
-11	was	be	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	cop	_	_
+11	was	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	cop	_	_
 12	learn	learn	VERB	V	VerbForm=Inf	4	csubj	_	_
 13	how	how	ADV	B	_	15	advmod	_	_
 14	to	to	ADP	E	_	15	mark	_	_
@@ -10161,7 +10161,7 @@
 37	what	what	PRON	PR	Number=Sing|PronType=Rel	36	ccomp	_	_
 38	they	they	PRON	PE	Number=Plur|Person=3|PronType=Prs	37	nsubj	_	_
 39	really	really	ADV	B	_	37	advmod	_	_
-40	were	be	VERB	V	Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	37	cop	_	SpaceAfter=No
+40	were	be	AUX	VA	Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	37	cop	_	SpaceAfter=No
 41	.	.	PUNCT	FS	_	4	punct	_	_
 
 # sent_id = en_partut-ud-857
@@ -10173,7 +10173,7 @@
 5	whale	whale	NOUN	S	Number=Sing	6	nmod	_	_
 6	meat	meat	NOUN	S	Number=Sing	7	nmod	_	_
 7	samples	sample	NOUN	S	Number=Plur	2	nmod	_	_
-8	were	be	VERB	V	Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	10	cop	_	_
+8	were	be	AUX	VA	Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	10	cop	_	_
 9	whale	whale	NOUN	S	Number=Sing	10	nmod	_	_
 10	meat	meat	NOUN	S	Number=Sing	0	root	_	SpaceAfter=No
 11	.	.	PUNCT	FS	_	10	punct	_	_
@@ -10183,7 +10183,7 @@
 1	Some	some	PRON	PI	PronType=Ind	7	nsubj	_	_
 2	of	of	ADP	E	_	3	case	_	_
 3	them	they	PRON	PE	Number=Plur|Person=3|PronType=Prs	1	nmod	_	_
-4	were	be	VERB	V	Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	7	cop	_	_
+4	were	be	AUX	VA	Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	7	cop	_	_
 5	illegal	illegal	ADJ	A	Degree=Pos	6	amod	_	_
 6	whale	whale	NOUN	S	Number=Sing	7	nmod	_	_
 7	meat	meat	NOUN	S	Number=Sing	0	root	_	SpaceAfter=No
@@ -10196,7 +10196,7 @@
 # sent_id = en_partut-ud-859
 # text = That's another story.
 1	That	that	PRON	PD	Person=3|PronType=Dem	4	nsubj	_	SpaceAfter=No
-2	's	be	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+2	's	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
 3	another	another	DET	RI	Definite=Ind|Number=Sing|PronType=Art	4	det	_	_
 4	story	story	NOUN	S	Number=Sing	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	FS	_	4	punct	_	_
@@ -10246,7 +10246,7 @@
 10	together	together	ADV	B	_	8	advmod	_	SpaceAfter=No
 11	,	,	PUNCT	FF	_	15	punct	_	_
 12	it	it	PRON	PE	Number=Sing|Person=3|PronType=Prs	15	nsubj	_	SpaceAfter=No
-13	's	be	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	cop	_	_
+13	's	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	cop	_	_
 14	extremely	extremely	ADV	B	_	15	advmod	_	_
 15	tenacious	tenacious	ADJ	A	Degree=Pos	8	conj	_	SpaceAfter=No
 16	.	.	PUNCT	FS	_	3	punct	_	_
@@ -10254,7 +10254,7 @@
 # sent_id = en_partut-ud-879
 # text = They're the grand molecular disassemblers of nature - the soil magicians.
 1	They	they	PRON	PE	Number=Plur|Person=3|PronType=Prs	6	nsubj	_	SpaceAfter=No
-2	're	be	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	6	cop	_	_
+2	're	be	AUX	VA	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	6	cop	_	_
 3	the	the	DET	RD	Definite=Def|PronType=Art	6	det	_	_
 4	grand	grand	NOUN	S	Number=Sing	6	nmod	_	_
 5	molecular	molecular	ADJ	A	Degree=Pos	6	amod	_	_
@@ -10284,7 +10284,7 @@
 # sent_id = en_partut-ud-882
 # text = I'm in love with the old-growth forest, and I'm a patriotic American because we have those.
 1	I	I	PRON	PE	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	SpaceAfter=No
-2	'm	be	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	cop	_	_
+2	'm	be	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	cop	_	_
 3	in	in	ADP	E	_	4	case	_	_
 4	love	love	NOUN	S	Number=Sing	0	root	_	_
 5	with	with	ADP	E	_	10	case	_	_
@@ -10296,7 +10296,7 @@
 11	,	,	PUNCT	FF	_	17	punct	_	_
 12	and	and	CCONJ	CC	_	17	cc	_	_
 13	I	I	PRON	PE	Number=Sing|Person=1|PronType=Prs	17	nsubj	_	SpaceAfter=No
-14	'm	be	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	17	cop	_	_
+14	'm	be	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	17	cop	_	_
 15	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	17	det	_	_
 16	patriotic	patriotic	ADJ	A	Degree=Pos	17	amod	_	_
 17	American	American	ADJ	A	Degree=Pos	4	conj	_	_
@@ -10355,7 +10355,7 @@
 # sent_id = en_partut-ud-900
 # text = This is photomicrographs from Nick Read and Patrick Hickey.
 1	This	this	PRON	PD	Number=Sing|PronType=Dem	3	nsubj	_	_
-2	is	be	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+2	is	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
 3	photomicrographs	photomicrographs	ADJ	A	Degree=Pos	0	root	_	_
 4	from	from	ADP	E	_	5	case	_	_
 5	Nick	Nick	PROPN	SP	_	3	obl	_	_
@@ -10402,7 +10402,7 @@
 # text = But these are essentially externalized stomachs and lungs.
 1	But	but	CCONJ	CC	_	6	cc	_	_
 2	these	this	PRON	PD	Number=Plur|PronType=Dem	6	nsubj	_	_
-3	are	be	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	6	cop	_	_
+3	are	be	AUX	VA	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	6	cop	_	_
 4	essentially	essentially	ADV	B	_	6	advmod	_	_
 5	externalized	externalize	VERB	V	Tense=Past|VerbForm=Part	6	acl	_	_
 6	stomachs	stomach	NOUN	S	Number=Plur	0	root	_	_
@@ -10421,7 +10421,7 @@
 7	concept	concept	NOUN	S	Number=Sing	3	obj	_	_
 8	that	that	SCONJ	CS	_	13	mark	_	_
 9	these	this	PRON	PD	Number=Plur|PronType=Dem	13	nsubj	_	_
-10	are	be	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	13	cop	_	_
+10	are	be	AUX	VA	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	13	cop	_	_
 11	extended	extend	VERB	V	Tense=Past|VerbForm=Part	13	acl	_	_
 12	neurological	neurologic	ADJ	A	Degree=Pos	13	amod	_	_
 13	membranes	membrane	NOUN	S	Number=Plur	7	acl	_	SpaceAfter=No
@@ -10454,7 +10454,7 @@
 # sent_id = en_partut-ud-907
 # text = These are little wells.
 1	These	this	PRON	PD	Number=Plur|PronType=Dem	4	nsubj	_	_
-2	are	be	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	4	cop	_	_
+2	are	be	AUX	VA	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	4	cop	_	_
 3	little	little	ADJ	A	Degree=Pos	4	amod	_	_
 4	wells	well	NOUN	S	Number=Plur	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	FS	_	4	punct	_	_
@@ -10473,7 +10473,7 @@
 10	,	,	PUNCT	FF	_	3	punct	_	_
 11	that	that	DET	DD	Number=Sing|PronType=Dem	17	det	_	_
 12	mycelium	mycelium	NOUN	S	Gender=Masc|Number=Sing	17	nsubj	_	_
-13	is	be	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	cop	_	_
+13	is	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	cop	_	_
 14	Earth	earth	NOUN	S	Number=Sing	17	nmod	_	SpaceAfter=No
 15	's	's	PART	PART	_	14	case	_	_
 16	natural	natural	ADJ	A	Degree=Pos	17	amod	_	_
@@ -10507,7 +10507,7 @@
 # text = And this is the paradigm that we see throughout the universe.
 1	And	and	CCONJ	CC	_	5	cc	_	_
 2	this	this	PRON	PD	Number=Sing|PronType=Dem	5	nsubj	_	_
-3	is	be	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+3	is	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
 4	the	the	DET	RD	Definite=Def|PronType=Art	5	det	_	_
 5	paradigm	paradigm	NOUN	S	Number=Sing	0	root	_	_
 6	that	that	PRON	PR	PronType=Rel	8	obj	_	_
@@ -10542,7 +10542,7 @@
 # sent_id = en_partut-ud-919
 # text = How is that possible?
 1	How	how	ADV	B	_	4	advmod	_	_
-2	is	be	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+2	is	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
 3	that	that	DET	DD	Number=Sing|PronType=Dem	4	nsubj	_	_
 4	possible	possible	NOUN	S	Number=Sing	0	root	_	SpaceAfter=No
 5	?	?	PUNCT	FS	_	4	punct	_	_
@@ -11144,7 +11144,7 @@
 6	aid	aid	NOUN	S	Number=Sing	16	nsubj:pass	_	_
 7	found	found	VERB	V	Tense=Past|VerbForm=Part	6	acl	_	_
 8	to	to	ADP	E	_	10	mark	_	_
-9	be	be	VERB	V	VerbForm=Inf	10	cop	_	_
+9	be	be	AUX	VA	VerbForm=Inf	10	cop	_	_
 10	incompatible	incompatible	ADJ	A	Degree=Pos	7	xcomp	_	_
 11	with	with	ADP	E	_	13	case	_	_
 12	those	that	DET	DD	Number=Plur|PronType=Dem	13	det	_	_
@@ -11261,7 +11261,7 @@
 10	banks	bank	NOUN	S	Number=Plur	5	nmod	_	SpaceAfter=No
 11	,	,	PUNCT	FF	_	1	punct	_	_
 12	can	can	AUX	VM	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	14	aux	_	_
-13	be	be	VERB	V	VerbForm=Inf	14	cop	_	_
+13	be	be	AUX	VA	VerbForm=Inf	14	cop	_	_
 14	costly	costly	ADJ	A	Degree=Pos	0	root	_	_
 15	to	to	ADP	E	_	16	case	_	_
 16	taxpayers	taxpayer	NOUN	S	Number=Plur	14	obl	_	SpaceAfter=No
@@ -11306,7 +11306,7 @@
 # sent_id = en_partut-ud-1143
 # text = That is why the EU was hopelessly outmaneuvered by Russia in the negotiations with Ukraine over an Association Agreement.
 1	That	that	PRON	PD	PronType=Dem	0	root	_	_
-2	is	be	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	cop	_	_
+2	is	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	cop	_	_
 3	why	why	ADV	B	_	8	advmod	_	_
 4	the	the	DET	RD	Definite=Def|PronType=Art	5	det	_	_
 5	EU	EU	PROPN	SP	_	8	nsubj:pass	_	_
@@ -11414,7 +11414,7 @@
 11	diversified	diversify	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	12	acl	_	_
 12	economy	economy	NOUN	S	Number=Sing	9	conj	_	SpaceAfter=No
 13	,	,	PUNCT	FF	_	9	punct	_	_
-14	is	be	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	cop	_	_
+14	is	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	cop	_	_
 15	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	19	det	_	_
 16	potentially	potentially	ADV	B	_	17	advmod	_	_
 17	attractive	attractive	ADJ	A	Degree=Pos	18	amod	_	_
@@ -11441,7 +11441,7 @@
 3	lower	lower	ADJ	A	Degree=Cmp	5	amod	_	_
 4	growth	growth	NOUN	S	Number=Sing	5	nmod	_	_
 5	rates	rates	NOUN	S	Number=Sing	9	nsubj	_	_
-6	are	be	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	9	cop	_	_
+6	are	be	AUX	VA	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	9	cop	_	_
 7	the	the	DET	RD	Definite=Def|PronType=Art	9	det	_	_
 8	natural	natural	ADJ	A	Degree=Pos	9	amod	_	_
 9	result	result	NOUN	S	Number=Sing	0	root	_	_
@@ -11499,7 +11499,7 @@
 14	partner	partner	NOUN	S	Number=Sing	10	nmod	_	_
 15	could	can	AUX	VM	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	19	aux	_	_
 16	well	well	ADV	B	_	19	advmod	_	_
-17	be	be	VERB	V	VerbForm=Inf	19	cop	_	_
+17	be	be	AUX	VA	VerbForm=Inf	19	cop	_	_
 18	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	19	det	_	_
 19	fork	fork	NOUN	S	Number=Sing	0	root	_	_
 20	in	in	ADP	E	_	22	case	_	_
@@ -11568,7 +11568,7 @@
 25	turned	turn	VERB	V	Tense=Past|VerbForm=Part	0	root	_	_
 26	out	out	ADP	E	_	25	compound:prt	_	_
 27	to	to	SCONJ	CS	_	30	mark	_	_
-28	be	be	VERB	V	VerbForm=Inf	30	cop	_	_
+28	be	be	AUX	VA	VerbForm=Inf	30	cop	_	_
 29	spectacularly	spectacularly	ADV	B	_	30	advmod	_	_
 30	wrong	wrong	ADJ	A	Degree=Pos	25	xcomp	_	SpaceAfter=No
 31	.	.	PUNCT	FS	_	25	punct	_	_
@@ -11628,7 +11628,7 @@
 14	the	the	DET	RD	Definite=Def|PronType=Art	16	det	_	_
 15	leading	leading	NOUN	S	Number=Sing	16	nmod	_	_
 16	example	example	NOUN	S	Number=Sing	12	acl	_	_
-17	being	be	VERB	V	VerbForm=Ger	16	cop	_	_
+17	being	be	AUX	VA	VerbForm=Ger	16	cop	_	_
 18	environmental	environmental	ADJ	A	Degree=Pos	19	amod	_	_
 19	degradation	degradation	NOUN	S	Number=Sing	16	nsubj	_	SpaceAfter=No
 20	.	.	PUNCT	FS	_	6	punct	_	_
@@ -11638,7 +11638,7 @@
 1	Capitalist	capitalist	ADJ	A	Degree=Pos	2	amod	_	_
 2	economies	economy	NOUN	S	Number=Plur	6	nsubj	_	_
 3	have	have	AUX	VA	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	6	aux	_	_
-4	been	be	VERB	V	Tense=Past|VerbForm=Part	6	cop	_	_
+4	been	be	AUX	VA	Tense=Past|VerbForm=Part	6	cop	_	_
 5	spectacularly	spectacularly	ADV	B	_	6	advmod	_	_
 6	efficient	efficient	ADJ	A	Degree=Pos	0	root	_	_
 7	at	at	ADP	E	_	8	mark	_	_
@@ -11773,7 +11773,7 @@
 23	the	the	DET	RD	Definite=Def|PronType=Art	24	det	_	_
 24	world	world	NOUN	S	Number=Sing	20	nmod	_	_
 25	–	–	PUNCT	FF	_	20	punct	_	_
-26	were	be	VERB	V	Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	27	cop	_	_
+26	were	be	AUX	VA	Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	27	cop	_	_
 27	unaware	unaware	ADJ	A	Degree=Pos	3	ccomp	_	_
 28	of	of	ADP	E	_	30	case	_	_
 29	the	the	DET	RD	Definite=Def|PronType=Art	30	det	_	_
@@ -11811,7 +11811,7 @@
 16	he	he	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	21	nsubj	_	_
 17	would	will	AUX	VM	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	21	aux	_	_
 18	have	have	AUX	VA	VerbForm=Inf	21	aux	_	_
-19	been	be	VERB	V	Tense=Past|VerbForm=Part	21	cop	_	_
+19	been	be	AUX	VA	Tense=Past|VerbForm=Part	21	cop	_	_
 20	more	more	ADV	B	Degree=Cmp	21	advmod	_	_
 21	proactive	proactive	ADJ	A	Degree=Pos	14	ccomp	_	_
 22	in	in	ADP	E	_	24	case	_	_
@@ -11822,7 +11822,7 @@
 27	known	know	VERB	V	Tense=Past|VerbForm=Part	21	advcl	_	_
 28	while	while	SCONJ	CS	_	32	mark	_	_
 29	he	he	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	32	nsubj	_	_
-30	was	be	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	32	cop	_	_
+30	was	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	32	cop	_	_
 31	in	in	ADP	E	_	32	case	_	_
 32	office	office	NOUN	S	Number=Sing	27	advcl	_	_
 33	what	what	PRON	PR	Number=Sing|PronType=Rel	27	obj	_	_
@@ -11920,7 +11920,7 @@
 # text = The problem is that the rate drops sharply from 71% to 57% among women in their 30's, as inflexible working environments and a lack of affordable childcare undermine their ability to continue investing in their careers.
 1	The	the	DET	RD	Definite=Def|PronType=Art	2	det	_	_
 2	problem	problem	NOUN	S	Number=Sing	0	root	_	_
-3	is	be	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
+3	is	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
 4	that	that	SCONJ	CS	_	7	mark	_	_
 5	the	the	DET	RD	Definite=Def|PronType=Art	6	det	_	_
 6	rate	rate	NOUN	S	Number=Sing	7	nsubj	_	_
@@ -11966,7 +11966,7 @@
 1	The	the	DET	RD	Definite=Def|PronType=Art	3	det	_	_
 2	good	good	ADJ	A	Degree=Pos	3	amod	_	_
 3	news	news	NOUN	S	Number=Sing	0	root	_	_
-4	is	be	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+4	is	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
 5	that	that	SCONJ	CS	_	10	mark	_	_
 6	Park	park	NOUN	S	Number=Sing	8	nmod	_	SpaceAfter=No
 7	's	's	PART	PART	_	6	case	_	_
@@ -12090,7 +12090,7 @@
 5	that	that	SCONJ	CS	_	11	mark	_	_
 6	the	the	DET	RD	Definite=Def|PronType=Art	7	det	_	_
 7	story	story	NOUN	S	Number=Sing	11	nsubj	_	_
-8	is	be	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	_
+8	is	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	_
 9	much	much	ADV	B	_	10	advmod	_	_
 10	more	more	ADV	B	Degree=Cmp	11	advmod	_	_
 11	complicated	complicate	ADJ	A	Degree=Pos	4	ccomp	_	SpaceAfter=No
@@ -12106,7 +12106,7 @@
 6	International	international	ADJ	A	Degree=Pos	8	amod	_	_
 7	Monetary	monetary	ADJ	A	Degree=Pos	8	amod	_	_
 8	Fund	fund	NOUN	S	Number=Sing	13	nsubj	_	_
-9	is	be	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	_
+9	is	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	_
 10	an	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	13	det	_	_
 11	immensely	immensely	ADV	B	_	12	advmod	_	_
 12	useful	useful	ADJ	A	Degree=Pos	13	amod	_	_
@@ -12166,7 +12166,7 @@
 10	DC	Dc	PROPN	SP	_	8	nmod	_	SpaceAfter=No
 11	,	,	PUNCT	FF	_	6	punct	_	_
 12	this	this	PRON	PD	Number=Sing|PronType=Dem	19	nsubj	_	_
-13	is	be	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	cop	_	_
+13	is	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	cop	_	_
 14	without	without	ADP	E	_	15	case	_	_
 15	question	question	NOUN	S	Number=Sing	19	nmod	_	_
 16	almost	almost	ADV	B	_	17	advmod	_	_
@@ -12267,7 +12267,7 @@
 4	of	of	ADP	E	_	6	case	_	_
 5	Ukrainian	Ukrainian	ADJ	A	Degree=Pos	6	amod	_	_
 6	democracy	democracy	NOUN	S	Number=Sing	3	nmod	_	_
-7	is	be	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+7	is	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
 8	not	not	PART	PART	Polarity=Neg	3	advmod	_	_
 9	what	what	PRON	PQ	PronType=Int	11	obj	_	_
 10	Putin	Putin	PROPN	SP	_	11	nsubj	_	_
@@ -12287,7 +12287,7 @@
 7	's	's	PART	PART	_	6	case	_	_
 8	Russian	Russian	ADJ	A	Degree=Pos	9	amod	_	_
 9	speakers	speaker	NOUN	S	Number=Plur	12	nsubj	_	_
-10	are	be	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	12	cop	_	_
+10	are	be	AUX	VA	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	12	cop	_	_
 11	under	under	ADP	E	_	12	case	_	_
 12	threat	threat	NOUN	S	Number=Sing	4	ccomp	_	SpaceAfter=No
 13	,	,	PUNCT	FF	_	18	punct	_	_
@@ -12344,7 +12344,7 @@
 8	in	in	ADP	E	_	10	case	_	_
 9	genetic	genetic	ADJ	A	Degree=Pos	10	amod	_	_
 10	engineering	engineering	NOUN	S	Number=Sing	7	nmod	_	_
-11	is	be	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	_
+11	is	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	_
 12	more	more	ADV	B	Degree=Cmp	13	advmod	_	_
 13	expensive	expensive	ADJ	A	Degree=Pos	0	root	_	SpaceAfter=No
 14	,	,	PUNCT	FF	_	13	punct	_	_
@@ -12449,7 +12449,7 @@
 # sent_id = en_partut-ud-1563
 # text = She was not in love with her husband.
 1	She	she	PRON	PE	Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
-2	was	be	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	cop	_	_
+2	was	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	cop	_	_
 3	not	not	PART	PART	Polarity=Neg	5	advmod	_	_
 4	in	in	ADP	E	_	5	case	_	_
 5	love	love	NOUN	S	Number=Sing	0	root	_	_
@@ -12616,7 +12616,7 @@
 4	his	his	DET	AP	Poss=Yes|PronType=Prs	5	nmod:poss	_	_
 5	intention	intention	NOUN	S	Number=Sing	3	obj	_	_
 6	to	to	ADP	E	_	9	mark	_	_
-7	be	be	VERB	V	VerbForm=Inf	9	cop	_	_
+7	be	be	AUX	VA	VerbForm=Inf	9	cop	_	_
 8	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	9	det	_	_
 9	writer	writer	NOUN	S	Number=Sing	5	acl	_	SpaceAfter=No
 10	.	.	PUNCT	FS	_	3	punct	_	_
@@ -12644,7 +12644,7 @@
 # sent_id = en_partut-ud-1610
 # text = they were unimpressed.
 1	they	they	PRON	PE	Number=Plur|Person=3|PronType=Prs	3	nsubj	_	_
-2	were	be	VERB	V	Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	3	cop	_	_
+2	were	be	AUX	VA	Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	3	cop	_	_
 3	unimpressed	unimpressed	ADJ	A	Degree=Pos	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	FS	_	3	punct	_	_
 
@@ -12657,7 +12657,7 @@
 5	,	,	PUNCT	FF	_	4	punct	_	_
 6	"	"	PUNCT	FB	_	15	punct	_	SpaceAfter=No
 7	They	they	PRON	PE	Number=Plur|Person=3|PronType=Prs	15	nsubj	_	_
-8	are	be	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	15	cop	_	_
+8	are	be	AUX	VA	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	15	cop	_	_
 9	curiously	curiously	ADV	B	_	15	advmod	_	SpaceAfter=No
 10	,	,	PUNCT	FF	_	11	punct	_	_
 11	interestingly	interestingly	ADV	B	_	9	conj	_	SpaceAfter=No
@@ -12748,7 +12748,7 @@
 5	authority	authority	NOUN	S	Number=Sing	3	conj	_	_
 6	of	of	ADP	E	_	7	case	_	_
 7	talent	talent	NOUN	S	Number=Sing	5	nmod	_	_
-8	are	be	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	3	cop	_	_
+8	are	be	AUX	VA	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	3	cop	_	_
 9	more	more	ADV	B	Degree=Cmp	10	advmod	_	_
 10	substantial	substantial	ADJ	A	Degree=Pos	3	nmod	_	_
 11	than	than	ADP	E	_	13	case	_	_
@@ -12774,7 +12774,7 @@
 3	of	of	ADP	E	_	5	case	_	_
 4	the	the	DET	RD	Definite=Def|PronType=Art	5	det	_	_
 5	decision	decision	NOUN	S	Number=Sing	2	nmod	_	_
-6	was	be	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	cop	_	_
+6	was	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	cop	_	_
 7	also	also	ADV	B	_	8	advmod	_	_
 8	significant	significant	ADJ	A	Degree=Pos	0	root	_	SpaceAfter=No
 9	;	;	PUNCT	FC	_	8	punct	_	_
@@ -12879,7 +12879,7 @@
 1	His	his	DET	AP	Poss=Yes|PronType=Prs	3	nmod:poss	_	_
 2	preferred	prefer	VERB	V	Tense=Past|VerbForm=Part	3	acl	_	_
 3	method	method	NOUN	S	Number=Sing	0	root	_	_
-4	was	be	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	cop	_	_
+4	was	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	cop	_	_
 5	to	to	ADP	E	_	6	mark	_	_
 6	eat	eat	VERB	V	VerbForm=Inf	3	csubj	_	_
 7	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	9	det	_	_
@@ -12920,7 +12920,7 @@
 # sent_id = en_partut-ud-1769
 # text = Balzac was a highly conservative Royalist;
 1	Balzac	Balzac	PROPN	SP	_	6	nsubj	_	_
-2	was	be	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	cop	_	_
+2	was	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	cop	_	_
 3	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	6	det	_	_
 4	highly	highly	ADV	B	_	5	advmod	_	_
 5	conservative	conservative	ADJ	A	Degree=Pos	6	amod	_	_
@@ -13050,7 +13050,7 @@
 # text = William Shakespeare was the son of John Shakespeare, an alderman and a successful glover originally from Snitterfield, and Mary Arden, the daughter of an affluent landowning farmer.
 1	William	William	PROPN	SP	_	5	nsubj	_	_
 2	Shakespeare	Shakespeare	PROPN	SP	_	1	flat:name	_	_
-3	was	be	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	cop	_	_
+3	was	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	cop	_	_
 4	the	the	DET	RD	Definite=Def|PronType=Art	5	det	_	_
 5	son	son	NOUN	S	Number=Sing	0	root	_	_
 6	of	of	ADP	E	_	7	case	_	_
@@ -13134,7 +13134,7 @@
 5	,	,	PUNCT	FF	_	4	punct	_	_
 6	believed	believe	VERB	V	Tense=Past|VerbForm=Part	4	acl	_	_
 7	to	to	ADP	E	_	11	mark	_	_
-8	be	be	VERB	V	VerbForm=Inf	11	cop	_	_
+8	be	be	AUX	VA	VerbForm=Inf	11	cop	_	_
 9	Shakespeare	Shakespeare	PROPN	SP	_	11	nmod	_	SpaceAfter=No
 10	's	's	PART	PART	_	9	case	_	_
 11	birthplace	birthplace	NOUN	S	Number=Sing	6	ccomp	_	SpaceAfter=No
@@ -13198,7 +13198,7 @@
 4	that	that	SCONJ	CS	_	10	mark	_	_
 5	Shakespeare	Shakespeare	PROPN	SP	_	10	nsubj	_	_
 6	had	have	AUX	VA	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	10	aux	_	_
-7	been	be	VERB	V	Tense=Past|VerbForm=Part	10	cop	_	_
+7	been	be	AUX	VA	Tense=Past|VerbForm=Part	10	cop	_	_
 8	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	10	det	_	_
 9	country	country	NOUN	S	Number=Sing	10	nmod	_	_
 10	schoolmaster	schoolmaster	NOUN	S	Number=Sing	3	ccomp	_	SpaceAfter=No
@@ -13255,7 +13255,7 @@
 3	November	November	NOUN	S	Number=Sing	8	nmod	_	_
 4	1614	1614	NUM	N	NumType=Card	3	nummod	_	_
 5	he	he	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	_
-6	was	be	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	cop	_	_
+6	was	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	cop	_	_
 7	in	in	ADP	E	_	8	case	_	_
 8	London	London	PROPN	SP	_	0	root	_	_
 9	for	for	ADP	E	_	11	case	_	_
@@ -13536,7 +13536,7 @@
 3	standard	standard	ADJ	A	Degree=Pos	5	amod	_	_
 4	poetic	poetic	ADJ	A	Degree=Pos	5	amod	_	_
 5	form	form	NOUN	S	Number=Sing	8	nsubj	_	_
-6	was	be	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	cop	_	_
+6	was	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	cop	_	_
 7	blank	blank	ADJ	A	Degree=Pos	8	amod	_	_
 8	verse	verse	NOUN	S	Number=Sing	0	root	_	SpaceAfter=No
 9	,	,	PUNCT	FF	_	8	punct	_	_
@@ -13626,7 +13626,7 @@
 2	strongest	strongest	ADJ	A	Degree=Sup	3	amod	_	_
 3	evidence	evidence	NOUN	S	Number=Sing	8	nsubj	_	_
 4	might	may	AUX	VM	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	8	aux	_	_
-5	be	be	VERB	V	VerbForm=Inf	8	cop	_	_
+5	be	be	AUX	VA	VerbForm=Inf	8	cop	_	_
 6	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	8	det	_	_
 7	Catholic	Catholic	ADJ	A	Degree=Pos	8	amod	_	_
 8	statement	statement	NOUN	S	Number=Sing	0	root	_	_
