@@ -210,7 +210,7 @@
 11	on	on	ADP	E	_	12	case	_	_
 12	Friday	Friday	NOUN	S	Number=Sing	10	obl	_	_
 13	17	17	NUM	N	NumType=Card	14	nummod	_	_
-14	December	December	NOUN	S	Number=Sing	12	nmod	_	_
+14	December	December	PROPN	SP	_	12	nmod	_	_
 15	1999	1999	NUM	N	NumType=Card	14	nummod	_	SpaceAfter=No
 16	,	,	PUNCT	FF	_	20	punct	_	_
 17	and	and	CCONJ	CC	_	20	cc	_	_
@@ -576,7 +576,7 @@
 9	Committee	committee	NOUN	S	Number=Sing	10	nmod	_	_
 10	meeting	meeting	NOUN	S	Number=Sing	4	nsubj	_	_
 11	since	since	ADP	E	_	12	case	_	_
-12	1998	1998	NUM	N	NumType=Card	4	nummod	_	SpaceAfter=No
+12	1998	1998	NUM	N	NumType=Card	4	obl	_	SpaceAfter=No
 13	?	?	PUNCT	FS	_	4	punct	_	_
 
 # sent_id = en_partut-ud-115
@@ -672,13 +672,13 @@
 7	legislature	legislature	NOUN	S	Number=Sing	2	obl	_	SpaceAfter=No
 8	,	,	PUNCT	FF	_	7	punct	_	_
 9	in	in	ADP	E	_	10	case	_	_
-10	July	July	NOUN	S	_	7	nmod	_	SpaceAfter=No
+10	July	July	PROPN	SP	_	7	nmod	_	SpaceAfter=No
 11	,	,	PUNCT	FF	_	19	punct	_	_
 12	and	and	CCONJ	CC	_	19	cc	_	_
 13	then	then	ADV	B	_	19	advmod	_	SpaceAfter=No
 14	,	,	PUNCT	FF	_	13	punct	_	_
 15	in	in	ADP	E	_	16	case	_	_
-16	September	September	NOUN	S	Number=Sing	19	obl	_	SpaceAfter=No
+16	September	September	PROPN	SP	_	19	obl	_	SpaceAfter=No
 17	,	,	PUNCT	FF	_	16	punct	_	_
 18	it	it	PRON	PE	Number=Sing|Person=3|PronType=Prs	19	nsubj	_	_
 19	voted	vote	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	2	conj	_	_
@@ -708,7 +708,7 @@
 13	resolution	resolution	NOUN	S	Number=Sing	9	obl	_	_
 14	of	of	ADP	E	_	16	case	_	_
 15	15	15	NUM	N	NumType=Card	16	nummod	_	_
-16	September	September	NOUN	S	Number=Sing	13	nmod	_	SpaceAfter=No
+16	September	September	PROPN	SP	_	13	nmod	_	SpaceAfter=No
 17	,	,	PUNCT	FF	_	13	punct	_	_
 18	which	which	PRON	PR	PronType=Rel	19	nsubj	_	_
 19	recommended	recommend	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	13	acl:relcl	_	_
@@ -1672,7 +1672,7 @@
 36	force	force	NOUN	S	Number=Sing	34	obl	_	_
 37	on	on	ADP	E	_	39	case	_	_
 38	1	1	NUM	N	NumType=Card	39	nummod	_	_
-39	January	January	NOUN	S	_	34	obl	_	_
+39	January	January	PROPN	SP	_	34	obl	_	_
 40	1997	1997	NUM	N	NumType=Card	39	nummod	_	SpaceAfter=No
 41	,	,	PUNCT	FF	_	11	punct	_	_
 42	contains	contain	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
@@ -1826,7 +1826,7 @@
 20	Council	Council	NOUN	S	Number=Sing	21	nmod	_	_
 21	Decision	decision	NOUN	S	Number=Sing	15	obl	_	_
 22	of	of	ADP	E	_	23	case	_	_
-23	June	June	NOUN	S	Number=Sing	21	nmod	_	_
+23	June	June	PROPN	SP	_	21	nmod	_	_
 24	1999	1999	NUM	N	NumType=Card	23	nummod	_	SpaceAfter=No
 25	.	.	PUNCT	FS	_	15	punct	_	_
 
@@ -1919,7 +1919,7 @@
 14	service	service	NOUN	S	Number=Sing	12	obl	_	_
 15	between	between	ADP	E	_	17	case	_	_
 16	1	1	NUM	N	NumType=Card	17	nummod	_	_
-17	January	January	NOUN	S	_	12	obl	_	_
+17	January	January	PROPN	SP	_	12	obl	_	_
 18	1997	1997	NUM	N	NumType=Card	17	nummod	_	_
 19	and	and	CCONJ	CC	_	28	cc	_	_
 20	the	the	DET	RD	Definite=Def|PronType=Art	21	det	_	_
@@ -2738,7 +2738,7 @@
 12	the	the	DET	RD	Definite=Def|PronType=Art	13	det	_	_
 13	responsibility	responsibility	NOUN	S	Number=Sing	8	conj	_	_
 14	of	of	ADP	E	_	16	case	_	_
-15	Member	member	NOUN	S	Number=Sing	16	nmod	_	_
+15	Member	member	NOUN	S	Number=Sing	16	compound	_	_
 16	States	state	NOUN	S	Number=Plur	13	nmod	_	_
 17	and	and	CCONJ	CC	_	19	cc	_	_
 18	the	the	DET	RD	Definite=Def|PronType=Art	19	det	_	_
@@ -2886,7 +2886,7 @@
 20	Berlin	Berlin	PROPN	SP	_	21	nmod	_	_
 21	Summit	Summit	PROPN	SP	_	12	obl	_	_
 22	last	last	ADJ	NO	Degree=Pos|NumType=Ord	23	amod	_	_
-23	year	year	NOUN	S	Number=Sing	12	nmod:tmod	_	SpaceAfter=No
+23	year	year	NOUN	S	Number=Sing	12	obl	_	SpaceAfter=No
 24	,	,	PUNCT	FF	_	11	punct	_	_
 25	which	which	PRON	PR	PronType=Rel	27	nsubj:pass	_	_
 26	were	be	AUX	VA	Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	27	aux:pass	_	_
@@ -2896,7 +2896,7 @@
 30	at	at	ADP	E	_	37	case	_	_
 31	its	its	DET	AP	Number=Sing|Poss=Yes|PronType=Prs	37	nmod:poss	_	_
 32	last	last	ADJ	NO	Degree=Pos|NumType=Ord	33	amod	_	_
-33	May	May	NOUN	S	Number=Sing	37	nmod	_	_
+33	May	May	PROPN	SP	_	37	nmod	_	_
 34	plenary	plenary	ADJ	A	Degree=Pos	37	amod	_	_
 35	part	part	ADJ	A	Degree=Pos	37	amod	_	SpaceAfter=No
 36	-	-	PUNCT	FF	_	37	punct	_	SpaceAfter=No
@@ -3070,7 +3070,7 @@
 24	was	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	25	aux:pass	_	_
 25	signed	sign	VERB	V	Tense=Past|VerbForm=Part	22	acl:relcl	_	_
 26	in	in	ADP	E	_	27	case	_	_
-27	May	may	NOUN	S	_	25	obl	_	SpaceAfter=No
+27	May	May	PROPN	SP	_	25	obl	_	SpaceAfter=No
 28	.	.	PUNCT	FS	_	9	punct	_	_
 
 # sent_id = en_partut-ud-429
@@ -3499,9 +3499,9 @@
 # text = Reach over 800 million people where they connect and share.
 1	Reach	reach	VERB	V	Mood=Imp|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 2	over	over	ADV	B	_	4	advmod	_	_
-3	800	800	NUM	N	NumType=Card	4	nummod	_	_
-4	million	million	NOUN	S	Number=Sing	1	obj	_	_
-5	people	people	NOUN	S	Number=Plur	4	nmod	_	_
+3	800	800	NUM	N	NumType=Card	4	compound	_	_
+4	million	million	NUM	N	NumType=Card	5	nummod	_	_
+5	people	people	NOUN	S	Number=Plur	1	obj	_	_
 6	where	where	ADV	B	_	8	advmod	_	_
 7	they	they	PRON	PE	Number=Plur|Person=3|PronType=Prs	8	nsubj	_	_
 8	connect	connect	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	5	acl:relcl	_	_
@@ -4136,7 +4136,7 @@
 15	EEC	EEC	PROPN	SP	_	11	nmod	_	_
 16	of	of	ADP	E	_	18	case	_	_
 17	13	13	NUM	N	NumType=Card	18	nummod	_	_
-18	February	February	NOUN	S	Number=Sing	10	nmod	_	_
+18	February	February	PROPN	SP	_	10	nmod	_	_
 19	1978	1978	NUM	N	NumType=Card	18	nummod	_	_
 20	on	on	ADP	E	_	22	case	_	_
 21	the	the	DET	RD	Definite=Def|PronType=Art	22	det	_	_
@@ -4201,7 +4201,7 @@
 80	EEC	EEC	PROPN	SP	_	76	nmod	_	_
 81	of	of	ADP	E	_	83	case	_	_
 82	29	29	NUM	N	NumType=Card	83	nummod	_	_
-83	June	June	NOUN	S	Number=Sing	75	nmod	_	_
+83	June	June	PROPN	SP	_	75	nmod	_	_
 84	1990	1990	NUM	N	NumType=Card	83	nummod	_	_
 85	on	on	ADP	E	_	87	case	_	_
 86	the	the	DET	RD	Definite=Def|PronType=Art	87	det	_	_
@@ -4236,7 +4236,7 @@
 115	Council	Council	NOUN	S	Number=Sing	111	conj	_	_
 116	of	of	ADP	E	_	118	case	_	_
 117	16	16	NUM	N	NumType=Card	118	nummod	_	_
-118	December	December	NOUN	S	Number=Sing	102	nmod	_	_
+118	December	December	PROPN	SP	_	102	nmod	_	_
 119	2002	2002	NUM	N	NumType=Card	118	nummod	_	_
 120	on	on	ADP	E	_	123	case	_	_
 121	the	the	DET	RD	Definite=Def|PronType=Art	123	det	_	_
@@ -4321,7 +4321,7 @@
 23	,	,	PUNCT	FF	_	15	punct	_	_
 24	by	by	ADP	E	_	26	case	_	_
 25	30	30	NUM	N	NumType=Card	26	nummod	_	_
-26	June	June	NOUN	S	Number=Sing	15	obl	_	_
+26	June	June	PROPN	SP	_	15	obl	_	_
 27	2005	2005	NUM	N	NumType=Card	26	nummod	_	SpaceAfter=No
 28	:	:	PUNCT	FC	_	10	punct	_	_
 
@@ -4477,13 +4477,13 @@
 14	the	the	DET	RD	Definite=Def|PronType=Art	16	det	_	_
 15	same	same	ADJ	A	Degree=Pos	16	amod	_	_
 16	budget	budget	NOUN	S	Number=Sing	5	obl	_	_
-17	(	(	PUNCT	FB	_	19	punct	_	SpaceAfter=No
-18	1	1	NUM	N	NumType=Card	19	nummod	_	_
-19	million	million	NOUN	S	Number=Sing	16	appos	_	_
-20	euro	euro	NOUN	S	Number=Sing	19	nmod	_	_
+17	(	(	PUNCT	FB	_	20	punct	_	SpaceAfter=No
+18	1	1	NUM	N	NumType=Card	19	compound	_	_
+19	million	million	NUM	N	NumType=Card	20	nummod	_	_
+20	euro	euro	NOUN	S	Number=Sing	16	appos	_	_
 21	per	per	ADP	E	_	22	case	_	_
-22	year	year	NOUN	S	Number=Sing	19	nmod	_	SpaceAfter=No
-23	)	)	PUNCT	FB	_	19	punct	_	_
+22	year	year	NOUN	S	Number=Sing	20	nmod	_	SpaceAfter=No
+23	)	)	PUNCT	FB	_	20	punct	_	_
 24	and	and	CCONJ	CC	_	28	cc	_	_
 25	with	with	ADP	E	_	28	case	_	_
 26	the	the	DET	RD	Definite=Def|PronType=Art	28	det	_	_
@@ -4520,14 +4520,14 @@
 10	carried	carry	VERB	V	Tense=Past|VerbForm=Part	0	root	_	_
 11	out	out	ADP	E	_	10	compound:prt	_	_
 12	in	in	ADP	E	_	13	case	_	_
-13	October	October	NOUN	S	_	10	obl	_	_
+13	October	October	PROPN	SP	_	10	obl	_	_
 14	2002	2002	NUM	N	NumType=Card	13	nummod	_	_
 15	and	and	CCONJ	CC	_	25	cc	_	_
 16	the	the	DET	RD	Definite=Def|PronType=Art	17	det	_	_
 17	amount	amount	NOUN	S	Number=Sing	25	nsubj	_	_
 18	committed	commit	VERB	V	Tense=Past|VerbForm=Part	17	acl	_	_
 19	in	in	ADP	E	_	20	case	_	_
-20	2002	2002	NUM	N	NumType=Card	18	nummod	_	_
+20	2002	2002	NUM	N	NumType=Card	18	obl	_	_
 21	was	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	25	cop	_	_
 22	just	just	ADV	B	_	25	advmod	_	_
 23	under	under	ADP	E	_	25	case	_	_
@@ -4590,7 +4590,7 @@
 # sent_id = en_partut-ud-689
 # text = for 2005 another 18 actions are intended by the Member States and the Commission.
 1	for	for	ADP	E	_	2	case	_	_
-2	2005	2005	NUM	N	NumType=Card	7	nummod	_	_
+2	2005	2005	NUM	N	NumType=Card	7	obl	_	_
 3	another	another	DET	RI	Definite=Ind|Number=Sing|PronType=Art	5	det	_	_
 4	18	18	NUM	N	NumType=Card	5	nummod	_	_
 5	actions	action	NOUN	S	Number=Plur	7	nsubj:pass	_	_
@@ -4598,7 +4598,7 @@
 7	intended	intend	VERB	V	Tense=Past|VerbForm=Part	0	root	_	_
 8	by	by	ADP	E	_	11	case	_	_
 9	the	the	DET	RD	Definite=Def|PronType=Art	11	det	_	_
-10	Member	member	NOUN	S	Number=Sing	11	nmod	_	_
+10	Member	member	NOUN	S	Number=Sing	11	compound	_	_
 11	States	state	NOUN	S	Number=Plur	7	obl:agent	_	_
 12	and	and	CCONJ	CC	_	14	cc	_	_
 13	the	the	DET	RD	Definite=Def|PronType=Art	14	det	_	_
@@ -4630,7 +4630,7 @@
 # text = As of 2003, a greater involvement of judiciary authorities is observed, while as of 2004 and 2005, there is a more pronounced participation of the financial sector (public sector financial intermediaries, National Central Banks, commercial banking and other financial institutions).
 1	As	as	ADP	E	_	3	case	_	_
 2	of	of	ADP	E	_	1	fixed	_	_
-3	2003	2003	NUM	N	NumType=Card	12	nummod	_	SpaceAfter=No
+3	2003	2003	NUM	N	NumType=Card	12	obl	_	SpaceAfter=No
 4	,	,	PUNCT	FF	_	3	punct	_	_
 5	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	7	det	_	_
 6	greater	greater	ADJ	A	Degree=Cmp	7	amod	_	_
@@ -4644,7 +4644,7 @@
 14	while	while	SCONJ	CS	_	22	mark	_	_
 15	as	as	ADP	E	_	17	case	_	_
 16	of	of	ADP	E	_	15	fixed	_	_
-17	2004	2004	NUM	N	NumType=Card	22	nummod	_	_
+17	2004	2004	NUM	N	NumType=Card	22	obl	_	_
 18	and	and	CCONJ	CC	_	19	cc	_	_
 19	2005	2005	NUM	N	NumType=Card	17	conj	_	SpaceAfter=No
 20	,	,	PUNCT	FF	_	17	punct	_	_
@@ -4763,7 +4763,7 @@
 9	proposal	proposal	NOUN	S	Number=Sing	6	obl	_	SpaceAfter=No
 10	,	,	PUNCT	FF	_	9	punct	_	_
 11	by	by	ADP	E	_	13	case	_	_
-12	Member	member	NOUN	S	Number=Sing	13	nmod	_	_
+12	Member	member	NOUN	S	Number=Sing	13	compound	_	_
 13	States	state	NOUN	S	Number=Plur	9	nmod	_	SpaceAfter=No
 14	,	,	PUNCT	FF	_	9	punct	_	_
 15	for	for	ADP	E	_	18	case	_	_
@@ -5367,7 +5367,7 @@
 18	wrote	write	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 19	in	in	ADP	E	_	21	case	_	_
 20	the	the	DET	RD	Definite=Def|PronType=Art	21	det	_	_
-21	1940s	1940s	NUM	N	NumType=Card	18	nummod	_	_
+21	1940s	1940s	NUM	N	NumType=Card	18	obl	_	_
 22	that	that	SCONJ	CS	_	38	mark	_	_
 23	"	"	PUNCT	FB	_	38	punct	_	SpaceAfter=No
 24	The	the	DET	RD	Definite=Def|PronType=Art	25	det	_	_
@@ -5828,7 +5828,7 @@
 2	photograph	photograph	NOUN	S	Number=Sing	4	nsubj:pass	_	SpaceAfter=No
 3	's	's	PART	PART	_	2	case	_	_
 4	taken	take	VERB	V	Tense=Past|VerbForm=Part	0	root	_	_
-5	1950	1950	NUM	N	NumType=Card	4	nummod	_	SpaceAfter=No
+5	1950	1950	NUM	N	NumType=Card	4	obl	_	SpaceAfter=No
 6	s	s	X	X	_	5	goeswith	_	_
 7	in	in	ADP	E	_	8	case	_	_
 8	Saudi	Saudi	PROPN	SP	_	4	obl	_	_
@@ -5937,7 +5937,7 @@
 16	Governments	government	NOUN	S	Number=Plur	13	nmod	_	_
 17	of	of	ADP	E	_	20	case	_	_
 18	the	the	DET	RD	Definite=Def|PronType=Art	20	det	_	_
-19	Member	member	NOUN	S	Number=Sing	20	nmod	_	_
+19	Member	member	NOUN	S	Number=Sing	20	compound	_	_
 20	States	state	NOUN	S	Number=Plur	16	nmod	_	_
 21	meeting	meet	VERB	V	Number=Sing|Tense=Pres|VerbForm=Part	4	advcl	_	_
 22	within	within	ADP	E	_	24	case	_	_
@@ -6088,7 +6088,7 @@
 18	on	on	ADP	E	_	19	case	_	_
 19	trade	trade	NOUN	S	Number=Sing	17	nmod	_	_
 20	between	between	ADP	E	_	22	case	_	_
-21	Member	member	NOUN	S	Number=Sing	22	nmod	_	_
+21	Member	member	NOUN	S	Number=Sing	22	compound	_	_
 22	States	state	NOUN	S	Number=Plur	17	nmod	_	SpaceAfter=No
 23	.	.	PUNCT	FS	_	7	punct	_	_
 
@@ -6191,7 +6191,7 @@
 22	expire	expire	VERB	V	VerbForm=Inf	0	root	_	_
 23	on	on	ADP	E	_	25	case	_	_
 24	6	6	NUM	N	NumType=Card	25	nummod	_	_
-25	October	October	NOUN	S	_	22	obl	_	_
+25	October	October	PROPN	SP	_	22	obl	_	_
 26	2009	2009	NUM	N	NumType=Card	25	nummod	_	SpaceAfter=No
 27	.	.	PUNCT	FS	_	22	punct	_	_
 
@@ -6892,7 +6892,7 @@
 15	occurred	occur	VERB	V	Tense=Past|VerbForm=Part	12	acl:relcl	_	_
 16	since	since	ADP	E	_	18	case	_	_
 17	the	the	DET	RD	Definite=Def|PronType=Art	18	det	_	_
-18	1990	1990	NUM	N	NumType=Card	15	nummod	_	SpaceAfter=No
+18	1990	1990	NUM	N	NumType=Card	15	obl	_	SpaceAfter=No
 19	'	'	X	X	_	18	case	_	SpaceAfter=No
 20	s	s	X	X	_	19	goeswith	_	SpaceAfter=No
 21	.	.	PUNCT	FS	_	4	punct	_	_
@@ -7168,7 +7168,7 @@
 3	found	find	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 4	that	that	SCONJ	CS	_	32	mark	_	_
 5	in	in	ADP	E	_	6	case	_	_
-6	2009	2009	NUM	N	NumType=Card	32	nummod	_	SpaceAfter=No
+6	2009	2009	NUM	N	NumType=Card	32	obl	_	SpaceAfter=No
 7	,	,	PUNCT	FF	_	6	punct	_	_
 8	across	across	ADP	E	_	10	case	_	_
 9	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	10	det	_	_
@@ -7313,27 +7313,27 @@
 19	increase	increase	VERB	V	VerbForm=Inf	0	root	_	_
 20	FDI	FDI	PROPN	SP	_	21	nmod	_	_
 21	inflows	inflow	NOUN	S	Number=Plur	19	obj	_	_
-22	from	from	ADP	E	_	25	case	_	_
-23	$	$	X	X	_	25	nmod	_	SpaceAfter=No
-24	1.5	1.5	NUM	N	NumType=Card	25	nummod	_	_
-25	billion	billion	NOUN	S	Number=Sing	19	obl	_	_
+22	from	from	ADP	E	_	23	case	_	_
+23	$	$	SYM	X	_	19	obl	_	SpaceAfter=No
+24	1.5	1.5	NUM	N	NumType=Card	25	compound	_	_
+25	billion	billion	NUM	N	NumType=Card	23	nummod	_	_
 26	this	this	DET	DD	Number=Sing|PronType=Dem	27	det	_	_
 27	year	year	NOUN	S	Number=Sing	19	obl	_	_
-28	to	to	ADP	E	_	31	case	_	_
-29	$	$	X	X	_	31	nmod	_	SpaceAfter=No
-30	8.3	8.3	NUM	N	NumType=Card	31	nummod	_	_
-31	billion	billion	NOUN	S	Number=Sing	19	obl	_	_
+28	to	to	ADP	E	_	29	case	_	_
+29	$	$	SYM	X	_	19	obl	_	SpaceAfter=No
+30	8.3	8.3	NUM	N	NumType=Card	31	compound	_	_
+31	billion	billion	NUM	N	NumType=Card	29	nummod	_	_
 32	in	in	ADP	E	_	33	case	_	_
-33	2020	2020	NUM	N	NumType=Card	19	nummod	_	SpaceAfter=No
+33	2020	2020	NUM	N	NumType=Card	19	obl	_	SpaceAfter=No
 34	,	,	PUNCT	FF	_	19	punct	_	_
 35	with	with	ADP	E	_	37	case	_	_
 36	pharmaceutical	pharmaceutic	ADJ	A	Degree=Pos	37	amod	_	_
 37	R&D	R&D	PROPN	SP	_	19	obl	_	_
 38	doubling	double	VERB	V	Number=Sing|Tense=Pres|VerbForm=Part	37	acl	_	_
-39	to	to	ADP	E	_	42	case	_	_
-40	$	$	X	X	_	42	nmod	_	SpaceAfter=No
-41	1.3	1.3	NUM	N	NumType=Card	42	nummod	_	_
-42	billion	billion	NOUN	S	Number=Sing	38	obl	_	_
+39	to	to	ADP	E	_	40	case	_	_
+40	$	$	SYM	X	_	38	obl	_	SpaceAfter=No
+41	1.3	1.3	NUM	N	NumType=Card	42	compound	_	_
+42	billion	billion	NUM	N	NumType=Card	40	nummod	_	_
 43	over	over	ADP	E	_	46	case	_	_
 44	the	the	DET	RD	Definite=Def|PronType=Art	46	det	_	_
 45	same	same	ADJ	A	Degree=Pos	46	amod	_	_
@@ -7401,7 +7401,7 @@
 10	%	%	SYM	X	_	4	obl	_	_
 11	annually	annually	ADV	B	_	4	advmod	_	_
 12	by	by	ADP	E	_	13	case	_	_
-13	2020	2020	NUM	N	NumType=Card	4	nummod	_	SpaceAfter=No
+13	2020	2020	NUM	N	NumType=Card	4	obl	_	SpaceAfter=No
 14	;	;	PUNCT	FC	_	4	punct	_	_
 
 # sent_id = en_partut-ud-1075
@@ -7417,18 +7417,18 @@
 9	reach	reach	VERB	V	VerbForm=Inf	0	root	_	_
 10	as	as	ADP	E	_	11	advmod	_	_
 11	much	much	ADJ	A	Degree=Pos	9	obj	_	_
-12	as	as	ADP	E	_	15	case	_	_
-13	$	$	X	X	_	15	nmod	_	SpaceAfter=No
-14	77	77	NUM	N	NumType=Card	15	nummod	_	_
-15	billion	billion	NOUN	S	Number=Sing	11	obl	_	SpaceAfter=No
+12	as	as	ADP	E	_	13	case	_	_
+13	$	$	SYM	X	_	11	obl	_	SpaceAfter=No
+14	77	77	NUM	N	NumType=Card	15	compound	_	_
+15	billion	billion	NUM	N	NumType=Card	13	nummod	_	SpaceAfter=No
 16	,	,	PUNCT	FF	_	9	punct	_	_
 17	with	with	ADP	E	_	19	mark	_	_
 18	R&D	R&D	PROPN	SP	_	19	nsubj	_	_
 19	rising	rise	VERB	V	Number=Sing|Tense=Pres|VerbForm=Part	9	advcl	_	_
-20	to	to	ADP	E	_	23	case	_	_
-21	$	$	X	X	_	23	nmod	_	SpaceAfter=No
-22	4.2	4.2	NUM	N	NumType=Card	23	nummod	_	_
-23	billion	billion	NOUN	S	Number=Sing	19	obl	_	_
+20	to	to	ADP	E	_	21	case	_	_
+21	$	$	SYM	X	_	19	obl	_	SpaceAfter=No
+22	4.2	4.2	NUM	N	NumType=Card	23	compound	_	_
+23	billion	billion	NUM	N	NumType=Card	21	nummod	_	_
 24	and	and	CCONJ	CC	_	29	cc	_	_
 25	44,000	44,000	NUM	N	NumType=Card	27	nummod	_	_
 26	new	new	ADJ	A	Degree=Pos	27	amod	_	_
@@ -7888,7 +7888,7 @@
 28	almost	almost	ADV	B	_	29	advmod	_	_
 29	doubled	double	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	19	ccomp	_	_
 30	between	between	ADP	E	_	31	case	_	_
-31	1980	1980	NUM	N	NumType=Card	29	nummod	_	_
+31	1980	1980	NUM	N	NumType=Card	29	obl	_	_
 32	and	and	CCONJ	CC	_	33	cc	_	_
 33	2006	2006	NUM	N	NumType=Card	31	conj	_	SpaceAfter=No
 34	,	,	PUNCT	FF	_	29	punct	_	_
@@ -8508,7 +8508,7 @@
 22	manufacturing	manufacturing	NOUN	S	_	19	nsubj	_	_
 23	left	leave	VERB	V	Tense=Past|VerbForm=Part	22	acl	_	_
 24	by	by	ADP	E	_	25	case	_	_
-25	2050	2050	NUM	N	NumType=Card	23	nummod	_	SpaceAfter=No
+25	2050	2050	NUM	N	NumType=Card	23	obl	_	SpaceAfter=No
 26	,	,	PUNCT	FF	_	31	punct	_	_
 27	and	and	CCONJ	CC	_	31	cc	_	_
 28	even	even	ADV	B	_	31	advmod	_	_
@@ -8850,7 +8850,7 @@
 6	in	in	ADP	E	_	7	case	_	_
 7	Ukraine	Ukraine	PROPN	SP	_	2	obl	_	_
 8	in	in	ADP	E	_	9	case	_	_
-9	1990	1990	NUM	N	NumType=Card	2	nummod	_	_
+9	1990	1990	NUM	N	NumType=Card	2	obl	_	_
 10	–	–	PUNCT	FF	_	2	punct	_	_
 11	before	before	SCONJ	CS	_	14	mark	_	_
 12	the	the	DET	RD	Definite=Def|PronType=Art	13	det	_	_
@@ -9591,7 +9591,7 @@
 8	outsize	outsize	NOUN	S	Number=Sing	9	nmod	_	_
 9	backstop	backstop	NOUN	S	Number=Sing	19	nsubj	_	_
 10	of	of	ADP	E	_	13	case	_	_
-11	$	$	X	X	_	13	nmod	_	SpaceAfter=No
+11	$	$	SYM	X	_	13	nmod	_	SpaceAfter=No
 12	3.8	3.8	NUM	N	NumType=Card	13	nummod	_	_
 13	trillion	trillion	NOUN	S	Number=Sing	9	nmod	_	_
 14	in	in	ADP	E	_	18	case	_	_
@@ -9834,7 +9834,7 @@
 1	Indeed	indeed	ADV	B	_	10	advmod	_	SpaceAfter=No
 2	,	,	PUNCT	FF	_	1	punct	_	_
 3	in	in	ADP	E	_	4	case	_	_
-4	2013	2013	NUM	N	NumType=Card	10	nummod	_	SpaceAfter=No
+4	2013	2013	NUM	N	NumType=Card	10	obl	_	SpaceAfter=No
 5	,	,	PUNCT	FF	_	4	punct	_	_
 6	the	the	DET	RD	Definite=Def|PronType=Art	9	det	_	_
 7	Chinese	Chinese	ADJ	A	Degree=Pos	8	amod	_	_
@@ -12665,7 +12665,7 @@
 
 # sent_id = en_partut-ud-1322
 # text = MAR 20, 2014.
-1	MAR	March	NOUN	S	Number=Sing	0	root	_	_
+1	MAR	March	PROPN	SP	_	0	root	_	_
 2	20	20	NUM	N	NumType=Card	1	flat	_	SpaceAfter=No
 3	,	,	PUNCT	FF	_	1	punct	_	_
 4	2014	2014	NUM	N	NumType=Card	1	flat	_	SpaceAfter=No
@@ -12705,18 +12705,18 @@
 21	from	from	ADP	E	_	26	case	_	_
 22	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	26	det	_	_
 23	mere	mere	ADJ	A	Degree=Pos	26	amod	_	_
-24	$	$	X	X	_	26	nmod	_	SpaceAfter=No
+24	$	$	SYM	X	_	26	nmod	_	SpaceAfter=No
 25	80	80	NUM	N	NumType=Card	26	nummod	_	_
 26	dollars	dollar	NOUN	S	Number=Plur	20	obl	_	_
 27	in	in	ADP	E	_	28	case	_	_
-28	1960	1960	NUM	N	NumType=Card	20	nummod	_	_
+28	1960	1960	NUM	N	NumType=Card	20	obl	_	_
 29	to	to	ADP	E	_	32	case	_	_
 30	more	more	ADV	B	Degree=Cmp	32	advmod	_	_
 31	than	than	ADP	E	_	30	fixed	_	_
-32	$	$	X	X	_	20	obl	_	SpaceAfter=No
+32	$	$	SYM	X	_	20	obl	_	SpaceAfter=No
 33	22,000	22,000	NUM	N	NumType=Card	32	nummod	_	_
 34	last	last	ADJ	NO	Degree=Pos|NumType=Ord	35	amod	_	_
-35	year	year	NOUN	S	Number=Sing	20	nmod:tmod	_	SpaceAfter=No
+35	year	year	NOUN	S	Number=Sing	20	obl	_	SpaceAfter=No
 36	.	.	PUNCT	FS	_	11	punct	_	_
 
 # sent_id = en_partut-ud-1325
@@ -12749,7 +12749,7 @@
 26	25	25	NUM	N	NumType=Card	27	nummod	_	SpaceAfter=No
 27	%	%	SYM	X	_	24	obl	_	_
 28	by	by	ADP	E	_	29	case	_	_
-29	2050	2050	NUM	N	NumType=Card	24	nummod	_	_
+29	2050	2050	NUM	N	NumType=Card	24	obl	_	_
 30	–	–	PUNCT	FB	_	22	punct	_	_
 31	and	and	CCONJ	CC	_	33	cc	_	_
 32	rising	rise	VERB	V	Tense=Past|VerbForm=Part	33	acl	_	_
@@ -12824,9 +12824,9 @@
 # sent_id = en_partut-ud-1328
 # text = From 1960 to 2010, the share of adults with a secondary education soared from 20% to an impressive 87%.
 1	From	from	ADP	E	_	2	case	_	_
-2	1960	1960	NUM	N	NumType=Card	14	nummod	_	_
+2	1960	1960	NUM	N	NumType=Card	14	obl	_	_
 3	to	to	ADP	E	_	4	case	_	_
-4	2010	2010	NUM	N	NumType=Card	14	nummod	_	SpaceAfter=No
+4	2010	2010	NUM	N	NumType=Card	14	obl	_	SpaceAfter=No
 5	,	,	PUNCT	FF	_	4	punct	_	_
 6	the	the	DET	RD	Definite=Def|PronType=Art	7	det	_	_
 7	share	share	NOUN	S	Number=Sing	14	nsubj	_	_
@@ -12844,7 +12844,7 @@
 19	an	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	22	det	_	_
 20	impressive	impressive	ADJ	A	Degree=Pos	22	amod	_	_
 21	87	87	NUM	N	NumType=Card	22	nummod	_	SpaceAfter=No
-22	%	%	SYM	X	_	17	nmod	_	SpaceAfter=No
+22	%	%	SYM	X	_	14	obl	_	SpaceAfter=No
 23	.	.	PUNCT	FS	_	14	punct	_	_
 
 # sent_id = en_partut-ud-1329
@@ -12977,7 +12977,7 @@
 12	hye	hye	NOUN	S	Gender=Fem|Number=Sing	9	flat:name	_	SpaceAfter=No
 13	,	,	PUNCT	FF	_	3	punct	_	_
 14	in	in	ADP	E	_	15	case	_	_
-15	2012	2012	NUM	N	NumType=Card	3	nummod	_	SpaceAfter=No
+15	2012	2012	NUM	N	NumType=Card	3	obl	_	SpaceAfter=No
 16	.	.	PUNCT	FS	_	3	punct	_	_
 
 # sent_id = en_partut-ud-1334
@@ -13013,9 +13013,9 @@
 11	Korean	Korean	ADJ	A	Degree=Pos	10	compound	_	_
 12	women	women	NOUN	S	Gender=Fem|Number=Sing	8	nmod	_	_
 13	aged	age	VERB	V	Tense=Past|VerbForm=Part	12	acl	_	_
-14	15	15	NUM	N	NumType=Card	13	nummod	_	SpaceAfter=No
-15	-	-	PUNCT	FF	_	8	punct	_	SpaceAfter=No
-16	64	64	NUM	N	NumType=Card	15	nummod	_	_
+14	15	15	NUM	N	NumType=Card	13	xcomp	_	SpaceAfter=No
+15	-	-	PUNCT	FF	_	14	punct	_	SpaceAfter=No
+16	64	64	NUM	N	NumType=Card	14	nummod	_	_
 17	are	be	AUX	VA	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	21	cop	_	_
 18	in	in	ADP	E	_	21	case	_	_
 19	the	the	DET	RD	Definite=Def|PronType=Art	21	det	_	_
@@ -13598,7 +13598,7 @@
 3	met	meet	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	11	advcl	_	_
 4	her	she	PRON	PE	Person=3|PronType=Prs	3	obj	_	_
 5	in	in	ADP	E	_	6	case	_	_
-6	2012	2012	NUM	N	NumType=Card	3	nummod	_	SpaceAfter=No
+6	2012	2012	NUM	N	NumType=Card	3	obl	_	SpaceAfter=No
 7	,	,	PUNCT	FF	_	3	punct	_	_
 8	she	she	PRON	PE	Gender=Fem|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	_
 9	had	have	AUX	VA	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	11	aux	_	_
@@ -14363,7 +14363,7 @@
 7	IMF	IMF	PROPN	SP	_	4	obl	_	_
 8	in	in	ADP	E	_	10	case	_	_
 9	the	the	DET	RD	Definite=Def|PronType=Art	10	det	_	_
-10	2000	2000	NUM	N	NumType=Card	4	nummod	_	SpaceAfter=No
+10	2000	2000	NUM	N	NumType=Card	4	obl	_	SpaceAfter=No
 11	'	'	X	X	_	10	case	_	SpaceAfter=No
 12	s	s	X	X	_	11	goeswith	_	SpaceAfter=No
 13	,	,	PUNCT	FF	_	4	punct	_	_
@@ -14691,7 +14691,7 @@
 14	item	item	NOUN	S	Number=Sing	12	obj	_	_
 15	hard	hard	ADV	B	_	12	advmod	_	_
 16	in	in	ADP	E	_	17	case	_	_
-17	2013	2013	NUM	N	NumType=Card	12	nummod	_	_
+17	2013	2013	NUM	N	NumType=Card	12	obl	_	_
 18	and	and	CCONJ	CC	_	20	cc	_	_
 19	early	early	ADJ	A	Degree=Pos	20	amod	_	_
 20	2014	2014	NUM	N	NumType=Card	17	conj	_	_
@@ -15838,7 +15838,7 @@
 38	devour	devour	VERB	V	VerbForm=Inf	34	acl:relcl	_	_
 39	more	more	ADV	B	Degree=Cmp	40	advmod	_	_
 40	easily	easily	ADV	B	_	38	advmod	_	_
-41	later	later	ADV	B	_	38	advmod	_	SpaceAfter=No
+41	later	later	ADV	B	Degree=Cmp	38	advmod	_	SpaceAfter=No
 42	.	.	PUNCT	FS	_	5	punct	_	_
 
 # sent_id = en_partut-ud-1465
@@ -17417,11 +17417,11 @@
 1	Balzac	Balzac	PROPN	SP	_	14	nsubj	_	_
 2	(	(	PUNCT	FB	_	4	punct	_	SpaceAfter=No
 3	20	20	NUM	N	NumType=Card	4	nummod	_	_
-4	May	May	NOUN	S	Number=Sing	1	nmod	_	_
+4	May	May	PROPN	SP	_	1	nmod	_	_
 5	1799	1799	NUM	N	NumType=Card	4	nummod	_	SpaceAfter=No
 6	-	-	PUNCT	FF	_	4	punct	_	SpaceAfter=No
 7	18	18	NUM	N	NumType=Card	8	nummod	_	_
-8	August	August	NOUN	S	_	4	nmod	_	_
+8	August	August	PROPN	SP	_	4	nmod	_	_
 9	1850	1850	NUM	N	NumType=Card	8	nummod	_	SpaceAfter=No
 10	)	)	PUNCT	FB	_	4	punct	_	_
 11	was	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	14	cop	_	_
@@ -17795,7 +17795,7 @@
 # sent_id = en_partut-ud-1552
 # text = In 1850 he married Ewelina Hanska, his longtime love;
 1	In	in	ADP	E	_	2	case	_	_
-2	1850	1850	NUM	N	NumType=Card	4	nummod	_	_
+2	1850	1850	NUM	N	NumType=Card	4	obl	_	_
 3	he	he	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
 4	married	marry	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 5	Ewelina	Ewelina	PROPN	SP	_	4	obj	_	_
@@ -17811,8 +17811,8 @@
 1	he	he	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
 2	died	die	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 3	five	five	NUM	N	NumType=Card	4	nummod	_	_
-4	months	month	NOUN	S	Number=Plur	2	obl	_	_
-5	later	later	ADV	B	_	2	advmod	_	SpaceAfter=No
+4	months	month	NOUN	S	Number=Plur	5	obl	_	_
+5	later	later	ADV	B	Degree=Cmp	2	advmod	_	SpaceAfter=No
 6	.	.	PUNCT	FS	_	2	punct	_	_
 
 # sent_id = en_partut-ud-1555
@@ -17849,7 +17849,7 @@
 # sent_id = en_partut-ud-1556
 # text = In 1760 the elder Balzac set off for Paris with only a louis coin in his pocket, determined to improve his social standing;
 1	In	in	ADP	E	_	2	case	_	_
-2	1760	1760	NUM	N	NumType=Card	6	nummod	_	_
+2	1760	1760	NUM	N	NumType=Card	6	obl	_	_
 3	the	the	DET	RD	Definite=Def|PronType=Art	5	det	_	_
 4	elder	elder	ADJ	A	Degree=Pos	5	amod	_	_
 5	Balzac	Balzac	PROPN	SP	_	6	nsubj	_	_
@@ -17877,7 +17877,7 @@
 # sent_id = en_partut-ud-1557
 # text = by 1776 he had become Secretary to the King's Council and a Freemason.
 1	by	by	ADP	E	_	2	case	_	_
-2	1776	1776	NUM	N	NumType=Card	5	nummod	_	_
+2	1776	1776	NUM	N	NumType=Card	5	obl	_	_
 3	he	he	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
 4	had	have	AUX	VA	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	5	aux	_	_
 5	become	become	VERB	V	Tense=Past|VerbForm=Part	0	root	_	_
@@ -18016,7 +18016,7 @@
 7	were	be	AUX	VA	Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	8	aux	_	_
 8	born	bear	VERB	V	Tense=Past|VerbForm=Part	0	root	_	_
 9	in	in	ADP	E	_	10	case	_	_
-10	1800	1800	NUM	N	NumType=Card	8	nummod	_	_
+10	1800	1800	NUM	N	NumType=Card	8	obl	_	_
 11	and	and	CCONJ	CC	_	12	cc	_	_
 12	1802	1802	NUM	N	NumType=Card	10	conj	_	SpaceAfter=No
 13	,	,	PUNCT	FF	_	16	punct	_	_
@@ -18452,7 +18452,7 @@
 2	Guizot	Guizot	PROPN	SP	_	1	flat:name	_	SpaceAfter=No
 3	,	,	PUNCT	FF	_	1	punct	_	_
 4	who	who	PRON	PR	PronType=Rel	6	nsubj	_	_
-5	later	later	ADV	B	_	6	advmod	_	_
+5	later	later	ADV	B	Degree=Cmp	6	advmod	_	_
 6	became	become	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	1	acl:relcl	_	_
 7	Prime	prime	ADJ	A	Degree=Pos	8	amod	_	_
 8	Minister	minister	NOUN	S	Number=Sing	6	xcomp	_	SpaceAfter=No
@@ -18577,7 +18577,7 @@
 # sent_id = en_partut-ud-1597
 # text = In 1819 Passez offered to make Balzac his successor, but his apprentice had enough of the law.
 1	In	in	ADP	E	_	2	case	_	_
-2	1819	1819	NUM	N	NumType=Card	4	nummod	_	_
+2	1819	1819	NUM	N	NumType=Card	4	obl	_	_
 3	Passez	Passez	PROPN	SP	_	4	nsubj	_	_
 4	offered	offer	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 5	to	to	ADP	E	_	6	mark	_	_
@@ -18678,7 +18678,7 @@
 1	Instead	instead	ADV	B	_	8	advmod	_	SpaceAfter=No
 2	,	,	PUNCT	FF	_	1	punct	_	_
 3	in	in	ADP	E	_	4	case	_	_
-4	April	April	NOUN	S	Number=Sing	8	obl	_	_
+4	April	April	PROPN	SP	_	8	obl	_	_
 5	1819	1819	NUM	N	NumType=Card	4	nummod	_	_
 6	he	he	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nsubj:pass	_	_
 7	was	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	aux:pass	_	_
@@ -18792,11 +18792,11 @@
 # sent_id = en_partut-ud-1607
 # text = In 1820 Balzac completed the five-act verse tragedy Cromwell.
 1	In	in	ADP	E	_	2	case	_	_
-2	1820	1820	NUM	N	NumType=Card	4	nummod	_	_
+2	1820	1820	NUM	N	NumType=Card	4	obl	_	_
 3	Balzac	Balzac	PROPN	SP	_	4	nsubj	_	_
 4	completed	complete	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 5	the	the	DET	RD	Definite=Def|PronType=Art	10	det	_	_
-6	five	five	NOUN	S	Number=Sing	8	nmod	_	SpaceAfter=No
+6	five	five	NUM	N	NumType=Card	8	nummod	_	SpaceAfter=No
 7	-	-	PUNCT	FF	_	6	punct	_	SpaceAfter=No
 8	act	act	NOUN	S	Number=Sing	10	nmod	_	_
 9	verse	verse	NOUN	S	Number=Sing	10	nmod	_	_
@@ -18837,7 +18837,7 @@
 # sent_id = en_partut-ud-1613
 # text = In 1821 Balzac met the enterprising Auguste Lepoitevin, who convinced the author to write short stories, which Lepoitevin would then sell to publishers.
 1	In	in	ADP	E	_	2	case	_	_
-2	1821	1821	NUM	N	NumType=Card	4	nummod	_	_
+2	1821	1821	NUM	N	NumType=Card	4	obl	_	_
 3	Balzac	Balzac	PROPN	SP	_	4	nsubj	_	_
 4	met	meet	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 5	the	the	DET	RD	Definite=Def|PronType=Art	7	det	_	_
@@ -19184,7 +19184,7 @@
 4	novels	novel	NOUN	S	Number=Plur	2	obj	_	SpaceAfter=No
 5	,	,	PUNCT	FF	_	2	punct	_	_
 6	in	in	ADP	E	_	7	case	_	_
-7	1832	1832	NUM	N	NumType=Card	9	nummod	_	_
+7	1832	1832	NUM	N	NumType=Card	9	obl	_	_
 8	Balzac	Balzac	PROPN	SP	_	9	nsubj	_	_
 9	conceived	conceive	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 10	the	the	DET	RD	Definite=Def|PronType=Art	11	det	_	_
@@ -19721,7 +19721,7 @@
 # text = "In 1833 Balzac released Eugénie Grandet, his first best-selling novel.
 1	"	"	PUNCT	FB	_	5	punct	_	SpaceAfter=No
 2	In	in	ADP	E	_	3	case	_	_
-3	1833	1833	NUM	N	NumType=Card	5	nummod	_	_
+3	1833	1833	NUM	N	NumType=Card	5	obl	_	_
 4	Balzac	Balzac	PROPN	SP	_	5	nsubj	_	_
 5	released	release	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 6	Eugénie	Eugénie	PROPN	SP	_	5	obj	_	_
@@ -20598,7 +20598,7 @@
 # sent_id = en_partut-ud-1699
 # text = In February 1832 Balzac received a letter from Odessa - lacking a return address and signed only by "L'Étrangère" ("The Foreigner") - expressing sadness at the cynicism and atheism in La Peau De Chagrin and its negative portrayal of women.
 1	In	in	ADP	E	_	2	case	_	_
-2	February	february	NOUN	S	Number=Sing	5	obl	_	_
+2	February	February	PROPN	SP	_	5	obl	_	_
 3	1832	1832	NUM	N	NumType=Card	2	nummod	_	_
 4	Balzac	Balzac	PROPN	SP	_	5	nsubj	_	_
 5	received	receive	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
@@ -20852,7 +20852,7 @@
 13	St.	St	PROPN	SP	_	10	obl	_	SpaceAfter=No
 14	Petersburg	Petersburg	PROPN	SP	_	13	flat:name	_	_
 15	in	in	ADP	E	_	16	case	_	_
-16	1843	1843	NUM	N	NumType=Card	10	nummod	_	_
+16	1843	1843	NUM	N	NumType=Card	10	obl	_	_
 17	and	and	CCONJ	CC	_	18	cc	_	_
 18	impressed	impress	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	10	conj	_	_
 19	himself	he	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	18	obj	_	_
@@ -20892,7 +20892,7 @@
 # text = On 14 March 1850, with Balzac's health in serious decline, they drove from her estate in Wierzchownia (village of Verkhivnia) to a church in Berdyczów (city of Berdychiv, today in Ukraine) and were married.
 1	On	on	ADP	E	_	3	case	_	_
 2	14	14	NUM	N	NumType=Card	3	nummod	_	_
-3	March	March	NOUN	S	Number=Sing	15	obl	_	_
+3	March	March	PROPN	SP	_	15	obl	_	_
 4	1850	1850	NUM	N	NumType=Card	3	nummod	_	SpaceAfter=No
 5	,	,	PUNCT	FF	_	3	punct	_	_
 6	with	with	ADP	E	_	9	case	_	_
@@ -21083,7 +21083,7 @@
 6	capital	capital	NOUN	S	Number=Sing	2	obl	_	_
 7	on	on	ADP	E	_	9	case	_	_
 8	20	20	NUM	N	NumType=Card	9	nummod	_	_
-9	May	May	NOUN	S	Number=Sing	2	obl	_	SpaceAfter=No
+9	May	May	PROPN	SP	_	2	obl	_	SpaceAfter=No
 10	,	,	PUNCT	FF	_	9	punct	_	_
 11	his	his	DET	DP	Poss=Yes|PronType=Prs	15	nmod:poss	_	_
 12	fifty	fifty	NUM	N	NumType=Card	15	nummod	_	SpaceAfter=No
@@ -21102,7 +21102,7 @@
 6	,	,	PUNCT	FF	_	2	punct	_	_
 7	on	on	ADP	E	_	9	case	_	_
 8	18	18	NUM	N	NumType=Card	9	nummod	_	_
-9	August	August	NOUN	S	_	12	obl	_	SpaceAfter=No
+9	August	August	PROPN	SP	_	12	obl	_	SpaceAfter=No
 10	,	,	PUNCT	FF	_	9	punct	_	_
 11	Balzac	Balzac	PROPN	SP	_	12	nsubj	_	_
 12	died	die	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
@@ -21121,7 +21121,7 @@
 9	Hugo	Hugo	PROPN	SP	_	8	flat:name	_	SpaceAfter=No
 10	,	,	PUNCT	FF	_	8	punct	_	_
 11	who	who	PRON	PR	PronType=Rel	13	nsubj	_	_
-12	later	later	ADV	B	_	13	advmod	_	_
+12	later	later	ADV	B	Degree=Cmp	13	advmod	_	_
 13	served	serve	VERB	V	Tense=Past|VerbForm=Part	8	acl:relcl	_	_
 14	as	as	ADP	E	_	15	case	_	_
 15	pallbearer	pallbearer	NOUN	S	Number=Sing	13	obl	_	_
@@ -21223,7 +21223,7 @@
 
 # sent_id = en_partut-ud-1727
 # text = Later, Balzac became the subject of a monumental statue by the French sculptor Auguste Rodin, which stands near the intersection of Boulevard Raspail and Boulevard Montparnasse.
-1	Later	later	ADV	B	_	4	advmod	_	SpaceAfter=No
+1	Later	later	ADV	B	Degree=Cmp	4	advmod	_	SpaceAfter=No
 2	,	,	PUNCT	FF	_	1	punct	_	_
 3	Balzac	Balzac	PROPN	SP	_	4	nsubj	_	_
 4	became	become	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
@@ -21800,7 +21800,7 @@
 10	novelist	novelist	NOUN	S	Number=Sing	14	nsubj	_	_
 11	Marcel	Marcel	PROPN	SP	_	10	nmod	_	_
 12	Proust	Proust	PROPN	SP	_	11	flat:name	_	_
-13	later	later	ADV	B	_	14	advmod	_	_
+13	later	later	ADV	B	Degree=Cmp	14	advmod	_	_
 14	named	name	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	7	acl:relcl	_	_
 15	"	"	PUNCT	FB	_	17	punct	_	SpaceAfter=No
 16	retrospective	retrospective	ADJ	A	Degree=Pos	17	amod	_	_
@@ -21900,11 +21900,11 @@
 4	locations	location	NOUN	S	Number=Plur	2	nmod	_	_
 5	sometimes	sometimes	ADV	B	_	6	advmod	_	_
 6	stretch	stretch	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	0	root	_	_
-7	for	for	ADP	E	_	8	case	_	_
-8	fifteen	fifteen	NUM	N	NumType=Card	6	nummod	_	_
-9	or	or	CCONJ	CC	_	11	cc	_	_
-10	twenty	twenty	NUM	N	NumType=Card	11	nummod	_	_
-11	pages	page	NOUN	S	Number=Plur	8	conj	_	SpaceAfter=No
+7	for	for	ADP	E	_	11	case	_	_
+8	fifteen	fifteen	NUM	N	NumType=Card	11	nummod	_	_
+9	or	or	CCONJ	CC	_	10	cc	_	_
+10	twenty	twenty	NUM	N	NumType=Card	8	conj	_	_
+11	pages	page	NOUN	S	Number=Plur	6	obl	_	SpaceAfter=No
 12	.	.	PUNCT	FS	_	6	punct	_	_
 
 # sent_id = en_partut-ud-1757
@@ -21929,7 +21929,7 @@
 7	literary	literary	ADJ	A	Degree=Pos	8	amod	_	_
 8	model	model	NOUN	S	Number=Sing	5	obj	_	_
 9	used	use	VERB	V	Tense=Past|VerbForm=Part	8	acl	_	_
-10	later	later	ADV	B	_	9	advmod	_	_
+10	later	later	ADV	B	Degree=Cmp	9	advmod	_	_
 11	by	by	ADP	E	_	13	case	_	_
 12	English	English	ADJ	A	Degree=Pos	13	amod	_	_
 13	novelist	novelist	NOUN	S	Number=Sing	9	obl:agent	_	_
@@ -22534,7 +22534,7 @@
 2	,	,	PUNCT	FF	_	1	punct	_	_
 3	Proust	Proust	PROPN	SP	_	4	nsubj	_	_
 4	wrote	write	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-5	later	later	ADV	B	_	7	advmod	_	_
+5	later	later	ADV	B	Degree=Cmp	7	advmod	_	_
 6	in	in	ADP	E	_	7	case	_	_
 7	life	life	NOUN	S	Number=Sing	4	obl	_	_
 8	that	that	SCONJ	CS	_	20	mark	_	_
@@ -22573,7 +22573,7 @@
 # sent_id = en_partut-ud-1789
 # text = In 1878 James wrote with sadness about the lack of contemporary attention paid to Balzac, and lavished praise on him in four essays (in 1875, 1877, 1902, and 1913).
 1	In	in	ADP	E	_	2	case	_	_
-2	1878	1878	NUM	N	NumType=Card	4	nummod	_	_
+2	1878	1878	NUM	N	NumType=Card	4	obl	_	_
 3	James	James	PROPN	SP	_	4	nsubj	_	_
 4	wrote	write	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 5	with	with	ADP	E	_	6	case	_	_
@@ -22612,7 +22612,7 @@
 # sent_id = en_partut-ud-1790
 # text = In 1878 James wrote:
 1	In	in	ADP	E	_	2	case	_	_
-2	1878	1878	NUM	N	NumType=Card	4	nummod	_	_
+2	1878	1878	NUM	N	NumType=Card	4	obl	_	_
 3	James	James	PROPN	SP	_	4	nsubj	_	_
 4	wrote	write	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
 5	:	:	PUNCT	FC	_	4	punct	_	_
@@ -22658,7 +22658,7 @@
 16	beast	beast	NOUN	S	Number=Sing	13	obj	_	_
 17	with	with	ADP	E	_	20	case	_	_
 18	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	19	det	_	_
-19	hundred	hundred	NOUN	S	Number=Sing	20	nmod	_	_
+19	hundred	hundred	NUM	N	NumType=Card	20	nummod	_	_
 20	claws	claw	NOUN	S	Number=Plur	16	nmod	_	SpaceAfter=No
 21	.	.	PUNCT	FS	_	3	punct	_	_
 
@@ -22871,14 +22871,14 @@
 2	Shakespeare	Shakespeare	PROPN	SP	_	1	flat:name	_	_
 3	(	(	PUNCT	FB	_	5	punct	_	SpaceAfter=No
 4	26	26	NUM	N	NumType=Card	5	nummod	_	_
-5	April	April	NOUN	S	Number=Sing	1	nmod	_	_
+5	April	April	PROPN	SP	_	1	nmod	_	_
 6	1564	1564	NUM	N	NumType=Card	5	nummod	_	_
 7	(	(	PUNCT	FB	_	8	punct	_	SpaceAfter=No
 8	baptised	baptise	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	6	advcl	_	SpaceAfter=No
 9	)	)	PUNCT	FB	_	8	punct	_	_
 10	–	–	PUNCT	FF	_	5	punct	_	_
 11	23	23	NUM	N	NumType=Card	12	nummod	_	_
-12	April	April	NOUN	S	Number=Sing	5	nmod	_	_
+12	April	April	PROPN	SP	_	5	nmod	_	_
 13	1616	1616	NUM	N	NumType=Card	12	nummod	_	SpaceAfter=No
 14	)	)	PUNCT	FB	_	1	punct	_	_
 15	was	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	18	cop	_	_
@@ -22993,7 +22993,7 @@
 # sent_id = en_partut-ud-1810
 # text = Between 1585 and 1592, he began a successful career in London as an actor, writer, and part-owner of a playing company called the Lord Chamberlain's Men, later known as the King's Men.
 1	Between	between	ADP	E	_	2	case	_	_
-2	1585	1585	NUM	N	NumType=Card	7	nummod	_	_
+2	1585	1585	NUM	N	NumType=Card	7	obl	_	_
 3	and	and	CCONJ	CC	_	4	cc	_	_
 4	1592	1592	NUM	N	NumType=Card	2	conj	_	SpaceAfter=No
 5	,	,	PUNCT	FF	_	2	punct	_	_
@@ -23025,7 +23025,7 @@
 31	's	's	PART	PART	_	30	case	_	_
 32	Men	man	NOUN	S	Gender=Masc|Number=Plur	27	obl	_	SpaceAfter=No
 33	,	,	PUNCT	FF	_	27	punct	_	_
-34	later	later	ADV	B	_	35	advmod	_	_
+34	later	later	ADV	B	Degree=Cmp	35	advmod	_	_
 35	known	know	VERB	V	Tense=Past|VerbForm=Part	27	advcl	_	_
 36	as	as	ADP	E	_	40	case	_	_
 37	the	the	DET	RD	Definite=Def|PronType=Art	38	det	_	_
@@ -23326,7 +23326,7 @@
 12	there	there	ADV	B	_	11	advmod	_	_
 13	on	on	ADP	E	_	15	case	_	_
 14	26	26	NUM	N	NumType=Card	15	nummod	_	_
-15	April	April	NOUN	S	Number=Sing	11	obl	_	_
+15	April	April	PROPN	SP	_	11	obl	_	_
 16	1564	1564	NUM	N	NumType=Card	15	nummod	_	SpaceAfter=No
 17	.	.	PUNCT	FS	_	3	punct	_	_
 
@@ -23346,7 +23346,7 @@
 12	observed	observe	VERB	V	Tense=Past|VerbForm=Part	6	conj	_	_
 13	on	on	ADP	E	_	15	case	_	_
 14	23	23	NUM	N	NumType=Card	15	nummod	_	_
-15	April	April	NOUN	S	Number=Sing	12	obl	_	SpaceAfter=No
+15	April	April	PROPN	SP	_	12	obl	_	SpaceAfter=No
 16	,	,	PUNCT	FF	_	15	punct	_	_
 17	Saint	Saint	PROPN	SP	_	20	nmod	_	_
 18	George	George	PROPN	SP	_	17	flat:name	_	SpaceAfter=No
@@ -23384,7 +23384,7 @@
 26	Shakespeare	Shakespeare	PROPN	SP	_	27	nsubj	_	_
 27	died	die	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	20	advcl	_	_
 28	23	23	NUM	N	NumType=Card	29	nummod	_	_
-29	April	April	NOUN	S	Number=Sing	27	obl	_	_
+29	April	April	PROPN	SP	_	27	obl	_	_
 30	1616	1616	NUM	N	NumType=Card	29	nummod	_	SpaceAfter=No
 31	.	.	PUNCT	FS	_	20	punct	_	_
 
@@ -23543,7 +23543,7 @@
 44	,	,	PUNCT	FF	_	41	punct	_	_
 45	baptised	baptise	VERB	V	Tense=Past|VerbForm=Part	41	acl	_	_
 46	26	26	NUM	N	NumType=Card	47	nummod	_	_
-47	May	May	NOUN	S	Number=Sing	45	obl	_	_
+47	May	May	PROPN	SP	_	45	obl	_	_
 48	1583	1583	NUM	N	NumType=Card	47	nummod	_	SpaceAfter=No
 49	.	.	PUNCT	FS	_	6	punct	_	_
 
@@ -23563,8 +23563,8 @@
 12	was	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	13	aux	_	_
 13	buried	bury	VERB	V	Tense=Past|VerbForm=Part	2	conj	_	_
 14	11	11	NUM	N	NumType=Card	15	nummod	_	_
-15	August	August	NOUN	S	_	13	amod	_	_
-16	1596	1596	NUM	N	NumType=Card	13	nummod	_	SpaceAfter=No
+15	August	August	PROPN	SP	_	13	obl	_	_
+16	1596	1596	NUM	N	NumType=Card	15	nummod	_	SpaceAfter=No
 17	.	.	PUNCT	FS	_	2	punct	_	_
 
 # sent_id = en_partut-ud-1838
@@ -23593,7 +23593,7 @@
 22	theatre	theatre	NOUN	S	Number=Sing	23	nmod	_	_
 23	scene	scene	NOUN	S	Number=Sing	18	nmod	_	_
 24	in	in	ADP	E	_	25	case	_	_
-25	1592	1592	NUM	N	NumType=Card	16	nummod	_	SpaceAfter=No
+25	1592	1592	NUM	N	NumType=Card	16	obl	_	SpaceAfter=No
 26	.	.	PUNCT	FS	_	9	punct	_	_
 
 # sent_id = en_partut-ud-1840
@@ -23604,7 +23604,7 @@
 4	the	the	DET	RD	Definite=Def|PronType=Art	5	det	_	_
 5	years	year	NOUN	S	Number=Plur	2	obl	_	_
 6	between	between	ADP	E	_	7	case	_	_
-7	1585	1585	NUM	N	NumType=Card	2	nummod	_	_
+7	1585	1585	NUM	N	NumType=Card	2	obl	_	_
 8	and	and	CCONJ	CC	_	9	cc	_	_
 9	1592	1592	NUM	N	NumType=Card	7	conj	_	_
 10	as	as	ADP	E	_	15	case	_	_
@@ -24051,7 +24051,7 @@
 # sent_id = en_partut-ud-1857
 # text = From 1594, Shakespeare's plays were performed by only the Lord Chamberlain's Men, a company owned by a group of players, including Shakespeare, that soon became the leading playing company in London.
 1	From	from	ADP	E	_	2	case	_	_
-2	1594	1594	NUM	N	NumType=Card	8	nummod	_	SpaceAfter=No
+2	1594	1594	NUM	N	NumType=Card	8	obl	_	SpaceAfter=No
 3	,	,	PUNCT	FF	_	2	punct	_	_
 4	Shakespeare	Shakespeare	PROPN	SP	_	6	nmod	_	SpaceAfter=No
 5	's	's	PART	PART	_	4	case	_	_
@@ -24098,7 +24098,7 @@
 5	Queen	Queen	PROPN	SP	_	3	nmod	_	_
 6	Elizabeth	Elizabeth	PROPN	SP	_	5	flat:name	_	_
 7	in	in	ADP	E	_	8	case	_	_
-8	1603	1603	NUM	N	NumType=Card	13	nummod	_	SpaceAfter=No
+8	1603	1603	NUM	N	NumType=Card	13	obl	_	SpaceAfter=No
 9	,	,	PUNCT	FF	_	8	punct	_	_
 10	the	the	DET	RD	Definite=Def|PronType=Art	11	det	_	_
 11	company	company	NOUN	S	Number=Sing	13	nsubj	_	_
@@ -24129,7 +24129,7 @@
 # sent_id = en_partut-ud-1859
 # text = In 1599, a partnership of company members built their own theatre on the south bank of the River Thames, which they called the Globe.
 1	In	in	ADP	E	_	2	case	_	_
-2	1599	1599	NUM	N	NumType=Card	9	nummod	_	SpaceAfter=No
+2	1599	1599	NUM	N	NumType=Card	9	obl	_	SpaceAfter=No
 3	,	,	PUNCT	FF	_	2	punct	_	_
 4	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	5	det	_	_
 5	partnership	partnership	NOUN	S	Number=Sing	9	nsubj	_	_
@@ -24159,7 +24159,7 @@
 # sent_id = en_partut-ud-1860
 # text = In 1608, the partnership also took over the Blackfriars indoor theatre.
 1	In	in	ADP	E	_	2	case	_	_
-2	1608	1608	NUM	N	NumType=Card	7	nummod	_	SpaceAfter=No
+2	1608	1608	NUM	N	NumType=Card	7	obl	_	SpaceAfter=No
 3	,	,	PUNCT	FF	_	2	punct	_	_
 4	the	the	DET	RD	Definite=Def|PronType=Art	5	det	_	_
 5	partnership	partnership	NOUN	S	Number=Sing	7	nsubj	_	_
@@ -24196,7 +24196,7 @@
 # sent_id = en_partut-ud-1862
 # text = In 1597, he bought the second-largest house in Stratford, New Place, and in 1605, he invested in a share of the parish tithes in Stratford.
 1	In	in	ADP	E	_	2	case	_	_
-2	1597	1597	NUM	N	NumType=Card	5	nummod	_	SpaceAfter=No
+2	1597	1597	NUM	N	NumType=Card	5	obl	_	SpaceAfter=No
 3	,	,	PUNCT	FF	_	2	punct	_	_
 4	he	he	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
 5	bought	buy	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
@@ -24213,7 +24213,7 @@
 16	,	,	PUNCT	FF	_	15	punct	_	_
 17	and	and	CCONJ	CC	_	22	cc	_	_
 18	in	in	ADP	E	_	19	case	_	_
-19	1605	1605	NUM	N	NumType=Card	22	nummod	_	SpaceAfter=No
+19	1605	1605	NUM	N	NumType=Card	22	obl	_	SpaceAfter=No
 20	,	,	PUNCT	FF	_	19	punct	_	_
 21	he	he	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	22	nsubj	_	_
 22	invested	invest	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	5	conj	_	_
@@ -24241,7 +24241,7 @@
 9	quarto	quarto	ADJ	A	Degree=Pos	10	amod	_	_
 10	editions	edition	NOUN	S	Number=Plur	7	obl	_	_
 11	from	from	ADP	E	_	12	case	_	_
-12	1594	1594	NUM	N	NumType=Card	7	nummod	_	SpaceAfter=No
+12	1594	1594	NUM	N	NumType=Card	7	obl	_	SpaceAfter=No
 13	.	.	PUNCT	FS	_	7	punct	_	_
 
 # sent_id = en_partut-ud-1865
@@ -24308,7 +24308,7 @@
 6	from	from	ADP	E	_	10	case	_	_
 7	the	the	DET	RD	Definite=Def|PronType=Art	10	det	_	_
 8	1605	1605	NUM	N	NumType=Card	10	nummod	_	_
-9	cast	cast	ADJ	A	Degree=Pos	10	amod	_	_
+9	cast	cast	NOUN	S	Number=Sing	10	nmod	_	_
 10	list	list	NOUN	S	Number=Sing	2	nmod	_	_
 11	for	for	ADP	E	_	14	case	_	_
 12	Jonson	Jonson	PROPN	SP	_	14	nmod	_	SpaceAfter=No
@@ -24383,7 +24383,7 @@
 # sent_id = en_partut-ud-1870
 # text = In 1709, Rowe passed down a tradition that Shakespeare played the ghost of Hamlet's father.
 1	In	in	ADP	E	_	2	case	_	_
-2	1709	1709	NUM	N	NumType=Card	5	nummod	_	SpaceAfter=No
+2	1709	1709	NUM	N	NumType=Card	5	obl	_	SpaceAfter=No
 3	,	,	PUNCT	FF	_	2	punct	_	_
 4	Rowe	Rowe	PROPN	SP	_	5	nsubj	_	_
 5	passed	pass	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
@@ -24458,7 +24458,7 @@
 6	to	to	ADP	E	_	7	case	_	_
 7	Southwark	Southwark	PROPN	SP	_	2	obl	_	_
 8	by	by	ADP	E	_	9	case	_	_
-9	1599	1599	NUM	N	NumType=Card	2	nummod	_	SpaceAfter=No
+9	1599	1599	NUM	N	NumType=Card	2	obl	_	SpaceAfter=No
 10	,	,	PUNCT	FF	_	2	punct	_	_
 11	the	the	DET	RD	Definite=Def|PronType=Art	12	det	_	_
 12	year	year	NOUN	S	Number=Sing	2	obl	_	_
@@ -24474,7 +24474,7 @@
 # sent_id = en_partut-ud-1874
 # text = By 1604, he had moved north of the river again, to an area north of St Paul's Cathedral with many fine houses.
 1	By	by	ADP	E	_	2	case	_	_
-2	1604	1604	NUM	N	NumType=Card	6	nummod	_	SpaceAfter=No
+2	1604	1604	NUM	N	NumType=Card	6	obl	_	SpaceAfter=No
 3	,	,	PUNCT	FF	_	2	punct	_	_
 4	he	he	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	_
 5	had	have	AUX	VA	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	6	aux	_	_
@@ -24567,7 +24567,7 @@
 8	in	in	ADP	E	_	9	case	_	_
 9	London	London	PROPN	SP	_	4	obl	_	_
 10	in	in	ADP	E	_	11	case	_	_
-11	1608	1608	NUM	N	NumType=Card	4	nummod	_	SpaceAfter=No
+11	1608	1608	NUM	N	NumType=Card	4	obl	_	SpaceAfter=No
 12	;	;	PUNCT	FC	_	4	punct	_	_
 
 # sent_id = en_partut-ud-1878
@@ -24595,7 +24595,7 @@
 21	Blackfriars	Blackfriars	PROPN	SP	_	22	nmod	_	_
 22	Theatre	theatre	NOUN	S	Number=Sing	18	nmod	_	_
 23	in	in	ADP	E	_	24	case	_	_
-24	1608	1608	NUM	N	NumType=Card	16	nummod	_	_
+24	1608	1608	NUM	N	NumType=Card	16	obl	_	_
 25	from	from	ADP	E	_	26	case	_	_
 26	Henry	Henry	PROPN	SP	_	16	obl	_	_
 27	Evans	Evans	PROPN	SP	_	26	flat:name	_	SpaceAfter=No
@@ -24631,7 +24631,7 @@
 3	document	document	NOUN	S	Number=Sing	21	obl	_	_
 4	dated	date	VERB	V	Tense=Past|VerbForm=Part	3	acl	_	_
 5	7	7	NUM	N	NumType=Card	6	nummod	_	_
-6	June	June	NOUN	S	Number=Sing	4	obl	_	_
+6	June	June	PROPN	SP	_	4	obl	_	_
 7	1609	1609	NUM	N	NumType=Card	6	nummod	_	_
 8	in	in	ADP	E	_	10	case	_	_
 9	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	10	det	_	_
@@ -24686,7 +24686,7 @@
 11	in	in	ADP	E	_	12	case	_	_
 12	London	London	PROPN	SP	_	10	obl	_	_
 13	throughout	throughout	ADP	E	_	14	case	_	_
-14	1609	1609	NUM	N	NumType=Card	10	nummod	_	SpaceAfter=No
+14	1609	1609	NUM	N	NumType=Card	10	obl	_	SpaceAfter=No
 15	.	.	PUNCT	FS	_	5	punct	_	_
 
 # sent_id = en_partut-ud-1882
@@ -24720,7 +24720,7 @@
 # sent_id = en_partut-ud-1884
 # text = In March 1613 he bought a gatehouse in the former Blackfriars priory;
 1	In	in	ADP	E	_	2	case	_	_
-2	March	March	NOUN	S	Number=Sing	5	obl	_	_
+2	March	March	PROPN	SP	_	5	obl	_	_
 3	1613	1613	NUM	N	NumType=Card	2	nummod	_	_
 4	he	he	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
 5	bought	buy	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
@@ -24767,7 +24767,7 @@
 2	died	died	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 3	on	on	ADP	E	_	5	case	_	_
 4	23	23	NUM	N	NumType=Card	5	nummod	_	_
-5	April	April	NOUN	S	Number=Sing	2	obl	_	_
+5	April	April	PROPN	SP	_	2	obl	_	_
 6	1616	1616	NUM	N	NumType=Card	5	nummod	_	_
 7	and	and	CCONJ	CC	_	9	cc	_	_
 8	was	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	aux	_	_
@@ -24792,7 +24792,7 @@
 8	Hall	Hall	PROPN	SP	_	7	flat:name	_	SpaceAfter=No
 9	,	,	PUNCT	FF	_	7	punct	_	_
 10	in	in	ADP	E	_	11	case	_	_
-11	1607	1607	NUM	N	NumType=Card	3	nummod	_	SpaceAfter=No
+11	1607	1607	NUM	N	NumType=Card	3	obl	_	SpaceAfter=No
 12	,	,	PUNCT	FF	_	11	punct	_	_
 13	and	and	CCONJ	CC	_	16	cc	_	_
 14	Judith	Judith	PROPN	SP	_	16	nsubj	_	_
@@ -24928,7 +24928,7 @@
 14	without	without	ADP	E	_	15	case	_	_
 15	children	child	NOUN	S	Gender=Masc|Number=Plur	13	nmod	_	_
 16	in	in	ADP	E	_	17	case	_	_
-17	1670	1670	NUM	N	NumType=Card	10	nummod	_	SpaceAfter=No
+17	1670	1670	NUM	N	NumType=Card	13	obl	_	SpaceAfter=No
 18	,	,	PUNCT	FF	_	19	punct	_	_
 19	ending	end	VERB	V	Number=Sing|Tense=Pres|VerbForm=Part	10	conj	_	_
 20	Shakespeare	Shakespeare	PROPN	SP	_	23	nmod	_	SpaceAfter=No
@@ -25024,7 +25024,7 @@
 # text = Sometime before 1623, a funerary monument was erected in his memory on the north wall, with a half-effigy of him in the act of writing.
 1	Sometime	sometime	ADV	B	_	9	advmod	_	_
 2	before	before	ADP	E	_	3	case	_	_
-3	1623	1623	NUM	N	NumType=Card	9	nummod	_	SpaceAfter=No
+3	1623	1623	NUM	N	NumType=Card	9	obl	_	SpaceAfter=No
 4	,	,	PUNCT	FF	_	3	punct	_	_
 5	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	7	det	_	_
 6	funerary	funerary	ADJ	A	Degree=Pos	7	amod	_	_
@@ -25056,7 +25056,7 @@
 # sent_id = en_partut-ud-1904
 # text = In 1623, in conjunction with the publication of the First Folio, the Droeshout engraving was published.
 1	In	in	ADP	E	_	2	case	_	_
-2	1623	1623	NUM	N	NumType=Card	18	nummod	_	SpaceAfter=No
+2	1623	1623	NUM	N	NumType=Card	18	obl	_	SpaceAfter=No
 3	,	,	PUNCT	FF	_	2	punct	_	_
 4	in	in	ADP	E	_	5	case	_	_
 5	conjunction	conjunction	NOUN	S	Number=Sing	18	obl	_	_
@@ -25220,7 +25220,7 @@
 19	in	in	ADP	E	_	22	case	_	_
 20	the	the	DET	RD	Definite=Def|PronType=Art	22	det	_	_
 21	early	early	ADJ	A	Degree=Pos	22	amod	_	_
-22	1590	1590	NUM	N	NumType=Card	18	nummod	_	_
+22	1590	1590	NUM	N	NumType=Card	18	obl	_	_
 23	s	s	X	X	_	22	fixed	_	_
 24	during	during	ADP	E	_	26	case	_	_
 25	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	26	det	_	_
@@ -26321,7 +26321,7 @@
 11	's	's	PART	PART	_	10	case	_	_
 12	Men	man	NOUN	S	Gender=Masc|Number=Plur	8	xcomp	_	_
 13	in	in	ADP	E	_	14	case	_	_
-14	1603	1603	NUM	N	NumType=Card	8	nummod	_	SpaceAfter=No
+14	1603	1603	NUM	N	NumType=Card	8	obl	_	SpaceAfter=No
 15	,	,	PUNCT	FF	_	8	punct	_	_
 16	they	they	PRON	PE	Number=Plur|Person=3|PronType=Prs	17	nsubj	_	_
 17	entered	enter	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
@@ -26358,11 +26358,11 @@
 19	court	court	NOUN	S	Number=Sing	12	obl	_	_
 20	between	between	ADP	E	_	22	case	_	_
 21	1	1	NUM	N	NumType=Card	22	nummod	_	_
-22	November	November	NOUN	S	Number=Sing	12	obl	_	_
+22	November	November	PROPN	SP	_	12	obl	_	_
 23	1604	1604	NUM	N	NumType=Card	22	nummod	_	_
 24	and	and	CCONJ	CC	_	26	cc	_	_
 25	31	31	NUM	N	NumType=Card	26	nummod	_	_
-26	October	October	NOUN	S	_	23	conj	_	_
+26	October	October	PROPN	SP	_	23	conj	_	_
 27	1605	1605	NUM	N	NumType=Card	26	nummod	_	SpaceAfter=No
 28	,	,	PUNCT	FF	_	12	punct	_	_
 29	including	include	VERB	V	Number=Sing|Tense=Pres|VerbForm=Part	12	advcl	_	_
@@ -26378,7 +26378,7 @@
 # sent_id = en_partut-ud-1949
 # text = After 1608, they performed at the indoor Blackfriars Theatre during the winter and the Globe during the summer.
 1	After	after	ADP	E	_	2	case	_	_
-2	1608	1608	NUM	N	NumType=Card	5	nummod	_	SpaceAfter=No
+2	1608	1608	NUM	N	NumType=Card	5	obl	_	SpaceAfter=No
 3	,	,	PUNCT	FF	_	2	punct	_	_
 4	they	they	PRON	PE	Number=Plur|Person=3|PronType=Prs	5	nsubj	_	_
 5	performed	perform	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
@@ -26490,7 +26490,7 @@
 # sent_id = en_partut-ud-1955
 # text = In 1613, Sir Henry Wotton recorded that Henry VIII "was set forth with many extraordinary circumstances of pomp and ceremony".
 1	In	in	ADP	E	_	2	case	_	_
-2	1613	1613	NUM	N	NumType=Card	7	nummod	_	SpaceAfter=No
+2	1613	1613	NUM	N	NumType=Card	7	obl	_	SpaceAfter=No
 3	,	,	PUNCT	FF	_	2	punct	_	_
 4	Sir	Sir	PROPN	SP	_	7	nsubj	_	_
 5	Henry	Henry	PROPN	SP	_	4	flat:name	_	_
@@ -26517,7 +26517,7 @@
 # sent_id = en_partut-ud-1957
 # text = In 1623, John Heminges and Henry Condell, two of Shakespeare's friends from the King's Men, published the First Folio, a collected edition of Shakespeare's plays.
 1	In	in	ADP	E	_	2	case	_	_
-2	1623	1623	NUM	N	NumType=Card	21	nummod	_	SpaceAfter=No
+2	1623	1623	NUM	N	NumType=Card	21	obl	_	SpaceAfter=No
 3	,	,	PUNCT	FF	_	2	punct	_	_
 4	John	John	PROPN	SP	_	21	nsubj	_	_
 5	Heminges	Heminges	PROPN	SP	_	4	flat:name	_	_
@@ -26725,7 +26725,7 @@
 # sent_id = en_partut-ud-1966
 # text = In 1593 and 1594, when the theatres were closed because of plague, Shakespeare published two narrative poems on erotic themes, Venus and Adonis and The Rape of Lucrece.
 1	In	in	ADP	E	_	2	case	_	_
-2	1593	1593	NUM	N	NumType=Card	16	nummod	_	_
+2	1593	1593	NUM	N	NumType=Card	16	obl	_	_
 3	and	and	CCONJ	CC	_	4	cc	_	_
 4	1594	1594	NUM	N	NumType=Card	2	conj	_	SpaceAfter=No
 5	,	,	PUNCT	FF	_	2	punct	_	_
@@ -26894,7 +26894,7 @@
 # text = Published in 1609, the Sonnets were the last of Shakespeare's non-dramatic works to be printed.
 1	Published	publish	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	6	acl	_	_
 2	in	in	ADP	E	_	3	case	_	_
-3	1609	1609	NUM	N	NumType=Card	1	nummod	_	SpaceAfter=No
+3	1609	1609	NUM	N	NumType=Card	1	obl	_	SpaceAfter=No
 4	,	,	PUNCT	FF	_	1	punct	_	_
 5	the	the	DET	RD	Definite=Def|PronType=Art	6	det	_	_
 6	Sonnets	sonnet	NOUN	S	Number=Plur	9	nsubj	_	_
@@ -26958,14 +26958,14 @@
 10	Passionate	passionate	ADJ	A	Degree=Pos	11	amod	_	_
 11	Pilgrim	pilgrim	NOUN	S	Number=Sing	7	obl	_	_
 12	in	in	ADP	E	_	13	case	_	_
-13	1599	1599	NUM	N	NumType=Card	7	nummod	_	SpaceAfter=No
+13	1599	1599	NUM	N	NumType=Card	7	obl	_	SpaceAfter=No
 14	,	,	PUNCT	FF	_	7	punct	_	_
 15	Francis	Francis	PROPN	SP	_	7	obj	_	_
 16	Meres	Meres	PROPN	SP	_	15	flat:name	_	_
 17	had	have	AUX	VA	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	18	aux	_	_
 18	referred	refer	VERB	V	Tense=Past|VerbForm=Part	0	root	_	_
 19	in	in	ADP	E	_	20	case	_	_
-20	1598	1598	NUM	N	NumType=Card	18	nummod	_	_
+20	1598	1598	NUM	N	NumType=Card	18	obl	_	_
 21	to	to	ADP	E	_	26	case	_	_
 22	Shakespeare	Shakespeare	PROPN	SP	_	26	nmod	_	SpaceAfter=No
 23	's	's	PART	PART	_	22	case	_	_
@@ -28180,7 +28180,7 @@
 # sent_id = en_partut-ud-2039
 # text = In 1598, the cleric and author Francis Meres singled him out from a group of English writers as "the most excellent" in both comedy and tragedy.
 1	In	in	ADP	E	_	2	case	_	_
-2	1598	1598	NUM	N	NumType=Card	10	nummod	_	SpaceAfter=No
+2	1598	1598	NUM	N	NumType=Card	10	obl	_	SpaceAfter=No
 3	,	,	PUNCT	FF	_	2	punct	_	_
 4	the	the	DET	RD	Definite=Def|PronType=Art	5	det	_	_
 5	cleric	cleric	NOUN	S	Number=Sing	10	nsubj	_	_
@@ -28359,7 +28359,7 @@
 # sent_id = en_partut-ud-2049
 # text = By 1800, he was firmly enshrined as the national poet.
 1	By	by	ADP	E	_	2	case	_	_
-2	1800	1800	NUM	N	NumType=Card	7	nummod	_	SpaceAfter=No
+2	1800	1800	NUM	N	NumType=Card	7	obl	_	SpaceAfter=No
 3	,	,	PUNCT	FF	_	2	punct	_	_
 4	he	he	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj:pass	_	_
 5	was	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	aux:pass	_	_
@@ -28620,7 +28620,7 @@
 # text = In the 1950s, a wave of new critical approaches replaced modernism and paved the way for "post-modern" studies of Shakespeare.
 1	In	in	ADP	E	_	3	case	_	_
 2	the	the	DET	RD	Definite=Def|PronType=Art	3	det	_	_
-3	1950	1950	NUM	N	NumType=Card	12	nummod	_	SpaceAfter=No
+3	1950	1950	NUM	N	NumType=Card	12	obl	_	SpaceAfter=No
 4	s	s	X	X	_	3	goeswith	_	SpaceAfter=No
 5	,	,	PUNCT	FF	_	3	punct	_	_
 6	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	7	det	_	_
@@ -28789,7 +28789,7 @@
 # sent_id = en_partut-ud-2076
 # text = In 1606 the name of William's daughter Susanna appears on a list of those who failed to attend Easter communion in Stratford.
 1	In	in	ADP	E	_	2	case	_	_
-2	1606	1606	NUM	N	NumType=Card	10	nummod	_	_
+2	1606	1606	NUM	N	NumType=Card	10	obl	_	_
 3	the	the	DET	RD	Definite=Def|PronType=Art	4	det	_	_
 4	name	name	NOUN	S	Number=Sing	10	nsubj	_	_
 5	of	of	ADP	E	_	8	case	_	_
@@ -28856,7 +28856,7 @@
 # sent_id = en_partut-ud-2079
 # text = At 18, he married the 26-year-old Anne Hathaway, who was pregnant.
 1	At	at	ADP	E	_	2	case	_	_
-2	18	18	NUM	N	NumType=Card	5	nummod	_	SpaceAfter=No
+2	18	18	NUM	N	NumType=Card	5	obl	_	SpaceAfter=No
 3	,	,	PUNCT	FF	_	2	punct	_	_
 4	he	he	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
 5	married	marry	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
@@ -28888,11 +28888,11 @@
 10	was	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	11	aux:pass	_	_
 11	born	bear	VERB	V	Tense=Past|VerbForm=Part	0	root	_	_
 12	six	six	NUM	N	NumType=Card	13	nummod	_	_
-13	months	month	NOUN	S	Number=Plur	11	obl	_	_
-14	later	later	ADV	B	_	11	advmod	_	_
+13	months	month	NOUN	S	Number=Plur	14	obl	_	_
+14	later	later	ADV	B	Degree=Cmp	11	advmod	_	_
 15	on	on	ADP	E	_	17	case	_	_
 16	26	26	NUM	N	NumType=Card	17	nummod	_	_
-17	May	May	NOUN	S	Number=Sing	11	obl	_	_
+17	May	May	PROPN	SP	_	11	obl	_	_
 18	1583	1583	NUM	N	NumType=Card	17	nummod	_	SpaceAfter=No
 19	.	.	PUNCT	FS	_	11	punct	_	_
 
