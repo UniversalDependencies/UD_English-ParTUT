@@ -1729,7 +1729,7 @@
 7	are	be	AUX	VA	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	9	aux	_	_
 8	now	now	ADV	B	_	9	advmod	_	_
 9	making	make	VERB	V	VerbForm=Ger	0	root	_	_
-10	it	it	PRON	PE	Number=Sing|Person=3|PronType=Prs	9	obj	_	_
+10	it	it	PRON	PE	Number=Sing|Person=3|PronType=Prs	9	expl	_	_
 11	difficult	difficult	ADJ	A	Degree=Pos	9	xcomp	_	_
 12	to	to	ADP	E	_	13	case	_	_
 13	apply	apply	VERB	V	VerbForm=Inf	9	ccomp	_	_
