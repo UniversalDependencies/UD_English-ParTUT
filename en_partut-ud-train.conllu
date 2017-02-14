@@ -82,7 +82,7 @@
 34	copyright	copyright	NOUN	S	Number=Sing	30	nmod	_	SpaceAfter=No
 35	)	)	PUNCT	FB	_	30	punct	_	_
 36	license	license	NOUN	S	Number=Sing	13	obj	_	_
-37	to	to	ADP	E	_	38	mark	_	_
+37	to	to	PART	PART	_	38	mark	_	_
 38	exercise	exercise	VERB	V	VerbForm=Inf	36	acl	_	_
 39	the	the	DET	RD	Definite=Def|PronType=Art	40	det	_	_
 40	rights	right	NOUN	S	Number=Plur	38	obj	_	_
@@ -219,7 +219,7 @@
 20	like	like	VERB	V	VerbForm=Inf	2	conj	_	_
 21	once	once	ADV	B	_	20	advmod	_	_
 22	again	again	ADV	B	_	21	advmod	_	_
-23	to	to	ADP	E	_	24	mark	_	_
+23	to	to	PART	PART	_	24	mark	_	_
 24	wish	wish	VERB	V	VerbForm=Inf	20	xcomp	_	_
 25	you	you	PRON	PE	Person=2|PronType=Prs	24	obl	_	_
 26	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	29	det	_	_
@@ -322,7 +322,7 @@
 19	and	and	CCONJ	CC	_	28	cc	_	_
 20	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	21	det	_	_
 21	proposal	proposal	NOUN	S	Number=Sing	25	nsubj	_	_
-22	to	to	ADP	E	_	23	mark	_	_
+22	to	to	PART	PART	_	23	mark	_	_
 23	subvert	subvert	VERB	V	VerbForm=Inf	21	acl	_	_
 24	it	it	PRON	PE	Number=Sing|Person=3|PronType=Prs	23	obj	_	_
 25	would	will	AUX	VM	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	28	aux	_	_
@@ -417,7 +417,7 @@
 28	European	European	ADJ	A	Degree=Pos	29	amod	_	_
 29	Community	community	NOUN	S	Number=Sing	25	nmod	_	SpaceAfter=No
 30	,	,	PUNCT	FF	_	5	punct	_	_
-31	to	to	ADP	E	_	32	mark	_	_
+31	to	to	PART	PART	_	32	mark	_	_
 32	make	make	VERB	V	VerbForm=Inf	5	xcomp	_	_
 33	representations	representation	NOUN	S	Number=Plur	32	obj	_	SpaceAfter=No
 34	,	,	PUNCT	FF	_	32	punct	_	_
@@ -446,19 +446,19 @@
 57	,	,	PUNCT	FF	_	54	punct	_	_
 58	Mr	mister	NOUN	S	Gender=Masc|Number=Sing	54	appos	_	_
 59	Bush	Bush	PROPN	SP	_	58	flat	_	SpaceAfter=No
-60	,	,	PUNCT	FF	_	54	punct	_	_
+60	,	,	PUNCT	FF	_	58	punct	_	_
 61	who	who	PRON	PR	PronType=Rel	62	nsubj	_	_
 62	has	have	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	54	acl:relcl	_	_
 63	the	the	DET	RD	Definite=Def|PronType=Art	64	det	_	_
 64	power	power	NOUN	S	Number=Sing	62	obj	_	_
-65	to	to	ADP	E	_	66	mark	_	_
+65	to	to	PART	PART	_	66	mark	_	_
 66	order	order	VERB	V	VerbForm=Inf	64	acl	_	_
 67	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	68	det	_	_
 68	stay	stay	NOUN	S	Number=Sing	66	obj	_	_
 69	of	of	ADP	E	_	70	case	_	_
 70	execution	execution	NOUN	S	Number=Sing	68	nmod	_	_
 71	and	and	CCONJ	CC	_	73	cc	_	_
-72	to	to	ADP	E	_	73	mark	_	_
+72	to	to	PART	PART	_	73	mark	_	_
 73	reprieve	reprieve	VERB	V	VerbForm=Inf	66	conj	_	_
 74	the	the	DET	RD	Definite=Def|PronType=Art	76	det	_	_
 75	condemned	condemn	VERB	V	Tense=Past|VerbForm=Part	76	acl	_	_
@@ -473,7 +473,7 @@
 4	I	I	PRON	PE	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
 5	should	shall	AUX	VM	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	6	aux	_	_
 6	like	like	VERB	V	VerbForm=Inf	0	root	_	_
-7	to	to	ADP	E	_	8	mark	_	_
+7	to	to	PART	PART	_	8	mark	_	_
 8	draw	draw	VERB	V	VerbForm=Inf	6	xcomp	_	_
 9	your	you	DET	AP	Poss=Yes|PronType=Prs	10	nmod:poss	_	_
 10	attention	attention	NOUN	S	Number=Sing	8	obj	_	_
@@ -499,7 +499,7 @@
 4	,	,	PUNCT	FF	_	3	punct	_	_
 5	he	he	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	_
 6	is	be	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-7	to	to	ADP	E	_	8	mark	_	_
+7	to	to	PART	PART	_	8	mark	_	_
 8	go	go	VERB	V	VerbForm=Inf	6	xcomp	_	_
 9	before	before	ADP	E	_	11	case	_	_
 10	the	the	DET	RD	Definite=Def|PronType=Art	11	det	_	_
@@ -523,7 +523,7 @@
 5	would	will	AUX	VM	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	7	aux	_	_
 6	firstly	firstly	ADV	B	_	7	advmod	_	_
 7	like	like	VERB	V	VerbForm=Inf	0	root	_	_
-8	to	to	ADP	E	_	9	mark	_	_
+8	to	to	PART	PART	_	9	mark	_	_
 9	compliment	compliment	VERB	V	VerbForm=Inf	7	xcomp	_	_
 10	you	you	PRON	PE	Person=2|PronType=Prs	9	obj	_	_
 11	on	on	ADP	E	_	13	case	_	_
@@ -637,7 +637,7 @@
 2	would	will	AUX	VM	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	4	aux	_	_
 3	also	also	ADV	B	_	4	advmod	_	_
 4	like	like	VERB	V	VerbForm=Inf	0	root	_	_
-5	to	to	ADP	E	_	6	mark	_	_
+5	to	to	PART	PART	_	6	mark	_	_
 6	point	point	VERB	V	VerbForm=Inf	4	xcomp	_	_
 7	out	out	ADP	E	_	6	compound:prt	_	SpaceAfter=No
 8	,	,	PUNCT	FF	_	6	punct	_	_
@@ -648,7 +648,7 @@
 13	this	this	DET	DD	Number=Sing|PronType=Dem	14	det	_	_
 14	Parliament	parliament	NOUN	S	Number=Sing	15	nsubj	_	_
 15	voted	vote	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	6	ccomp	_	_
-16	to	to	ADP	E	_	17	mark	_	_
+16	to	to	PART	PART	_	17	mark	_	_
 17	express	express	VERB	V	VerbForm=Inf	15	advcl	_	_
 18	its	its	DET	AP	Number=Sing|Poss=Yes|PronType=Prs	19	nmod:poss	_	_
 19	confidence	confidence	NOUN	S	Number=Sing	17	obj	_	_
@@ -684,7 +684,7 @@
 19	voted	vote	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	2	conj	_	_
 20	once	once	ADV	B	_	19	advmod	_	_
 21	more	more	ADV	B	Degree=Cmp	20	advmod	_	_
-22	to	to	SCONJ	CS	_	23	mark	_	_
+22	to	to	PART	PART	_	23	mark	_	_
 23	approve	approve	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	19	advcl	_	_
 24	the	the	DET	RD	Definite=Def|PronType=Art	26	det	_	_
 25	whole	whole	ADJ	A	Degree=Pos	26	amod	_	_
@@ -700,7 +700,7 @@
 5	I	I	PRON	PE	Number=Sing|Person=1|PronType=Prs	7	nsubj	_	_
 6	would	will	AUX	VM	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	7	aux	_	_
 7	like	like	VERB	V	VerbForm=Inf	0	root	_	_
-8	to	to	ADP	E	_	9	mark	_	_
+8	to	to	PART	PART	_	9	mark	_	_
 9	remind	remind	VERB	V	VerbForm=Inf	7	xcomp	_	_
 10	you	you	PRON	PE	Person=2|PronType=Prs	9	iobj	_	_
 11	of	of	ADP	E	_	13	case	_	_
@@ -734,7 +734,7 @@
 7	would	will	AUX	VM	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	8	aux	_	_
 8	ask	ask	VERB	V	VerbForm=Inf	0	root	_	_
 9	you	you	PRON	PE	Person=2|PronType=Prs	8	obj	_	_
-10	to	to	ADP	E	_	11	mark	_	_
+10	to	to	PART	PART	_	11	mark	_	_
 11	request	request	VERB	V	VerbForm=Inf	8	xcomp	_	_
 12	that	that	SCONJ	CS	_	15	mark	_	_
 13	the	the	DET	RD	Definite=Def|PronType=Art	14	det	_	_
@@ -826,7 +826,7 @@
 1	We	we	PRON	PE	Number=Plur|Person=1|PronType=Prs	3	nsubj	_	_
 2	shall	shall	AUX	VM	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
 3	proceed	proceed	VERB	V	VerbForm=Inf	0	root	_	_
-4	to	to	ADP	E	_	5	mark	_	_
+4	to	to	PART	PART	_	5	mark	_	_
 5	vote	vote	VERB	V	VerbForm=Inf	3	xcomp	_	_
 6	on	on	ADP	E	_	13	case	_	_
 7	the	the	DET	RD	Definite=Def|PronType=Art	13	det	_	_
@@ -945,7 +945,7 @@
 # text = Prevention has to be our answer to disasters of this kind and this draft Directive is an important step towards well-trained safety advisers being available, so that the right action is taken in good time.
 1	Prevention	prevention	NOUN	S	Number=Sing	2	nsubj	_	_
 2	has	have	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-3	to	to	ADP	E	_	6	mark	_	_
+3	to	to	PART	PART	_	6	mark	_	_
 4	be	be	AUX	VA	VerbForm=Inf	6	cop	_	_
 5	our	us	DET	AP	Poss=Yes|PronType=Prs	6	nmod:poss	_	_
 6	answer	answer	NOUN	S	Number=Sing	2	xcomp	_	_
@@ -998,7 +998,7 @@
 11	enacting	enact	VERB	V	VerbForm=Ger	8	advcl	_	_
 12	European	European	ADJ	A	Degree=Pos	13	amod	_	_
 13	law	law	NOUN	S	Number=Sing	11	obj	_	_
-14	to	to	ADP	E	_	15	mark	_	_
+14	to	to	PART	PART	_	15	mark	_	_
 15	ensure	ensure	VERB	V	VerbForm=Inf	13	acl	_	_
 16	greater	greater	ADJ	A	Degree=Cmp	17	amod	_	_
 17	safety	safety	NOUN	S	Number=Sing	15	obj	_	SpaceAfter=No
@@ -1013,7 +1013,7 @@
 5	I	I	PRON	PE	Number=Sing|Person=1|PronType=Prs	7	nsubj	_	_
 6	should	shall	AUX	VM	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	7	aux	_	_
 7	like	like	VERB	V	VerbForm=Inf	0	root	_	_
-8	to	to	ADP	E	_	9	mark	_	_
+8	to	to	PART	PART	_	9	mark	_	_
 9	make	make	VERB	V	VerbForm=Inf	7	xcomp	_	_
 10	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	11	det	_	_
 11	request	request	NOUN	S	Number=Sing	9	obj	_	_
@@ -1030,7 +1030,7 @@
 22	here	here	ADV	B	_	15	acl:relcl	_	_
 23	today	today	ADV	B	_	22	advmod	_	SpaceAfter=No
 24	,	,	PUNCT	FF	_	22	punct	_	_
-25	to	to	ADP	E	_	26	mark	_	_
+25	to	to	PART	PART	_	26	mark	_	_
 26	table	table	VERB	V	VerbForm=Inf	13	xcomp	_	_
 27	an	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	29	det	_	_
 28	appropriate	appropriate	ADJ	A	Degree=Pos	29	amod	_	_
@@ -1042,15 +1042,15 @@
 34	with	with	ADP	E	_	36	case	_	_
 35	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	36	det	_	_
 36	view	view	NOUN	S	Number=Sing	26	obl	_	_
-37	to	to	ADP	E	_	38	mark	_	_
+37	to	to	PART	PART	_	38	mark	_	_
 38	continuing	continue	VERB	V	VerbForm=Ger	36	acl	_	_
-39	to	to	ADP	E	_	40	mark	_	_
+39	to	to	PART	PART	_	40	mark	_	_
 40	make	make	VERB	V	VerbForm=Inf	38	ccomp	_	_
 41	it	it	PRON	PE	Number=Sing|Person=3|PronType=Prs	40	obj	_	_
 42	safer	safer	ADJ	A	Degree=Cmp	40	xcomp	_	_
 43	for	for	ADP	E	_	44	case	_	_
 44	traffic	traffic	NOUN	S	Number=Sing	40	obl	_	_
-45	to	to	ADP	E	_	46	mark	_	_
+45	to	to	PART	PART	_	46	mark	_	_
 46	transit	transit	VERB	V	VerbForm=Inf	44	acl	_	_
 47	tunnels	tunnel	NOUN	S	Number=Plur	46	obj	_	_
 48	in	in	ADP	E	_	50	case	_	_
@@ -1065,7 +1065,7 @@
 57	do	do	AUX	VM	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	59	aux	_	_
 58	not	not	PART	PART	Polarity=Neg	59	advmod	_	_
 59	have	have	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	46	advcl	_	_
-60	to	to	ADP	E	_	61	mark	_	_
+60	to	to	PART	PART	_	61	mark	_	_
 61	experience	experience	VERB	V	VerbForm=Inf	59	xcomp	_	_
 62	any	any	ADV	B	_	63	advmod	_	_
 63	more	more	ADV	B	Degree=Cmp	61	advmod	_	_
@@ -1126,13 +1126,13 @@
 46	be	be	AUX	VA	VerbForm=Inf	47	aux:pass	_	_
 47	taken	take	VERB	V	Tense=Past|VerbForm=Part	39	ccomp	_	_
 48	for	for	ADP	E	_	49	mark	_	_
-49	granted	grant	VERB	V	Tense=Past|VerbForm=Part	47	xcomp	_	_
+49	granted	grant	VERB	V	Tense=Past|VerbForm=Part	47	advcl	_	_
 50	and	and	CCONJ	CC	_	61	cc	_	_
 51	that	that	SCONJ	CS	_	61	mark	_	_
 52	those	that	PRON	PD	Number=Plur|PronType=Dem	61	nsubj	_	_
 53	charged	charge	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	52	acl	_	_
 54	with	with	ADP	E	_	55	mark	_	_
-55	protecting	protect	VERB	V	VerbForm=Ger	53	xcomp	_	_
+55	protecting	protect	VERB	V	VerbForm=Ger	53	advcl	_	_
 56	the	the	DET	RD	Definite=Def|PronType=Art	57	det	_	_
 57	public	public	NOUN	S	Number=Sing	55	obj	_	_
 58	must	must	AUX	VM	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	61	aux	_	_
@@ -1147,7 +1147,7 @@
 # sent_id = en_partut-ud-193
 # text = Needless to say, safety on roads, railways and inland waterways is of key importance and, given the international nature of these types of transport, training for safety advisors should also be harmonised, therefore, as well as the requirements of the new ADR, for example, which is under way.
 1	Needless	needless	ADJ	A	Degree=Pos	16	amod	_	_
-2	to	to	ADP	E	_	3	mark	_	_
+2	to	to	PART	PART	_	3	mark	_	_
 3	say	say	VERB	V	VerbForm=Inf	1	advcl	_	SpaceAfter=No
 4	,	,	PUNCT	FF	_	1	punct	_	_
 5	safety	safety	NOUN	S	Number=Sing	16	nsubj	_	_
@@ -1338,7 +1338,7 @@
 3	I	I	PRON	PE	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_
 4	should	shall	AUX	VM	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	5	aux	_	_
 5	like	like	VERB	V	VerbForm=Inf	0	root	_	_
-6	to	to	ADP	E	_	7	mark	_	_
+6	to	to	PART	PART	_	7	mark	_	_
 7	ask	ask	VERB	V	VerbForm=Inf	5	xcomp	_	_
 8	the	the	DET	RD	Definite=Def|PronType=Art	9	det	_	_
 9	Commissioner	commissioner	NOUN	S	Number=Sing	7	obj	_	_
@@ -1356,7 +1356,7 @@
 21	fertile	fertile	ADJ	A	Degree=Pos	22	amod	_	_
 22	ground	ground	NOUN	S	Number=Sing	19	obl	_	_
 23	-	-	PUNCT	FB	_	14	punct	_	_
-24	to	to	ADP	E	_	25	mark	_	_
+24	to	to	PART	PART	_	25	mark	_	_
 25	ensure	ensure	VERB	V	VerbForm=Inf	7	xcomp	_	_
 26	that	that	SCONJ	CS	_	30	mark	_	_
 27	more	more	ADV	B	Degree=Cmp	30	advmod	_	_
@@ -1399,7 +1399,7 @@
 12	ask	ask	VERB	V	VerbForm=Inf	3	conj	_	_
 13	the	the	DET	RD	Definite=Def|PronType=Art	14	det	_	_
 14	Commission	commission	NOUN	S	Number=Sing	12	obj	_	_
-15	to	to	ADP	E	_	16	mark	_	_
+15	to	to	PART	PART	_	16	mark	_	_
 16	monitor	monitor	VERB	V	VerbForm=Inf	12	xcomp	_	_
 17	the	the	DET	RD	Definite=Def|PronType=Art	18	det	_	_
 18	situation	situation	NOUN	S	Number=Sing	16	obj	_	_
@@ -1448,7 +1448,7 @@
 6	would	will	AUX	VM	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	8	aux	_	_
 7	also	also	ADV	B	_	8	advmod	_	_
 8	like	like	VERB	V	VerbForm=Inf	0	root	_	_
-9	to	to	ADP	E	_	10	mark	_	_
+9	to	to	PART	PART	_	10	mark	_	_
 10	refer	refer	VERB	V	VerbForm=Inf	8	xcomp	_	_
 11	very	very	ADV	B	_	12	advmod	_	_
 12	briefly	briefly	ADV	B	_	10	advmod	_	_
@@ -1489,7 +1489,7 @@
 47	should	shall	AUX	VM	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	49	aux	_	_
 48	be	be	AUX	VA	VerbForm=Inf	49	aux:pass	_	_
 49	made	make	VERB	V	Tense=Past|VerbForm=Part	42	conj	_	_
-50	to	to	ADP	E	_	51	mark	_	_
+50	to	to	PART	PART	_	51	mark	_	_
 51	improve	improve	VERB	V	VerbForm=Inf	49	ccomp	_	_
 52	their	their	DET	AP	Poss=Yes|PronType=Prs	53	nmod:poss	_	_
 53	safety	safety	NOUN	S	Number=Sing	51	obj	_	SpaceAfter=No
@@ -1503,7 +1503,7 @@
 4	the	the	DET	RD	Definite=Def|PronType=Art	6	det	_	_
 5	worst	worst	ADJ	A	Degree=Sup	6	amod	_	_
 6	accidents	accident	NOUN	S	Number=Plur	2	nmod	_	_
-7	to	to	ADP	E	_	9	mark	_	_
+7	to	to	PART	PART	_	9	mark	_	_
 8	have	have	AUX	VA	VerbForm=Inf	9	aux	_	_
 9	occurred	occur	VERB	V	Tense=Past|VerbForm=Part	6	acl	_	_
 10	recently	recently	ADV	B	_	9	advmod	_	SpaceAfter=No
@@ -1653,7 +1653,7 @@
 17	laws	law	NOUN	S	Number=Plur	14	nmod	_	_
 18	of	of	ADP	E	_	21	case	_	_
 19	the	the	DET	RD	Definite=Def|PronType=Art	21	det	_	_
-20	member	member	NOUN	S	Number=Sing	21	nmod	_	_
+20	member	member	NOUN	S	Number=Sing	21	compound	_	_
 21	states	state	NOUN	S	Number=Plur	17	nmod	_	_
 22	with	with	ADP	E	_	23	case	_	_
 23	regard	regard	NOUN	S	Number=Sing	21	nmod	_	_
@@ -1732,10 +1732,10 @@
 10	it	it	PRON	PE	Number=Sing|Person=3|PronType=Prs	9	obj	_	_
 11	difficult	difficult	ADJ	A	Degree=Pos	9	xcomp	_	_
 12	to	to	ADP	E	_	13	case	_	_
-13	apply	apply	VERB	V	VerbForm=Inf	11	obl	_	_
-14	this	this	DET	DD	Number=Sing|PronType=Dem	13	det	_	_
+13	apply	apply	VERB	V	VerbForm=Inf	9	ccomp	_	_
+14	this	this	DET	DD	Number=Sing|PronType=Dem	16	det	_	_
 15	very	very	ADJ	A	Degree=Pos	16	amod	_	_
-16	Directive	Directive	NOUN	S	Number=Sing	13	amod	_	SpaceAfter=No
+16	Directive	Directive	NOUN	S	Number=Sing	13	obj	_	SpaceAfter=No
 17	.	.	PUNCT	FS	_	9	punct	_	_
 
 # sent_id = en_partut-ud-255
@@ -1857,7 +1857,7 @@
 1	We	we	PRON	PE	Number=Plur|Person=1|PronType=Prs	3	nsubj	_	_
 2	would	will	AUX	VM	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	3	aux	_	_
 3	like	like	VERB	V	VerbForm=Inf	0	root	_	_
-4	to	to	ADP	E	_	5	mark	_	_
+4	to	to	PART	PART	_	5	mark	_	_
 5	ensure	ensure	VERB	V	VerbForm=Inf	3	xcomp	_	_
 6	that	that	SCONJ	CS	_	8	mark	_	_
 7	there	there	ADV	B	_	8	expl	_	_
@@ -1880,7 +1880,7 @@
 24	the	the	DET	RD	Definite=Def|PronType=Art	25	det	_	_
 25	Council	Council	NOUN	S	Number=Sing	26	nsubj	_	_
 26	has	have	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	acl:relcl	_	_
-27	to	to	ADP	E	_	28	mark	_	_
+27	to	to	PART	PART	_	28	mark	_	_
 28	make	make	VERB	V	VerbForm=Inf	26	xcomp	_	_
 29	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	30	det	_	_
 30	decision	decision	NOUN	S	Number=Sing	28	obj	_	_
@@ -1908,7 +1908,7 @@
 3	amendment	amendment	NOUN	S	Number=Sing	5	nsubj:pass	_	_
 4	is	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux:pass	_	_
 5	intended	intend	VERB	V	Tense=Past|VerbForm=Part	0	root	_	_
-6	to	to	ADP	E	_	7	mark	_	_
+6	to	to	PART	PART	_	7	mark	_	_
 7	ensure	ensure	VERB	V	VerbForm=Inf	5	xcomp	_	_
 8	that	that	SCONJ	CS	_	12	mark	_	_
 9	tanks	tank	NOUN	S	Number=Plur	12	nsubj	_	_
@@ -1931,7 +1931,7 @@
 26	Directive	Directive	NOUN	S	Number=Sing	23	nmod	_	_
 27	may	may	AUX	VM	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	28	aux	_	_
 28	continue	continue	VERB	V	VerbForm=Inf	5	conj	_	_
-29	to	to	ADP	E	_	31	mark	_	_
+29	to	to	PART	PART	_	31	mark	_	_
 30	be	be	AUX	VA	VerbForm=Inf	31	aux:pass	_	_
 31	used	use	VERB	V	Tense=Past|VerbForm=Part	28	ccomp	_	_
 32	provided	provide	VERB	V	Tense=Past|VerbForm=Part	31	advcl	_	_
@@ -1978,7 +1978,7 @@
 8	it	it	PRON	PE	Number=Sing|Person=3|PronType=Prs	10	expl	_	_
 9	is	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
 10	hard	hard	ADJ	A	Degree=Pos	0	root	_	_
-11	to	to	ADP	E	_	12	mark	_	_
+11	to	to	PART	PART	_	12	mark	_	_
 12	imagine	imagine	VERB	V	VerbForm=Inf	10	csubj	_	_
 13	that	that	SCONJ	CS	_	18	mark	_	_
 14	in	in	ADP	E	_	15	case	_	_
@@ -1998,7 +1998,7 @@
 2	would	will	AUX	VM	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	4	aux	_	_
 3	be	be	AUX	VA	VerbForm=Inf	4	cop	_	_
 4	necessary	necessary	ADJ	A	Degree=Pos	0	root	_	_
-5	to	to	ADP	E	_	6	mark	_	_
+5	to	to	PART	PART	_	6	mark	_	_
 6	keep	keep	VERB	V	VerbForm=Inf	4	advcl	_	_
 7	safety	safety	NOUN	S	Number=Sing	8	nmod	_	_
 8	standards	standard	NOUN	S	Number=Plur	6	obj	_	_
@@ -2033,7 +2033,7 @@
 3	,	,	PUNCT	FF	_	2	punct	_	_
 4	Mr	mister	NOUN	S	Gender=Masc|Number=Sing	2	appos	_	_
 5	Koch	Koch	PROPN	SP	_	4	flat	_	SpaceAfter=No
-6	,	,	PUNCT	FF	_	2	punct	_	_
+6	,	,	PUNCT	FF	_	4	punct	_	_
 7	to	to	ADP	E	_	8	case	_	_
 8	whom	who	PRON	PR	PronType=Rel	10	obl	_	_
 9	we	we	PRON	PE	Number=Plur|Person=1|PronType=Prs	10	nsubj	_	_
@@ -2097,7 +2097,7 @@
 2	makes	make	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	it	it	PRON	PE	Number=Sing|Person=3|PronType=Prs	2	expl	_	_
 4	necessary	necessary	NOUN	S	Number=Sing	2	xcomp	_	_
-5	to	to	ADP	E	_	7	mark	_	_
+5	to	to	PART	PART	_	7	mark	_	_
 6	also	also	ADV	B	_	7	advmod	_	_
 7	take	take	VERB	V	VerbForm=Inf	2	ccomp	_	_
 8	account	account	NOUN	S	Number=Sing	7	obj	_	_
@@ -2123,7 +2123,7 @@
 1	I	I	PRON	PE	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
 2	would	will	AUX	VM	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	3	aux	_	_
 3	like	like	VERB	V	VerbForm=Inf	0	root	_	_
-4	to	to	ADP	E	_	5	mark	_	_
+4	to	to	PART	PART	_	5	mark	_	_
 5	say	say	VERB	V	VerbForm=Inf	3	xcomp	_	SpaceAfter=No
 6	,	,	PUNCT	FF	_	5	punct	_	_
 7	with	with	ADP	E	_	8	case	_	_
@@ -2131,7 +2131,7 @@
 9	to	to	ADP	E	_	13	case	_	_
 10	Mr	mister	NOUN	S	Gender=Masc|Number=Sing	13	nmod	_	_
 11	Swoboda	Swoboda	PROPN	SP	_	10	flat	_	SpaceAfter=No
-12	's	's	PART	PART	_	11	case	_	_
+12	's	's	PART	PART	_	10	case	_	_
 13	comments	comment	NOUN	S	Number=Plur	8	nmod	_	_
 14	on	on	ADP	E	_	16	case	_	_
 15	the	the	DET	RD	Definite=Def|PronType=Art	16	det	_	_
@@ -2139,13 +2139,13 @@
 17	of	of	ADP	E	_	19	case	_	_
 18	the	the	DET	RD	Definite=Def|PronType=Art	19	det	_	_
 19	CEN	CEN	PROPN	SP	_	16	nmod	_	SpaceAfter=No
-20	,	,	PUNCT	FF	_	5	punct	_	_
+20	,	,	PUNCT	FF	_	8	punct	_	_
 21	that	that	SCONJ	CS	_	24	mark	_	_
 22	we	we	PRON	PE	Number=Plur|Person=1|PronType=Prs	24	nsubj	_	_
 23	are	be	AUX	VA	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	24	aux	_	_
 24	urging	urge	VERB	V	VerbForm=Ger	5	ccomp	_	_
 25	them	they	PRON	PE	Number=Plur|Person=3|PronType=Prs	24	obj	_	_
-26	to	to	ADP	E	_	27	mark	_	_
+26	to	to	PART	PART	_	27	mark	_	_
 27	speed	speed	VERB	V	VerbForm=Inf	24	xcomp	_	_
 28	up	up	ADP	E	_	27	compound:prt	_	_
 29	their	their	DET	AP	Poss=Yes|PronType=Prs	30	nmod:poss	_	_
@@ -2165,10 +2165,10 @@
 43	the	the	DET	RD	Definite=Def|PronType=Art	45	det	_	_
 44	new	new	ADJ	A	Degree=Pos	45	amod	_	_
 45	deadline	deadline	NOUN	S	Number=Sing	48	obl	_	SpaceAfter=No
-46	,	,	PUNCT	FF	_	48	punct	_	_
+46	,	,	PUNCT	FF	_	45	punct	_	_
 47	we	we	PRON	PE	Number=Plur|Person=1|PronType=Prs	48	nsubj	_	_
 48	were	be	VERB	V	Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	39	advcl	_	_
-49	to	to	ADP	E	_	50	mark	_	_
+49	to	to	PART	PART	_	50	mark	_	_
 50	find	find	VERB	V	VerbForm=Inf	48	xcomp	_	_
 51	ourselves	us	PRON	PE	Number=Plur|Person=1|PronType=Prs	50	obj	_	_
 52	after	after	ADP	E	_	54	case	_	_
@@ -2215,7 +2215,7 @@
 7	pleasing	pleasing	ADJ	A	Degree=Pos	0	root	_	_
 8	for	for	ADP	E	_	9	case	_	_
 9	me	i	PRON	PE	Number=Sing|Person=1|PronType=Prs	7	obl	_	_
-10	to	to	ADP	E	_	11	mark	_	_
+10	to	to	PART	PART	_	11	mark	_	_
 11	make	make	VERB	V	VerbForm=Inf	7	csubj	_	_
 12	my	my	DET	AP	Number=Sing|Poss=Yes|PronType=Prs	14	nmod:poss	_	_
 13	first	first	ADJ	NO	Degree=Pos|NumType=Ord	14	amod	_	_
@@ -2270,7 +2270,7 @@
 15	Structural	structural	ADJ	A	Degree=Pos	16	amod	_	_
 16	Funds	fund	NOUN	S	Number=Plur	17	nmod	_	_
 17	programme	programme	NOUN	S	Number=Sing	11	obl	_	_
-18	to	to	ADP	E	_	19	mark	_	_
+18	to	to	PART	PART	_	19	mark	_	_
 19	alleviate	alleviate	VERB	V	VerbForm=Inf	11	advcl	_	_
 20	some	some	PRON	PI	PronType=Ind	19	obj	_	_
 21	of	of	ADP	E	_	24	case	_	_
@@ -2298,13 +2298,13 @@
 11	programme	programme	NOUN	S	Number=Sing	3	obl	_	_
 12	not	not	PART	PART	Polarity=Neg	13	advmod	_	_
 13	just	just	ADV	B	_	15	advmod	_	_
-14	to	to	ADP	E	_	15	mark	_	_
+14	to	to	PART	PART	_	15	mark	_	_
 15	see	see	VERB	V	VerbForm=Inf	3	advcl	_	_
 16	industrial	industrial	ADJ	A	Degree=Pos	17	amod	_	_
 17	restructuring	restructuring	NOUN	S	Number=Sing	15	obj	_	_
 18	but	but	CCONJ	CC	_	21	cc	_	_
 19	also	also	ADV	B	_	21	advmod	_	_
-20	to	to	ADP	E	_	21	mark	_	_
+20	to	to	PART	PART	_	21	mark	_	_
 21	see	see	VERB	V	VerbForm=Inf	15	conj	_	_
 22	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	24	det	_	_
 23	wider	wider	ADJ	A	Degree=Cmp	24	amod	_	_
@@ -2328,7 +2328,7 @@
 3	why	why	ADV	B	_	5	advmod	_	_
 4	I	I	PRON	PE	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_
 5	want	want	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	ccomp	_	_
-6	to	to	ADP	E	_	7	mark	_	_
+6	to	to	PART	PART	_	7	mark	_	_
 7	highlight	highlight	VERB	V	VerbForm=Inf	5	xcomp	_	_
 8	some	some	PRON	PI	PronType=Ind	7	obj	_	_
 9	of	of	ADP	E	_	11	case	_	_
@@ -2353,7 +2353,7 @@
 3	we	we	PRON	PE	Number=Plur|Person=1|PronType=Prs	5	nsubj	_	_
 4	would	will	AUX	VM	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	5	aux	_	_
 5	like	like	VERB	V	VerbForm=Inf	2	acl:relcl	_	_
-6	to	to	ADP	E	_	7	mark	_	_
+6	to	to	PART	PART	_	7	mark	_	_
 7	address	address	VERB	V	VerbForm=Inf	5	xcomp	_	SpaceAfter=No
 8	,	,	PUNCT	FF	_	7	punct	_	_
 9	specifically	specifically	ADV	B	_	12	advmod	_	_
@@ -2374,7 +2374,7 @@
 24	liked	like	VERB	V	Tense=Past|VerbForm=Part	2	csubj	_	_
 25	the	the	DET	RD	Definite=Def|PronType=Art	26	det	_	_
 26	Commission	commission	NOUN	S	Number=Sing	24	obj	_	_
-27	to	to	ADP	E	_	28	mark	_	_
+27	to	to	PART	PART	_	28	mark	_	_
 28	pay	pay	VERB	V	VerbForm=Inf	24	xcomp	_	_
 29	more	more	ADJ	A	Degree=Cmp	30	amod	_	_
 30	attention	attention	NOUN	S	Number=Sing	28	obj	_	_
@@ -2418,7 +2418,7 @@
 6	very	very	ADV	B	_	7	advmod	_	_
 7	much	much	ADV	B	_	8	advmod	_	_
 8	like	like	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	0	root	_	_
-9	to	to	ADP	E	_	10	mark	_	_
+9	to	to	PART	PART	_	10	mark	_	_
 10	thank	thank	VERB	V	VerbForm=Inf	8	xcomp	_	_
 11	Mrs	mrs	NOUN	S	Gender=Fem|Number=Sing	10	obj	_	_
 12	Schroedter	Schroedter	PROPN	SP	_	11	flat	_	_
@@ -2431,7 +2431,7 @@
 19	on	on	ADP	E	_	20	case	_	_
 20	this	this	PRON	PD	Number=Sing|PronType=Dem	18	obl	_	_
 21	and	and	CCONJ	CC	_	23	cc	_	_
-22	to	to	ADP	E	_	23	mark	_	_
+22	to	to	PART	PART	_	23	mark	_	_
 23	explain	explain	VERB	V	VerbForm=Inf	10	conj	_	_
 24	to	to	ADP	E	_	25	case	_	_
 25	colleagues	colleague	NOUN	S	Number=Plur	23	obl	_	_
@@ -2442,8 +2442,8 @@
 30	for	for	ADP	E	_	32	case	_	_
 31	my	my	DET	AP	Number=Sing|Poss=Yes|PronType=Prs	32	nmod:poss	_	_
 32	colleague	colleague	NOUN	S	Number=Sing	29	obl	_	SpaceAfter=No
-33	,	,	PUNCT	FF	_	34	punct	_	_
-34	Mrs	mrs	NOUN	S	Gender=Fem|Number=Sing	32	conj	_	_
+33	,	,	PUNCT	FF	_	32	punct	_	_
+34	Mrs	mrs	NOUN	S	Gender=Fem|Number=Sing	32	appos	_	_
 35	Flautre	Flautre	PROPN	SP	_	34	flat	_	SpaceAfter=No
 36	,	,	PUNCT	FF	_	34	punct	_	_
 37	who	who	PRON	PR	PronType=Rel	38	nsubj	_	_
@@ -2501,7 +2501,7 @@
 11	very	very	ADV	B	_	12	advmod	_	_
 12	powerful	powerful	ADJ	A	Degree=Pos	13	amod	_	_
 13	reasons	reason	NOUN	S	Number=Plur	10	obj	_	_
-14	to	to	ADP	E	_	15	mark	_	_
+14	to	to	PART	PART	_	15	mark	_	_
 15	offer	offer	VERB	V	VerbForm=Inf	13	acl	_	_
 16	to	to	ADP	E	_	18	case	_	_
 17	both	both	DET	DI	PronType=Ind	18	det	_	_
@@ -2679,7 +2679,7 @@
 6	I	I	PRON	PE	Number=Sing|Person=1|PronType=Prs	8	nsubj	_	_
 7	would	will	AUX	VM	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	8	aux	_	_
 8	like	like	VERB	V	VerbForm=Inf	0	root	_	_
-9	to	to	ADP	E	_	10	mark	_	_
+9	to	to	PART	PART	_	10	mark	_	_
 10	thank	thank	VERB	V	VerbForm=Inf	8	xcomp	_	_
 11	Mrs	mrs	NOUN	S	Gender=Fem|Number=Sing	10	obj	_	_
 12	Schroedter	Schroedter	PROPN	SP	_	11	flat	_	_
@@ -2761,7 +2761,7 @@
 4	considers	consider	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 5	it	it	PRON	PE	Number=Sing|Person=3|PronType=Prs	4	expl	_	_
 6	important	important	ADJ	A	Degree=Pos	4	xcomp	_	_
-7	to	to	ADP	E	_	8	mark	_	_
+7	to	to	PART	PART	_	8	mark	_	_
 8	take	take	VERB	V	VerbForm=Inf	4	ccomp	_	_
 9	greater	greater	ADJ	A	Degree=Cmp	10	amod	_	_
 10	account	account	NOUN	S	Number=Sing	8	obj	_	_
@@ -2772,7 +2772,7 @@
 15	areas	area	NOUN	S	Number=Plur	10	nmod	_	_
 16	and	and	CCONJ	CC	_	17	cc	_	_
 17	wishes	wish	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	_
-18	to	to	ADP	E	_	19	mark	_	_
+18	to	to	PART	PART	_	19	mark	_	_
 19	increase	increase	VERB	V	VerbForm=Inf	17	xcomp	_	_
 20	interaction	interaction	NOUN	S	Number=Sing	19	obj	_	_
 21	between	between	ADP	E	_	22	case	_	_
@@ -2787,7 +2787,7 @@
 1	We	we	PRON	PE	Number=Plur|Person=1|PronType=Prs	3	nsubj:pass	_	_
 2	are	be	AUX	VA	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	3	aux:pass	_	_
 3	obliged	oblige	VERB	V	Tense=Past|VerbForm=Part	0	root	_	_
-4	to	to	ADP	E	_	5	mark	_	_
+4	to	to	PART	PART	_	5	mark	_	_
 5	do	do	VERB	V	VerbForm=Inf	3	xcomp	_	_
 6	so	so	ADV	B	_	5	advmod	_	_
 7	because	because	SCONJ	CS	_	11	mark	_	_
@@ -2930,7 +2930,7 @@
 23	place	place	NOUN	S	Number=Sing	21	obl	_	_
 24	comprehensive	comprehensive	ADJ	A	Degree=Pos	25	amod	_	_
 25	schemes	scheme	NOUN	S	Number=Plur	21	obj	_	_
-26	to	to	ADP	E	_	27	mark	_	_
+26	to	to	PART	PART	_	27	mark	_	_
 27	help	help	VERB	V	VerbForm=Inf	21	advcl	_	_
 28	combat	combat	VERB	V	VerbForm=Inf	27	ccomp	_	_
 29	youth	youth	NOUN	S	Number=Sing	32	amod	_	_
@@ -2959,7 +2959,7 @@
 4	I	I	PRON	PE	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
 5	would	will	AUX	VM	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	6	aux	_	_
 6	like	like	VERB	V	VerbForm=Inf	3	acl:relcl	_	_
-7	to	to	ADP	E	_	8	mark	_	_
+7	to	to	PART	PART	_	8	mark	_	_
 8	make	make	VERB	V	VerbForm=Inf	6	xcomp	_	_
 9	is	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 10	that	that	SCONJ	CS	_	14	mark	_	_
@@ -3012,7 +3012,7 @@
 7	I	I	PRON	PE	Number=Sing|Person=1|PronType=Prs	9	nsubj	_	_
 8	would	will	AUX	VM	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	9	aux	_	_
 9	like	like	VERB	V	VerbForm=Inf	0	root	_	_
-10	to	to	ADP	E	_	11	mark	_	_
+10	to	to	PART	PART	_	11	mark	_	_
 11	express	express	VERB	V	VerbForm=Inf	9	xcomp	_	_
 12	my	my	DET	AP	Number=Sing|Poss=Yes|PronType=Prs	13	nmod:poss	_	_
 13	dissatisfaction	dissatisfaction	NOUN	S	Number=Sing	11	obj	_	_
@@ -3053,7 +3053,7 @@
 7	I	I	PRON	PE	Number=Sing|Person=1|PronType=Prs	9	nsubj	_	_
 8	would	will	AUX	VM	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	9	aux	_	_
 9	like	like	VERB	V	VerbForm=Inf	0	root	_	_
-10	to	to	ADP	E	_	11	mark	_	_
+10	to	to	PART	PART	_	11	mark	_	_
 11	remind	remind	VERB	V	VerbForm=Inf	9	xcomp	_	_
 12	you	you	PRON	PE	Person=2|PronType=Prs	11	obj	_	_
 13	of	of	ADP	E	_	15	case	_	_
@@ -3109,7 +3109,7 @@
 32	of	of	ADP	E	_	34	case	_	_
 33	programming	programming	NOUN	S	Number=Sing	34	nmod	_	_
 34	set	set	NOUN	S	Number=Sing	31	nmod	_	_
-35	to	to	ADP	E	_	36	mark	_	_
+35	to	to	PART	PART	_	36	mark	_	_
 36	follow	follow	VERB	V	VerbForm=Inf	34	acl	_	_
 37	2003	2003	NUM	N	NumType=Card	36	obj	_	SpaceAfter=No
 38	.	.	PUNCT	FS	_	4	punct	_	_
@@ -3120,7 +3120,7 @@
 2	are	be	AUX	VA	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	4	cop	_	_
 3	not	not	PART	PART	Polarity=Neg	4	advmod	_	_
 4	enough	enough	ADJ	A	Degree=Pos	0	root	_	_
-5	to	to	ADP	E	_	6	mark	_	_
+5	to	to	PART	PART	_	6	mark	_	_
 6	ensure	ensure	VERB	V	VerbForm=Inf	4	advcl	_	_
 7	development	development	NOUN	S	Number=Sing	6	obj	_	_
 8	when	when	SCONJ	CS	_	14	mark	_	_
@@ -3156,7 +3156,7 @@
 9	of	of	ADP	E	_	11	mark	_	_
 10	being	being	AUX	VA	VerbForm=Ger	11	cop	_	_
 11	unavailable	unavailable	ADJ	A	Degree=Pos	7	advcl	_	_
-12	to	to	ADP	E	_	13	mark	_	_
+12	to	to	PART	PART	_	13	mark	_	_
 13	give	give	VERB	V	VerbForm=Inf	11	advcl	_	_
 14	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	15	det	_	_
 15	response	response	NOUN	S	Number=Sing	13	obj	_	SpaceAfter=No
@@ -3166,7 +3166,7 @@
 19	we	we	PRON	PE	Number=Plur|Person=1|PronType=Prs	21	nsubj	_	_
 20	are	be	AUX	VA	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	21	aux	_	_
 21	going	go	VERB	V	VerbForm=Ger	13	advcl	_	_
-22	to	to	ADP	E	_	24	mark	_	_
+22	to	to	PART	PART	_	24	mark	_	_
 23	be	be	AUX	VA	VerbForm=Inf	24	aux	_	_
 24	funding	fund	VERB	V	VerbForm=Ger	21	xcomp	_	_
 25	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	27	det	_	_
@@ -3191,7 +3191,7 @@
 9	ask	ask	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	6	conj	_	_
 10	Member	member	NOUN	S	Number=Sing	11	compound	_	_
 11	States	state	NOUN	S	Number=Plur	9	obj	_	_
-12	to	to	ADP	E	_	13	mark	_	_
+12	to	to	PART	PART	_	13	mark	_	_
 13	ensure	ensure	VERB	V	VerbForm=Inf	9	xcomp	_	SpaceAfter=No
 14	,	,	PUNCT	FF	_	13	punct	_	_
 15	that	that	SCONJ	CS	_	17	mark	_	_
@@ -3207,7 +3207,7 @@
 25	it	it	PRON	PE	Number=Sing|Person=3|PronType=Prs	27	nsubj:pass	_	_
 26	is	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	27	aux:pass	_	_
 27	used	use	VERB	V	Tense=Past|VerbForm=Part	20	advcl	_	_
-28	to	to	ADP	E	_	29	mark	_	_
+28	to	to	PART	PART	_	29	mark	_	_
 29	repair	repair	VERB	V	VerbForm=Inf	27	ccomp	_	_
 30	damage	damage	NOUN	S	Number=Sing	29	obj	_	_
 31	caused	cause	VERB	V	Tense=Past|VerbForm=Part	30	acl	_	_
@@ -3227,7 +3227,7 @@
 5	Funds	fund	NOUN	S	Number=Plur	7	nsubj	_	_
 6	have	have	AUX	VA	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	7	aux	_	_
 7	helped	help	VERB	V	Tense=Past|VerbForm=Part	0	root	_	_
-8	to	to	ADP	E	_	9	mark	_	_
+8	to	to	PART	PART	_	9	mark	_	_
 9	apply	apply	VERB	V	VerbForm=Inf	7	ccomp	_	_
 10	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	11	det	_	_
 11	brake	brake	NOUN	S	Number=Sing	9	obj	_	_
@@ -3245,7 +3245,7 @@
 5	Europe	Europe	PROPN	SP	_	2	nmod	_	_
 6	that	that	PRON	PR	PronType=Rel	7	nsubj	_	_
 7	aims	aim	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	acl:relcl	_	_
-8	to	to	ADP	E	_	9	mark	_	_
+8	to	to	PART	PART	_	9	mark	_	_
 9	satisfy	satisfy	VERB	V	VerbForm=Inf	7	xcomp	_	_
 10	social	social	ADJ	A	Degree=Pos	9	amod	_	_
 11	needs	needs	ADV	B	_	12	advmod	_	_
@@ -3280,12 +3280,12 @@
 14	make	make	VERB	V	VerbForm=Inf	10	acl:relcl	_	_
 15	it	it	PRON	PE	Number=Sing|Person=3|PronType=Prs	14	expl	_	_
 16	possible	possible	ADJ	A	Degree=Pos	14	xcomp	_	_
-17	to	to	ADP	E	_	18	mark	_	_
+17	to	to	PART	PART	_	18	mark	_	_
 18	boost	boost	VERB	V	VerbForm=Inf	14	ccomp	_	_
 19	the	the	DET	RD	Definite=Def|PronType=Art	20	det	_	_
 20	funds	fund	NOUN	S	Number=Plur	18	obj	_	_
 21	used	use	VERB	V	Tense=Past|VerbForm=Part	20	acl	_	_
-22	to	to	ADP	E	_	23	mark	_	_
+22	to	to	PART	PART	_	23	mark	_	_
 23	support	support	VERB	V	VerbForm=Inf	21	advcl	_	_
 24	the	the	DET	RD	Definite=Def|PronType=Art	25	det	_	_
 25	harmonisation	harmonization	NOUN	S	Number=Sing	23	obj	_	_
@@ -3323,7 +3323,7 @@
 15	Commission	commission	NOUN	S	Number=Sing	17	nmod	_	SpaceAfter=No
 16	's	's	PART	PART	_	15	case	_	_
 17	communication	communication	NOUN	S	Number=Sing	12	nmod	_	_
-18	to	to	ADP	E	_	19	mark	_	_
+18	to	to	PART	PART	_	19	mark	_	_
 19	focus	focus	VERB	V	VerbForm=Inf	12	acl	_	_
 20	on	on	ADP	E	_	22	case	_	_
 21	territorial	territorial	ADJ	A	Degree=Pos	22	amod	_	_
@@ -3356,7 +3356,7 @@
 3	to	to	ADP	E	_	1	fixed	_	_
 4	be	be	AUX	VA	VerbForm=Inf	5	cop	_	_
 5	eligible	eligible	ADJ	A	Degree=Pos	16	advcl	_	_
-6	to	to	ADP	E	_	7	mark	_	_
+6	to	to	PART	PART	_	7	mark	_	_
 7	sign	sign	VERB	V	VerbForm=Inf	5	advcl	_	_
 8	up	up	ADP	E	_	7	compound:prt	_	_
 9	for	for	ADP	E	_	10	case	_	_
@@ -3396,7 +3396,7 @@
 9	we	we	PRON	PE	Number=Plur|Person=1|PronType=Prs	10	nsubj	_	_
 10	require	require	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	0	root	_	_
 11	everyone	everyone	PRON	PE	Number=Sing|Person=3|PronType=Prs	10	obj	_	_
-12	to	to	ADP	E	_	13	mark	_	_
+12	to	to	PART	PART	_	13	mark	_	_
 13	use	use	VERB	V	VerbForm=Inf	10	xcomp	_	_
 14	their	their	DET	AP	Poss=Yes|PronType=Prs	16	nmod:poss	_	_
 15	real	real	ADJ	A	Degree=Pos	16	amod	_	_
@@ -3908,7 +3908,7 @@
 17	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	19	det	_	_
 18	high	high	ADJ	A	Degree=Pos	19	amod	_	_
 19	potential	potential	NOUN	S	Number=Sing	16	obj	_	_
-20	to	to	ADP	E	_	21	mark	_	_
+20	to	to	PART	PART	_	21	mark	_	_
 21	facilitate	facilitate	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	19	acl	_	_
 22	environmental	environmental	ADJ	A	Degree=Pos	23	amod	_	_
 23	improvement	improvement	NOUN	S	Number=Sing	21	obj	_	_
@@ -3925,11 +3925,11 @@
 3	be	be	VERB	V	VerbForm=Inf	0	root	_	_
 4	sufficient	sufficient	ADJ	A	Degree=Pos	5	amod	_	_
 5	flexibility	flexibility	NOUN	S	_	3	nsubj	_	_
-6	to	to	ADP	E	_	7	mark	_	_
+6	to	to	PART	PART	_	7	mark	_	_
 7	enable	enable	VERB	V	VerbForm=Inf	3	advcl	_	_
 8	this	this	DET	DD	Number=Sing|PronType=Dem	9	det	_	_
 9	factor	factor	NOUN	S	Number=Sing	7	obj	_	_
-10	to	to	ADP	E	_	12	mark	_	_
+10	to	to	PART	PART	_	12	mark	_	_
 11	be	be	AUX	VA	VerbForm=Inf	12	aux:pass	_	_
 12	integrated	integrate	VERB	V	Tense=Past|VerbForm=Part	7	xcomp	_	_
 13	in	in	ADP	E	_	15	case	_	_
@@ -3958,7 +3958,7 @@
 7	necessary	necessary	ADJ	A	Degree=Pos	0	root	_	_
 8	and	and	CCONJ	CC	_	9	cc	_	_
 9	justified	justified	ADJ	A	Degree=Pos	7	conj	_	_
-10	to	to	ADP	E	_	11	mark	_	_
+10	to	to	PART	PART	_	11	mark	_	_
 11	establish	establish	VERB	V	VerbForm=Inf	7	csubj	_	_
 12	specific	specific	ADJ	A	Degree=Pos	15	amod	_	_
 13	quantified	quantified	ADJ	A	Degree=Pos	15	amod	_	_
@@ -4024,7 +4024,7 @@
 21	action	action	NOUN	S	Number=Sing	23	nsubj	_	_
 22	is	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	23	cop	_	_
 23	likely	likely	ADJ	A	Degree=Pos	7	advcl	_	_
-24	to	to	ADP	E	_	25	mark	_	_
+24	to	to	PART	PART	_	25	mark	_	_
 25	deliver	deliver	VERB	V	VerbForm=Inf	23	xcomp	_	_
 26	the	the	DET	RD	Definite=Def|PronType=Art	28	det	_	_
 27	policy	policy	NOUN	S	Number=Sing	28	nmod	_	_
@@ -4052,7 +4052,7 @@
 7	market	market	NOUN	S	Number=Plur	8	nmod	_	_
 8	forces	force	NOUN	S	Number=Plur	9	nsubj	_	_
 9	fail	fail	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	5	advcl	_	_
-10	to	to	ADP	E	_	11	mark	_	_
+10	to	to	PART	PART	_	11	mark	_	_
 11	evolve	evolve	VERB	V	VerbForm=Inf	9	xcomp	_	_
 12	in	in	ADP	E	_	15	case	_	_
 13	the	the	DET	RD	Definite=Def|PronType=Art	15	det	_	_
@@ -4102,7 +4102,7 @@
 9	instruments	instrument	NOUN	S	Number=Plur	4	conj	_	_
 10	should	shall	AUX	VM	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	11	aux	_	_
 11	contribute	contribute	VERB	V	VerbForm=Inf	0	root	_	_
-12	to	to	ADP	E	_	13	mark	_	_
+12	to	to	PART	PART	_	13	mark	_	_
 13	increasing	increase	VERB	V	VerbForm=Ger	11	ccomp	_	_
 14	their	their	DET	AP	Poss=Yes|PronType=Prs	16	nmod:poss	_	_
 15	respective	respective	ADJ	A	Degree=Pos	16	amod	_	_
@@ -4113,7 +4113,7 @@
 20	requirements	requirement	NOUN	S	Number=Plur	18	obj	_	_
 21	for	for	ADP	E	_	22	case	_	_
 22	manufacturers	manufacturer	NOUN	S	Number=Plur	20	nmod	_	_
-23	to	to	ADP	E	_	24	mark	_	_
+23	to	to	PART	PART	_	24	mark	_	_
 24	apply	apply	VERB	V	VerbForm=Inf	20	acl	_	SpaceAfter=No
 25	.	.	PUNCT	FS	_	11	punct	_	_
 
@@ -4340,7 +4340,7 @@
 11	coins	coin	NOUN	S	Number=Plur	7	nmod	_	_
 12	is	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	aux	_	_
 13	continuing	continue	VERB	V	VerbForm=Ger	0	root	_	_
-14	to	to	ADP	E	_	15	mark	_	_
+14	to	to	PART	PART	_	15	mark	_	_
 15	increase	increase	VERB	V	VerbForm=Inf	13	xcomp	_	_
 16	but	but	CCONJ	CC	_	18	cc	_	_
 17	also	also	ADV	B	_	18	advmod	_	_
@@ -4397,7 +4397,7 @@
 13	hence	hence	ADV	B	_	5	advmod	_	_
 14	the	the	DET	RD	Definite=Def|PronType=Art	15	det	_	_
 15	need	need	NOUN	S	Number=Sing	5	obl	_	_
-16	to	to	ADP	E	_	17	mark	_	_
+16	to	to	PART	PART	_	17	mark	_	_
 17	continue	continue	VERB	V	VerbForm=Inf	15	acl	_	_
 18	the	the	DET	RD	Definite=Def|PronType=Art	20	det	_	_
 19	Pericles	Pericles	PROPN	SP	_	20	nmod	_	_
@@ -4827,7 +4827,7 @@
 14	euro	euro	NOUN	S	Number=Sing	15	nmod	_	_
 15	banknotes	banknote	NOUN	S	Number=Plur	11	nmod	_	SpaceAfter=No
 16	,	,	PUNCT	FF	_	15	punct	_	_
-17	to	to	ADP	E	_	19	mark	_	_
+17	to	to	PART	PART	_	19	mark	_	_
 18	be	be	AUX	VA	VerbForm=Inf	19	aux	_	_
 19	issued	issue	VERB	V	Tense=Past|VerbForm=Part	15	acl	_	_
 20	at	at	ADP	E	_	22	case	_	_
@@ -5103,7 +5103,7 @@
 6	may	may	AUX	VM	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	_
 7	be	be	AUX	VA	VerbForm=Inf	8	aux:pass	_	_
 8	compelled	compel	VERB	V	Tense=Past|VerbForm=Part	0	root	_	_
-9	to	to	ADP	E	_	10	mark	_	_
+9	to	to	PART	PART	_	10	mark	_	_
 10	belong	belong	VERB	V	VerbForm=Inf	8	xcomp	_	_
 11	to	to	ADP	E	_	13	case	_	_
 12	an	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	13	det	_	_
@@ -5238,13 +5238,13 @@
 16	person	person	NOUN	S	Number=Sing	12	conj	_	_
 17	any	any	DET	DI	PronType=Ind	18	det	_	_
 18	right	right	NOUN	S	Number=Sing	9	obj	_	_
-19	to	to	ADP	E	_	20	mark	_	_
+19	to	to	PART	PART	_	20	mark	_	_
 20	engage	engage	VERB	V	VerbForm=Inf	18	acl	_	_
 21	in	in	ADP	E	_	23	case	_	_
 22	any	any	DET	DI	PronType=Ind	23	det	_	_
 23	activity	activity	NOUN	S	Number=Sing	20	obl	_	_
 24	or	or	CCONJ	CC	_	26	cc	_	_
-25	to	to	ADP	E	_	26	mark	_	_
+25	to	to	PART	PART	_	26	mark	_	_
 26	perform	perform	VERB	V	VerbForm=Inf	20	conj	_	_
 27	any	any	DET	DI	PronType=Ind	28	det	_	_
 28	act	act	NOUN	S	Number=Sing	26	obj	_	_
@@ -5468,7 +5468,7 @@
 # text = Now, to bring that home, I thought I'd invent a little game.
 1	Now	now	ADV	B	_	9	advmod	_	SpaceAfter=No
 2	,	,	PUNCT	FF	_	1	punct	_	_
-3	to	to	ADP	E	_	4	mark	_	_
+3	to	to	PART	PART	_	4	mark	_	_
 4	bring	bring	VERB	V	VerbForm=Inf	9	advcl	_	_
 5	that	that	PRON	PD	Person=3|PronType=Dem	4	obj	_	_
 6	home	home	NOUN	S	Number=Sing	4	obl	_	SpaceAfter=No
@@ -5688,7 +5688,7 @@
 4	,	,	PUNCT	FF	_	1	punct	_	_
 5	we	we	PRON	PE	Number=Plur|Person=1|PronType=Prs	6	nsubj	_	_
 6	like	like	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	0	root	_	_
-7	to	to	ADP	E	_	8	mark	_	_
+7	to	to	PART	PART	_	8	mark	_	_
 8	say	say	VERB	V	VerbForm=Inf	6	xcomp	_	SpaceAfter=No
 9	,	,	PUNCT	FF	_	8	punct	_	_
 10	on	on	ADP	E	_	11	case	_	_
@@ -5803,7 +5803,7 @@
 10	the	the	DET	RD	Definite=Def|PronType=Art	12	det	_	_
 11	first	first	ADJ	NO	Degree=Pos|NumType=Ord	12	amod	_	_
 12	organisms	organism	NOUN	S	Number=Plur	6	ccomp	_	_
-13	to	to	ADP	E	_	14	mark	_	_
+13	to	to	PART	PART	_	14	mark	_	_
 14	come	come	VERB	V	Tense=Past|VerbForm=Part	12	acl	_	_
 15	to	to	ADP	E	_	16	case	_	_
 16	land	land	NOUN	S	Number=Sing	14	obl	_	SpaceAfter=No
@@ -6426,7 +6426,7 @@
 13	Federal	Federal	PROPN	SP	_	15	nsubj	_	_
 14	Reserve	Reserve	PROPN	SP	_	13	flat:name	_	_
 15	begins	begin	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	advcl	_	_
-16	to	to	ADP	E	_	17	mark	_	_
+16	to	to	PART	PART	_	17	mark	_	_
 17	tighten	tighten	VERB	V	VerbForm=Inf	15	xcomp	_	_
 18	monetary	monetary	ADJ	A	Degree=Pos	19	amod	_	_
 19	policy	policy	NOUN	S	Number=Sing	17	obj	_	_
@@ -6699,7 +6699,7 @@
 13	let	let	VERB	V	Tense=Past|VerbForm=Part	6	advcl	_	_
 14	alone	alone	ADJ	A	Degree=Pos	13	xcomp	_	_
 15	the	the	DET	RD	Definite=Def|PronType=Art	16	det	_	_
-16	world	world	NOUN	S	Number=Sing	14	obl	_	SpaceAfter=No
+16	world	world	NOUN	S	Number=Sing	13	obj	_	SpaceAfter=No
 17	's	's	PART	PART	_	16	case	_	SpaceAfter=No
 18	.	.	PUNCT	FS	_	6	punct	_	_
 
@@ -6792,7 +6792,7 @@
 11	Europeans	European	NOUN	S	Number=Plur	13	nsubj	_	_
 12	are	be	AUX	VA	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	13	cop	_	_
 13	able	able	ADJ	A	Degree=Pos	9	advcl	_	_
-14	to	to	ADP	E	_	15	mark	_	_
+14	to	to	PART	PART	_	15	mark	_	_
 15	get	get	VERB	V	VerbForm=Inf	13	xcomp	_	_
 16	their	their	DET	AP	Poss=Yes|PronType=Prs	17	nmod:poss	_	_
 17	policies	policy	NOUN	S	Number=Plur	15	obj	_	_
@@ -6838,7 +6838,7 @@
 31	should	shall	AUX	VM	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	33	aux	_	_
 32	be	be	AUX	VA	VerbForm=Inf	33	aux:pass	_	_
 33	allowed	allow	VERB	V	Tense=Past|VerbForm=Part	24	acl:relcl	_	_
-34	to	to	ADP	E	_	35	mark	_	_
+34	to	to	PART	PART	_	35	mark	_	_
 35	override	override	VERB	V	VerbForm=Inf	33	xcomp	_	SpaceAfter=No
 36	.	.	PUNCT	FS	_	24	punct	_	_
 
@@ -6855,7 +6855,7 @@
 9	or	or	CCONJ	CC	_	11	cc	_	_
 10	be	be	AUX	VA	Number=Plur|Tense=Pres	11	aux	_	_
 11	prepared	prepare	VERB	V	Tense=Past|VerbForm=Part	1	conj	_	_
-12	to	to	ADP	E	_	13	mark	_	_
+12	to	to	PART	PART	_	13	mark	_	_
 13	invest	invest	VERB	V	VerbForm=Inf	11	xcomp	_	_
 14	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	16	det	_	_
 15	large	large	ADJ	A	Degree=Pos	16	amod	_	_
@@ -6914,7 +6914,7 @@
 13	,	,	PUNCT	FF	_	15	punct	_	_
 14	reduced	reduced	ADJ	A	Degree=Pos	15	acl	_	_
 15	room	room	NOUN	S	Number=Sing	9	conj	_	_
-16	to	to	ADP	E	_	17	mark	_	_
+16	to	to	PART	PART	_	17	mark	_	_
 17	manage	manage	VERB	V	VerbForm=Inf	15	acl	_	_
 18	the	the	DET	RD	Definite=Def|PronType=Art	20	det	_	_
 19	real	real	ADJ	A	Degree=Pos	20	amod	_	_
@@ -6922,7 +6922,7 @@
 21	–	–	PUNCT	FB	_	9	punct	_	_
 22	will	will	AUX	VM	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	23	aux	_	_
 23	continue	continue	VERB	V	VerbForm=Inf	0	root	_	_
-24	to	to	ADP	E	_	25	mark	_	_
+24	to	to	PART	PART	_	25	mark	_	_
 25	preoccupy	preoccupy	VERB	V	VerbForm=Inf	23	xcomp	_	_
 26	policymakers	policymakers	ADJ	A	Degree=Pos	25	obj	_	_
 27	in	in	ADP	E	_	29	case	_	_
@@ -6940,14 +6940,14 @@
 5	but	but	CCONJ	CC	_	6	cc	_	_
 6	unhelpful	unhelpful	ADJ	A	Degree=Pos	3	conj	_	SpaceAfter=No
 7	,	,	PUNCT	FF	_	3	punct	_	_
-8	to	to	ADP	E	_	9	mark	_	_
+8	to	to	PART	PART	_	9	mark	_	_
 9	say	say	VERB	V	VerbForm=Inf	3	csubj	_	_
 10	that	that	SCONJ	CS	_	12	mark	_	_
 11	governments	government	NOUN	S	Number=Plur	12	nsubj	_	_
 12	have	have	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	9	ccomp	_	_
 13	only	only	ADV	B	_	12	advmod	_	_
 14	themselves	they	PRON	PE	Number=Plur|Person=3|PronType=Prs	12	obj	_	_
-15	to	to	ADP	E	_	16	mark	_	_
+15	to	to	PART	PART	_	16	mark	_	_
 16	blame	blame	VERB	V	VerbForm=Inf	12	xcomp	_	_
 17	for	for	ADP	E	_	20	mark	_	_
 18	having	have	AUX	VA	VerbForm=Ger	20	aux	_	_
@@ -6963,7 +6963,7 @@
 # text = WASHINGTON, DC – In his recent State of the Union address, US President Barack Obama reiterated his ambition to complete the Trans-Pacific Partnership, a proposed trade agreement among the US and 11 Pacific countries.
 1	WASHINGTON	Washington	PROPN	SP	_	18	obl	_	SpaceAfter=No
 2	,	,	PUNCT	FF	_	1	punct	_	_
-3	DC	Dc	PROPN	SP	_	1	nmod	_	_
+3	DC	DC	PROPN	SP	_	1	flat	_	_
 4	–	–	PUNCT	FF	_	1	punct	_	_
 5	In	in	ADP	E	_	12	case	_	_
 6	his	his	DET	AP	Poss=Yes|PronType=Prs	12	nmod:poss	_	_
@@ -6977,15 +6977,15 @@
 14	US	US	PROPN	SP	_	15	nmod	_	_
 15	President	president	NOUN	S	Number=Sing	18	nsubj	_	_
 16	Barack	Barack	PROPN	SP	_	15	flat	_	_
-17	Obama	Obama	PROPN	SP	_	16	flat:name	_	_
+17	Obama	Obama	PROPN	SP	_	15	flat	_	_
 18	reiterated	reiterate	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 19	his	his	DET	AP	Poss=Yes|PronType=Prs	20	nmod:poss	_	_
 20	ambition	ambition	NOUN	S	Number=Sing	18	obj	_	_
-21	to	to	ADP	E	_	22	mark	_	_
+21	to	to	PART	PART	_	22	mark	_	_
 22	complete	complete	VERB	V	VerbForm=Inf	20	acl	_	_
 23	the	the	DET	RD	Definite=Def|PronType=Art	27	det	_	_
 24	Trans	trans	ADJ	A	Degree=Pos	26	amod	_	SpaceAfter=No
-25	-	-	PUNCT	FF	_	24	punct	_	SpaceAfter=No
+25	-	-	PUNCT	FF	_	26	punct	_	SpaceAfter=No
 26	Pacific	pacific	ADJ	A	Degree=Pos	27	amod	_	_
 27	Partnership	partnership	NOUN	S	Number=Sing	22	obj	_	SpaceAfter=No
 28	,	,	PUNCT	FF	_	27	punct	_	_
@@ -7126,7 +7126,7 @@
 25	that	that	PRON	PR	PronType=Rel	27	obj	_	_
 26	they	they	PRON	PE	Number=Plur|Person=3|PronType=Prs	27	nsubj	_	_
 27	need	need	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	24	acl:relcl	_	_
-28	to	to	ADP	E	_	29	mark	_	_
+28	to	to	PART	PART	_	29	mark	_	_
 29	help	help	VERB	V	VerbForm=Inf	27	xcomp	_	_
 30	their	their	DET	AP	Poss=Yes|PronType=Prs	31	nmod:poss	_	_
 31	economies	economy	NOUN	S	Number=Plur	32	nsubj	_	_
@@ -7141,7 +7141,7 @@
 40	citizens	citizen	NOUN	S	Number=Plur	42	nmod	_	SpaceAfter=No
 41	'	'	PART	PART	_	40	case	_	SpaceAfter=No
 42	capacity	capacity	NOUN	S	Number=Sing	38	obj	_	_
-43	to	to	ADP	E	_	44	mark	_	_
+43	to	to	PART	PART	_	44	mark	_	_
 44	consume	consume	VERB	V	VerbForm=Inf	42	acl	_	SpaceAfter=No
 45	.	.	PUNCT	FS	_	12	punct	_	_
 
@@ -7214,9 +7214,9 @@
 3	have	have	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	5	det	_	_
 5	lot	lot	NOUN	S	Number=Sing	3	obj	_	_
-6	to	to	ADP	E	_	7	mark	_	_
+6	to	to	PART	PART	_	7	mark	_	_
 7	gain	gain	VERB	V	VerbForm=Inf	3	xcomp	_	_
-8	from	from	ADP	E	_	11	case	_	_
+8	from	from	SCONJ	CS	_	9	mark	_	_
 9	attracting	attract	VERB	V	VerbForm=Inf	3	advcl	_	_
 10	multinational	multinational	ADJ	A	Degree=Pos	11	amod	_	_
 11	firms	firm	NOUN	S	Number=Plur	9	obj	_	SpaceAfter=No
@@ -7365,7 +7365,7 @@
 5	its	its	DET	AP	Number=Sing|Poss=Yes|PronType=Prs	7	nmod:poss	_	_
 6	IP	IP	PROPN	SP	_	7	nmod	_	_
 7	regime	regime	NOUN	S	Number=Sing	4	obj	_	_
-8	to	to	ADP	E	_	9	mark	_	_
+8	to	to	PART	PART	_	9	mark	_	_
 9	resemble	resemble	VERB	V	VerbForm=Inf	4	advcl	_	_
 10	the	the	DET	RD	Definite=Def|PronType=Art	12	det	_	_
 11	US	US	PROPN	SP	_	12	nmod	_	_
@@ -7536,7 +7536,7 @@
 6	trade	trade	NOUN	S	Number=Sing	7	nmod	_	_
 7	negotiators	negotiator	NOUN	S	Number=Plur	4	obl	_	_
 8	worldwide	worldwide	ADJ	A	Degree=Pos	7	amod	_	_
-9	to	to	ADP	E	_	10	mark	_	_
+9	to	to	PART	PART	_	10	mark	_	_
 10	reject	reject	VERB	V	VerbForm=Inf	4	csubj	_	_
 11	the	the	DET	RD	Definite=Def|PronType=Art	12	det	_	_
 12	notion	notion	NOUN	S	Number=Sing	10	obj	_	_
@@ -7574,7 +7574,7 @@
 16	should	shall	AUX	VM	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	18	aux	_	_
 17	not	not	PART	PART	Polarity=Neg	18	advmod	_	_
 18	have	have	VERB	V	VerbForm=Inf	10	acl:relcl	_	_
-19	to	to	ADP	E	_	20	mark	_	_
+19	to	to	PART	PART	_	20	mark	_	_
 20	forego	forego	VERB	V	VerbForm=Inf	18	xcomp	_	SpaceAfter=No
 21	.	.	PUNCT	FS	_	2	punct	_	_
 
@@ -7632,7 +7632,7 @@
 9	governments	government	NOUN	S	Number=Plur	11	nmod	_	SpaceAfter=No
 10	'	'	PART	PART	_	9	case	_	_
 11	ability	ability	NOUN	S	Number=Sing	7	obj	_	_
-12	to	to	ADP	E	_	13	mark	_	_
+12	to	to	PART	PART	_	13	mark	_	_
 13	support	support	VERB	V	VerbForm=Inf	11	acl	_	_
 14	them	they	PRON	PE	Number=Plur|Person=3|PronType=Prs	13	obj	_	_
 15	when	when	SCONJ	CS	_	16	mark	_	_
@@ -7721,7 +7721,7 @@
 37	and	and	CCONJ	CC	_	39	cc	_	_
 38	creative	creative	ADJ	A	Degree=Pos	39	amod	_	_
 39	industries	industry	NOUN	S	Number=Plur	36	conj	_	_
-40	to	to	ADP	E	_	41	mark	_	_
+40	to	to	PART	PART	_	41	mark	_	_
 41	compete	compete	VERB	V	VerbForm=Inf	33	acl	_	_
 42	globally	globally	ADV	B	_	41	advmod	_	SpaceAfter=No
 43	.	.	PUNCT	FS	_	17	punct	_	_
@@ -7791,7 +7791,7 @@
 25	"	"	PUNCT	FB	_	27	punct	_	SpaceAfter=No
 26	its	its	DET	AP	Number=Sing|Poss=Yes|PronType=Prs	27	nmod:poss	_	_
 27	ability	ability	NOUN	S	Number=Sing	23	obl	_	_
-28	to	to	ADP	E	_	30	mark	_	_
+28	to	to	PART	PART	_	30	mark	_	_
 29	both	both	CCONJ	CC	_	30	cc	_	_
 30	invigorate	invigorate	VERB	V	VerbForm=Inf	27	acl	_	_
 31	and	and	CCONJ	CC	_	32	cc	_	_
@@ -8122,7 +8122,7 @@
 6	are	be	AUX	VA	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	8	cop	_	_
 7	not	not	PART	PART	Polarity=Neg	8	advmod	_	_
 8	easy	easy	ADJ	A	Degree=Pos	0	root	_	_
-9	to	to	ADP	E	_	10	mark	_	_
+9	to	to	PART	PART	_	10	mark	_	_
 10	establish	establish	VERB	V	VerbForm=Inf	8	advcl	_	_
 11	definitively	definitively	ADV	B	_	10	advmod	_	SpaceAfter=No
 12	,	,	PUNCT	FF	_	19	punct	_	_
@@ -8166,7 +8166,7 @@
 5	doctorates	doctorate	NOUN	S	Number=Plur	3	nmod	_	_
 6	can	can	AUX	VM	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	_
 7	choose	choose	VERB	V	VerbForm=Inf	0	root	_	_
-8	to	to	ADP	E	_	9	mark	_	_
+8	to	to	PART	PART	_	9	mark	_	_
 9	develop	develop	VERB	V	VerbForm=Inf	7	xcomp	_	_
 10	complex	complex	ADJ	A	Degree=Pos	12	amod	_	_
 11	mathematical	mathematical	ADJ	A	Degree=Pos	12	amod	_	_
@@ -8201,7 +8201,7 @@
 5	use	use	VERB	V	VerbForm=Inf	0	root	_	_
 6	their	their	DET	AP	Poss=Yes|PronType=Prs	7	nmod:poss	_	_
 7	talents	talent	NOUN	S	Number=Plur	5	obj	_	_
-8	to	to	ADP	E	_	9	mark	_	_
+8	to	to	PART	PART	_	9	mark	_	_
 9	design	design	VERB	V	VerbForm=Inf	5	advcl	_	SpaceAfter=No
 10	,	,	PUNCT	FF	_	9	punct	_	_
 11	say	say	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	9	parataxis	_	SpaceAfter=No
@@ -8241,7 +8241,7 @@
 3	find	find	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	it	it	PRON	PE	Number=Sing|Person=3|PronType=Prs	3	expl	_	_
 5	harder	harder	ADJ	A	Degree=Cmp	3	xcomp	_	_
-6	to	to	ADP	E	_	7	mark	_	_
+6	to	to	PART	PART	_	7	mark	_	_
 7	recruit	recruit	VERB	V	VerbForm=Inf	3	ccomp	_	_
 8	skilled	skilled	ADJ	A	Degree=Pos	9	amod	_	_
 9	graduates	graduate	NOUN	S	Number=Plur	7	obj	_	_
@@ -8377,7 +8377,7 @@
 20	are	be	AUX	VA	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	22	cop	_	_
 21	relatively	relatively	ADV	B	_	22	advmod	_	_
 22	easy	easy	ADJ	A	Degree=Pos	9	advcl	_	_
-23	to	to	ADP	E	_	24	mark	_	_
+23	to	to	PART	PART	_	24	mark	_	_
 24	post	post	VERB	V	VerbForm=Inf	22	advcl	_	_
 25	as	as	ADP	E	_	26	case	_	_
 26	collateral	collateral	ADJ	A	Degree=Pos	24	obl	_	_
@@ -8410,7 +8410,7 @@
 21	subsequently	subsequently	ADV	B	_	22	advmod	_	_
 22	turns	turn	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	conj	_	_
 23	out	out	ADP	E	_	22	compound:prt	_	_
-24	to	to	SCONJ	CS	_	26	mark	_	_
+24	to	to	PART	PART	_	26	mark	_	_
 25	be	be	AUX	VA	VerbForm=Inf	26	cop	_	_
 26	low	low	ADJ	A	Degree=Pos	22	ccomp	_	_
 27	or	or	CCONJ	CC	_	28	cc	_	_
@@ -8488,7 +8488,7 @@
 2	if	if	SCONJ	CS	_	4	mark	_	_
 3	finance	finance	NOUN	S	Number=Sing	4	nsubj	_	_
 4	continues	continue	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	advcl	_	_
-5	to	to	ADP	E	_	6	mark	_	_
+5	to	to	PART	PART	_	6	mark	_	_
 6	take	take	VERB	V	VerbForm=Inf	4	xcomp	_	_
 7	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	9	det	_	_
 8	disproportionate	disproportionate	ADJ	A	Degree=Pos	9	amod	_	_
@@ -8699,7 +8699,7 @@
 12	in	in	ADP	E	_	13	case	_	_
 13	Ukraine	Ukraine	PROPN	SP	_	11	nmod	_	_
 14	has	have	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-15	to	to	ADP	E	_	16	mark	_	_
+15	to	to	PART	PART	_	16	mark	_	_
 16	do	do	VERB	V	VerbForm=Inf	14	xcomp	_	_
 17	with	with	ADP	E	_	19	case	_	_
 18	an	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	19	det	_	_
@@ -8752,7 +8752,7 @@
 1	The	the	DET	RD	Definite=Def|PronType=Art	2	det	_	_
 2	result	result	NOUN	S	Number=Sing	0	root	_	_
 3	was	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	cop	_	_
-4	to	to	ADP	E	_	5	mark	_	_
+4	to	to	PART	PART	_	5	mark	_	_
 5	swing	swing	VERB	V	VerbForm=Inf	2	csubj	_	_
 6	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	9	det	_	_
 7	deeply	deeply	ADV	B	_	8	advmod	_	_
@@ -8825,7 +8825,7 @@
 4	not	not	PART	PART	Polarity=Neg	6	advmod	_	_
 5	be	be	AUX	VA	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
 6	sufficient	sufficient	ADJ	A	Degree=Pos	0	root	_	_
-7	to	to	ADP	E	_	8	mark	_	_
+7	to	to	PART	PART	_	8	mark	_	_
 8	sustain	sustain	VERB	V	VerbForm=Inf	6	advcl	_	_
 9	the	the	DET	RD	Definite=Def|PronType=Art	11	det	_	_
 10	national	national	ADJ	A	Degree=Pos	11	amod	_	_
@@ -8893,14 +8893,14 @@
 3	is	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
 4	now	now	ADV	B	_	5	advmod	_	_
 5	ready	ready	ADJ	A	Degree=Pos	0	root	_	_
-6	to	to	ADP	E	_	7	mark	_	_
+6	to	to	PART	PART	_	7	mark	_	_
 7	support	support	VERB	V	VerbForm=Inf	5	advcl	_	_
 8	Ukrainians	Ukrainians	PROPN	SP	_	12	nmod	_	SpaceAfter=No
 9	'	'	PART	PART	_	8	case	_	_
 10	strongly	strongly	ADV	B	_	11	advmod	_	_
 11	felt	felt	VERB	V	Tense=Past|VerbForm=Part	12	acl	_	_
 12	desire	desire	NOUN	S	Number=Sing	7	obj	_	_
-13	to	to	ADP	E	_	14	mark	_	_
+13	to	to	PART	PART	_	14	mark	_	_
 14	establish	establish	VERB	V	VerbForm=Inf	12	acl	_	_
 15	resilient	resilient	ADJ	A	Degree=Pos	17	amod	_	_
 16	democratic	democratic	ADJ	A	Degree=Pos	17	amod	_	_
@@ -9036,7 +9036,7 @@
 # text = In addition to encouraging foreign direct investment, the EU could provide support to train local companies' managers and help them develop their business strategies, with service providers remunerated by equity stakes or profit-sharing.
 1	In	in	ADP	E	_	2	case	_	_
 2	addition	addition	NOUN	S	Number=Sing	12	obl	_	_
-3	to	to	ADP	E	_	4	mark	_	_
+3	to	to	PART	PART	_	4	mark	_	_
 4	encouraging	encourage	VERB	V	VerbForm=Ger	2	acl	_	_
 5	foreign	foreign	ADJ	A	Degree=Pos	7	amod	_	_
 6	direct	direct	ADJ	A	Degree=Pos	7	amod	_	_
@@ -9047,7 +9047,7 @@
 11	could	can	AUX	VM	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	12	aux	_	_
 12	provide	provide	VERB	V	VerbForm=Inf	0	root	_	_
 13	support	support	NOUN	S	Number=Sing	12	obj	_	_
-14	to	to	ADP	E	_	15	mark	_	_
+14	to	to	PART	PART	_	15	mark	_	_
 15	train	train	VERB	V	VerbForm=Inf	13	acl	_	_
 16	local	local	ADJ	A	Degree=Pos	17	amod	_	_
 17	companies	company	NOUN	S	Number=Plur	19	nmod	_	SpaceAfter=No
@@ -9079,7 +9079,7 @@
 1	An	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	3	det	_	_
 2	effective	effective	ADJ	A	Degree=Pos	3	amod	_	_
 3	way	way	NOUN	S	Number=Sing	0	root	_	_
-4	to	to	ADP	E	_	5	mark	_	_
+4	to	to	PART	PART	_	5	mark	_	_
 5	roll	roll	VERB	V	VerbForm=Inf	3	acl	_	_
 6	out	out	ADP	E	_	5	compound:prt	_	_
 7	such	such	DET	DD	PronType=Dem	8	det	_	_
@@ -9092,7 +9092,7 @@
 14	companies	company	NOUN	S	Number=Plur	12	nmod	_	_
 15	would	will	AUX	VM	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	3	aux	_	_
 16	be	be	AUX	VA	VerbForm=Inf	3	cop	_	_
-17	to	to	ADP	E	_	18	mark	_	_
+17	to	to	PART	PART	_	18	mark	_	_
 18	combine	combine	VERB	V	VerbForm=Inf	3	csubj	_	_
 19	it	it	PRON	PE	Number=Sing|Person=3|PronType=Prs	18	obj	_	_
 20	with	with	ADP	E	_	22	case	_	_
@@ -9246,7 +9246,7 @@
 16	United	United	PROPN	SP	_	18	nsubj	_	_
 17	States	States	PROPN	SP	_	16	flat:name	_	_
 18	helped	help	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	7	acl:relcl	_	_
-19	to	to	ADP	E	_	20	mark	_	_
+19	to	to	PART	PART	_	20	mark	_	_
 20	reconstruct	reconstruct	VERB	V	VerbForm=Inf	18	xcomp	_	_
 21	Europe	Europe	PROPN	SP	_	20	obj	_	_
 22	after	after	ADP	E	_	24	case	_	_
@@ -9259,7 +9259,7 @@
 # text = Germany ought to play the same role today as the US did then.
 1	Germany	Germany	PROPN	SP	_	2	nsubj	_	_
 2	ought	ought	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
-3	to	to	ADP	E	_	4	mark	_	_
+3	to	to	PART	PART	_	4	mark	_	_
 4	play	play	VERB	V	VerbForm=Inf	2	xcomp	_	_
 5	the	the	DET	RD	Definite=Def|PronType=Art	7	det	_	_
 6	same	same	ADJ	A	Degree=Pos	7	amod	_	_
@@ -9372,8 +9372,8 @@
 7	to	to	ADP	E	_	8	case	_	_
 8	President	president	NOUN	S	Number=Sing	5	obl	_	_
 9	Vladimir	Vladimir	PROPN	SP	_	8	flat	_	_
-10	Putin	Putin	PROPN	SP	_	8	flat:name	_	_
-11	to	to	ADP	E	_	12	mark	_	_
+10	Putin	Putin	PROPN	SP	_	8	flat	_	_
+11	to	to	PART	PART	_	12	mark	_	_
 12	ensure	ensure	VERB	V	VerbForm=Inf	5	advcl	_	_
 13	that	that	SCONJ	CS	_	17	mark	_	_
 14	Russia	Russia	PROPN	SP	_	17	nsubj	_	_
@@ -9473,7 +9473,7 @@
 26	finding	find	VERB	V	VerbForm=Ger	0	root	_	_
 27	it	it	PRON	PE	Number=Sing|Person=3|PronType=Prs	26	expl	_	_
 28	tougher	tougher	ADJ	A	Degree=Cmp	26	xcomp	_	_
-29	to	to	ADP	E	_	30	mark	_	_
+29	to	to	PART	PART	_	30	mark	_	_
 30	finance	finance	VERB	V	VerbForm=Inf	26	ccomp	_	_
 31	economic	economic	ADJ	A	Degree=Pos	32	amod	_	_
 32	growth	growth	NOUN	S	Number=Sing	30	obj	_	SpaceAfter=No
@@ -9503,7 +9503,7 @@
 6	,	,	PUNCT	FF	_	5	punct	_	_
 7	it	it	PRON	PE	Number=Sing|Person=3|PronType=Prs	8	nsubj	_	_
 8	pays	pay	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-9	to	to	ADP	E	_	10	mark	_	_
+9	to	to	PART	PART	_	10	mark	_	_
 10	differentiate	differentiate	VERB	V	VerbForm=Inf	8	xcomp	_	SpaceAfter=No
 11	.	.	PUNCT	FS	_	8	punct	_	_
 
@@ -9582,7 +9582,7 @@
 # sent_id = en_partut-ud-1179
 # text = And, of course, China's outsize backstop of $3.8 trillion in foreign-exchange reserves provides ample insurance in the event of intensified financial contagion.
 1	And	and	CCONJ	CC	_	19	cc	_	SpaceAfter=No
-2	,	,	PUNCT	FF	_	1	punct	_	_
+2	,	,	PUNCT	FF	_	19	punct	_	_
 3	of	of	ADV	B	_	19	advmod	_	_
 4	course	course	ADV	B	_	3	fixed	_	SpaceAfter=No
 5	,	,	PUNCT	FF	_	3	punct	_	_
@@ -9621,7 +9621,7 @@
 6	feasible	feasible	ADJ	A	Degree=Pos	4	conj	_	_
 7	for	for	ADP	E	_	8	case	_	_
 8	China	China	PROPN	SP	_	4	obl	_	_
-9	to	to	ADP	E	_	10	mark	_	_
+9	to	to	PART	PART	_	10	mark	_	_
 10	return	return	VERB	V	VerbForm=Inf	4	csubj	_	_
 11	to	to	ADP	E	_	13	case	_	_
 12	the	the	DET	RD	Definite=Def|PronType=Art	13	det	_	_
@@ -9674,9 +9674,9 @@
 28	,	,	PUNCT	FF	_	18	punct	_	_
 29	is	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	30	aux:pass	_	_
 30	perceived	perceive	VERB	V	Tense=Past|VerbForm=Part	11	advcl	_	_
-31	as	as	ADP	E	_	33	case	_	_
+31	as	as	SCONJ	CS	_	33	mark	_	_
 32	somehow	somehow	ADV	B	_	33	advmod	_	_
-33	heralding	herald	VERB	V	Number=Sing|Tense=Pres|VerbForm=Part	30	xcomp	_	_
+33	heralding	herald	VERB	V	Number=Sing|Tense=Pres|VerbForm=Part	30	advcl	_	_
 34	the	the	DET	RD	Definite=Def|PronType=Art	35	det	_	_
 35	end	end	NOUN	S	Number=Sing	33	obj	_	_
 36	of	of	ADP	E	_	43	case	_	_
@@ -9710,7 +9710,7 @@
 17	more	more	DET	DI	PronType=Ind	19	det	_	_
 18	growth	growth	NOUN	S	Number=Sing	19	nmod	_	_
 19	disappointments	disappointment	NOUN	S	Number=Plur	15	nmod	_	_
-20	to	to	ADP	E	_	21	mark	_	_
+20	to	to	PART	PART	_	21	mark	_	_
 21	come	come	VERB	V	Tense=Past|VerbForm=Part	19	acl	_	_
 22	–	–	PUNCT	FF	_	15	punct	_	_
 23	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	24	det	_	_
@@ -9874,7 +9874,7 @@
 12	whereby	whereby	SCONJ	CS	_	23	mark	_	_
 13	two	two	NUM	N	NumType=Card	14	nummod	_	_
 14	partners	partner	NOUN	S	Number=Plur	23	nsubj	_	SpaceAfter=No
-15	,	,	PUNCT	FF	_	19	punct	_	_
+15	,	,	PUNCT	FF	_	14	punct	_	_
 16	whether	whether	SCONJ	CS	_	19	case	_	_
 17	out	out	ADP	E	_	19	case	_	_
 18	of	of	ADP	E	_	17	fixed	_	_
@@ -9917,7 +9917,7 @@
 6	the	the	DET	RD	Definite=Def|PronType=Art	8	det	_	_
 7	US	US	PROPN	SP	_	8	nmod	_	_
 8	dollar	dollar	NOUN	S	Number=Sing	3	obl	_	_
-9	to	to	ADP	E	_	10	mark	_	_
+9	to	to	PART	PART	_	10	mark	_	_
 10	anchor	anchor	VERB	V	VerbForm=Inf	3	advcl	_	_
 11	its	its	DET	AP	Number=Sing|Poss=Yes|PronType=Prs	13	nmod:poss	_	_
 12	undervalued	undervalue	VERB	V	Tense=Past|VerbForm=Part	13	acl	_	_
@@ -9925,7 +9925,7 @@
 14	,	,	PUNCT	FF	_	10	punct	_	_
 15	allowing	allow	VERB	V	VerbForm=Ger	10	advcl	_	_
 16	it	it	PRON	PE	Number=Sing|Person=3|PronType=Prs	15	obj	_	_
-17	to	to	ADP	E	_	18	mark	_	_
+17	to	to	PART	PART	_	18	mark	_	_
 18	boost	boost	VERB	V	VerbForm=Inf	15	xcomp	_	_
 19	its	its	DET	AP	Number=Sing|Poss=Yes|PronType=Prs	21	nmod:poss	_	_
 20	export	export	NOUN	S	Number=Sing	21	nmod	_	_
@@ -9948,7 +9948,7 @@
 12	made	make	VERB	V	Tense=Past|VerbForm=Part	11	acl	_	_
 13	in	in	ADP	E	_	14	case	_	_
 14	China	China	PROPN	SP	_	12	obl	_	_
-15	to	to	ADP	E	_	16	mark	_	_
+15	to	to	PART	PART	_	16	mark	_	_
 16	stretch	stretch	VERB	V	VerbForm=Inf	8	advcl	_	_
 17	hard-pressed	hard-pressed	ADJ	A	Degree=Pos	18	amod	_	_
 18	consumers	consumer	NOUN	S	Number=Plur	21	nmod	_	SpaceAfter=No
@@ -9968,7 +9968,7 @@
 7	's	's	PART	PART	_	6	case	_	_
 8	savings	saving	NOUN	S	Number=Plur	9	nmod	_	_
 9	surplus	surplus	NOUN	S	Number=Sing	4	obl	_	_
-10	to	to	ADP	E	_	11	mark	_	_
+10	to	to	PART	PART	_	11	mark	_	_
 11	finance	finance	VERB	V	VerbForm=Inf	3	advcl	_	_
 12	its	its	DET	AP	Number=Sing|Poss=Yes|PronType=Prs	15	nmod:poss	_	_
 13	own	own	ADJ	A	Degree=Pos	15	amod	_	_
@@ -9993,7 +9993,7 @@
 32	US	US	PROPN	SP	_	33	nmod	_	_
 33	Treasury	Treasury	PROPN	SP	_	34	nmod	_	_
 34	securities	security	NOUN	S	Number=Plur	30	nmod	_	_
-35	to	to	ADP	E	_	36	mark	_	_
+35	to	to	PART	PART	_	36	mark	_	_
 36	help	help	VERB	V	VerbForm=Inf	30	acl	_	_
 37	fund	fund	VERB	V	VerbForm=Inf	36	xcomp	_	_
 38	massive	massive	ADJ	A	Degree=Pos	39	amod	_	_
@@ -10031,7 +10031,7 @@
 # sent_id = en_partut-ud-1196
 # text = And, just as a psychologist would predict, one of the partners, China, has decided to go its own way.
 1	And	and	CCONJ	CC	_	18	cc	_	SpaceAfter=No
-2	,	,	PUNCT	FF	_	1	punct	_	_
+2	,	,	PUNCT	FF	_	18	punct	_	_
 3	just	just	ADV	B	_	8	advmod	_	_
 4	as	as	SCONJ	CS	_	8	mark	_	_
 5	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	6	det	_	_
@@ -10048,7 +10048,7 @@
 16	,	,	PUNCT	FF	_	10	punct	_	_
 17	has	have	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	aux	_	_
 18	decided	decide	VERB	V	Tense=Past|VerbForm=Part	0	root	_	_
-19	to	to	ADP	E	_	20	mark	_	_
+19	to	to	PART	PART	_	20	mark	_	_
 20	go	go	VERB	V	VerbForm=Inf	18	xcomp	_	_
 21	its	its	DET	AP	Number=Sing|Poss=Yes|PronType=Prs	23	nmod:poss	_	_
 22	own	own	ADJ	A	Degree=Pos	23	amod	_	_
@@ -10063,7 +10063,7 @@
 4	will	will	AUX	VM	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
 5	enable	enable	VERB	V	VerbForm=Inf	0	root	_	_
 6	it	it	PRON	PE	Number=Sing|Person=3|PronType=Prs	5	obj	_	_
-7	to	to	ADP	E	_	8	mark	_	_
+7	to	to	PART	PART	_	8	mark	_	_
 8	absorb	absorb	VERB	V	VerbForm=Inf	5	xcomp	_	_
 9	its	its	DET	AP	Number=Sing|Poss=Yes|PronType=Prs	11	nmod:poss	_	_
 10	surplus	surplus	ADJ	A	Degree=Pos	11	amod	_	_
@@ -10100,7 +10100,7 @@
 8	longer	longer	ADV	B	Degree=Cmp	10	advmod	_	_
 9	be	be	AUX	VA	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	10	aux	_	_
 10	inclined	incline	VERB	V	Tense=Past|VerbForm=Part	0	root	_	_
-11	to	to	ADP	E	_	12	mark	_	_
+11	to	to	PART	PART	_	12	mark	_	_
 12	lend	lend	VERB	V	VerbForm=Inf	10	xcomp	_	_
 13	its	its	DET	AP	Number=Sing|Poss=Yes|PronType=Prs	14	nmod:poss	_	_
 14	capital	capital	NOUN	S	Number=Sing	12	obj	_	_
@@ -10390,7 +10390,7 @@
 10	starvation	starvation	NOUN	S	Number=Sing	7	nmod	_	_
 11	have	have	AUX	VA	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	12	aux	_	_
 12	failed	fail	VERB	V	Tense=Past|VerbForm=Part	0	root	_	_
-13	to	to	ADP	E	_	14	mark	_	_
+13	to	to	PART	PART	_	14	mark	_	_
 14	materialize	materialize	VERB	V	VerbForm=Inf	12	xcomp	_	_
 15	in	in	ADP	E	_	19	case	_	_
 16	any	any	DET	DI	PronType=Ind	19	det	_	_
@@ -10402,7 +10402,7 @@
 # sent_id = en_partut-ud-1217
 # text = And, despite a disconcerting fall in labor's share of income in recent decades, the long-run picture still defies Marx's prediction that capitalism would prove immiserating for workers.
 1	And	and	CCONJ	CC	_	21	cc	_	SpaceAfter=No
-2	,	,	PUNCT	FF	_	1	punct	_	_
+2	,	,	PUNCT	FF	_	21	punct	_	_
 3	despite	despite	ADP	E	_	6	case	_	_
 4	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	6	det	_	_
 5	disconcerting	disconcerting	ADJ	A	Degree=Pos	6	amod	_	_
@@ -10477,7 +10477,7 @@
 17	must	must	AUX	VM	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	18	aux	_	_
 18	step	step	VERB	V	VerbForm=Inf	0	root	_	_
 19	in	in	ADP	E	_	18	compound:prt	_	_
-20	to	to	ADP	E	_	21	mark	_	_
+20	to	to	PART	PART	_	21	mark	_	_
 21	provide	provide	VERB	V	VerbForm=Inf	18	advcl	_	_
 22	appropriate	appropriate	ADJ	A	Degree=Pos	23	amod	_	_
 23	Regulation	regulation	NOUN	S	Number=Sing	21	obj	_	SpaceAfter=No
@@ -10493,7 +10493,7 @@
 6	concerns	concern	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 7	the	the	DET	RD	Definite=Def|PronType=Art	8	det	_	_
 8	need	need	NOUN	S	Number=Sing	6	obj	_	_
-9	to	to	ADP	E	_	10	mark	_	_
+9	to	to	PART	PART	_	10	mark	_	_
 10	ensure	ensure	VERB	V	VerbForm=Inf	8	acl	_	_
 11	that	that	SCONJ	CS	_	16	mark	_	_
 12	the	the	DET	RD	Definite=Def|PronType=Art	14	det	_	_
@@ -10571,7 +10571,7 @@
 3	resources	resource	NOUN	S	Number=Plur	5	nsubj:pass	_	_
 4	be	be	AUX	VA	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	5	aux:pass	_	_
 5	allocated	allocate	VERB	V	Tense=Past|VerbForm=Part	0	root	_	_
-6	to	to	ADP	E	_	7	mark	_	_
+6	to	to	PART	PART	_	7	mark	_	_
 7	care	care	VERB	V	VerbForm=Inf	5	advcl	_	_
 8	for	for	ADP	E	_	10	case	_	_
 9	the	the	DET	RD	Definite=Def|PronType=Art	10	det	_	_
@@ -10616,12 +10616,12 @@
 13	being	be	AUX	VA	VerbForm=Ger	14	aux:pass	_	_
 14	asked	ask	VERB	V	Tense=Past|VerbForm=Part	5	advcl	_	_
 15	both	both	CCONJ	CC	_	17	cc	_	_
-16	to	to	ADP	E	_	17	mark	_	_
+16	to	to	PART	PART	_	17	mark	_	_
 17	service	service	VERB	V	VerbForm=Inf	14	xcomp	_	_
 18	our	us	DET	AP	Poss=Yes|PronType=Prs	19	nmod:poss	_	_
 19	debt	debt	NOUN	S	Number=Sing	17	obj	_	_
 20	and	and	CCONJ	CC	_	22	cc	_	_
-21	to	to	ADP	E	_	22	mark	_	_
+21	to	to	PART	PART	_	22	mark	_	_
 22	pay	pay	VERB	V	VerbForm=Inf	17	conj	_	_
 23	for	for	ADP	E	_	25	case	_	_
 24	our	us	DET	AP	Poss=Yes|PronType=Prs	25	nmod:poss	_	_
@@ -10688,7 +10688,7 @@
 26	are	be	AUX	VA	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	28	aux	_	_
 27	only	only	ADV	B	_	28	advmod	_	_
 28	beginning	begin	VERB	V	VerbForm=Ger	23	acl:relcl	_	_
-29	to	to	ADP	E	_	30	mark	_	_
+29	to	to	PART	PART	_	30	mark	_	_
 30	assess	assess	VERB	V	VerbForm=Inf	28	xcomp	_	SpaceAfter=No
 31	.	.	PUNCT	FS	_	3	punct	_	_
 
@@ -10917,7 +10917,7 @@
 22	women	woman	NOUN	S	Gender=Fem|Number=Plur	20	obj	_	_
 23	and	and	CCONJ	CC	_	24	cc	_	_
 24	retirees	retiree	NOUN	S	Number=Plur	22	conj	_	_
-25	to	to	ADP	E	_	26	mark	_	_
+25	to	to	PART	PART	_	26	mark	_	_
 26	enter	enter	VERB	V	VerbForm=Inf	20	xcomp	_	_
 27	or	or	CCONJ	CC	_	28	cc	_	_
 28	stay	stay	VERB	V	VerbForm=Inf	26	conj	_	_
@@ -10936,7 +10936,7 @@
 6	take	take	VERB	V	VerbForm=Inf	14	csubj	_	_
 7	for	for	ADP	E	_	8	case	_	_
 8	governments	government	NOUN	S	Number=Plur	6	obl	_	_
-9	to	to	ADP	E	_	10	mark	_	_
+9	to	to	PART	PART	_	10	mark	_	_
 10	act	act	VERB	V	VerbForm=Inf	6	ccomp	_	_
 11	is	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	_
 12	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	14	det	_	_
@@ -10983,7 +10983,7 @@
 35	improvement	improvement	NOUN	S	Number=Sing	33	nmod	_	_
 36	have	have	AUX	VA	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	37	aux	_	_
 37	seemed	seem	VERB	V	Tense=Past|VerbForm=Part	28	conj	_	_
-38	to	to	ADP	E	_	39	mark	_	_
+38	to	to	PART	PART	_	39	mark	_	_
 39	grow	grow	VERB	V	VerbForm=Inf	37	xcomp	_	_
 40	as	as	SCONJ	CS	_	44	mark	_	_
 41	capitalist	capitalist	ADJ	A	Degree=Pos	42	amod	_	_
@@ -10999,7 +10999,7 @@
 3	future	future	ADJ	A	Degree=Pos	4	amod	_	_
 4	generation	generation	NOUN	S	Number=Sing	5	nsubj	_	_
 5	continue	continue	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	0	root	_	_
-6	to	to	ADP	E	_	7	mark	_	_
+6	to	to	PART	PART	_	7	mark	_	_
 7	enjoy	enjoy	VERB	V	VerbForm=Inf	5	xcomp	_	_
 8	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	10	det	_	_
 9	better	better	ADJ	A	Degree=Cmp	10	amod	_	_
@@ -11084,7 +11084,7 @@
 14	which	which	PRON	PR	PronType=Rel	16	obj	_	_
 15	others	other	PRON	PI	Number=Plur|PronType=Ind	16	nsubj	_	_
 16	strive	strive	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	12	acl:relcl	_	_
-17	to	to	ADP	E	_	18	mark	_	_
+17	to	to	PART	PART	_	18	mark	_	_
 18	imitate	imitate	VERB	V	VerbForm=Inf	16	xcomp	_	SpaceAfter=No
 19	.	.	PUNCT	FS	_	8	punct	_	_
 
@@ -11093,7 +11093,7 @@
 1	it	it	PRON	PE	Number=Sing|Person=3|PronType=Prs	3	expl	_	_
 2	is	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
 3	difficult	difficult	ADJ	A	Degree=Pos	0	root	_	_
-4	to	to	ADP	E	_	5	mark	_	_
+4	to	to	PART	PART	_	5	mark	_	_
 5	detect	detect	VERB	V	VerbForm=Inf	3	csubj	_	_
 6	the	the	DET	RD	Definite=Def|PronType=Art	7	det	_	_
 7	benefits	benefit	NOUN	S	Number=Plur	5	obj	_	_
@@ -11250,7 +11250,7 @@
 # sent_id = en_partut-ud-1260
 # text = But, upon closer inspection, it became clear that most of this innovation involved devising better ways of scamming others, manipulating markets without getting caught (at least for a long time), and exploiting market power.
 1	But	but	CCONJ	CC	_	8	cc	_	SpaceAfter=No
-2	,	,	PUNCT	FF	_	1	punct	_	_
+2	,	,	PUNCT	FF	_	8	punct	_	_
 3	upon	upon	ADP	E	_	5	case	_	_
 4	closer	closer	NOUN	S	Number=Sing	5	nmod	_	_
 5	inspection	inspection	NOUN	S	Number=Sing	8	obl	_	SpaceAfter=No
@@ -11436,7 +11436,7 @@
 5	an	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	7	det	_	_
 6	easy	easy	ADJ	A	Degree=Pos	7	amod	_	_
 7	matter	matter	NOUN	S	Number=Sing	0	root	_	_
-8	to	to	ADP	E	_	9	mark	_	_
+8	to	to	PART	PART	_	9	mark	_	_
 9	assess	assess	VERB	V	VerbForm=Inf	7	csubj	_	_
 10	how	how	ADV	B	_	40	advmod	_	_
 11	the	the	DET	RD	Definite=Def|PronType=Art	13	det	_	_
@@ -11547,7 +11547,7 @@
 33	uses	use	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	28	acl:relcl	_	_
 34	the	the	DET	RD	Definite=Def|PronType=Art	35	det	_	_
 35	Internet	internet	NOUN	S	Number=Sing	33	obj	_	_
-36	to	to	ADP	E	_	37	mark	_	_
+36	to	to	PART	PART	_	37	mark	_	_
 37	order	order	VERB	V	VerbForm=Inf	33	advcl	_	_
 38	dog	dog	NOUN	S	Number=Sing	39	nmod	_	_
 39	food	food	NOUN	S	Number=Sing	37	obj	_	SpaceAfter=No
@@ -11647,16 +11647,16 @@
 13	of	of	ADP	E	_	14	case	_	_
 14	production	production	NOUN	S	Number=Sing	12	nmod	_	_
 15	of	of	ADP	E	_	20	case	_	SpaceAfter=No
-16	,	,	PUNCT	FF	_	20	punct	_	_
+16	,	,	PUNCT	FF	_	17	punct	_	_
 17	say	say	VERB	V	Mood=Ind|Tense=Pres|VerbForm=Fin	20	parataxis	_	SpaceAfter=No
 18	,	,	PUNCT	FF	_	17	punct	_	_
 19	an	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	20	det	_	_
 20	automobile	automobile	NOUN	S	Number=Sing	14	nmod	_	SpaceAfter=No
-21	,	,	PUNCT	FF	_	4	punct	_	_
+21	,	,	PUNCT	FF	_	20	punct	_	_
 22	it	it	PRON	PE	Number=Sing|Person=3|PronType=Prs	24	expl	_	_
 23	was	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	24	cop	_	_
 24	easy	easy	ADJ	A	Degree=Pos	0	root	_	_
-25	to	to	ADP	E	_	26	mark	_	_
+25	to	to	PART	PART	_	26	mark	_	_
 26	assess	assess	VERB	V	VerbForm=Inf	24	csubj	_	_
 27	an	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	28	det	_	_
 28	innovation	innovation	NOUN	S	Number=Sing	30	nmod	_	SpaceAfter=No
@@ -11717,7 +11717,7 @@
 17	is	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	cop	_	_
 18	more	more	ADV	B	Degree=Cmp	19	advmod	_	_
 19	likely	likely	ADJ	A	Degree=Pos	7	acl	_	_
-20	to	to	ADP	E	_	22	mark	_	_
+20	to	to	PART	PART	_	22	mark	_	_
 21	be	be	AUX	VA	VerbForm=Inf	22	cop	_	_
 22	successful	successful	ADJ	A	Degree=Pos	19	xcomp	_	_
 23	now	now	ADV	B	_	22	advmod	_	_
@@ -12007,7 +12007,7 @@
 21	young	young	ADJ	A	Degree=Pos	22	amod	_	_
 22	contestants	contestant	NOUN	S	Number=Plur	19	obj	_	_
 23	set	set	VERB	V	Tense=Past|VerbForm=Part	22	acl	_	_
-24	to	to	ADP	E	_	25	mark	_	_
+24	to	to	PART	PART	_	25	mark	_	_
 25	begin	begin	VERB	V	VerbForm=Inf	23	xcomp	_	_
 26	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	27	det	_	_
 27	race	race	NOUN	S	Number=Sing	25	obj	_	SpaceAfter=No
@@ -12172,7 +12172,7 @@
 14	nurture	nurture	NOUN	S	Number=Sing	10	conj	_	SpaceAfter=No
 15	"	"	PUNCT	FB	_	14	punct	_	_
 16	interact	interact	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	7	ccomp	_	_
-17	to	to	ADP	E	_	18	mark	_	_
+17	to	to	PART	PART	_	18	mark	_	_
 18	shape	shape	VERB	V	VerbForm=Inf	16	advcl	_	_
 19	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	20	det	_	_
 20	person	person	NOUN	S	Number=Sing	22	nmod	_	SpaceAfter=No
@@ -12195,7 +12195,7 @@
 11	was	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	12	aux:pass	_	_
 12	considered	consider	VERB	V	Tense=Past|VerbForm=Part	0	root	_	_
 13	essential	essential	ADJ	A	Degree=Pos	12	xcomp	_	_
-14	to	to	ADP	E	_	15	mark	_	_
+14	to	to	PART	PART	_	15	mark	_	_
 15	ensuring	ensure	VERB	V	VerbForm=Ger	13	advcl	_	_
 16	future	future	ADJ	A	Degree=Pos	17	amod	_	_
 17	generations	generation	NOUN	S	Number=Plur	19	nmod	_	SpaceAfter=No
@@ -12360,7 +12360,7 @@
 10	the	the	DET	RD	Definite=Def|PronType=Art	12	det	_	_
 11	scientific	scientific	ADJ	A	Degree=Pos	12	amod	_	_
 12	community	community	NOUN	S	Number=Sing	8	nmod	_	_
-13	to	to	ADP	E	_	14	mark	_	_
+13	to	to	PART	PART	_	14	mark	_	_
 14	relay	relay	VERB	V	VerbForm=Inf	12	acl	_	_
 15	relevant	relevant	ADJ	A	Degree=Pos	16	amod	_	_
 16	data	datum	NOUN	S	Number=Plur	14	obj	_	_
@@ -12380,7 +12380,7 @@
 6	that	that	SCONJ	CS	_	27	mark	_	_
 7	strong	strong	ADJ	A	Degree=Pos	8	amod	_	_
 8	efforts	effort	NOUN	S	Number=Plur	27	nsubj	_	_
-9	to	to	ADP	E	_	10	mark	_	_
+9	to	to	PART	PART	_	10	mark	_	_
 10	support	support	VERB	V	VerbForm=Inf	8	acl	_	_
 11	pre	pre	ADJ	A	Degree=Pos	13	amod	_	SpaceAfter=No
 12	-	-	PUNCT	FF	_	13	punct	_	SpaceAfter=No
@@ -12548,7 +12548,7 @@
 # text = Compelling policymakers to implement such policies will require a new set of skills that draws upon lessons from around the world.
 1	Compelling	compel	VERB	V	Number=Sing|Tense=Pres|VerbForm=Part	2	acl	_	_
 2	policymakers	policymakers	NOUN	S	Gender=Fem|Number=Plur	8	nsubj	_	_
-3	to	to	ADP	E	_	4	mark	_	_
+3	to	to	PART	PART	_	4	mark	_	_
 4	implement	implement	VERB	V	VerbForm=Inf	2	acl	_	_
 5	such	such	DET	DD	PronType=Dem	6	det	_	_
 6	policies	policy	NOUN	S	Number=Plur	4	obj	_	_
@@ -12592,11 +12592,11 @@
 19	can	can	AUX	VM	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	20	aux	_	_
 20	motivate	motivate	VERB	V	VerbForm=Inf	13	advcl	_	_
 21	citizens	citizen	NOUN	S	Number=Plur	20	obj	_	_
-22	to	to	ADP	E	_	23	mark	_	_
+22	to	to	PART	PART	_	23	mark	_	_
 23	pressure	pressure	VERB	V	VerbForm=Inf	20	advcl	_	_
 24	their	their	DET	AP	Poss=Yes|PronType=Prs	25	nmod:poss	_	_
 25	governments	government	NOUN	S	Number=Plur	23	obj	_	_
-26	to	to	ADP	E	_	27	mark	_	_
+26	to	to	PART	PART	_	27	mark	_	_
 27	take	take	VERB	V	VerbForm=Inf	25	acl	_	_
 28	action	action	NOUN	S	Number=Sing	27	obj	_	SpaceAfter=No
 29	.	.	PUNCT	FS	_	13	punct	_	_
@@ -12611,7 +12611,7 @@
 6	Symposium	symposium	NOUN	S	Number=Sing	1	nmod	_	_
 7	can	can	AUX	VM	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	_
 8	help	help	VERB	V	VerbForm=Inf	0	root	_	_
-9	to	to	ADP	E	_	10	mark	_	_
+9	to	to	PART	PART	_	10	mark	_	_
 10	bridge	bridge	VERB	V	VerbForm=Inf	8	ccomp	_	_
 11	the	the	DET	RD	Definite=Def|PronType=Art	14	det	_	_
 12	increasingly	increasingly	ADV	B	_	13	advmod	_	_
@@ -12627,7 +12627,7 @@
 # sent_id = en_partut-ud-1320
 # text = But, without strong domestic support for change, the impact of such meetings is limited.
 1	But	but	CCONJ	CC	_	16	cc	_	SpaceAfter=No
-2	,	,	PUNCT	FF	_	1	punct	_	_
+2	,	,	PUNCT	FF	_	16	punct	_	_
 3	without	without	ADP	E	_	6	case	_	_
 4	strong	strong	ADJ	A	Degree=Pos	6	amod	_	_
 5	domestic	domestic	ADJ	A	Degree=Pos	6	amod	_	_
@@ -12649,7 +12649,7 @@
 1	It	it	PRON	PE	Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
 2	is	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
 3	time	time	NOUN	S	Number=Sing	0	root	_	_
-4	to	to	ADP	E	_	5	mark	_	_
+4	to	to	PART	PART	_	5	mark	_	_
 5	demand	demand	VERB	V	VerbForm=Inf	3	acl	_	_
 6	action	action	NOUN	S	Number=Sing	5	obj	_	_
 7	–	–	PUNCT	FF	_	3	punct	_	_
@@ -12658,7 +12658,7 @@
 10	time	time	NOUN	S	Number=Sing	3	conj	_	_
 11	for	for	ADP	E	_	12	case	_	_
 12	policymakers	policymakers	NOUN	S	Gender=Fem|Number=Plur	10	nmod	_	_
-13	to	to	ADP	E	_	14	mark	_	_
+13	to	to	PART	PART	_	14	mark	_	_
 14	deliver	deliver	VERB	V	VerbForm=Inf	10	acl	_	_
 15	it	it	PRON	PE	Number=Sing|Person=3|PronType=Prs	14	obj	_	SpaceAfter=No
 16	.	.	PUNCT	FS	_	3	punct	_	_
@@ -12743,7 +12743,7 @@
 20	population	population	NOUN	S	Number=Sing	14	nmod	_	_
 21	–	–	PUNCT	FB	_	22	punct	_	_
 22	projected	project	VERB	V	Tense=Past|VerbForm=Part	20	acl	_	_
-23	to	to	ADP	E	_	24	mark	_	_
+23	to	to	PART	PART	_	24	mark	_	_
 24	fall	fall	VERB	V	VerbForm=Inf	22	xcomp	_	_
 25	by	by	ADP	E	_	27	case	_	_
 26	25	25	NUM	N	NumType=Card	27	nummod	_	SpaceAfter=No
@@ -12975,7 +12975,7 @@
 10	Geun	Geun	PROPN	SP	_	9	flat:name	_	SpaceAfter=No
 11	-	-	PUNCT	FF	_	9	punct	_	SpaceAfter=No
 12	hye	hye	NOUN	S	Gender=Fem|Number=Sing	9	flat:name	_	SpaceAfter=No
-13	,	,	PUNCT	FF	_	3	punct	_	_
+13	,	,	PUNCT	FF	_	9	punct	_	_
 14	in	in	ADP	E	_	15	case	_	_
 15	2012	2012	NUM	N	NumType=Card	3	obl	_	SpaceAfter=No
 16	.	.	PUNCT	FS	_	3	punct	_	_
@@ -13079,7 +13079,7 @@
 9	are	be	AUX	VA	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	11	cop	_	_
 10	more	more	ADV	B	Degree=Cmp	11	advmod	_	_
 11	likely	likely	ADJ	A	Degree=Pos	0	root	_	_
-12	to	to	ADP	E	_	13	mark	_	_
+12	to	to	PART	PART	_	13	mark	_	_
 13	enter	enter	VERB	V	VerbForm=Inf	11	xcomp	_	_
 14	and	and	CCONJ	CC	_	15	cc	_	_
 15	remain	remain	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	13	conj	_	_
@@ -13134,7 +13134,7 @@
 # sent_id = en_partut-ud-1339
 # text = But, even for South Korea's most highly educated and capable female workers, child rearing is a major career obstacle.
 1	But	but	CCONJ	CC	_	22	cc	_	SpaceAfter=No
-2	,	,	PUNCT	FF	_	1	punct	_	_
+2	,	,	PUNCT	FF	_	22	punct	_	_
 3	even	even	ADV	B	_	14	advmod	_	_
 4	for	for	ADP	E	_	14	case	_	_
 5	South	South	PROPN	SP	_	14	nmod	_	_
@@ -13226,7 +13226,7 @@
 17	incentives	incentive	NOUN	S	Number=Plur	16	obj	_	_
 18	for	for	ADP	E	_	19	case	_	_
 19	workers	worker	NOUN	S	Number=Plur	16	obl	_	_
-20	to	to	ADP	E	_	21	mark	_	_
+20	to	to	PART	PART	_	21	mark	_	_
 21	reduce	reduce	VERB	V	VerbForm=Inf	16	advcl	_	_
 22	their	their	DET	AP	Poss=Yes|PronType=Prs	23	nmod:poss	_	_
 23	hours	hour	NOUN	S	Number=Plur	21	obj	_	SpaceAfter=No
@@ -13294,7 +13294,7 @@
 2	is	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
 3	also	also	ADV	B	_	4	advmod	_	_
 4	important	important	ADJ	A	Degree=Pos	0	root	_	_
-5	to	to	ADP	E	_	6	mark	_	_
+5	to	to	PART	PART	_	6	mark	_	_
 6	narrow	narrow	VERB	V	VerbForm=Inf	4	csubj	_	_
 7	the	the	DET	RD	Definite=Def|PronType=Art	8	det	_	_
 8	mismatch	mismatch	NOUN	S	Number=Sing	6	obj	_	_
@@ -13314,14 +13314,14 @@
 2	current	current	ADJ	A	Degree=Pos	3	amod	_	_
 3	system	system	NOUN	S	Number=Sing	4	nsubj	_	_
 4	tends	tend	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-5	to	to	ADP	E	_	6	mark	_	_
+5	to	to	PART	PART	_	6	mark	_	_
 6	reinforce	reinforce	VERB	V	VerbForm=Inf	4	xcomp	_	_
 7	gender	gender	NOUN	S	Number=Sing	8	nmod	_	_
 8	roles	role	NOUN	S	Number=Plur	6	obj	_	SpaceAfter=No
 9	,	,	PUNCT	FF	_	4	punct	_	_
 10	encouraging	encourage	VERB	V	VerbForm=Ger	4	advcl	_	_
 11	children	child	NOUN	S	Gender=Masc|Number=Plur	10	obj	_	_
-12	to	to	ADP	E	_	13	mark	_	_
+12	to	to	PART	PART	_	13	mark	_	_
 13	follow	follow	VERB	V	VerbForm=Inf	10	xcomp	_	_
 14	culturally	culturally	ADV	B	_	15	advmod	_	_
 15	framed	frame	VERB	V	Tense=Past|VerbForm=Part	16	acl	_	_
@@ -13349,7 +13349,7 @@
 8	much	much	ADV	B	_	9	advmod	_	_
 9	more	more	ADV	B	Degree=Cmp	10	advmod	_	_
 10	likely	likely	ADV	B	_	0	root	_	_
-11	to	to	ADP	E	_	12	mark	_	_
+11	to	to	PART	PART	_	12	mark	_	_
 12	study	study	VERB	V	VerbForm=Inf	10	xcomp	_	_
 13	humanities	humanity	NOUN	S	Number=Plur	12	obj	_	_
 14	than	than	ADP	E	_	20	case	_	_
@@ -13393,7 +13393,7 @@
 6	schools	school	NOUN	S	Number=Plur	1	nmod	_	_
 7	could	can	AUX	VM	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	8	aux	_	_
 8	help	help	VERB	V	VerbForm=Inf	0	root	_	_
-9	to	to	ADP	E	_	10	mark	_	_
+9	to	to	PART	PART	_	10	mark	_	_
 10	foster	foster	VERB	V	VerbForm=Inf	8	xcomp	_	_
 11	more	more	ADV	B	Degree=Cmp	12	advmod	_	_
 12	diverse	diverse	ADJ	A	Degree=Pos	13	amod	_	_
@@ -13410,7 +13410,7 @@
 23	tools	tool	NOUN	S	Number=Plur	18	obj	_	_
 24	they	they	PRON	PE	Number=Plur|Person=3|PronType=Prs	25	nsubj	_	_
 25	need	need	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	23	acl:relcl	_	_
-26	to	to	ADP	E	_	27	mark	_	_
+26	to	to	PART	PART	_	27	mark	_	_
 27	make	make	VERB	V	VerbForm=Inf	25	xcomp	_	_
 28	important	important	ADJ	A	Degree=Pos	29	amod	_	_
 29	contributions	contribution	NOUN	S	Number=Plur	27	obj	_	_
@@ -13432,7 +13432,7 @@
 8	,	,	PUNCT	FF	_	9	punct	_	_
 9	empowered	empower	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	7	conj	_	_
 10	women	women	ADJ	A	Degree=Pos	5	nmod	_	_
-11	to	to	ADP	E	_	12	mark	_	_
+11	to	to	PART	PART	_	12	mark	_	_
 12	drive	drive	VERB	V	VerbForm=Inf	5	acl	_	_
 13	sustained	sustain	VERB	V	Tense=Past|VerbForm=Part	15	acl	_	_
 14	economic	economic	ADJ	A	Degree=Pos	15	amod	_	_
@@ -13467,7 +13467,7 @@
 18	critical	critical	ADJ	A	Degree=Pos	10	obl	_	_
 19	to	to	ADP	E	_	20	case	_	_
 20	efforts	effort	NOUN	S	Number=Plur	18	obl	_	_
-21	to	to	ADP	E	_	22	mark	_	_
+21	to	to	PART	PART	_	22	mark	_	_
 22	revive	revive	VERB	V	VerbForm=Inf	20	acl	_	_
 23	his	his	DET	AP	Poss=Yes|PronType=Prs	24	nmod:poss	_	_
 24	country	country	NOUN	S	Number=Sing	29	nmod	_	SpaceAfter=No
@@ -13634,7 +13634,7 @@
 9	most	most	ADV	B	_	10	advmod	_	_
 10	effective	effective	ADJ	A	Degree=Pos	11	amod	_	_
 11	way	way	NOUN	S	Number=Sing	2	ccomp	_	_
-12	to	to	ADP	E	_	13	mark	_	_
+12	to	to	PART	PART	_	13	mark	_	_
 13	reduce	reduce	VERB	V	VerbForm=Inf	11	acl	_	_
 14	poverty	poverty	NOUN	S	Number=Sing	13	obj	_	_
 15	in	in	ADP	E	_	17	case	_	_
@@ -13654,7 +13654,7 @@
 8	its	its	DET	AP	Number=Sing|Poss=Yes|PronType=Prs	10	nmod:poss	_	_
 9	best	best	ADJ	A	Degree=Sup	10	amod	_	_
 10	opportunity	opportunity	NOUN	S	Number=Sing	5	obj	_	_
-11	to	to	ADP	E	_	12	mark	_	_
+11	to	to	PART	PART	_	12	mark	_	_
 12	turn	turn	VERB	V	VerbForm=Inf	10	acl	_	_
 13	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	15	det	_	_
 14	vicious	vicious	ADJ	A	Degree=Pos	15	amod	_	_
@@ -13868,7 +13868,7 @@
 19	that	that	PRON	PR	PronType=Rel	20	nsubj	_	_
 20	prevent	prevent	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	18	acl:relcl	_	_
 21	women	woman	NOUN	S	Gender=Fem|Number=Plur	20	obj	_	_
-22	from	from	ADP	E	_	23	mark	_	_
+22	from	from	SCONJ	CS	_	23	mark	_	_
 23	reaching	reach	VERB	V	VerbForm=Ger	20	advcl	_	_
 24	their	their	DET	AP	Poss=Yes|PronType=Prs	26	nmod:poss	_	_
 25	full	full	ADJ	A	Degree=Pos	26	amod	_	_
@@ -13892,7 +13892,7 @@
 13	labor	labor	NOUN	S	Number=Sing	11	obj	_	_
 14	they	they	PRON	PE	Number=Plur|Person=3|PronType=Prs	15	nsubj	_	_
 15	need	need	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	13	acl:relcl	_	_
-16	to	to	ADP	E	_	17	mark	_	_
+16	to	to	PART	PART	_	17	mark	_	_
 17	help	help	VERB	V	VerbForm=Inf	15	xcomp	_	_
 18	their	their	DET	AP	Poss=Yes|PronType=Prs	19	nmod:poss	_	_
 19	farms	farm	NOUN	S	Number=Plur	17	obj	_	_
@@ -13918,7 +13918,7 @@
 15	difficult	difficult	ADJ	A	Degree=Pos	13	xcomp	_	_
 16	for	for	ADP	E	_	17	case	_	_
 17	them	they	PRON	PE	Number=Plur|Person=3|PronType=Prs	13	obl	_	_
-18	to	to	ADP	E	_	19	mark	_	_
+18	to	to	PART	PART	_	19	mark	_	_
 19	devote	devote	VERB	V	VerbForm=Inf	13	ccomp	_	_
 20	as	as	ADV	B	_	21	advmod	_	_
 21	much	much	ADJ	A	Degree=Pos	22	amod	_	_
@@ -13929,7 +13929,7 @@
 26	,	,	PUNCT	FF	_	30	punct	_	_
 27	or	or	CCONJ	CC	_	30	cc	_	_
 28	even	even	ADV	B	_	30	advmod	_	_
-29	to	to	ADP	E	_	30	mark	_	_
+29	to	to	PART	PART	_	30	mark	_	_
 30	supervise	supervise	VERB	V	VerbForm=Inf	19	conj	_	_
 31	hired	hire	VERB	V	Tense=Past|VerbForm=Part	32	acl	_	_
 32	labor	labor	NOUN	S	Number=Sing	30	obj	_	SpaceAfter=No
@@ -13949,11 +13949,11 @@
 10	are	be	AUX	VA	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	12	cop	_	_
 11	also	also	ADV	B	_	12	advmod	_	_
 12	likely	likely	ADJ	A	Degree=Pos	7	acl	_	_
-13	to	to	ADP	E	_	14	mark	_	_
+13	to	to	PART	PART	_	14	mark	_	_
 14	have	have	VERB	V	VerbForm=Inf	12	xcomp	_	_
 15	less	less	ADV	B	Degree=Cmp	16	advmod	_	_
 16	income	income	NOUN	S	Number=Sing	14	obj	_	_
-17	to	to	ADP	E	_	18	mark	_	_
+17	to	to	PART	PART	_	18	mark	_	_
 18	hire	hire	VERB	V	VerbForm=Inf	16	acl	_	_
 19	laborers	laborer	NOUN	S	Number=Plur	18	obj	_	_
 20	in	in	ADP	E	_	23	case	_	_
@@ -13976,7 +13976,7 @@
 10	extension	extension	NOUN	S	Number=Sing	11	nmod	_	_
 11	workers	worker	NOUN	S	Number=Plur	8	iobj	_	_
 12	how	how	ADV	B	_	14	advmod	_	_
-13	to	to	ADP	E	_	14	mark	_	_
+13	to	to	PART	PART	_	14	mark	_	_
 14	make	make	VERB	V	VerbForm=Inf	8	xcomp	_	_
 15	their	their	DET	AP	Poss=Yes|PronType=Prs	16	nmod:poss	_	_
 16	messages	message	NOUN	S	Number=Plur	14	obj	_	_
@@ -13989,14 +13989,14 @@
 23	or	or	CCONJ	CC	_	24	cc	_	_
 24	encouraging	encourage	VERB	V	VerbForm=Ger	8	conj	_	_
 25	them	they	PRON	PE	Number=Plur|Person=3|PronType=Prs	24	obj	_	_
-26	to	to	ADP	E	_	27	mark	_	_
+26	to	to	PART	PART	_	27	mark	_	_
 27	visit	visit	VERB	V	VerbForm=Inf	24	xcomp	_	_
 28	when	when	SCONJ	CS	_	32	mark	_	_
 29	women	woman	NOUN	S	Gender=Fem|Number=Plur	32	nsubj	_	_
 30	are	be	AUX	VA	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	32	cop	_	_
 31	most	most	ADV	B	_	32	advmod	_	_
 32	likely	likely	ADJ	A	Degree=Pos	27	advcl	_	_
-33	to	to	ADP	E	_	36	mark	_	_
+33	to	to	PART	PART	_	36	mark	_	_
 34	be	be	AUX	VA	VerbForm=Inf	36	cop	_	_
 35	at	at	ADP	E	_	36	case	_	_
 36	home	home	NOUN	S	Number=Sing	32	xcomp	_	SpaceAfter=No
@@ -14024,7 +14024,7 @@
 18	-	-	PUNCT	FF	_	19	punct	_	SpaceAfter=No
 19	saving	save	VERB	V	Number=Sing|Tense=Pres|VerbForm=Part	20	acl	_	_
 20	tools	tool	NOUN	S	Number=Plur	16	obj	_	_
-21	to	to	ADP	E	_	22	mark	_	_
+21	to	to	PART	PART	_	22	mark	_	_
 22	help	help	VERB	V	VerbForm=Inf	20	acl	_	_
 23	them	they	PRON	PE	Number=Plur|Person=3|PronType=Prs	22	obj	_	_
 24	get	get	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	22	xcomp	_	_
@@ -14054,7 +14054,7 @@
 14	have	have	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	4	advcl	_	_
 15	the	the	DET	RD	Definite=Def|PronType=Art	16	det	_	_
 16	option	option	NOUN	S	Number=Sing	14	obj	_	_
-17	to	to	ADP	E	_	18	mark	_	_
+17	to	to	PART	PART	_	18	mark	_	_
 18	spend	spend	VERB	V	VerbForm=Inf	16	acl	_	_
 19	more	more	ADV	B	Degree=Cmp	20	advmod	_	_
 20	time	time	NOUN	S	Number=Sing	18	obj	_	_
@@ -14072,7 +14072,7 @@
 7	require	require	VERB	V	VerbForm=Inf	0	root	_	_
 8	African	African	ADJ	A	Degree=Pos	9	amod	_	_
 9	policymakers	policymaker	NOUN	S	Number=Plur	7	obj	_	_
-10	to	to	ADP	E	_	11	mark	_	_
+10	to	to	PART	PART	_	11	mark	_	_
 11	start	start	VERB	V	VerbForm=Inf	7	xcomp	_	_
 12	recognizing	recognize	VERB	V	VerbForm=Ger	11	xcomp	_	_
 13	women	women	ADJ	A	Degree=Pos	14	amod	_	_
@@ -14095,7 +14095,7 @@
 4	agricultural	agricultural	ADJ	A	Degree=Pos	5	amod	_	_
 5	sector	sector	NOUN	S	Number=Sing	6	nsubj	_	_
 6	is	be	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	24	advcl	_	_
-7	to	to	ADP	E	_	8	mark	_	_
+7	to	to	PART	PART	_	8	mark	_	_
 8	achieve	achieve	VERB	V	VerbForm=Inf	6	xcomp	_	_
 9	its	its	DET	AP	Number=Sing|Poss=Yes|PronType=Prs	10	nmod:poss	_	_
 10	promise	promise	NOUN	S	Number=Sing	8	obj	_	_
@@ -14107,7 +14107,7 @@
 16	economic	economic	ADJ	A	Degree=Pos	17	amod	_	_
 17	growth	growth	NOUN	S	Number=Sing	18	nsubj	_	_
 18	is	be	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	conj	_	_
-19	to	to	ADP	E	_	20	mark	_	_
+19	to	to	PART	PART	_	20	mark	_	_
 20	continue	continue	VERB	V	VerbForm=Inf	18	xcomp	_	_
 21	–	–	PUNCT	FB	_	18	punct	_	_
 22	policymakers	policymakers	NOUN	S	Gender=Fem|Number=Plur	24	nsubj	_	_
@@ -14156,12 +14156,12 @@
 11	higher	higher	ADJ	A	Degree=Cmp	13	amod	_	_
 12	public	public	ADJ	A	Degree=Pos	13	amod	_	_
 13	profile	profile	NOUN	S	Number=Sing	8	obj	_	_
-14	to	to	ADP	E	_	15	mark	_	_
+14	to	to	PART	PART	_	15	mark	_	_
 15	convince	convince	VERB	V	VerbForm=Inf	8	advcl	_	_
 16	the	the	DET	RD	Definite=Def|PronType=Art	18	det	_	_
 17	US	US	PROPN	SP	_	18	nmod	_	_
 18	Congress	congress	NOUN	S	Number=Sing	15	obj	_	_
-19	to	to	ADP	E	_	20	mark	_	_
+19	to	to	PART	PART	_	20	mark	_	_
 20	agree	agree	VERB	V	VerbForm=Inf	15	xcomp	_	_
 21	to	to	ADP	E	_	24	case	_	_
 22	some	some	DET	DI	PronType=Ind	24	det	_	_
@@ -14236,7 +14236,7 @@
 19	allows	allow	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	acl	_	_
 20	major	major	ADJ	A	Degree=Pos	21	amod	_	_
 21	decisions	decision	NOUN	S	Number=Plur	19	obj	_	_
-22	to	to	ADP	E	_	24	mark	_	_
+22	to	to	PART	PART	_	24	mark	_	_
 23	be	be	AUX	VA	VerbForm=Inf	24	aux	_	_
 24	made	make	VERB	V	Tense=Past|VerbForm=Part	21	acl	_	_
 25	without	without	ADP	E	_	28	case	_	_
@@ -14260,7 +14260,7 @@
 8	cooperation	cooperation	NOUN	S	Number=Sing	10	nsubj	_	_
 9	was	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	cop	_	_
 10	hard	hard	ADJ	A	Degree=Pos	0	root	_	_
-11	to	to	ADP	E	_	12	mark	_	_
+11	to	to	PART	PART	_	12	mark	_	_
 12	come	come	VERB	V	Tense=Past|VerbForm=Part	10	advcl	_	_
 13	by	by	ADP	E	_	12	compound:prt	_	_
 14	–	–	PUNCT	FF	_	10	punct	_	_
@@ -14326,7 +14326,7 @@
 9	,	,	PUNCT	FF	_	5	punct	_	_
 10	has	have	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	aux	_	_
 11	helped	help	VERB	V	Tense=Past|VerbForm=Part	0	root	_	_
-12	to	to	ADP	E	_	13	mark	_	_
+12	to	to	PART	PART	_	13	mark	_	_
 13	restore	restore	VERB	V	VerbForm=Inf	11	ccomp	_	_
 14	the	the	DET	RD	Definite=Def|PronType=Art	15	det	_	_
 15	Fund	fund	NOUN	S	Number=Sing	17	nmod	_	SpaceAfter=No
@@ -14334,7 +14334,7 @@
 17	reputation	reputation	NOUN	S	Number=Sing	13	obj	_	_
 18	–	–	PUNCT	FF	_	13	punct	_	_
 19	and	and	CCONJ	CC	_	21	cc	_	_
-20	to	to	ADP	E	_	21	mark	_	_
+20	to	to	PART	PART	_	21	mark	_	_
 21	return	return	VERB	V	VerbForm=Inf	13	conj	_	_
 22	coverage	coverage	NOUN	S	Number=Sing	21	obj	_	_
 23	of	of	ADP	E	_	25	case	_	_
@@ -14548,7 +14548,7 @@
 5	origins	origin	NOUN	S	Number=Plur	1	nsubj:pass	_	_
 6	in	in	ADP	E	_	7	mark	_	_
 7	helping	help	VERB	V	VerbForm=Ger	5	acl	_	_
-8	to	to	ADP	E	_	9	mark	_	_
+8	to	to	PART	PART	_	9	mark	_	_
 9	rebuild	rebuild	VERB	V	VerbForm=Inf	7	ccomp	_	_
 10	Europe	Europe	PROPN	SP	_	9	obj	_	_
 11	after	after	ADP	E	_	13	case	_	_
@@ -14594,7 +14594,7 @@
 6	decades	decade	NOUN	S	Number=Plur	3	nmod	_	_
 7	has	have	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
 8	been	be	AUX	VA	Tense=Past|VerbForm=Part	3	cop	_	_
-9	to	to	ADP	E	_	10	mark	_	_
+9	to	to	PART	PART	_	10	mark	_	_
 10	shift	shift	VERB	V	VerbForm=Inf	3	csubj	_	_
 11	representation	representation	NOUN	S	Number=Sing	10	obj	_	_
 12	at	at	ADP	E	_	14	case	_	_
@@ -14654,7 +14654,7 @@
 1	These	this	DET	DD	Number=Plur|PronType=Dem	2	det	_	_
 2	reforms	reform	NOUN	S	Number=Plur	3	nsubj	_	_
 3	need	need	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	0	root	_	_
-4	to	to	ADP	E	_	6	mark	_	_
+4	to	to	PART	PART	_	6	mark	_	_
 5	be	be	AUX	VA	VerbForm=Inf	6	aux:pass	_	_
 6	agreed	agree	VERB	V	Tense=Past|VerbForm=Part	3	xcomp	_	SpaceAfter=No
 7	,	,	PUNCT	FF	_	6	punct	_	_
@@ -14681,7 +14681,7 @@
 4	,	,	PUNCT	FF	_	3	punct	_	_
 5	President	president	NOUN	S	Number=Sing	9	nmod	_	_
 6	Barack	Barack	PROPN	SP	_	5	flat	_	_
-7	Obama	Obama	PROPN	SP	_	5	flat:name	_	SpaceAfter=No
+7	Obama	Obama	PROPN	SP	_	5	flat	_	SpaceAfter=No
 8	's	's	PART	PART	_	5	case	_	_
 9	administration	administration	NOUN	S	Number=Sing	12	nsubj	_	_
 10	did	do	AUX	VM	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	12	aux	_	_
@@ -14715,7 +14715,7 @@
 2	Obama	Obama	PROPN	SP	_	3	nmod	_	_
 3	administration	administration	NOUN	S	Number=Sing	4	nsubj	_	_
 4	proposed	propose	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-5	to	to	ADP	E	_	6	mark	_	_
+5	to	to	PART	PART	_	6	mark	_	_
 6	tie	tie	VERB	V	VerbForm=Inf	4	ccomp	_	_
 7	IMF	IMF	PROPN	SP	_	8	nmod	_	_
 8	reform	reform	NOUN	S	Number=Sing	6	obj	_	_
@@ -14756,7 +14756,7 @@
 4	the	the	DET	RD	Definite=Def|PronType=Art	5	det	_	_
 5	administration	administration	NOUN	S	Number=Sing	6	nsubj	_	_
 6	tried	try	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-7	to	to	ADP	E	_	8	mark	_	_
+7	to	to	PART	PART	_	8	mark	_	_
 8	make	make	VERB	V	VerbForm=Inf	6	xcomp	_	_
 9	the	the	DET	RD	Definite=Def|PronType=Art	10	det	_	_
 10	IMF	IMF	PROPN	SP	_	8	obj	_	_
@@ -14764,7 +14764,7 @@
 12	interesting	interesting	ADJ	A	Degree=Pos	8	xcomp	_	SpaceAfter=No
 13	,	,	PUNCT	FF	_	8	punct	_	_
 14	particularly	particularly	ADV	B	_	16	advmod	_	_
-15	to	to	ADP	E	_	16	mark	_	_
+15	to	to	PART	PART	_	16	mark	_	_
 16	encourage	encourage	VERB	V	VerbForm=Inf	8	advcl	_	_
 17	Republicans	Republicans	PROPN	SP	_	16	obj	_	_
 18	in	in	ADP	E	_	20	case	_	_
@@ -14772,7 +14772,7 @@
 20	House	house	NOUN	S	Number=Sing	16	obl	_	_
 21	of	of	ADP	E	_	22	case	_	_
 22	Representatives	representative	NOUN	S	Number=Plur	20	nmod	_	_
-23	to	to	ADP	E	_	24	mark	_	_
+23	to	to	PART	PART	_	24	mark	_	_
 24	support	support	VERB	V	VerbForm=Inf	22	acl	_	_
 25	the	the	DET	RD	Definite=Def|PronType=Art	26	det	_	_
 26	reforms	reform	NOUN	S	Number=Plur	24	obj	_	SpaceAfter=No
@@ -14842,7 +14842,7 @@
 23	people	people	NOUN	S	Number=Plur	15	nmod	_	_
 24	who	who	PRON	PQ	PronType=Int	25	nsubj	_	_
 25	want	want	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	23	acl:relcl	_	_
-26	to	to	ADP	E	_	27	mark	_	_
+26	to	to	PART	PART	_	27	mark	_	_
 27	rein	rein	VERB	V	VerbForm=Inf	25	xcomp	_	_
 28	in	in	ADP	E	_	30	case	_	_
 29	the	the	DET	RD	Definite=Def|PronType=Art	30	det	_	_
@@ -14917,7 +14917,7 @@
 2	Obama	Obama	PROPN	SP	_	3	nmod	_	_
 3	administration	administration	NOUN	S	Number=Sing	4	nsubj	_	_
 4	needs	need	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-5	to	to	ADP	E	_	6	mark	_	_
+5	to	to	PART	PART	_	6	mark	_	_
 6	make	make	VERB	V	VerbForm=Inf	4	xcomp	_	_
 7	this	this	DET	DD	Number=Sing|PronType=Dem	8	det	_	_
 8	case	case	NOUN	S	Number=Sing	6	obj	_	_
@@ -15005,7 +15005,7 @@
 # sent_id = en_partut-ud-1428
 # text = And, third, Marx was fixated on the labor-theory of value.
 1	And	and	CCONJ	CC	_	7	cc	_	SpaceAfter=No
-2	,	,	PUNCT	FF	_	1	punct	_	_
+2	,	,	PUNCT	FF	_	7	punct	_	_
 3	third	third	ADV	B	_	7	advmod	_	SpaceAfter=No
 4	,	,	PUNCT	FF	_	3	punct	_	_
 5	Marx	Marx	PROPN	SP	_	7	nsubj:pass	_	_
@@ -15036,7 +15036,7 @@
 # sent_id = en_partut-ud-1430
 # text = But, while Marx's belief that capital and labor were substitutes, not complements, was a mistake in his own age, and for more than a century to follow, it may not be a mistake today.
 1	But	but	CCONJ	CC	_	39	cc	_	SpaceAfter=No
-2	,	,	PUNCT	FF	_	1	punct	_	_
+2	,	,	PUNCT	FF	_	39	punct	_	_
 3	while	while	SCONJ	CS	_	19	mark	_	_
 4	Marx	Marx	PROPN	SP	_	6	nmod	_	SpaceAfter=No
 5	's	's	PART	PART	_	4	case	_	_
@@ -15065,7 +15065,7 @@
 28	than	than	ADP	E	_	27	fixed	_	_
 29	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	30	det	_	_
 30	century	century	NOUN	S	Number=Sing	23	conj	_	_
-31	to	to	ADP	E	_	32	mark	_	_
+31	to	to	PART	PART	_	32	mark	_	_
 32	follow	follow	VERB	V	VerbForm=Inf	30	acl	_	SpaceAfter=No
 33	,	,	PUNCT	FF	_	19	punct	_	_
 34	it	it	PRON	PE	Number=Sing|Person=3|PronType=Prs	39	nsubj	_	_
@@ -15106,7 +15106,7 @@
 5	reciprocity	reciprocity	NOUN	S	Number=Sing	2	obl	_	_
 6	and	and	CCONJ	CC	_	7	cc	_	_
 7	negotiation	negotiation	NOUN	S	Number=Sing	5	conj	_	_
-8	to	to	ADP	E	_	9	mark	_	_
+8	to	to	PART	PART	_	9	mark	_	_
 9	keep	keep	VERB	V	VerbForm=Inf	2	advcl	_	_
 10	us	us	PRON	PE	Number=Plur|Person=1|PronType=Prs	9	obj	_	_
 11	all	all	PRON	PI	PronType=Ind	10	nmod	_	_
@@ -15140,7 +15140,7 @@
 19	–	–	PUNCT	FB	_	7	punct	_	_
 20	for	for	ADP	E	_	21	case	_	_
 21	us	us	PRON	PE	Number=Plur|Person=1|PronType=Prs	5	nmod	_	_
-22	to	to	ADP	E	_	23	mark	_	_
+22	to	to	PART	PART	_	23	mark	_	_
 23	do	do	VERB	V	VerbForm=Inf	5	acl	_	SpaceAfter=No
 24	.	.	PUNCT	FS	_	2	punct	_	_
 
@@ -15213,7 +15213,7 @@
 10	possibly	possibly	ADV	B	_	11	advmod	_	_
 11	expand	expand	VERB	V	VerbForm=Inf	0	root	_	_
 12	enough	enough	ADV	B	_	11	advmod	_	_
-13	to	to	ADP	E	_	14	mark	_	_
+13	to	to	PART	PART	_	14	mark	_	_
 14	reemploy	reemploy	VERB	V	VerbForm=Inf	12	advcl	_	_
 15	everyone	everyone	PRON	PE	Number=Sing|Person=3|PronType=Prs	14	obj	_	_
 16	who	who	PRON	PR	PronType=Rel	17	nsubj	_	_
@@ -15235,7 +15235,7 @@
 32	-	-	PUNCT	FF	_	33	punct	_	SpaceAfter=No
 33	seller	seller	NOUN	S	Number=Sing	23	conj	_	SpaceAfter=No
 34	,	,	PUNCT	FF	_	11	punct	_	_
-35	could	can	AUX	VM	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	11	discourse	_	_
+35	could	can	AUX	VM	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	11	parataxis	_	_
 36	it	it	PRON	PE	Number=Sing|Person=3|PronType=Prs	35	nsubj	_	SpaceAfter=No
 37	?	?	PUNCT	FS	_	11	punct	_	_
 
@@ -15337,14 +15337,14 @@
 16	we	we	PRON	PE	Number=Plur|Person=1|PronType=Prs	18	nsubj	_	_
 17	could	can	AUX	VM	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	18	aux	_	_
 18	find	find	VERB	V	VerbForm=Inf	14	acl:relcl	_	_
-19	to	to	ADP	E	_	20	mark	_	_
+19	to	to	PART	PART	_	20	mark	_	_
 20	do	do	VERB	V	VerbForm=Inf	18	advcl	_	_
 21	once	once	SCONJ	CS	_	25	mark	_	_
 22	we	we	PRON	PE	Number=Plur|Person=1|PronType=Prs	25	nsubj	_	_
 23	no	no	ADV	B	PronType=Neg	24	advmod	_	_
 24	longer	longer	ADV	B	Degree=Cmp	25	advmod	_	_
 25	needed	need	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	20	advcl	_	_
-26	to	to	ADP	E	_	27	mark	_	_
+26	to	to	PART	PART	_	27	mark	_	_
 27	employ	employ	VERB	V	VerbForm=Inf	25	xcomp	_	_
 28	60	60	NUM	N	NumType=Card	29	nummod	_	SpaceAfter=No
 29	%	%	SYM	X	_	27	obj	_	_
@@ -15414,7 +15414,7 @@
 14	intelligence	intelligence	NOUN	S	Number=Sing	9	obl	_	_
 15	and	and	CCONJ	CC	_	16	cc	_	_
 16	continue	continue	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	9	conj	_	_
-17	to	to	ADP	E	_	22	mark	_	_
+17	to	to	PART	PART	_	22	mark	_	_
 18	be	be	AUX	VA	VerbForm=Inf	22	cop	_	_
 19	mind	mind	NOUN	S	Number=Sing	21	obl	_	SpaceAfter=No
 20	-	-	PUNCT	FF	_	21	punct	_	SpaceAfter=No
@@ -15468,7 +15468,7 @@
 13	are	be	AUX	VA	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	15	aux	_	_
 14	now	now	ADV	B	_	15	advmod	_	_
 15	making	make	VERB	V	VerbForm=Ger	10	acl:relcl	_	_
-16	to	to	ADP	E	_	17	mark	_	_
+16	to	to	PART	PART	_	17	mark	_	_
 17	defend	defend	VERB	V	VerbForm=Inf	15	advcl	_	_
 18	our	us	DET	AP	Poss=Yes|PronType=Prs	19	nmod:poss	_	_
 19	country	country	NOUN	S	Number=Sing	17	obj	_	_
@@ -15520,7 +15520,7 @@
 22	that	that	PRON	PR	PronType=Rel	24	obj	_	_
 23	we	we	PRON	PE	Number=Plur|Person=1|PronType=Prs	24	nsubj	_	_
 24	need	need	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	21	acl:relcl	_	_
-25	to	to	ADP	E	_	26	mark	_	_
+25	to	to	PART	PART	_	26	mark	_	_
 26	get	get	VERB	V	VerbForm=Inf	24	xcomp	_	_
 27	our	us	DET	AP	Poss=Yes|PronType=Prs	31	nmod:poss	_	_
 28	financial	financial	ADJ	A	Degree=Pos	31	amod	_	_
@@ -15546,7 +15546,7 @@
 11	Ukrainians	Ukrainian	NOUN	S	Number=Plur	13	nsubj	_	_
 12	are	be	AUX	VA	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	13	aux	_	_
 13	willing	will	VERB	V	VerbForm=Ger	5	conj	_	_
-14	to	to	ADP	E	_	15	mark	_	_
+14	to	to	PART	PART	_	15	mark	_	_
 15	pay	pay	VERB	V	VerbForm=Inf	13	xcomp	_	_
 16	the	the	DET	RD	Definite=Def|PronType=Art	17	det	_	_
 17	price	price	NOUN	S	Number=Sing	15	obj	_	_
@@ -15658,7 +15658,7 @@
 4	as	as	SCONJ	CS	_	6	mark	_	_
 5	Ukrainians	Ukrainian	NOUN	S	Number=Plur	6	nsubj	_	_
 6	work	work	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	20	advcl	_	_
-7	to	to	ADP	E	_	8	mark	_	_
+7	to	to	PART	PART	_	8	mark	_	_
 8	rebuild	rebuild	VERB	V	VerbForm=Inf	6	advcl	_	_
 9	our	us	DET	AP	Poss=Yes|PronType=Prs	10	nmod:poss	_	_
 10	country	country	NOUN	S	Number=Sing	8	obj	_	_
@@ -15693,7 +15693,7 @@
 39	Soviet	soviet	ADJ	A	Degree=Pos	40	amod	_	_
 40	diplomacy	diplomacy	NOUN	S	Number=Sing	37	nmod	_	_
 41	designed	design	VERB	V	Tense=Past|VerbForm=Part	37	acl	_	_
-42	to	to	ADP	E	_	43	mark	_	_
+42	to	to	PART	PART	_	43	mark	_	_
 43	undermine	undermine	VERB	V	VerbForm=Inf	41	xcomp	_	_
 44	Western	western	ADJ	A	Degree=Pos	45	amod	_	_
 45	resolve	resolve	NOUN	S	Number=Sing	43	obj	_	SpaceAfter=No
@@ -15704,8 +15704,8 @@
 1	Russian	russian	ADJ	A	Degree=Pos	2	amod	_	_
 2	President	president	NOUN	S	Number=Sing	8	nmod	_	_
 3	Vladimir	Vladimir	PROPN	SP	_	2	flat	_	_
-4	Putin	Putin	PROPN	SP	_	3	flat:name	_	SpaceAfter=No
-5	's	's	PART	PART	_	3	case	_	_
+4	Putin	Putin	PROPN	SP	_	2	flat	_	SpaceAfter=No
+5	's	's	PART	PART	_	2	case	_	_
 6	recent	recent	ADJ	A	Degree=Pos	8	amod	_	_
 7	phone	phone	NOUN	S	Number=Sing	8	nmod	_	_
 8	call	call	NOUN	S	Number=Sing	43	nsubj	_	_
@@ -15713,8 +15713,8 @@
 10	US	US	PROPN	SP	_	11	nmod	_	_
 11	President	president	NOUN	S	Number=Sing	8	nmod	_	_
 12	Barack	Barack	PROPN	SP	_	11	flat	_	_
-13	Obama	Obama	PROPN	SP	_	12	flat:name	_	_
-14	to	to	ADP	E	_	15	mark	_	_
+13	Obama	Obama	PROPN	SP	_	11	flat	_	_
+14	to	to	PART	PART	_	15	mark	_	_
 15	seek	seek	VERB	V	VerbForm=Inf	8	acl	_	_
 16	renewed	renew	VERB	V	Tense=Past|VerbForm=Part	18	acl	_	_
 17	diplomatic	diplomatic	ADJ	A	Degree=Pos	18	amod	_	_
@@ -15728,7 +15728,7 @@
 25	paper	paper	NOUN	S	Number=Sing	20	obl	_	_
 26	on	on	ADP	E	_	29	mark	_	_
 27	how	how	ADV	B	_	29	advmod	_	_
-28	to	to	SCONJ	CS	_	29	mark	_	_
+28	to	to	PART	PART	_	29	mark	_	_
 29	resolve	resolve	VERB	V	VerbForm=Inf	25	acl	_	_
 30	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	31	det	_	_
 31	crisis	crisis	NOUN	S	Gender=Masc|Number=Sing	29	obj	_	_
@@ -15803,7 +15803,7 @@
 3	Putin	Putin	PROPN	SP	_	5	nsubj	_	_
 4	is	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
 5	seeking	seek	VERB	V	VerbForm=Ger	0	root	_	_
-6	to	to	ADP	E	_	7	mark	_	_
+6	to	to	PART	PART	_	7	mark	_	_
 7	make	make	VERB	V	VerbForm=Inf	5	xcomp	_	_
 8	the	the	DET	RD	Definite=Def|PronType=Art	9	det	_	_
 9	West	west	NOUN	S	_	7	obj	_	_
@@ -15860,7 +15860,7 @@
 2	political	politic	ADJ	A	Degree=Pos	3	amod	_	_
 3	power	power	NOUN	S	Number=Sing	1	obj	_	_
 4	closer	closer	ADJ	A	Degree=Cmp	1	amod	_	_
-5	to	to	ADP	E	_	9	mark	_	_
+5	to	to	PART	PART	_	9	mark	_	_
 6	where	where	ADV	B	_	9	advmod	_	_
 7	people	people	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	9	csubj	_	_
 8	actually	actually	ADV	B	_	9	advmod	_	_
@@ -15888,7 +15888,7 @@
 10	for	for	ADP	E	_	12	case	_	_
 11	the	the	DET	RD	Definite=Def|PronType=Art	12	det	_	_
 12	Kremlin	Kremlin	PROPN	SP	_	9	nmod	_	_
-13	to	to	ADP	E	_	14	mark	_	_
+13	to	to	PART	PART	_	14	mark	_	_
 14	make	make	VERB	V	VerbForm=Inf	9	acl	_	_
 15	political	politic	ADJ	A	Degree=Pos	16	amod	_	_
 16	mischief	mischief	NOUN	S	Number=Sing	14	obj	_	_
@@ -15928,7 +15928,7 @@
 1	One	one	PRON	PE	Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
 2	has	have	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	only	only	ADV	B	_	5	advmod	_	_
-4	to	to	ADP	E	_	5	mark	_	_
+4	to	to	PART	PART	_	5	mark	_	_
 5	look	look	VERB	V	VerbForm=Inf	2	xcomp	_	_
 6	at	at	ADP	E	_	12	case	_	_
 7	the	the	DET	RD	Definite=Def|PronType=Art	9	det	_	_
@@ -15969,9 +15969,9 @@
 4	would	will	AUX	VM	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	5	aux	_	_
 5	enable	enable	VERB	V	VerbForm=Inf	0	root	_	_
 6	Putin	Putin	PROPN	SP	_	5	obj	_	_
-7	to	to	ADP	E	_	8	mark	_	_
+7	to	to	PART	PART	_	8	mark	_	_
 8	try	try	VERB	V	VerbForm=Inf	5	xcomp	_	_
-9	to	to	ADP	E	_	10	mark	_	_
+9	to	to	PART	PART	_	10	mark	_	_
 10	coerce	coerce	VERB	V	VerbForm=Inf	8	xcomp	_	_
 11	and	and	CCONJ	CC	_	12	cc	_	_
 12	manipulate	manipulate	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	10	conj	_	_
@@ -16000,7 +16000,7 @@
 8	's	's	PART	PART	_	7	case	_	_
 9	citizens	citizen	NOUN	S	Number=Plur	5	obl	_	_
 10	alone	alone	ADJ	A	Degree=Pos	9	amod	_	_
-11	to	to	ADP	E	_	12	mark	_	_
+11	to	to	PART	PART	_	12	mark	_	_
 12	decide	decide	VERB	V	VerbForm=Inf	5	ccomp	_	SpaceAfter=No
 13	.	.	PUNCT	FS	_	5	punct	_	_
 
@@ -16024,7 +16024,7 @@
 16	helpful	helpful	ADJ	A	Degree=Pos	18	xcomp	_	_
 17	they	they	PRON	PE	Number=Plur|Person=3|PronType=Prs	18	nsubj	_	_
 18	wish	wish	VERB	V	VerbForm=Inf	11	advcl	_	_
-19	to	to	ADP	E	_	16	mark	_	_
+19	to	to	PART	PART	_	16	mark	_	_
 20	be	be	AUX	VA	VerbForm=Inf	16	cop	_	SpaceAfter=No
 21	.	.	PUNCT	FS	_	3	punct	_	_
 
@@ -16109,7 +16109,7 @@
 6	sham	sham	ADJ	A	Degree=Pos	7	amod	_	_
 7	federalism	federalism	NOUN	S	Number=Sing	2	obl	_	_
 8	is	be	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-9	to	to	ADP	E	_	10	mark	_	_
+9	to	to	PART	PART	_	10	mark	_	_
 10	accept	accept	VERB	V	VerbForm=Inf	8	ccomp	_	_
 11	the	the	DET	RD	Definite=Def|PronType=Art	12	det	_	_
 12	lies	lie	NOUN	S	Number=Plur	10	obj	_	_
@@ -16189,7 +16189,7 @@
 13	is	be	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 14	no	no	DET	DI	PronType=Ind	15	det	_	_
 15	reason	reason	NOUN	S	Number=Sing	13	nsubj	_	_
-16	to	to	ADP	E	_	17	mark	_	_
+16	to	to	PART	PART	_	17	mark	_	_
 17	change	change	VERB	V	VerbForm=Inf	15	acl	_	_
 18	the	the	DET	RD	Definite=Def|PronType=Art	19	det	_	_
 19	country	country	NOUN	S	Number=Sing	22	nmod	_	SpaceAfter=No
@@ -16206,7 +16206,7 @@
 4	really	really	ADV	B	_	6	advmod	_	_
 5	be	be	AUX	VA	VerbForm=Inf	6	aux:pass	_	_
 6	forced	force	VERB	V	Tense=Past|VerbForm=Part	0	root	_	_
-7	to	to	ADP	E	_	8	mark	_	_
+7	to	to	PART	PART	_	8	mark	_	_
 8	create	create	VERB	V	VerbForm=Inf	6	xcomp	_	_
 9	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	12	det	_	_
 10	new	new	ADJ	A	Degree=Pos	12	amod	_	_
@@ -16260,7 +16260,7 @@
 2	desire	desire	NOUN	S	Number=Sing	15	nsubj	_	_
 3	of	of	ADP	E	_	4	case	_	_
 4	diplomats	diplomat	NOUN	S	Number=Plur	2	nmod	_	_
-5	to	to	ADP	E	_	6	mark	_	_
+5	to	to	PART	PART	_	6	mark	_	_
 6	find	find	VERB	V	VerbForm=Inf	4	acl	_	_
 7	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	9	det	_	_
 8	peaceful	peaceful	ADJ	A	Degree=Pos	9	amod	_	_
@@ -16353,7 +16353,7 @@
 # text = We refuse to play the part of hapless victim in future history textbooks.
 1	We	we	PRON	PE	Number=Plur|Person=1|PronType=Prs	2	nsubj	_	_
 2	refuse	refuse	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	0	root	_	_
-3	to	to	ADP	E	_	4	mark	_	_
+3	to	to	PART	PART	_	4	mark	_	_
 4	play	play	VERB	V	VerbForm=Inf	2	xcomp	_	_
 5	the	the	DET	RD	Definite=Def|PronType=Art	6	det	_	_
 6	part	part	NOUN	S	Number=Sing	4	obj	_	_
@@ -16415,7 +16415,7 @@
 9	-	-	PUNCT	FF	_	8	punct	_	SpaceAfter=No
 10	carrying	carry	VERB	V	Number=Sing|Tense=Pres|VerbForm=Part	11	acl	_	_
 11	mosquito	mosquito	NOUN	S	Gender=Masc|Number=Sing	5	nmod	_	_
-12	to	to	ADP	E	_	13	mark	_	_
+12	to	to	PART	PART	_	13	mark	_	_
 13	transmit	transmit	VERB	V	VerbForm=Inf	2	advcl	_	_
 14	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	18	det	_	_
 15	debilitating	debilitate	VERB	V	Number=Sing|Tense=Pres|VerbForm=Part	18	acl	_	_
@@ -16463,7 +16463,7 @@
 26	malaria	malaria	NOUN	S	Number=Sing	24	nmod	_	_
 27	are	be	AUX	VA	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	28	cop	_	_
 28	difficult	difficult	ADJ	A	Degree=Pos	2	conj	_	_
-29	to	to	ADP	E	_	30	mark	_	_
+29	to	to	PART	PART	_	30	mark	_	_
 30	access	access	VERB	V	VerbForm=Inf	28	advcl	_	_
 31	in	in	ADP	E	_	36	case	_	_
 32	many	many	ADJ	A	Degree=Pos	36	amod	_	_
@@ -16510,7 +16510,7 @@
 5	to	to	ADP	E	_	7	case	_	_
 6	government	government	NOUN	S	Number=Sing	7	nmod	_	_
 7	agencies	agency	NOUN	S	Number=Plur	4	obl	_	_
-8	to	to	ADP	E	_	9	mark	_	_
+8	to	to	PART	PART	_	9	mark	_	_
 9	facilitate	facilitate	VERB	V	VerbForm=Inf	4	csubj	_	_
 10	its	its	DET	AP	Number=Sing|Poss=Yes|PronType=Prs	11	nmod:poss	_	_
 11	development	development	NOUN	S	Number=Sing	9	obj	_	SpaceAfter=No
@@ -16542,7 +16542,7 @@
 22	relies	rely	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 23	on	on	ADP	E	_	24	case	_	_
 24	radiation	radiation	NOUN	S	Number=Sing	22	obl	_	_
-25	to	to	ADP	E	_	26	mark	_	_
+25	to	to	PART	PART	_	26	mark	_	_
 26	sterilize	sterilize	VERB	V	VerbForm=Inf	22	advcl	_	_
 27	males	male	NOUN	S	Number=Plur	26	obj	_	SpaceAfter=No
 28	,	,	PUNCT	FF	_	27	punct	_	_
@@ -16553,7 +16553,7 @@
 33	into	into	ADP	E	_	35	case	_	_
 34	infested	infest	VERB	V	Tense=Past|VerbForm=Part	35	acl	_	_
 35	areas	area	NOUN	S	Number=Plur	32	obl	_	_
-36	to	to	ADP	E	_	37	mark	_	_
+36	to	to	PART	PART	_	37	mark	_	_
 37	mate	mate	VERB	V	VerbForm=Inf	32	advcl	_	SpaceAfter=No
 38	.	.	PUNCT	FS	_	22	punct	_	_
 
@@ -16623,7 +16623,7 @@
 14	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	16	det	_	_
 15	new	new	ADJ	A	Degree=Pos	16	amod	_	_
 16	way	way	NOUN	S	Number=Sing	13	obj	_	_
-17	to	to	ADP	E	_	18	mark	_	_
+17	to	to	PART	PART	_	18	mark	_	_
 18	control	control	VERB	V	VerbForm=Inf	16	acl	_	_
 19	the	the	DET	RD	Definite=Def|PronType=Art	21	det	_	_
 20	mosquito	mosquito	NOUN	S	Gender=Masc|Number=Sing	21	nmod	_	_
@@ -16706,7 +16706,7 @@
 4	needed	need	VERB	V	Tense=Past|VerbForm=Part	1	acl:relcl	_	_
 5	now	now	ADV	B	_	4	advmod	_	_
 6	is	be	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-7	to	to	ADP	E	_	8	mark	_	_
+7	to	to	PART	PART	_	8	mark	_	_
 8	determine	determine	VERB	V	VerbForm=Inf	6	ccomp	_	_
 9	whether	whether	SCONJ	CS	_	11	mark	_	_
 10	it	it	PRON	PE	Number=Sing|Person=3|PronType=Prs	11	nsubj	_	_
@@ -16719,7 +16719,7 @@
 # text = Scientific research to develop products like irradiated sterile insects or the Oxitec mosquitoes proceeds progressively from more to less contained conditions – from the laboratory to confined trials to limited field trials.
 1	Scientific	scientific	ADJ	A	Degree=Pos	2	amod	_	_
 2	research	research	NOUN	S	Number=Sing	14	nsubj	_	_
-3	to	to	ADP	E	_	4	mark	_	_
+3	to	to	PART	PART	_	4	mark	_	_
 4	develop	develop	VERB	V	VerbForm=Inf	2	acl	_	_
 5	products	product	NOUN	S	Number=Plur	4	obj	_	_
 6	like	like	ADP	E	_	9	case	_	_
@@ -16774,7 +16774,7 @@
 19	it	it	PRON	PE	Number=Sing|Person=3|PronType=Prs	21	nsubj	_	_
 20	is	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	aux	_	_
 21	preparing	prepare	VERB	V	VerbForm=Ger	0	root	_	_
-22	to	to	ADP	E	_	23	mark	_	_
+22	to	to	PART	PART	_	23	mark	_	_
 23	conduct	conduct	VERB	V	VerbForm=Inf	21	xcomp	_	_
 24	trials	trial	NOUN	S	Number=Plur	23	obj	_	_
 25	in	in	ADP	E	_	27	case	_	_
@@ -16825,7 +16825,7 @@
 9	,	,	PUNCT	FF	_	8	punct	_	_
 10	science	science	NOUN	S	Number=Sing	11	nsubj	_	_
 11	seems	seem	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-12	to	to	ADP	E	_	13	mark	_	_
+12	to	to	PART	PART	_	13	mark	_	_
 13	matter	matter	VERB	V	VerbForm=Inf	11	xcomp	_	_
 14	less	less	ADV	B	Degree=Cmp	13	advmod	_	_
 15	than	than	ADP	E	_	16	case	_	_
@@ -16896,7 +16896,7 @@
 17	upon	upon	ADP	E	_	16	compound:prt	_	_
 18	regulatory	regulatory	ADJ	A	Degree=Pos	19	amod	_	_
 19	agencies	agency	NOUN	S	Number=Plur	16	obj	_	_
-20	to	to	ADP	E	_	21	mark	_	_
+20	to	to	PART	PART	_	21	mark	_	_
 21	emphasize	emphasize	VERB	V	VerbForm=Inf	16	advcl	_	_
 22	"	"	PUNCT	FB	_	29	punct	_	SpaceAfter=No
 23	science	science	NOUN	S	Number=Sing	25	nmod:npmod	_	SpaceAfter=No
@@ -16926,7 +16926,7 @@
 47	can	can	AUX	VM	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	48	aux	_	_
 48	require	require	VERB	V	VerbForm=Inf	45	acl:relcl	_	_
 49	data	datum	NOUN	S	Number=Plur	48	obj	_	_
-50	to	to	ADP	E	_	51	mark	_	_
+50	to	to	PART	PART	_	51	mark	_	_
 51	address	address	VERB	V	VerbForm=Inf	48	advcl	_	_
 52	all	all	DET	T	PronType=Tot	54	det	_	_
 53	theoretical	theoretic	ADJ	A	Degree=Pos	54	amod	_	_
@@ -17072,7 +17072,7 @@
 30	European	European	ADJ	A	Degree=Pos	31	amod	_	_
 31	governments	government	NOUN	S	Number=Plur	32	nsubj	_	_
 32	seem	seem	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	28	csubj:pass	_	_
-33	to	to	ADP	E	_	35	mark	_	_
+33	to	to	PART	PART	_	35	mark	_	_
 34	be	be	AUX	VA	VerbForm=Inf	35	aux	_	_
 35	pursuing	pursue	VERB	V	VerbForm=Ger	32	xcomp	_	_
 36	their	their	DET	AP	Poss=Yes|PronType=Prs	38	nmod:poss	_	_
@@ -17097,7 +17097,7 @@
 3	's	's	PART	PART	_	2	case	_	_
 4	statement	statement	NOUN	S	Number=Sing	5	nsubj	_	_
 5	supposed	suppose	VERB	V	Tense=Past|VerbForm=Part	0	root	_	_
-6	to	to	ADP	E	_	7	mark	_	_
+6	to	to	PART	PART	_	7	mark	_	_
 7	serve	serve	VERB	V	VerbForm=Inf	5	xcomp	_	_
 8	as	as	ADP	E	_	11	case	_	_
 9	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	11	det	_	_
@@ -17176,7 +17176,7 @@
 12	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	14	det	_	_
 13	new	new	ADJ	A	Degree=Pos	14	amod	_	_
 14	mechanism	mechanism	NOUN	S	Number=Sing	28	nsubj	_	_
-15	to	to	ADP	E	_	16	mark	_	_
+15	to	to	PART	PART	_	16	mark	_	_
 16	facilitate	facilitate	VERB	V	VerbForm=Inf	14	acl	_	_
 17	finger	finger	NOUN	S	Number=Sing	19	obj	_	SpaceAfter=No
 18	-	-	PUNCT	FF	_	17	punct	_	SpaceAfter=No
@@ -17289,7 +17289,7 @@
 7	structure	structure	NOUN	S	Number=Sing	0	root	_	_
 8	that	that	PRON	PR	PronType=Rel	9	nsubj	_	_
 9	seeks	seek	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	acl:relcl	_	_
-10	to	to	ADP	E	_	11	mark	_	_
+10	to	to	PART	PART	_	11	mark	_	_
 11	break	break	VERB	V	VerbForm=Inf	9	xcomp	_	_
 12	the	the	DET	RD	Definite=Def|PronType=Art	13	det	_	_
 13	mold	mold	NOUN	S	Number=Sing	11	obj	_	_
@@ -17315,7 +17315,7 @@
 7	can	can	AUX	VM	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	9	aux	_	_
 8	not	not	PART	PART	Polarity=Neg	9	advmod	_	_
 9	continue	continue	VERB	V	VerbForm=Inf	0	root	_	_
-10	to	to	ADP	E	_	11	mark	_	_
+10	to	to	PART	PART	_	11	mark	_	_
 11	depend	depend	VERB	V	VerbForm=Inf	9	xcomp	_	_
 12	on	on	ADP	E	_	14	case	_	_
 13	shopworn	shopworn	ADJ	A	Degree=Pos	14	amod	_	_
@@ -17401,7 +17401,7 @@
 2	,	,	PUNCT	FF	_	1	punct	_	_
 3	bold	bold	ADJ	A	Degree=Pos	4	amod	_	_
 4	action	action	NOUN	S	Number=Sing	9	nsubj	_	_
-5	to	to	ADP	E	_	6	mark	_	_
+5	to	to	PART	PART	_	6	mark	_	_
 6	address	address	VERB	V	VerbForm=Inf	4	acl	_	_
 7	these	this	DET	DD	Number=Plur|PronType=Dem	8	det	_	_
 8	fragilities	fragility	NOUN	S	Number=Plur	6	obj	_	_
@@ -17561,7 +17561,7 @@
 41	,	,	PUNCT	FF	_	42	punct	_	_
 42	William	William	PROPN	SP	_	9	conj	_	_
 43	Faulkner	Faulkner	PROPN	SP	_	42	flat:name	_	SpaceAfter=No
-44	,	,	PUNCT	FF	_	46	punct	_	_
+44	,	,	PUNCT	FF	_	45	punct	_	_
 45	Jack	Jack	PROPN	SP	_	9	conj	_	_
 46	Kerouac	Kerouac	PROPN	SP	_	45	flat:name	_	SpaceAfter=No
 47	,	,	PUNCT	FF	_	49	punct	_	_
@@ -17652,7 +17652,7 @@
 10	frustrated	frustrate	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	4	conj	_	_
 11	his	his	DET	AP	Poss=Yes|PronType=Prs	12	nmod:poss	_	_
 12	ambitions	ambition	NOUN	S	Number=Plur	10	obj	_	_
-13	to	to	ADP	E	_	14	mark	_	_
+13	to	to	PART	PART	_	14	mark	_	_
 14	succeed	succeed	VERB	V	VerbForm=Inf	12	acl	_	_
 15	in	in	ADP	E	_	17	case	_	_
 16	the	the	DET	RD	Definite=Def|PronType=Art	17	det	_	_
@@ -17710,7 +17710,7 @@
 9	,	,	PUNCT	FF	_	5	punct	_	_
 10	he	he	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	_
 11	attempted	attempt	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-12	to	to	ADP	E	_	15	mark	_	_
+12	to	to	PART	PART	_	15	mark	_	_
 13	be	be	AUX	VA	VerbForm=Inf	15	cop	_	_
 14	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	15	det	_	_
 15	publisher	publisher	NOUN	S	Number=Sing	11	ccomp	_	SpaceAfter=No
@@ -17867,7 +17867,7 @@
 17	pocket	pocket	NOUN	S	Number=Sing	14	nmod	_	SpaceAfter=No
 18	,	,	PUNCT	FF	_	17	punct	_	_
 19	determined	determine	VERB	V	Tense=Past|VerbForm=Part	17	acl	_	_
-20	to	to	ADP	E	_	21	mark	_	_
+20	to	to	PART	PART	_	21	mark	_	_
 21	improve	improve	VERB	V	VerbForm=Inf	19	advcl	_	_
 22	his	his	DET	AP	Poss=Yes|PronType=Prs	24	nmod:poss	_	_
 23	social	social	ADJ	A	Degree=Pos	24	amod	_	_
@@ -17940,7 +17940,7 @@
 14	sent	send	VERB	V	Tense=Past|VerbForm=Part	0	root	_	_
 15	to	to	ADP	E	_	16	case	_	_
 16	Tours	tour	NOUN	S	Number=Plur	14	obl	_	_
-17	to	to	ADP	E	_	18	mark	_	_
+17	to	to	PART	PART	_	18	mark	_	_
 18	coordinate	coordinate	VERB	V	VerbForm=Inf	14	advcl	_	_
 19	supplies	supply	NOUN	S	Number=Plur	18	obj	_	_
 20	for	for	ADP	E	_	22	case	_	_
@@ -18085,7 +18085,7 @@
 16	of	of	ADP	E	_	18	case	_	_
 17	the	the	DET	RD	Definite=Def|PronType=Art	18	det	_	_
 18	time	time	NOUN	S	Number=Sing	15	nmod	_	_
-19	to	to	ADP	E	_	20	mark	_	_
+19	to	to	PART	PART	_	20	mark	_	_
 20	nurse	nurse	VERB	V	VerbForm=Inf	13	xcomp	_	_
 21	their	their	DET	AP	Poss=Yes|PronType=Prs	23	nmod:poss	_	_
 22	own	own	ADJ	A	Degree=Pos	23	amod	_	_
@@ -18132,7 +18132,7 @@
 21	the	the	DET	RD	Definite=Def|PronType=Art	22	det	_	_
 22	author	author	NOUN	S	Number=Sing	20	obj	_	SpaceAfter=No
 23	-	-	PUNCT	FF	_	22	punct	_	SpaceAfter=No
-24	to	to	ADP	E	_	26	mark	_	SpaceAfter=No
+24	to	to	PART	PART	_	26	mark	_	SpaceAfter=No
 25	-	-	PUNCT	FF	_	26	punct	_	SpaceAfter=No
 26	be	be	VERB	V	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	22	acl	_	_
 27	significantly	significantly	ADV	B	_	20	advmod	_	SpaceAfter=No
@@ -18193,7 +18193,7 @@
 2	father	father	NOUN	S	Number=Sing	22	nsubj	_	SpaceAfter=No
 3	,	,	PUNCT	FF	_	2	punct	_	_
 4	seeking	seek	VERB	V	Tense=Pres|VerbForm=Part	22	advcl	_	_
-5	to	to	ADP	E	_	6	mark	_	_
+5	to	to	PART	PART	_	6	mark	_	_
 6	instill	instill	VERB	V	VerbForm=Inf	4	xcomp	_	_
 7	the	the	DET	RD	Definite=Def|PronType=Art	11	det	_	_
 8	same	same	ADJ	A	Degree=Pos	11	amod	_	_
@@ -18339,7 +18339,7 @@
 8	causing	cause	VERB	V	VerbForm=Ger	4	advcl	_	_
 9	the	the	DET	RD	Definite=Def|PronType=Art	10	det	_	_
 10	headmaster	headmaster	NOUN	S	Number=Sing	8	iobj	_	_
-11	to	to	ADP	E	_	12	mark	_	_
+11	to	to	PART	PART	_	12	mark	_	_
 12	contact	contact	VERB	V	VerbForm=Inf	8	xcomp	_	_
 13	his	his	DET	AP	Poss=Yes|PronType=Prs	14	nmod:poss	_	_
 14	family	family	NOUN	S	Number=Sing	12	obj	_	_
@@ -18515,7 +18515,7 @@
 3	time	time	NOUN	S	Number=Sing	5	obl	_	_
 4	Balzac	Balzac	PROPN	SP	_	5	nsubj	_	_
 5	began	begin	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-6	to	to	ADP	E	_	7	mark	_	_
+6	to	to	PART	PART	_	7	mark	_	_
 7	understand	understand	VERB	V	VerbForm=Inf	5	ccomp	_	_
 8	the	the	DET	RD	Definite=Def|PronType=Art	9	det	_	_
 9	vagaries	vagary	NOUN	S	Number=Plur	7	obj	_	_
@@ -18580,7 +18580,7 @@
 2	1819	1819	NUM	N	NumType=Card	4	obl	_	_
 3	Passez	Passez	PROPN	SP	_	4	nsubj	_	_
 4	offered	offer	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-5	to	to	ADP	E	_	6	mark	_	_
+5	to	to	PART	PART	_	6	mark	_	_
 6	make	make	VERB	V	VerbForm=Inf	4	xcomp	_	_
 7	Balzac	Balzac	PROPN	SP	_	6	obj	_	_
 8	his	his	DET	AP	Poss=Yes|PronType=Prs	9	nmod:poss	_	_
@@ -18643,7 +18643,7 @@
 5	nothing	nothing	PRON	PI	Number=Sing|PronType=Ind	7	nsubj:pass	_	_
 6	is	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux:pass	_	_
 7	offered	offer	VERB	V	Tense=Past|VerbForm=Part	3	conj	_	_
-8	to	to	ADP	E	_	9	mark	_	_
+8	to	to	PART	PART	_	9	mark	_	_
 9	appease	appease	VERB	V	VerbForm=Inf	7	ccomp	_	_
 10	my	my	DET	AP	Number=Sing|Poss=Yes|PronType=Prs	11	nmod:poss	_	_
 11	appetite	appetite	NOUN	S	Number=Sing	9	obj	_	SpaceAfter=No
@@ -18683,7 +18683,7 @@
 6	he	he	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nsubj:pass	_	_
 7	was	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	aux:pass	_	_
 8	allowed	allow	VERB	V	Tense=Past|VerbForm=Part	0	root	_	_
-9	to	to	ADP	E	_	10	mark	_	_
+9	to	to	PART	PART	_	10	mark	_	_
 10	live	live	VERB	V	Tense=Pres|VerbForm=Inf	8	xcomp	_	_
 11	in	in	ADP	E	_	14	case	_	_
 12	the	the	DET	RD	Definite=Def|PronType=Art	14	det	_	_
@@ -18717,7 +18717,7 @@
 40	an	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	42	det	_	_
 41	old	old	ADJ	A	Degree=Pos	42	amod	_	_
 42	woman	woman	NOUN	S	Number=Sing	38	conj	_	_
-43	to	to	ADP	E	_	44	mark	_	_
+43	to	to	PART	PART	_	44	mark	_	_
 44	look	look	VERB	V	VerbForm=Inf	42	acl	_	_
 45	after	after	ADP	E	_	46	case	_	_
 46	him	he	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	44	obl	_	SpaceAfter=No
@@ -18849,7 +18849,7 @@
 11	convinced	convince	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	7	acl:relcl	_	_
 12	the	the	DET	RD	Definite=Def|PronType=Art	13	det	_	_
 13	author	author	NOUN	S	Number=Sing	11	obj	_	_
-14	to	to	ADP	E	_	15	mark	_	_
+14	to	to	PART	PART	_	15	mark	_	_
 15	write	write	VERB	V	VerbForm=Inf	11	xcomp	_	_
 16	short	short	ADJ	A	Degree=Pos	15	amod	_	_
 17	stories	story	NOUN	S	Number=Plur	15	obj	_	SpaceAfter=No
@@ -18918,7 +18918,7 @@
 5	novels	novel	NOUN	S	Number=Plur	0	root	_	SpaceAfter=No
 6	,	,	PUNCT	FF	_	5	punct	_	_
 7	designed	design	VERB	V	Tense=Past|VerbForm=Part	5	acl	_	_
-8	to	to	ADP	E	_	9	mark	_	_
+8	to	to	PART	PART	_	9	mark	_	_
 9	sell	sell	VERB	V	VerbForm=Inf	7	ccomp	_	_
 10	quickly	quickly	ADV	B	_	9	advmod	_	_
 11	and	and	CCONJ	CC	_	12	cc	_	_
@@ -19099,7 +19099,7 @@
 9	,	,	PUNCT	FF	_	11	punct	_	_
 10	and	and	CCONJ	CC	_	11	cc	_	_
 11	tried	try	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	2	conj	_	_
-12	to	to	ADP	E	_	13	mark	_	_
+12	to	to	PART	PART	_	13	mark	_	_
 13	build	build	VERB	V	VerbForm=Inf	11	xcomp	_	_
 14	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	16	det	_	_
 15	printing	printing	NOUN	S	Number=Sing	16	nmod	_	_
@@ -19215,7 +19215,7 @@
 2	I	I	PRON	PE	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
 3	am	be	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	cop	_	_
 4	about	about	ADJ	A	Degree=Pos	0	root	_	_
-5	to	to	ADP	E	_	6	mark	_	_
+5	to	to	PART	PART	_	6	mark	_	_
 6	become	become	VERB	V	Tense=Past|VerbForm=Part	4	xcomp	_	_
 7	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	8	det	_	_
 8	genius	genius	NOUN	S	Gender=Masc|Number=Sing	6	xcomp	_	SpaceAfter=No
@@ -19272,7 +19272,7 @@
 # text = This was to be Balzac's life work and his greatest achievement.
 1	This	this	PRON	PD	Number=Sing|PronType=Dem	2	nsubj	_	_
 2	was	be	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-3	to	to	ADP	E	_	8	mark	_	_
+3	to	to	PART	PART	_	8	mark	_	_
 4	be	be	AUX	VA	VerbForm=Inf	8	cop	_	_
 5	Balzac	Balzac	PROPN	SP	_	8	nmod	_	SpaceAfter=No
 6	's	's	PART	PART	_	5	case	_	_
@@ -19507,7 +19507,7 @@
 9	-	-	PUNCT	FF	_	10	punct	_	SpaceAfter=No
 10	sounding	sound	VERB	V	Tense=Past|VerbForm=Part	11	acl	_	_
 11	particle	particle	NOUN	S	Number=Sing	6	obj	_	_
-12	to	to	ADP	E	_	13	mark	_	_
+12	to	to	PART	PART	_	13	mark	_	_
 13	help	help	VERB	V	VerbForm=Inf	6	advcl	_	_
 14	him	he	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	obj	_	_
 15	fit	fit	VERB	V	VerbForm=Inf	13	xcomp	_	_
@@ -19616,7 +19616,7 @@
 22	of	of	ADP	E	_	24	case	_	_
 23	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	24	det	_	_
 24	mediator	mediator	NOUN	S	Number=Sing	21	nmod	_	_
-25	to	to	ADP	E	_	26	mark	_	_
+25	to	to	PART	PART	_	26	mark	_	_
 26	keep	keep	VERB	V	VerbForm=Inf	24	acl	_	_
 27	the	the	DET	RD	Definite=Def|PronType=Art	29	det	_	_
 28	political	politic	ADJ	A	Degree=Pos	29	amod	_	_
@@ -19654,7 +19654,7 @@
 21	Balzac	Balzac	PROPN	SP	_	22	nsubj	_	_
 22	decided	decide	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 23	not	not	PART	PART	Polarity=Neg	25	advmod	_	_
-24	to	to	ADP	E	_	25	mark	_	_
+24	to	to	PART	PART	_	25	mark	_	_
 25	stand	stand	VERB	V	VerbForm=Inf	22	xcomp	_	_
 26	for	for	ADP	E	_	27	case	_	_
 27	election	election	NOUN	S	Number=Sing	25	obl	_	SpaceAfter=No
@@ -19671,7 +19671,7 @@
 7	loses	lose	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	_
 8	the	the	DET	RD	Definite=Def|PronType=Art	9	det	_	_
 9	ability	ability	NOUN	S	Number=Sing	7	obj	_	_
-10	to	to	ADP	E	_	11	mark	_	_
+10	to	to	PART	PART	_	11	mark	_	_
 11	manage	manage	VERB	V	VerbForm=Inf	9	acl	_	_
 12	them	they	PRON	PE	Number=Plur|Person=3|PronType=Prs	11	obj	_	SpaceAfter=No
 13	.	.	PUNCT	FS	_	2	punct	_	_
@@ -19701,7 +19701,7 @@
 2	meant	mean	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 3	the	the	DET	RD	Definite=Def|PronType=Art	4	det	_	_
 4	story	story	NOUN	S	Number=Sing	2	obj	_	_
-5	to	to	ADP	E	_	6	mark	_	_
+5	to	to	PART	PART	_	6	mark	_	_
 6	bear	bear	VERB	V	VerbForm=Inf	4	acl	_	_
 7	witness	witness	NOUN	S	Number=Sing	6	obj	_	_
 8	to	to	ADP	E	_	11	case	_	_
@@ -19936,7 +19936,7 @@
 # text = He tried to enforce strict impartiality in its pages and a reasoned assessment of various ideologies.
 1	He	he	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
 2	tried	try	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-3	to	to	ADP	E	_	4	mark	_	_
+3	to	to	PART	PART	_	4	mark	_	_
 4	enforce	enforce	VERB	V	VerbForm=Inf	2	xcomp	_	_
 5	strict	strict	ADJ	A	Degree=Pos	6	amod	_	_
 6	impartiality	impartiality	NOUN	S	Number=Sing	4	obj	_	_
@@ -20009,7 +20009,7 @@
 15	milieu	milieu	NOUN	S	Gender=Masc|Number=Sing	12	obj	_	_
 16	in	in	ADP	E	_	17	case	_	_
 17	which	which	PRON	PR	PronType=Rel	19	obl	_	_
-18	to	to	ADP	E	_	19	mark	_	_
+18	to	to	PART	PART	_	19	mark	_	_
 19	set	set	VERB	V	VerbForm=Inf	15	acl	_	_
 20	the	the	DET	RD	Definite=Def|PronType=Art	24	det	_	_
 21	two	two	NUM	N	NumType=Card	23	nummod	_	SpaceAfter=No
@@ -20038,7 +20038,7 @@
 9	young	young	ADJ	A	Degree=Pos	10	amod	_	_
 10	poet	poet	NOUN	S	Number=Sing	4	nmod	_	_
 11	trying	try	VERB	V	Number=Sing|Tense=Pres|VerbForm=Part	10	acl	_	_
-12	to	to	ADP	E	_	13	mark	_	_
+12	to	to	PART	PART	_	13	mark	_	_
 13	make	make	VERB	V	VerbForm=Inf	11	xcomp	_	_
 14	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	15	det	_	_
 15	name	name	NOUN	S	Number=Sing	13	obj	_	_
@@ -20340,7 +20340,7 @@
 # text = he claimed to have once worked for 48 hours with only three hours of rest in the middle.
 1	he	he	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
 2	claimed	claim	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-3	to	to	ADP	E	_	6	mark	_	_
+3	to	to	PART	PART	_	6	mark	_	_
 4	have	have	AUX	VA	VerbForm=Inf	6	aux	_	_
 5	once	once	ADV	B	_	6	advmod	_	_
 6	worked	work	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	2	ccomp	_	_
@@ -20529,11 +20529,11 @@
 5	his	his	DET	AP	Poss=Yes|PronType=Prs	6	nmod:poss	_	_
 6	business	business	NOUN	S	Number=Sing	2	ccomp	_	_
 7	not	not	PART	PART	Polarity=Neg	9	advmod	_	_
-8	to	to	ADP	E	_	9	mark	_	_
+8	to	to	PART	PART	_	9	mark	_	_
 9	frequent	frequent	VERB	V	VerbForm=Inf	6	csubj	_	_
 10	society	society	NOUN	S	Number=Sing	9	obj	_	_
 11	but	but	CCONJ	CC	_	13	cc	_	_
-12	to	to	ADP	E	_	13	mark	_	_
+12	to	to	PART	PART	_	13	mark	_	_
 13	create	create	VERB	V	VerbForm=Inf	9	conj	_	_
 14	it	it	PRON	PE	Number=Sing|Person=3|PronType=Prs	13	obj	_	SpaceAfter=No
 15	.	.	PUNCT	FS	_	2	punct	_	_
@@ -20736,7 +20736,7 @@
 5	marriage	marriage	NOUN	S	Number=Sing	0	root	_	_
 6	of	of	ADP	E	_	7	case	_	_
 7	convenience	convenience	NOUN	S	Number=Sing	5	nmod	_	_
-8	to	to	ADP	E	_	9	mark	_	_
+8	to	to	PART	PART	_	9	mark	_	_
 9	preserve	preserve	VERB	V	VerbForm=Inf	7	acl	_	_
 10	her	her	DET	AP	Poss=Yes|PronType=Prs	11	nmod:poss	_	_
 11	family	family	NOUN	S	Number=Sing	13	nmod	_	SpaceAfter=No
@@ -20811,7 +20811,7 @@
 15	is	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	aux	_	_
 16	always	always	ADV	B	_	17	advmod	_	_
 17	trying	try	VERB	V	VerbForm=Ger	9	acl:relcl	_	_
-18	to	to	ADP	E	_	19	mark	_	_
+18	to	to	PART	PART	_	19	mark	_	_
 19	pull	pull	VERB	V	VerbForm=Inf	17	xcomp	_	_
 20	in	in	ADP	E	_	19	compound:prt	_	_
 21	extraneous	extraneous	ADJ	A	Degree=Pos	22	amod	_	_
@@ -20822,7 +20822,7 @@
 26	hero	hero	NOUN	S	Gender=Masc|Number=Sing	28	nsubj	_	_
 27	is	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	28	cop	_	_
 28	determined	determined	ADJ	A	Degree=Pos	17	conj	_	_
-29	to	to	ADP	E	_	30	mark	_	_
+29	to	to	PART	PART	_	30	mark	_	_
 30	keep	keep	VERB	V	VerbForm=Inf	28	advcl	_	_
 31	on	on	ADP	E	_	32	case	_	_
 32	course	course	NOUN	S	Number=Sing	30	obl	_	SpaceAfter=No
@@ -20831,7 +20831,7 @@
 35	tricks	trick	NOUN	S	Number=Plur	37	obj	_	_
 36	he	he	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	37	nsubj	_	_
 37	has	have	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	30	advcl	_	_
-38	to	to	ADP	E	_	39	mark	_	_
+38	to	to	PART	PART	_	39	mark	_	_
 39	use	use	VERB	V	VerbForm=Inf	37	xcomp	_	SpaceAfter=No
 40	.	.	PUNCT	FS	_	2	punct	_	_
 
@@ -20884,7 +20884,7 @@
 19	were	be	AUX	VA	Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin	21	cop	_	_
 20	finally	finally	ADV	B	_	21	advmod	_	_
 21	able	able	ADJ	A	Degree=Pos	0	root	_	_
-22	to	to	ADP	E	_	23	mark	_	_
+22	to	to	PART	PART	_	23	mark	_	_
 23	wed	wed	VERB	V	VerbForm=Inf	21	xcomp	_	SpaceAfter=No
 24	.	.	PUNCT	FS	_	21	punct	_	_
 
@@ -20963,7 +20963,7 @@
 3	were	be	AUX	VA	Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	5	cop	_	_
 4	too	too	ADV	B	_	5	advmod	_	_
 5	swollen	swell	VERB	V	Tense=Past|VerbForm=Part	0	root	_	_
-6	to	to	ADP	E	_	7	mark	_	_
+6	to	to	PART	PART	_	7	mark	_	_
 7	walk	walk	VERB	V	VerbForm=Inf	5	advcl	_	SpaceAfter=No
 8	,	,	PUNCT	FF	_	11	punct	_	_
 9	and	and	CCONJ	CC	_	11	cc	_	_
@@ -21285,7 +21285,7 @@
 13	Balzac	Balzac	PROPN	SP	_	14	nsubj	_	_
 14	had	have	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	4	conj	_	_
 15	plans	plan	NOUN	S	Number=Plur	14	obj	_	_
-16	to	to	ADP	E	_	17	mark	_	_
+16	to	to	PART	PART	_	17	mark	_	_
 17	include	include	VERB	V	VerbForm=Inf	15	acl	_	_
 18	numerous	numerous	DET	DI	PronType=Ind	20	det	_	_
 19	other	other	ADJ	A	Degree=Pos	20	amod	_	_
@@ -21338,7 +21338,7 @@
 13	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	15	det	_	_
 14	possible	possible	ADJ	A	Degree=Pos	15	amod	_	_
 15	attempt	attempt	NOUN	S	Number=Sing	5	conj	_	_
-16	to	to	ADP	E	_	17	mark	_	_
+16	to	to	PART	PART	_	17	mark	_	_
 17	stabilize	stabilize	VERB	V	VerbForm=Inf	15	acl	_	_
 18	it	it	PRON	PE	Number=Sing|Person=3|PronType=Prs	17	obj	_	_
 19	through	through	ADP	E	_	20	case	_	_
@@ -21397,14 +21397,14 @@
 5	use	use	NOUN	S	Number=Sing	22	nsubj	_	_
 6	of	of	ADP	E	_	7	case	_	_
 7	detail	detail	NOUN	S	Number=Sing	5	nmod	_	SpaceAfter=No
-8	,	,	PUNCT	FF	_	11	punct	_	_
+8	,	,	PUNCT	FF	_	7	punct	_	_
 9	especially	especially	ADV	B	_	11	advmod	_	_
 10	the	the	DET	RD	Definite=Def|PronType=Art	11	det	_	_
 11	detail	detail	NOUN	S	Number=Sing	7	appos	_	_
 12	of	of	ADP	E	_	13	case	_	_
 13	objects	object	NOUN	S	Number=Plur	11	nmod	_	SpaceAfter=No
 14	,	,	PUNCT	FF	_	11	punct	_	_
-15	to	to	ADP	E	_	16	mark	_	_
+15	to	to	PART	PART	_	16	mark	_	_
 16	illustrate	illustrate	VERB	V	VerbForm=Inf	5	acl	_	_
 17	the	the	DET	RD	Definite=Def|PronType=Art	18	det	_	_
 18	lives	life	NOUN	S	Number=Plur	16	obj	_	_
@@ -21441,7 +21441,7 @@
 16	,	,	PUNCT	FF	_	5	punct	_	_
 17	Balzac	Balzac	PROPN	SP	_	5	nsubj	_	_
 18	sought	seek	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-19	to	to	ADP	E	_	20	mark	_	_
+19	to	to	PART	PART	_	20	mark	_	_
 20	depict	depict	VERB	V	VerbForm=Inf	18	xcomp	_	_
 21	human	human	ADJ	A	Degree=Pos	22	amod	_	_
 22	existence	existence	NOUN	S	Number=Sing	20	obj	_	_
@@ -21505,7 +21505,7 @@
 19	,	,	PUNCT	FF	_	16	punct	_	_
 20	which	which	PRON	PR	PronType=Rel	21	nsubj	_	_
 21	seeks	seek	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	acl:relcl	_	_
-22	to	to	ADP	E	_	23	mark	_	_
+22	to	to	PART	PART	_	23	mark	_	_
 23	explain	explain	VERB	V	VerbForm=Inf	21	xcomp	_	_
 24	human	human	ADJ	A	Degree=Pos	25	amod	_	_
 25	behavior	behavior	NOUN	S	Number=Sing	23	obj	_	_
@@ -21564,7 +21564,7 @@
 27	effect	effect	NOUN	S	Number=Sing	25	nmod	_	_
 28	Balzac	Balzac	PROPN	SP	_	29	nsubj	_	_
 29	attempted	attempt	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	27	acl:relcl	_	_
-30	to	to	ADP	E	_	31	mark	_	_
+30	to	to	PART	PART	_	31	mark	_	_
 31	achieve	achieve	VERB	V	VerbForm=Inf	29	xcomp	_	_
 32	in	in	ADP	E	_	34	case	_	_
 33	his	his	DET	AP	Poss=Yes|PronType=Prs	34	nmod:poss	_	_
@@ -21575,7 +21575,7 @@
 # text = Balzac sought to present his characters as real people, neither fully good nor fully evil, but fully human.
 1	Balzac	Balzac	PROPN	SP	_	2	nsubj	_	_
 2	sought	seek	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-3	to	to	ADP	E	_	4	mark	_	_
+3	to	to	PART	PART	_	4	mark	_	_
 4	present	present	VERB	V	VerbForm=Inf	2	xcomp	_	_
 5	his	his	DET	AP	Poss=Yes|PronType=Prs	6	nmod:poss	_	_
 6	characters	character	NOUN	S	Number=Plur	4	obj	_	_
@@ -21782,7 +21782,7 @@
 18	not	not	PART	PART	Polarity=Neg	20	advmod	_	_
 19	been	be	AUX	VA	Tense=Past|VerbForm=Part	20	aux:pass	_	_
 20	allowed	allow	VERB	V	Tense=Past|VerbForm=Part	9	acl:relcl	_	_
-21	to	to	ADP	E	_	22	mark	_	_
+21	to	to	PART	PART	_	22	mark	_	_
 22	see	see	VERB	V	VerbForm=Inf	20	ccomp	_	SpaceAfter=No
 23	.	.	PUNCT	FS	_	2	punct	_	_
 
@@ -22122,7 +22122,7 @@
 # text = He worked to observe humanity in its most representative state, frequently passing incognito among the masses of Parisian society to do research.
 1	He	he	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
 2	worked	work	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-3	to	to	ADP	E	_	4	mark	_	_
+3	to	to	PART	PART	_	4	mark	_	_
 4	observe	observe	VERB	V	VerbForm=Inf	2	xcomp	_	_
 5	humanity	humanity	NOUN	S	Number=Sing	4	obj	_	_
 6	in	in	ADP	E	_	10	case	_	_
@@ -22140,7 +22140,7 @@
 18	of	of	ADP	E	_	20	case	_	_
 19	Parisian	parisian	ADJ	A	Degree=Pos	20	amod	_	_
 20	society	society	NOUN	S	Number=Sing	17	nmod	_	_
-21	to	to	ADP	E	_	22	mark	_	_
+21	to	to	PART	PART	_	22	mark	_	_
 22	do	do	VERB	V	VerbForm=Inf	13	advcl	_	_
 23	research	research	NOUN	S	_	22	obj	_	SpaceAfter=No
 24	.	.	PUNCT	FS	_	2	punct	_	_
@@ -22239,7 +22239,7 @@
 15	and	and	CCONJ	CC	_	16	cc	_	_
 16	urged	urge	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	7	conj	_	_
 17	Engels	Engels	PROPN	SP	_	16	obj	_	_
-18	to	to	ADP	E	_	19	mark	_	_
+18	to	to	PART	PART	_	19	mark	_	_
 19	read	read	VERB	V	VerbForm=Inf	16	xcomp	_	_
 20	Balzac	Balzac	PROPN	SP	_	22	nmod	_	SpaceAfter=No
 21	's	's	PART	PART	_	20	case	_	_
@@ -22363,7 +22363,7 @@
 10	he	he	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	_
 11	known	know	VERB	V	Tense=Past|VerbForm=Part	2	advcl	_	_
 12	how	how	ADV	B	_	14	advmod	_	_
-13	to	to	ADP	E	_	14	mark	_	_
+13	to	to	PART	PART	_	14	mark	_	_
 14	write	write	VERB	V	VerbForm=Inf	11	xcomp	_	SpaceAfter=No
 15	!	!	PUNCT	FS	_	2	punct	_	_
 
@@ -22541,7 +22541,7 @@
 9	the	the	DET	RD	Definite=Def|PronType=Art	11	det	_	_
 10	contemporary	contemporary	ADJ	A	Degree=Pos	11	amod	_	_
 11	fashion	fashion	NOUN	S	Number=Sing	20	nsubj	_	_
-12	to	to	ADP	E	_	13	mark	_	_
+12	to	to	PART	PART	_	13	mark	_	_
 13	rank	rank	VERB	V	VerbForm=Inf	11	acl	_	_
 14	Balzac	Balzac	PROPN	SP	_	13	obj	_	_
 15	higher	higher	ADJ	A	Degree=Cmp	13	amod	_	_
@@ -22649,7 +22649,7 @@
 7	Balzac	Balzac	PROPN	SP	_	9	nmod	_	SpaceAfter=No
 8	's	's	PART	PART	_	7	case	_	_
 9	attempt	attempt	NOUN	S	Number=Sing	5	nmod	_	_
-10	to	to	ADP	E	_	11	mark	_	_
+10	to	to	PART	PART	_	11	mark	_	_
 11	portray	portray	VERB	V	VerbForm=Inf	9	acl	_	_
 12	in	in	ADP	E	_	13	mark	_	_
 13	writing	write	VERB	V	VerbForm=Inf	11	advcl	_	_
@@ -22732,7 +22732,7 @@
 10	the	the	DET	RD	Definite=Def|PronType=Art	12	det	_	_
 11	realist	realist	NOUN	S	Number=Sing	12	nmod	_	_
 12	novel	novel	NOUN	S	Number=Sing	8	nmod	_	_
-13	to	to	ADP	E	_	14	mark	_	_
+13	to	to	PART	PART	_	14	mark	_	_
 14	probe	probe	VERB	V	VerbForm=Inf	6	advcl	_	_
 15	the	the	DET	RD	Definite=Def|PronType=Art	16	det	_	_
 16	machinations	machination	NOUN	S	Number=Plur	14	obj	_	_
@@ -23515,7 +23515,7 @@
 16	the	the	DET	RD	Definite=Def|PronType=Art	18	det	_	_
 17	marriage	marriage	NOUN	S	Number=Sing	18	nmod	_	_
 18	banns	bann	NOUN	S	Number=Plur	15	obj	_	_
-19	to	to	ADP	E	_	21	mark	_	_
+19	to	to	PART	PART	_	21	mark	_	_
 20	be	be	AUX	VA	VerbForm=Inf	21	aux	_	_
 21	read	read	VERB	V	Tense=Past|VerbForm=Part	15	xcomp	_	_
 22	once	once	ADV	B	_	21	advmod	_	_
@@ -23620,7 +23620,7 @@
 # text = Biographers attempting to account for this period have reported many apocryphal stories.
 1	Biographers	biographer	NOUN	S	Number=Plur	9	nsubj	_	_
 2	attempting	attempt	VERB	V	Number=Sing|Tense=Pres|VerbForm=Part	1	acl	_	_
-3	to	to	ADP	E	_	4	mark	_	_
+3	to	to	PART	PART	_	4	mark	_	_
 4	account	account	VERB	V	VerbForm=Inf	2	xcomp	_	_
 5	for	for	ADP	E	_	4	compound:prt	_	_
 6	this	this	DET	DD	Number=Sing|PronType=Dem	7	det	_	_
@@ -23653,7 +23653,7 @@
 17	town	town	NOUN	S	Number=Sing	15	obj	_	_
 18	for	for	ADP	E	_	19	case	_	_
 19	London	London	PROPN	SP	_	15	obl	_	_
-20	to	to	ADP	E	_	21	mark	_	_
+20	to	to	PART	PART	_	21	mark	_	_
 21	escape	escape	VERB	V	VerbForm=Inf	15	advcl	_	_
 22	prosecution	prosecution	NOUN	S	Number=Sing	21	obj	_	_
 23	for	for	ADP	E	_	25	case	_	_
@@ -23675,7 +23675,7 @@
 2	is	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
 3	also	also	ADV	B	_	4	advmod	_	_
 4	supposed	suppose	VERB	V	Tense=Past|VerbForm=Part	0	root	_	_
-5	to	to	ADP	E	_	7	mark	_	_
+5	to	to	PART	PART	_	7	mark	_	_
 6	have	have	AUX	VA	VerbForm=Inf	7	aux	_	_
 7	taken	take	VERB	V	Tense=Past|VerbForm=Part	4	xcomp	_	_
 8	his	his	DET	AP	Poss=Yes|PronType=Prs	9	nmod:poss	_	_
@@ -23829,7 +23829,7 @@
 8	known	known	ADJ	A	Degree=Pos	0	root	_	_
 9	in	in	ADP	E	_	10	case	_	_
 10	London	London	PROPN	SP	_	8	obl	_	_
-11	to	to	ADP	E	_	13	mark	_	_
+11	to	to	PART	PART	_	13	mark	_	_
 12	be	be	AUX	VA	VerbForm=Inf	13	aux	_	_
 13	attacked	attack	VERB	V	Tense=Past|VerbForm=Part	8	advcl	_	_
 14	in	in	ADP	E	_	15	case	_	_
@@ -23899,7 +23899,7 @@
 23	rank	rank	NOUN	S	Number=Sing	20	obl	_	_
 24	in	in	SCONJ	CS	_	25	mark	_	_
 25	trying	try	VERB	V	VerbForm=Ger	20	advcl	_	_
-26	to	to	ADP	E	_	27	mark	_	_
+26	to	to	PART	PART	_	27	mark	_	_
 27	match	match	VERB	V	VerbForm=Inf	25	xcomp	_	_
 28	university	university	NOUN	S	Number=Sing	30	obl	_	SpaceAfter=No
 29	-	-	PUNCT	FF	_	30	punct	_	SpaceAfter=No
@@ -23963,7 +23963,7 @@
 35	-	-	PUNCT	FF	_	34	punct	_	SpaceAfter=No
 36	Scene	Scene	PROPN	SP	_	34	compound	_	SpaceAfter=No
 37	"	"	PUNCT	FB	_	34	punct	_	SpaceAfter=No
-38	,	,	PUNCT	FF	_	39	punct	_	_
+38	,	,	PUNCT	FF	_	32	punct	_	_
 39	identifies	identify	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 40	Shakespeare	Shakespeare	PROPN	SP	_	39	obj	_	_
 41	as	as	ADP	E	_	44	case	_	_
@@ -24248,7 +24248,7 @@
 # text = Shakespeare continued to act in his own and other plays after his success as a playwright.
 1	Shakespeare	Shakespeare	PROPN	SP	_	2	nsubj	_	_
 2	continued	continue	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-3	to	to	ADP	E	_	4	mark	_	_
+3	to	to	PART	PART	_	4	mark	_	_
 4	act	act	VERB	V	VerbForm=Inf	2	xcomp	_	_
 5	in	in	ADP	E	_	10	case	_	_
 6	his	his	DET	AP	Poss=Yes|PronType=Prs	10	nmod:poss	_	_
@@ -24532,7 +24532,7 @@
 3	the	the	DET	RD	Definite=Def|PronType=Art	5	det	_	_
 4	first	first	ADJ	NO	Degree=Pos|NumType=Ord	5	amod	_	_
 5	biographer	biographer	NOUN	S	Number=Sing	0	root	_	_
-6	to	to	ADP	E	_	7	mark	_	_
+6	to	to	PART	PART	_	7	mark	_	_
 7	record	record	VERB	V	VerbForm=Inf	5	acl	_	_
 8	the	the	DET	RD	Definite=Def|PronType=Art	9	det	_	_
 9	tradition	tradition	NOUN	S	Number=Sing	7	obj	_	SpaceAfter=No
@@ -24706,7 +24706,7 @@
 # text = Shakespeare continued to visit London during the years 1611–1614.
 1	Shakespeare	Shakespeare	PROPN	SP	_	2	nsubj	_	_
 2	continued	continue	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-3	to	to	ADP	E	_	4	mark	_	_
+3	to	to	PART	PART	_	4	mark	_	_
 4	visit	visit	VERB	V	VerbForm=Inf	2	xcomp	_	_
 5	London	London	PROPN	SP	_	4	obj	_	_
 6	during	during	ADP	E	_	8	case	_	_
@@ -24787,7 +24787,7 @@
 3	married	marry	VERB	V	Tense=Past|VerbForm=Part	0	root	_	_
 4	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	5	det	_	_
 5	physician	physician	NOUN	S	Number=Sing	3	obj	_	SpaceAfter=No
-6	,	,	PUNCT	FF	_	7	punct	_	_
+6	,	,	PUNCT	FF	_	5	punct	_	_
 7	John	John	PROPN	SP	_	5	appos	_	_
 8	Hall	Hall	PROPN	SP	_	7	flat:name	_	SpaceAfter=No
 9	,	,	PUNCT	FF	_	7	punct	_	_
@@ -24855,7 +24855,7 @@
 5	the	the	DET	RD	Definite=Def|PronType=Art	7	det	_	_
 6	church	church	NOUN	S	Number=Sing	7	nmod	_	_
 7	court	court	NOUN	S	Number=Sing	3	obl:agent	_	_
-8	to	to	ADP	E	_	9	mark	_	_
+8	to	to	PART	PART	_	9	mark	_	_
 9	do	do	VERB	V	VerbForm=Inf	3	ccomp	_	_
 10	public	public	ADJ	A	Degree=Pos	11	amod	_	_
 11	penance	penance	NOUN	S	Number=Sing	9	obj	_	_
@@ -25237,7 +25237,7 @@
 3	plays	play	NOUN	S	Number=Plur	5	nsubj	_	_
 4	are	be	AUX	VA	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	5	cop	_	_
 5	difficult	difficult	ADJ	A	Degree=Pos	0	root	_	_
-6	to	to	ADP	E	_	7	mark	_	_
+6	to	to	PART	PART	_	7	mark	_	_
 7	date	date	VERB	V	VerbForm=Inf	5	advcl	_	SpaceAfter=No
 8	,	,	PUNCT	FF	_	5	punct	_	_
 9	however	however	ADV	B	_	5	advmod	_	SpaceAfter=No
@@ -25428,7 +25428,7 @@
 10	two	two	NUM	N	NumType=Card	11	nummod	_	_
 11	friends	friend	NOUN	S	Number=Plur	12	nsubj	_	_
 12	appear	appear	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	4	acl:relcl	_	_
-13	to	to	ADP	E	_	14	mark	_	_
+13	to	to	PART	PART	_	14	mark	_	_
 14	approve	approve	VERB	V	VerbForm=Inf	12	xcomp	_	_
 15	of	of	ADP	E	_	16	case	_	_
 16	rape	rape	NOUN	S	Number=Sing	14	obl	_	SpaceAfter=No
@@ -25617,7 +25617,7 @@
 34	writing	writing	NOUN	S	Number=Sing	32	nmod	_	SpaceAfter=No
 35	,	,	PUNCT	FF	_	14	punct	_	_
 36	began	begin	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-37	to	to	ADP	E	_	38	mark	_	_
+37	to	to	PART	PART	_	38	mark	_	_
 38	infuse	infuse	VERB	V	VerbForm=Inf	36	xcomp	_	_
 39	each	each	DET	DI	PronType=Ind	40	det	_	_
 40	other	other	PRON	PI	Number=Sing|PronType=Ind	38	obj	_	SpaceAfter=No
@@ -25705,7 +25705,7 @@
 35	be	be	VERB	V	VerbForm=Inf	32	parataxis	_	_
 36	or	or	CCONJ	CC	_	39	cc	_	_
 37	not	not	PART	PART	Polarity=Neg	39	advmod	_	_
-38	to	to	ADP	E	_	39	mark	_	_
+38	to	to	PART	PART	_	39	mark	_	_
 39	be	be	VERB	V	VerbForm=Inf	35	conj	_	SpaceAfter=No
 40	;	;	PUNCT	FC	_	18	punct	_	_
 
@@ -25858,7 +25858,7 @@
 # text = In Macbeth, the shortest and most compressed of Shakespeare's tragedies, uncontrollable ambition incites Macbeth and his wife, Lady Macbeth, to murder the rightful king and usurp the throne, until their own guilt destroys them in turn.
 1	In	in	ADP	E	_	2	case	_	_
 2	Macbeth	Macbeth	PROPN	SP	_	16	obl	_	SpaceAfter=No
-3	,	,	PUNCT	FF	_	5	punct	_	_
+3	,	,	PUNCT	FF	_	2	punct	_	_
 4	the	the	DET	RD	Definite=Def|PronType=Art	5	det	_	_
 5	shortest	shortest	ADJ	A	Degree=Sup	2	appos	_	_
 6	and	and	CCONJ	CC	_	8	cc	_	_
@@ -25876,11 +25876,11 @@
 18	and	and	CCONJ	CC	_	20	cc	_	_
 19	his	his	DET	AP	Poss=Yes|PronType=Prs	20	nmod:poss	_	_
 20	wife	wife	NOUN	S	Gender=Masc|Number=Sing	17	conj	_	SpaceAfter=No
-21	,	,	PUNCT	FF	_	22	punct	_	_
+21	,	,	PUNCT	FF	_	20	punct	_	_
 22	Lady	Lady	PROPN	SP	_	20	appos	_	_
 23	Macbeth	Macbeth	PROPN	SP	_	22	nmod	_	SpaceAfter=No
 24	,	,	PUNCT	FF	_	22	punct	_	_
-25	to	to	ADP	E	_	26	mark	_	_
+25	to	to	PART	PART	_	26	mark	_	_
 26	murder	murder	VERB	V	VerbForm=Inf	16	xcomp	_	_
 27	the	the	DET	RD	Definite=Def|PronType=Art	29	det	_	_
 28	rightful	rightful	ADJ	A	Degree=Pos	29	amod	_	_
@@ -26178,7 +26178,7 @@
 1	Londoners	Londoners	PROPN	SP	_	2	nsubj	_	_
 2	flocked	flock	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 3	there	there	ADV	B	_	2	advmod	_	_
-4	to	to	ADP	E	_	5	mark	_	_
+4	to	to	PART	PART	_	5	mark	_	_
 5	see	see	VERB	V	VerbForm=Inf	2	advcl	_	_
 6	the	the	DET	RD	Definite=Def|PronType=Art	8	det	_	_
 7	first	first	ADJ	NO	Degree=Pos|NumType=Ord	8	amod	_	_
@@ -26236,7 +26236,7 @@
 18	used	use	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	13	conj	_	_
 19	the	the	DET	RD	Definite=Def|PronType=Art	20	det	_	_
 20	timbers	timber	NOUN	S	Number=Plur	18	obj	_	_
-21	to	to	ADP	E	_	22	mark	_	_
+21	to	to	PART	PART	_	22	mark	_	_
 22	construct	construct	VERB	V	VerbForm=Inf	20	acl	_	_
 23	the	the	DET	RD	Definite=Def|PronType=Art	25	det	_	_
 24	Globe	Globe	PROPN	SP	_	25	nmod	_	_
@@ -26649,7 +26649,7 @@
 2	differences	difference	NOUN	S	Number=Plur	4	nsubj	_	_
 3	may	may	AUX	VM	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
 4	stem	stem	VERB	V	VerbForm=Inf	0	root	_	_
-5	from	from	ADP	E	_	6	mark	_	_
+5	from	from	SCONJ	CS	_	6	mark	_	_
 6	copying	copy	VERB	V	VerbForm=Ger	4	advcl	_	_
 7	or	or	CCONJ	CC	_	8	cc	_	_
 8	printing	print	VERB	V	Number=Sing|Tense=Pres|VerbForm=Part	6	conj	_	_
@@ -26908,7 +26908,7 @@
 14	-	-	PUNCT	FF	_	13	punct	_	SpaceAfter=No
 15	dramatic	dramatic	ADJ	A	Degree=Pos	16	amod	_	_
 16	works	work	NOUN	S	Number=Plur	9	nmod	_	_
-17	to	to	ADP	E	_	19	mark	_	_
+17	to	to	PART	PART	_	19	mark	_	_
 18	be	be	AUX	VA	VerbForm=Inf	19	aux:pass	_	_
 19	printed	print	VERB	V	Tense=Past|VerbForm=Part	16	acl	_	SpaceAfter=No
 20	.	.	PUNCT	FS	_	9	punct	_	_
@@ -26999,7 +26999,7 @@
 # text = He seems to have planned two contrasting series:
 1	He	he	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
 2	seems	seem	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-3	to	to	ADP	E	_	5	mark	_	_
+3	to	to	PART	PART	_	5	mark	_	_
 4	have	have	AUX	VA	VerbForm=Inf	5	aux	_	_
 5	planned	plan	VERB	V	Tense=Past|VerbForm=Part	2	ccomp	_	_
 6	two	two	NUM	N	NumType=Card	8	nummod	_	_
@@ -27100,8 +27100,8 @@
 8	"	"	PUNCT	FB	_	9	punct	_	SpaceAfter=No
 9	Mr.	mister	NOUN	S	Gender=Masc	5	obl	_	_
 10	W.H.	W.H.	PROPN	SP	_	9	flat	_	SpaceAfter=No
-11	"	"	PUNCT	FB	_	13	punct	_	SpaceAfter=No
-12	,	,	PUNCT	FF	_	11	punct	_	_
+11	"	"	PUNCT	FB	_	9	punct	_	SpaceAfter=No
+12	,	,	PUNCT	FF	_	9	punct	_	_
 13	credited	credit	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	9	acl	_	_
 14	as	as	ADP	E	_	18	case	_	_
 15	"	"	PUNCT	FB	_	18	punct	_	SpaceAfter=No
@@ -27208,7 +27208,7 @@
 20	written	write	VERB	V	Tense=Past|VerbForm=Part	18	advcl	_	_
 21	for	for	ADP	E	_	22	case	_	_
 22	actors	actor	NOUN	S	Number=Plur	20	obl	_	_
-23	to	to	ADP	E	_	24	mark	_	_
+23	to	to	PART	PART	_	24	mark	_	_
 24	declaim	declaim	VERB	V	VerbForm=Inf	20	advcl	_	_
 25	rather	rather	ADP	E	_	27	mark	_	_
 26	than	than	ADP	E	_	25	fixed	_	_
@@ -27241,7 +27241,7 @@
 4	,	,	PUNCT	FF	_	3	punct	_	_
 5	Shakespeare	Shakespeare	PROPN	SP	_	6	nsubj	_	_
 6	began	begin	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-7	to	to	ADP	E	_	8	mark	_	_
+7	to	to	PART	PART	_	8	mark	_	_
 8	adapt	adapt	VERB	V	VerbForm=Inf	6	xcomp	_	_
 9	the	the	DET	RD	Definite=Def|PronType=Art	11	det	_	_
 10	traditional	traditional	ADJ	A	Degree=Pos	11	amod	_	_
@@ -27352,7 +27352,7 @@
 22	Shakespeare	Shakespeare	PROPN	SP	_	24	nsubj	_	_
 23	had	have	AUX	VA	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	24	aux	_	_
 24	begun	begin	VERB	V	Tense=Past|VerbForm=Part	0	root	_	_
-25	to	to	ADP	E	_	26	mark	_	_
+25	to	to	PART	PART	_	26	mark	_	_
 26	write	write	VERB	V	VerbForm=Inf	24	xcomp	_	_
 27	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	30	det	_	_
 28	more	more	ADV	B	Degree=Cmp	29	advmod	_	_
@@ -27403,7 +27403,7 @@
 7	its	its	DET	AP	Number=Sing|Poss=Yes|PronType=Prs	8	nmod:poss	_	_
 8	sentences	sentence	NOUN	S	Number=Plur	9	nsubj	_	_
 9	tend	tend	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	4	conj	_	_
-10	to	to	ADP	E	_	11	mark	_	_
+10	to	to	PART	PART	_	11	mark	_	_
 11	start	start	VERB	V	VerbForm=Inf	9	xcomp	_	SpaceAfter=No
 12	,	,	PUNCT	FF	_	13	punct	_	_
 13	pause	pause	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	11	conj	_	SpaceAfter=No
@@ -27451,11 +27451,11 @@
 1	Shakespeare	Shakespeare	PROPN	SP	_	2	nsubj	_	_
 2	uses	use	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	it	it	PRON	PE	Number=Sing|Person=3|PronType=Prs	2	obj	_	SpaceAfter=No
-4	,	,	PUNCT	FF	_	6	punct	_	_
+4	,	,	PUNCT	FF	_	2	punct	_	_
 5	for	for	ADP	E	_	6	case	_	_
 6	example	example	NOUN	S	Number=Sing	2	obl	_	SpaceAfter=No
 7	,	,	PUNCT	FF	_	6	punct	_	_
-8	to	to	ADP	E	_	9	mark	_	_
+8	to	to	PART	PART	_	9	mark	_	_
 9	convey	convey	VERB	V	VerbForm=Inf	2	xcomp	_	_
 10	the	the	DET	RD	Definite=Def|PronType=Art	11	det	_	_
 11	turmoil	turmoil	NOUN	S	Number=Sing	9	obj	_	_
@@ -27539,7 +27539,7 @@
 10	adopted	adopt	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 11	many	many	ADJ	A	Degree=Pos	12	amod	_	_
 12	techniques	technique	NOUN	S	Number=Plur	10	obj	_	_
-13	to	to	ADP	E	_	14	mark	_	_
+13	to	to	PART	PART	_	14	mark	_	_
 14	achieve	achieve	VERB	V	VerbForm=Inf	12	acl	_	_
 15	these	this	DET	DD	Number=Plur|PronType=Dem	16	det	_	_
 16	effects	effect	NOUN	S	Number=Plur	14	obj	_	SpaceAfter=No
@@ -27549,7 +27549,7 @@
 # text = In Macbeth, for example, the language darts from one unrelated metaphor or simile to another.
 1	In	in	ADP	E	_	2	case	_	_
 2	Macbeth	Macbeth	PROPN	SP	_	9	obl	_	SpaceAfter=No
-3	,	,	PUNCT	FF	_	5	punct	_	_
+3	,	,	PUNCT	FF	_	2	punct	_	_
 4	for	for	ADP	E	_	5	case	_	_
 5	example	example	NOUN	S	Number=Sing	9	obl	_	SpaceAfter=No
 6	,	,	PUNCT	FF	_	5	punct	_	_
@@ -27572,7 +27572,7 @@
 2	listener	listener	NOUN	S	Number=Sing	4	nsubj:pass	_	_
 3	is	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux:pass	_	_
 4	challenged	challenge	VERB	V	Tense=Past|VerbForm=Part	0	root	_	_
-5	to	to	ADP	E	_	6	mark	_	_
+5	to	to	PART	PART	_	6	mark	_	_
 6	complete	complete	VERB	V	VerbForm=Inf	4	ccomp	_	_
 7	the	the	DET	RD	Definite=Def|PronType=Art	8	det	_	_
 8	sense	sense	NOUN	S	Number=Sing	6	obj	_	SpaceAfter=No
@@ -27677,14 +27677,14 @@
 2	reshaped	reshape	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 3	each	each	DET	DI	Number=Sing|PronType=Ind	4	det	_	_
 4	plot	plot	NOUN	S	Number=Sing	2	obj	_	_
-5	to	to	ADP	E	_	6	mark	_	_
+5	to	to	PART	PART	_	6	mark	_	_
 6	create	create	VERB	V	VerbForm=Inf	4	acl	_	_
 7	several	several	ADJ	A	Degree=Pos	8	amod	_	_
 8	centres	centre	NOUN	S	Number=Plur	6	obj	_	_
 9	of	of	ADP	E	_	10	case	_	_
 10	interest	interest	NOUN	S	Number=Sing	8	nmod	_	_
 11	and	and	CCONJ	CC	_	13	cc	_	_
-12	to	to	ADP	E	_	13	mark	_	_
+12	to	to	PART	PART	_	13	mark	_	_
 13	show	show	VERB	V	VerbForm=Inf	6	conj	_	_
 14	as	as	ADV	B	_	15	advmod	_	_
 15	many	many	ADJ	A	Degree=Pos	16	amod	_	_
@@ -27836,7 +27836,7 @@
 2	Romeo	Romeo	PROPN	SP	_	13	obl	_	_
 3	and	and	CCONJ	CC	_	4	cc	_	_
 4	Juliet	Juliet	PROPN	SP	_	2	conj	_	SpaceAfter=No
-5	,	,	PUNCT	FF	_	7	punct	_	_
+5	,	,	PUNCT	FF	_	2	punct	_	_
 6	for	for	ADP	E	_	7	case	_	_
 7	example	example	NOUN	S	Number=Sing	13	obl	_	SpaceAfter=No
 8	,	,	PUNCT	FF	_	7	punct	_	_
@@ -27860,7 +27860,7 @@
 3	been	be	AUX	VA	Tense=Past|VerbForm=Part	4	aux:pass	_	_
 4	used	use	VERB	V	Tense=Past|VerbForm=Part	0	root	_	_
 5	mainly	mainly	ADV	B	_	4	advmod	_	_
-6	to	to	ADP	E	_	7	mark	_	_
+6	to	to	PART	PART	_	7	mark	_	_
 7	convey	convey	VERB	V	VerbForm=Inf	4	xcomp	_	_
 8	information	information	NOUN	S	Number=Sing	7	obj	_	_
 9	about	about	ADP	E	_	10	case	_	_
@@ -27885,7 +27885,7 @@
 2	Romantic	romantic	ADJ	A	Degree=Pos	3	amod	_	_
 3	poets	poet	NOUN	S	Number=Plur	4	nsubj	_	_
 4	attempted	attempt	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-5	to	to	ADP	E	_	6	mark	_	_
+5	to	to	PART	PART	_	6	mark	_	_
 6	revive	revive	VERB	V	VerbForm=Inf	4	xcomp	_	_
 7	Shakespearean	Shakespearean	ADJ	A	Degree=Pos	8	amod	_	_
 8	verse	verse	NOUN	S	Number=Sing	9	nmod	_	_
@@ -28283,7 +28283,7 @@
 # text = Thomas Rymer, for example, condemned Shakespeare for mixing the comic with the tragic.
 1	Thomas	Thomas	PROPN	SP	_	7	nsubj	_	_
 2	Rymer	Rymer	PROPN	SP	_	1	flat:name	_	SpaceAfter=No
-3	,	,	PUNCT	FF	_	5	punct	_	_
+3	,	,	PUNCT	FF	_	1	punct	_	_
 4	for	for	ADP	E	_	5	case	_	_
 5	example	example	NOUN	S	Number=Sing	7	obl	_	SpaceAfter=No
 6	,	,	PUNCT	FF	_	5	punct	_	_
@@ -28338,7 +28338,7 @@
 7	,	,	PUNCT	FF	_	6	punct	_	_
 8	critics	critic	NOUN	S	Number=Plur	9	nsubj	_	_
 9	began	begin	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-10	to	to	ADP	E	_	11	mark	_	_
+10	to	to	PART	PART	_	11	mark	_	_
 11	respond	respond	VERB	V	VerbForm=Inf	9	xcomp	_	_
 12	to	to	ADP	E	_	13	case	_	_
 13	Shakespeare	Shakespeare	PROPN	SP	_	11	obl	_	_
@@ -28526,7 +28526,7 @@
 12	century	century	NOUN	S	Number=Sing	3	nmod	_	SpaceAfter=No
 13	,	,	PUNCT	FF	_	3	punct	_	_
 14	far	far	ADV	B	_	20	advmod	_	_
-15	from	from	ADP	E	_	16	mark	_	_
+15	from	from	SCONJ	CS	_	16	mark	_	_
 16	discarding	discard	VERB	V	VerbForm=Ger	14	advcl	_	_
 17	Shakespeare	Shakespeare	PROPN	SP	_	16	obj	_	SpaceAfter=No
 18	,	,	PUNCT	FF	_	14	punct	_	_
@@ -28688,7 +28688,7 @@
 8	,	,	PUNCT	FF	_	3	punct	_	_
 9	doubts	doubt	NOUN	S	Number=Plur	10	nsubj	_	_
 10	began	begin	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-11	to	to	ADP	E	_	13	mark	_	_
+11	to	to	PART	PART	_	13	mark	_	_
 12	be	be	AUX	VA	VerbForm=Inf	13	aux	_	_
 13	expressed	express	VERB	V	Tense=Past|VerbForm=Part	10	xcomp	_	_
 14	about	about	ADP	E	_	16	case	_	_
@@ -28714,7 +28714,7 @@
 8	there	there	ADV	B	_	9	expl	_	_
 9	is	be	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	ccomp	_	_
 10	reason	reason	NOUN	S	Number=Sing	9	nsubj	_	_
-11	to	to	ADP	E	_	12	mark	_	_
+11	to	to	PART	PART	_	12	mark	_	_
 12	question	question	VERB	V	VerbForm=Inf	10	acl	_	_
 13	the	the	DET	RD	Definite=Def|PronType=Art	15	det	_	_
 14	traditional	traditional	ADJ	A	Degree=Pos	15	amod	_	_
@@ -28805,7 +28805,7 @@
 15	those	that	PRON	PD	Number=Plur|PronType=Dem	13	nmod	_	_
 16	who	who	PRON	PR	PronType=Rel	17	nsubj	_	_
 17	failed	fail	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	15	acl:relcl	_	_
-18	to	to	ADP	E	_	19	mark	_	_
+18	to	to	PART	PART	_	19	mark	_	_
 19	attend	attend	VERB	V	VerbForm=Inf	17	xcomp	_	_
 20	Easter	Easter	PROPN	SP	_	21	nmod	_	_
 21	communion	communion	NOUN	S	Number=Sing	19	obj	_	_
@@ -28835,7 +28835,7 @@
 18	may	may	AUX	VM	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	20	aux	_	_
 19	be	be	AUX	VA	VerbForm=Inf	20	cop	_	_
 20	impossible	impossible	ADJ	A	Degree=Pos	2	conj	_	_
-21	to	to	ADP	E	_	22	mark	_	_
+21	to	to	PART	PART	_	22	mark	_	_
 22	prove	prove	VERB	V	VerbForm=Inf	20	advcl	_	_
 23	either	either	ADV	B	_	24	advmod	_	_
 24	way	way	ADV	B	_	22	advmod	_	SpaceAfter=No
@@ -28877,7 +28877,7 @@
 # sent_id = en_partut-ud-2080
 # text = Susanna, the first of their three children, was born six months later on 26 May 1583.
 1	Susanna	Susanna	PROPN	SP	_	11	nsubj:pass	_	SpaceAfter=No
-2	,	,	PUNCT	FF	_	4	punct	_	_
+2	,	,	PUNCT	FF	_	1	punct	_	_
 3	the	the	DET	RD	Definite=Def|PronType=Art	4	det	_	_
 4	first	first	PRON	NO	NumType=Ord|PronType=Ind	1	appos	_	_
 5	of	of	ADP	E	_	8	case	_	_
@@ -29069,7 +29069,7 @@
 6	the	the	DET	RD	Definite=Def|PronType=Art	8	det	_	_
 7	First	first	ADJ	NO	Degree=Pos|NumType=Ord	8	amod	_	_
 8	Folio	Folio	NOUN	S	Number=Sing	4	obl	_	SpaceAfter=No
-9	,	,	PUNCT	FF	_	13	punct	_	_
+9	,	,	PUNCT	FF	_	2	punct	_	_
 10	The	the	DET	RD	Definite=Def|PronType=Art	13	det	_	_
 11	Two	two	NUM	N	NumType=Card	13	nummod	_	_
 12	Noble	noble	ADJ	A	Degree=Pos	13	amod	_	_
@@ -29142,7 +29142,7 @@
 21	many	many	ADJ	A	Degree=Pos	22	amod	_	_
 22	scholars	scholar	NOUN	S	Number=Plur	23	nsubj	_	_
 23	prefer	prefer	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	33	advcl	_	_
-24	to	to	ADP	E	_	25	mark	_	_
+24	to	to	PART	PART	_	25	mark	_	_
 25	call	call	VERB	V	VerbForm=Inf	23	ccomp	_	_
 26	them	they	PRON	PE	Number=Plur|Person=3|PronType=Prs	25	obj	_	_
 27	tragicomedies	tragicomedy	NOUN	S	Number=Plur	25	xcomp	_	SpaceAfter=No
