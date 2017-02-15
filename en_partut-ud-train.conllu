@@ -1768,8 +1768,8 @@
 26	carrying	carry	VERB	V	Number=Sing|Tense=Pres|VerbForm=Part	19	advcl	_	_
 27	out	out	ADP	E	_	26	compound:prt	_	_
 28	the	the	DET	RD	Definite=Def|PronType=Art	31	det	_	_
-29	ad	ad	X	SW	_	31	amod	_	_
-30	hoc	hoc	X	SW	_	29	flat:foreign	_	_
+29	ad	ad	X	SW	Foreign=Yes	31	amod	_	_
+30	hoc	hoc	X	SW	Foreign=Yes	29	flat:foreign	_	_
 31	transportation	transportation	NOUN	S	Number=Sing	26	obj	_	_
 32	of	of	ADP	E	_	34	case	_	_
 33	dangerous	dangerous	ADJ	A	Degree=Pos	34	amod	_	_
@@ -2919,7 +2919,7 @@
 12	,	,	PUNCT	FF	_	13	punct	_	_
 13	financed	finance	VERB	V	Tense=Past|VerbForm=Part	6	conj	_	_
 14	our	us	DET	AP	Poss=Yes|PronType=Prs	19	nmod:poss	_	_
-15	post	post	X	SW	_	17	amod	_	SpaceAfter=No
+15	post	post	X	SW	Foreign=Yes	17	amod	_	SpaceAfter=No
 16	-	-	PUNCT	FF	_	17	punct	_	SpaceAfter=No
 17	leaving	leaving	NOUN	S	Number=Sing	18	nmod	_	_
 18	certificate	certificate	NOUN	S	Number=Sing	19	nmod	_	_
@@ -8205,7 +8205,7 @@
 9	design	design	VERB	V	VerbForm=Inf	5	advcl	_	SpaceAfter=No
 10	,	,	PUNCT	FF	_	9	punct	_	_
 11	say	say	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	9	parataxis	_	SpaceAfter=No
-12	,	,	PUNCT	FF	_	9	punct	_	_
+12	,	,	PUNCT	FF	_	11	punct	_	_
 13	real	real	ADJ	A	Degree=Pos	14	amod	_	_
 14	rockets	rocket	NOUN	S	Number=Plur	9	obj	_	SpaceAfter=No
 15	.	.	PUNCT	FS	_	5	punct	_	_
@@ -12698,8 +12698,8 @@
 14	progress	progress	NOUN	S	Number=Sing	11	obj	_	SpaceAfter=No
 15	,	,	PUNCT	FF	_	11	punct	_	_
 16	with	with	ADP	E	_	19	case	_	_
-17	per	per	X	SW	_	19	amod	_	_
-18	capita	capita	X	SW	_	17	flat:foreign	_	_
+17	per	per	X	SW	Foreign=Yes	19	amod	_	_
+18	capita	capita	X	SW	Foreign=Yes	17	flat:foreign	_	_
 19	income	income	NOUN	S	Number=Sing	11	obl	_	_
 20	increasing	increase	VERB	V	VerbForm=Ger	19	acl	_	_
 21	from	from	ADP	E	_	26	case	_	_
@@ -17447,9 +17447,9 @@
 11	novels	novel	NOUN	S	Number=Plur	9	conj	_	_
 12	collectively	collectively	ADV	B	_	13	advmod	_	_
 13	entitled	entitle	VERB	V	Tense=Past|VerbForm=Part	6	acl	_	_
-14	La	La	DET	RD	PronType=Art	15	det	_	_
-15	Comédie	Comédie	NOUN	_	_	13	xcomp	_	_
-16	humaine	humaine	ADJ	_	_	15	amod	_	SpaceAfter=No
+14	La	La	X	SW	Foreign=Yes	13	xcomp	_	_
+15	Comédie	Comédie	X	SW	Foreign=Yes	14	flat:foreign	_	_
+16	humaine	humaine	X	SW	Foreign=Yes	14	flat:foreign	_	SpaceAfter=No
 17	,	,	PUNCT	FF	_	6	punct	_	_
 18	which	which	PRON	PR	PronType=Rel	19	nsubj	_	_
 19	presents	present	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	acl:relcl	_	_
@@ -17727,13 +17727,13 @@
 
 # sent_id = en_partut-ud-1549
 # text = La Comédie humaine reflects his real-life difficulties, and includes scenes from his own experience.
-1	La	La	DET	RD	PronType=Art	2	det	_	_
-2	Comédie	Comédie	NOUN	_	_	4	nsubj	_	_
-3	humaine	humaine	ADJ	_	Gender=Fem|Number=Sing	2	amod	_	_
+1	La	La	X	SW	Foreign=Yes	4	nsubj	_	_
+2	Comédie	Comédie	X	SW	Foreign=Yes	1	flat:foreign	_	_
+3	humaine	humaine	X	SW	Foreign=Yes	1	flat:foreign	_	_
 4	reflects	reflect	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 5	his	his	DET	AP	Poss=Yes|PronType=Prs	9	nmod:poss	_	_
 6	real	real	ADJ	A	Degree=Pos	8	amod	_	SpaceAfter=No
-7	-	-	PUNCT	FF	_	6	punct	_	SpaceAfter=No
+7	-	-	PUNCT	FF	_	8	punct	_	SpaceAfter=No
 8	life	life	NOUN	S	Number=Sing	9	nmod	_	_
 9	difficulties	difficulty	NOUN	S	Number=Plur	4	obj	_	SpaceAfter=No
 10	,	,	PUNCT	FF	_	12	punct	_	_
@@ -18140,21 +18140,21 @@
 
 # sent_id = en_partut-ud-1571
 # text = His 1835 novel Le Lys dans La Vallée features a cruel governess named Miss Caroline, modeled after his own caregiver.
-1	His	his	DET	AP	Poss=Yes|PronType=Prs	2	nmod:poss	_	_
+1	His	his	DET	AP	Poss=Yes|PronType=Prs	3	nmod:poss	_	_
 2	1835	1835	NUM	N	NumType=Card	3	nummod	_	_
 3	novel	novel	NOUN	S	Number=Sing	9	nsubj	_	_
-4	Le	Le	DET	RD	PronType=Art	5	det	_	_
-5	Lys	Lys	NOUN	_	_	3	nmod	_	_
-6	dans	dans	ADP	_	_	8	case	_	_
-7	La	La	DET	RD	PronType=Art	8	det	_	_
-8	Vallée	Vallée	NOUN	_	_	5	nmod	_	_
+4	Le	Le	X	SW	Foreign=Yes	3	nmod	_	_
+5	Lys	Lys	X	SW	Foreign=Yes	4	flat:foreign	_	_
+6	dans	dans	X	SW	Foreign=Yes	4	flat:foreign	_	_
+7	La	La	X	SW	Foreign=Yes	4	flat:foreign	_	_
+8	Vallée	Vallée	X	SW	Foreign=Yes	4	flat:foreign	_	_
 9	features	feature	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 10	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	12	det	_	_
 11	cruel	cruel	ADJ	A	Degree=Pos	12	amod	_	_
 12	governess	governess	NOUN	S	Number=Sing	9	obj	_	_
 13	named	name	VERB	V	Tense=Past|VerbForm=Part	12	acl	_	_
 14	Miss	Miss	PROPN	SP	_	13	xcomp	_	_
-15	Caroline	Caroline	PROPN	SP	_	14	nmod	_	SpaceAfter=No
+15	Caroline	Caroline	PROPN	SP	_	14	flat	_	SpaceAfter=No
 16	,	,	PUNCT	FF	_	12	punct	_	_
 17	modeled	modeled	VERB	V	Tense=Past|VerbForm=Part	12	acl	_	_
 18	after	after	ADP	E	_	21	case	_	_
@@ -18530,8 +18530,8 @@
 2	his	his	DET	AP	Poss=Yes|PronType=Prs	4	nmod:poss	_	_
 3	1840	1840	NUM	N	NumType=Card	4	nummod	_	_
 4	novel	novel	NOUN	S	Number=Sing	9	obl	_	_
-5	Le	Le	DET	RD	PronType=Art	6	det	_	_
-6	Notaire	Notaire	NOUN	_	_	4	nmod	_	SpaceAfter=No
+5	Le	Le	X	SW	Foreign=Yes	4	nmod	_	_
+6	Notaire	Notaire	X	SW	Foreign=Yes	5	flat:foreign	_	SpaceAfter=No
 7	,	,	PUNCT	FF	_	4	punct	_	_
 8	he	he	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	_
 9	wrote	write	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
@@ -18569,7 +18569,7 @@
 41	grappling	grapple	VERB	V	Number=Sing|Tense=Pres|VerbForm=Part	40	acl	_	_
 42	with	with	ADP	E	_	45	case	_	_
 43	the	the	DET	RD	Definite=Def|PronType=Art	45	det	_	_
-44	Penal	Penal	PROPN	SP	_	45	nmod	_	_
+44	Penal	Penal	ADJ	A	Degree=Pos	45	amod	_	_
 45	Code	code	NOUN	S	Number=Sing	41	obl	_	SpaceAfter=No
 46	.	.	PUNCT	FS	_	22	punct	_	SpaceAfter=No
 47	"	"	PUNCT	FB	_	9	punct	_	_
@@ -18871,9 +18871,9 @@
 4	the	the	DET	RD	Definite=Def|PronType=Art	6	det	_	_
 5	scandalous	scandalous	ADJ	A	Degree=Pos	6	amod	_	_
 6	novel	novel	NOUN	S	Number=Sing	0	root	_	_
-7	Vicaire	Vicaire	PROPN	SP	_	6	nmod	_	_
-8	des	des	X	X	_	9	case	_	_
-9	Ardennes	Ardennes	PROPN	SP	_	7	nmod	_	_
+7	Vicaire	Vicaire	X	SW	Foreign=Yes	6	nmod	_	_
+8	des	des	X	SW	Foreign=Yes	7	flat:foreign	_	_
+9	Ardennes	Ardennes	X	SW	Foreign=Yes	7	flat:foreign	_	_
 10	(	(	PUNCT	FB	_	11	punct	_	SpaceAfter=No
 11	1822	1822	NUM	N	NumType=Card	7	nummod	_	SpaceAfter=No
 12	)	)	PUNCT	FB	_	11	punct	_	_
@@ -19229,9 +19229,9 @@
 4	originally	originally	ADV	B	_	5	advmod	_	_
 5	called	call	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	18	advcl	_	_
 6	it	it	PRON	PE	Number=Sing|Person=3|PronType=Prs	5	obj	_	_
-7	Etudes	Etudes	NOUN	_	_	5	xcomp	_	_
-8	des	des	ADP	_	_	9	case	_	_
-9	Mœurs	Mœurs	NOUN	_	_	7	nmod	_	_
+7	Etudes	Etudes	X	SW	Foreign=Yes	5	xcomp	_	_
+8	des	des	X	SW	Foreign=Yes	7	flat:foreign	_	_
+9	Mœurs	Mœurs	X	SW	Foreign=Yes	7	flat:foreign	_	_
 10	(	(	PUNCT	FB	_	11	punct	_	SpaceAfter=No
 11	Study	study	NOUN	S	Number=Sing	7	appos	_	_
 12	of	of	ADP	E	_	13	case	_	_
@@ -19242,10 +19242,10 @@
 17	eventually	eventually	ADV	B	_	18	advmod	_	_
 18	became	become	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 19	known	known	ADJ	A	Degree=Pos	18	xcomp	_	_
-20	as	as	ADP	E	_	22	case	_	_
-21	La	La	DET	RD	PronType=Art	22	det	_	_
-22	Comédie	Comédie	NOUN	_	_	18	obl	_	_
-23	Humaine	Humaine	ADJ	_	_	22	amod	_	SpaceAfter=No
+20	as	as	ADP	E	_	21	case	_	_
+21	La	La	X	SW	Foreign=Yes	18	obl	_	_
+22	Comédie	Comédie	X	SW	Foreign=Yes	21	flat:foreign	_	_
+23	Humaine	Humaine	X	SW	Foreign=Yes	21	flat:foreign	_	SpaceAfter=No
 24	,	,	PUNCT	FF	_	27	punct	_	_
 25	and	and	CCONJ	CC	_	27	cc	_	_
 26	he	he	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	27	nsubj	_	_
@@ -19452,8 +19452,8 @@
 12	,	,	PUNCT	FF	_	6	punct	_	_
 13	Balzac	Balzac	PROPN	SP	_	14	nsubj	_	_
 14	wrote	write	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-15	El	El	DET	RD	PronType=Art	16	det	_	_
-16	Verdugo	Verdugo	NOUN	_	_	14	obj	_	_
+15	El	El	X	SW	Foreign=Yes	14	obj	_	_
+16	Verdugo	Verdugo	X	SW	Foreign=Yes	15	flat:foreign	_	_
 17	-	-	PUNCT	FF	_	16	punct	_	_
 18	about	about	ADP	E	_	25	case	_	_
 19	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	25	det	_	_
@@ -19803,13 +19803,13 @@
 
 # sent_id = en_partut-ud-1663
 # text = Le Père Goriot (Old Father Goriot, 1835) was his next success, in which Balzac transposes the story of King Lear to 1820 's Paris in order to rage at a society bereft of all love save the love of money.
-1	Le	Le	DET	RD	PronType=Art	2	det	_	_
-2	Père	Père	NOUN	_	_	14	nsubj	_	_
-3	Goriot	Goriot	PROPN	SP	_	2	flat:name	_	_
+1	Le	Le	X	SW	Foreign=Yes	14	nsubj	_	_
+2	Père	Père	X	SW	Foreign=Yes	1	flat:foreign	_	_
+3	Goriot	Goriot	X	SW	Foreign=Yes	1	flat:foreign	_	_
 4	(	(	PUNCT	FB	_	6	punct	_	SpaceAfter=No
 5	Old	old	ADJ	A	Degree=Pos	6	amod	_	_
-6	Father	father	NOUN	S	Number=Sing	2	appos	_	_
-7	Goriot	Goriot	PROPN	SP	_	6	flat:name	_	SpaceAfter=No
+6	Father	father	NOUN	S	Number=Sing	1	appos	_	_
+7	Goriot	Goriot	PROPN	SP	_	6	flat	_	SpaceAfter=No
 8	,	,	PUNCT	FF	_	6	punct	_	_
 9	1835	1835	NUM	N	NumType=Card	6	nummod	_	SpaceAfter=No
 10	)	)	PUNCT	FB	_	6	punct	_	_
@@ -19826,7 +19826,7 @@
 21	story	story	NOUN	S	Number=Sing	19	obj	_	_
 22	of	of	ADP	E	_	23	case	_	_
 23	King	King	PROPN	SP	_	21	nmod	_	_
-24	Lear	Lear	PROPN	SP	_	23	nmod	_	_
+24	Lear	Lear	PROPN	SP	_	23	flat	_	_
 25	to	to	ADP	E	_	28	case	_	_
 26	1820	1820	NUM	N	NumType=Card	28	nummod	_	_
 27	's	's	PART	PART	_	26	case	_	_
@@ -20015,8 +20015,8 @@
 21	two	two	NUM	N	NumType=Card	23	nummod	_	SpaceAfter=No
 22	-	-	PUNCT	FF	_	23	punct	_	SpaceAfter=No
 23	volume	volume	NOUN	S	Number=Sing	24	nmod	_	_
-24	Illusions	Illusions	PROPN	SP	_	19	obj	_	_
-25	Perdues	Perdues	PROPN	SP	_	24	amod	_	_
+24	Illusions	Illusions	X	SW	Foreign=Yes	19	obj	_	_
+25	Perdues	Perdues	X	SW	Foreign=Yes	24	flat:foreign	_	_
 26	(	(	PUNCT	FB	_	28	punct	_	SpaceAfter=No
 27	Lost	lost	ADJ	A	Degree=Pos	28	amod	_	_
 28	Illusions	illusion	NOUN	S	Number=Plur	24	appos	_	SpaceAfter=No
@@ -20142,30 +20142,30 @@
 
 # sent_id = en_partut-ud-1677
 # text = Le Cousin Pons (1847) and La Cousine Bette (1848) tell the story of Les Parents Pauvres (The Poor Relations).
-1	Le	Le	DET	RD	PronType=Art	2	det	_	_
-2	Cousin	Cousin	NOUN	_	_	14	nsubj	_	_
-3	Pons	Pons	PROPN	SP	_	2	nmod	_	_
+1	Le	Le	X	SW	Foreign=Yes	14	nsubj	_	_
+2	Cousin	Cousin	X	SW	Foreign=Yes	1	flat:foreign	_	_
+3	Pons	Pons	X	SW	Foreign=Yes	1	flat:foreign	_	_
 4	(	(	PUNCT	FB	_	5	punct	_	SpaceAfter=No
-5	1847	1847	NUM	N	NumType=Card	2	nummod	_	SpaceAfter=No
+5	1847	1847	NUM	N	NumType=Card	1	nummod	_	SpaceAfter=No
 6	)	)	PUNCT	FB	_	5	punct	_	_
-7	and	and	CCONJ	CC	_	9	cc	_	_
-8	La	La	DET	RD	PronType=Art	9	det	_	_
-9	Cousine	Cousine	NOUN	_	_	2	conj	_	_
-10	Bette	Bette	PROPN	SP	_	9	nmod	_	_
+7	and	and	CCONJ	CC	_	8	cc	_	_
+8	La	La	X	SW	Foreign=Yes	1	conj	_	_
+9	Cousine	Cousine	X	SW	Foreign=Yes	8	flat:foreign	_	_
+10	Bette	Bette	X	SW	Foreign=Yes	8	flat:foreign	_	_
 11	(	(	PUNCT	FB	_	12	punct	_	SpaceAfter=No
-12	1848	1848	NUM	N	NumType=Card	9	nummod	_	SpaceAfter=No
+12	1848	1848	NUM	N	NumType=Card	8	nummod	_	SpaceAfter=No
 13	)	)	PUNCT	FB	_	12	punct	_	_
 14	tell	tell	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 15	the	the	DET	RD	Definite=Def|PronType=Art	16	det	_	_
 16	story	story	NOUN	S	Number=Sing	14	obj	_	_
-17	of	of	ADP	E	_	19	case	_	_
-18	Les	Les	DET	_	PronType=Art	19	det	_	_
-19	Parents	Parents	NOUN	_	_	16	nmod	_	_
-20	Pauvres	Pauvres	ADJ	_	_	19	amod	_	_
+17	of	of	ADP	E	_	18	case	_	_
+18	Les	Les	X	SW	Foreign=Yes	16	nmod	_	_
+19	Parents	Parents	X	SW	Foreign=Yes	18	flat:foreign	_	_
+20	Pauvres	Pauvres	X	SW	Foreign=Yes	18	flat:foreign	_	_
 21	(	(	PUNCT	FB	_	24	punct	_	SpaceAfter=No
 22	The	the	DET	RD	Definite=Def|PronType=Art	24	det	_	_
 23	Poor	poor	ADJ	A	Degree=Pos	24	amod	_	_
-24	Relations	relation	NOUN	S	Number=Plur	19	appos	_	SpaceAfter=No
+24	Relations	relation	NOUN	S	Number=Plur	18	appos	_	SpaceAfter=No
 25	)	)	PUNCT	FB	_	24	punct	_	SpaceAfter=No
 26	.	.	PUNCT	FS	_	14	punct	_	_
 
@@ -20243,9 +20243,9 @@
 6	.	.	PUNCT	FS	_	5	punct	_	_
 
 # sent_id = en_partut-ud-1682
-# text = Illusions Perdues extends to a thousand pages after starting inauspiciously in a small-town print shop, whereas La Fille aux yeux D'or (the girl with the Golden eyes, 1835) opens with a broad panorama of Paris but becomes a closely plotted novella of only fifty pages.
-1	Illusions	illusion	NOUN	S	Number=Plur	3	nsubj	_	_
-2	Perdues	Perdues	PROPN	SP	_	1	nmod	_	_
+# text = Illusions Perdues extends to a thousand pages after starting inauspiciously in a small-town print shop, whereas La Fille aux Yeux D'Or (the girl with the golden eyes, 1835) opens with a broad panorama of Paris but becomes a closely plotted novella of only fifty pages.
+1	Illusions	Illusions	X	SW	Foreign=Yes	3	nsubj	_	_
+2	Perdues	Perdues	X	SW	Foreign=Yes	1	flat:foreign	_	_
 3	extends	extend	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	to	to	ADP	E	_	6	case	_	_
 5	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	6	det	_	_
@@ -20258,47 +20258,45 @@
 12	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	17	det	_	_
 13	small	small	ADJ	A	Degree=Pos	15	amod	_	SpaceAfter=No
 14	-	-	PUNCT	FF	_	13	punct	_	SpaceAfter=No
-15	town	town	NOUN	S	Number=Sing	16	nmod	_	_
-16	print	print	NOUN	S	Number=Sing	17	nmod	_	_
+15	town	town	NOUN	S	Number=Sing	17	nmod	_	_
+16	print	print	NOUN	S	Number=Sing	17	compound	_	_
 17	shop	shop	NOUN	S	Number=Sing	9	obl	_	SpaceAfter=No
 18	,	,	PUNCT	FF	_	3	punct	_	_
-19	whereas	whereas	SCONJ	CS	_	37	mark	_	_
-20	La	la	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	21	det	_	_
-21	Fille	fille	NOUN	S	Gender=Fem|Number=Sing	37	nsubj	_	_
-22-23	aux	_	_	_	_	_	_	_	_
-22	à	à	ADP	E	_	24	case	_	_
-23	les	le	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	24	det	_	_
-24	yeux	yeux	NOUN	S	Gender=Masc|Number=Plur	21	nmod	_	_
-25	D'	de	ADP	E	_	26	case	_	SpaceAfter=No
-26	or	or	CCONJ	CC	_	24	nmod	_	_
-27	(	(	PUNCT	FB	_	29	punct	_	SpaceAfter=No
-28	the	the	DET	RD	Definite=Def|PronType=Art	29	det	_	_
-29	girl	girl	NOUN	S	Number=Sing	21	appos	_	_
-30	with	with	ADP	E	_	33	case	_	_
-31	the	the	DET	RD	Definite=Def|PronType=Art	33	det	_	_
-32	Golden	Golden	ADJ	A	Degree=Pos	33	amod	_	_
-33	eyes	eyes	NOUN	S	Number=Sing	29	nmod	_	SpaceAfter=No
-34	,	,	PUNCT	FF	_	29	punct	_	_
-35	1835	1835	NUM	N	NumType=Card	29	nummod	_	SpaceAfter=No
-36	)	)	PUNCT	FB	_	29	punct	_	_
-37	opens	open	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	advcl	_	_
-38	with	with	ADP	E	_	41	case	_	_
-39	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	41	det	_	_
-40	broad	broad	ADJ	A	Degree=Pos	41	amod	_	_
-41	panorama	panorama	NOUN	S	Number=Sing	37	obl	_	_
-42	of	of	ADP	E	_	43	case	_	_
-43	Paris	Paris	PROPN	SP	_	41	nmod	_	_
-44	but	but	CCONJ	CC	_	45	cc	_	_
-45	becomes	become	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	37	conj	_	_
-46	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	49	det	_	_
-47	closely	closely	ADV	B	_	48	advmod	_	_
-48	plotted	plot	VERB	V	Tense=Past|VerbForm=Part	49	acl	_	_
-49	novella	novella	NOUN	S	Gender=Masc|Number=Sing	45	xcomp	_	_
-50	of	of	ADP	E	_	53	case	_	_
-51	only	only	ADV	B	_	53	advmod	_	_
-52	fifty	fifty	NUM	N	NumType=Card	53	nummod	_	_
-53	pages	page	NOUN	S	Number=Plur	49	nmod	_	SpaceAfter=No
-54	.	.	PUNCT	FS	_	3	punct	_	_
+19	whereas	whereas	SCONJ	CS	_	36	mark	_	_
+20	La	La	X	SW	Foreign=Yes	36	nsubj	_	_
+21	Fille	Fille	X	SW	Foreign=Yes	20	flat:foreign	_	_
+22	aux	aux	X	SW	Foreign=Yes	20	flat:foreign	_	_
+23	Yeux	yeux	X	SW	Foreign=Yes	20	flat:foreign	_	_
+24	D'	de	X	SW	Foreign=Yes	20	flat:foreign	_	SpaceAfter=No
+25	Or	or	X	SW	Foreign=Yes	20	flat:foreign	_	_
+26	(	(	PUNCT	FB	_	28	punct	_	SpaceAfter=No
+27	the	the	DET	RD	Definite=Def|PronType=Art	28	det	_	_
+28	girl	girl	NOUN	S	Number=Sing	20	appos	_	_
+29	with	with	ADP	E	_	32	case	_	_
+30	the	the	DET	RD	Definite=Def|PronType=Art	32	det	_	_
+31	golden	golden	ADJ	A	Degree=Pos	32	amod	_	_
+32	eyes	eyes	NOUN	S	Number=Sing	28	nmod	_	SpaceAfter=No
+33	,	,	PUNCT	FF	_	28	punct	_	_
+34	1835	1835	NUM	N	NumType=Card	28	nummod	_	SpaceAfter=No
+35	)	)	PUNCT	FB	_	28	punct	_	_
+36	opens	open	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	advcl	_	_
+37	with	with	ADP	E	_	40	case	_	_
+38	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	40	det	_	_
+39	broad	broad	ADJ	A	Degree=Pos	40	amod	_	_
+40	panorama	panorama	NOUN	S	Number=Sing	36	obl	_	_
+41	of	of	ADP	E	_	42	case	_	_
+42	Paris	Paris	PROPN	SP	_	40	nmod	_	_
+43	but	but	CCONJ	CC	_	44	cc	_	_
+44	becomes	become	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	36	conj	_	_
+45	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	48	det	_	_
+46	closely	closely	ADV	B	_	47	advmod	_	_
+47	plotted	plot	VERB	V	Tense=Past|VerbForm=Part	48	acl	_	_
+48	novella	novella	NOUN	S	Gender=Masc|Number=Sing	44	xcomp	_	_
+49	of	of	ADP	E	_	52	case	_	_
+50	only	only	ADV	B	_	52	advmod	_	_
+51	fifty	fifty	NUM	N	NumType=Card	52	nummod	_	_
+52	pages	page	NOUN	S	Number=Plur	48	nmod	_	SpaceAfter=No
+53	.	.	PUNCT	FS	_	3	punct	_	_
 
 # sent_id = en_partut-ud-1684
 # text = He then rose and wrote for many hours, fueled by innumerable cups of black coffee.
@@ -20614,16 +20612,16 @@
 15	and	and	CCONJ	CC	_	16	cc	_	_
 16	signed	sign	VERB	V	Tense=Past|VerbForm=Part	11	conj	_	_
 17	only	only	ADV	B	_	22	advmod	_	_
-18	by	by	ADP	E	_	22	case	_	_
-19	"	"	PUNCT	FB	_	22	punct	_	SpaceAfter=No
-20	L	le	DET	RD	Definite=Def|PronType=Art	22	det	_	SpaceAfter=No
+18	by	by	ADP	E	_	20	case	_	_
+19	"	"	PUNCT	FB	_	20	punct	_	SpaceAfter=No
+20	L	le	X	SW	Foreign=Yes	16	obl	_	SpaceAfter=No
 21	'	'	X	X	_	20	goeswith	_	SpaceAfter=No
-22	Étrangère	Étrangère	NOUN	_	_	16	obl	_	SpaceAfter=No
-23	"	"	PUNCT	FB	_	22	punct	_	_
+22	Étrangère	Étrangère	X	SW	Foreign=Yes	20	flat:foreign	_	SpaceAfter=No
+23	"	"	PUNCT	FB	_	20	punct	_	_
 24	(	(	PUNCT	FB	_	27	punct	_	SpaceAfter=No
 25	"	"	PUNCT	FB	_	27	punct	_	SpaceAfter=No
 26	The	the	DET	RD	Definite=Def|PronType=Art	27	det	_	_
-27	Foreigner	foreigner	NOUN	S	Number=Sing	22	appos	_	SpaceAfter=No
+27	Foreigner	foreigner	NOUN	S	Number=Sing	20	appos	_	SpaceAfter=No
 28	"	"	PUNCT	FB	_	27	punct	_	SpaceAfter=No
 29	)	)	PUNCT	FB	_	27	punct	_	_
 30	-	-	PUNCT	FB	_	11	punct	_	_
@@ -20634,11 +20632,11 @@
 35	cynicism	cynicism	NOUN	S	Gender=Fem|Number=Sing	32	nmod	_	_
 36	and	and	CCONJ	CC	_	37	cc	_	_
 37	atheism	atheism	NOUN	S	Number=Sing	35	conj	_	_
-38	in	in	ADP	E	_	40	case	_	_
-39	La	La	DET	RD	PronType=Art	40	det	_	_
-40	Peau	Peau	NOUN	_	_	35	nmod	_	_
-41	De	De	ADP	_	_	42	case	_	_
-42	Chagrin	Chagrin	NOUN	_	_	40	nmod	_	_
+38	in	in	ADP	E	_	39	case	_	_
+39	La	La	X	SW	Foreign=Yes	35	nmod	_	_
+40	Peau	Peau	X	SW	Foreign=Yes	39	flat:foreign	_	_
+41	De	De	X	SW	Foreign=Yes	39	flat:foreign	_	_
+42	Chagrin	Chagrin	X	SW	Foreign=Yes	39	flat:foreign	_	_
 43	and	and	CCONJ	CC	_	46	cc	_	_
 44	its	its	DET	AP	Number=Sing|Poss=Yes|PronType=Prs	46	nmod:poss	_	_
 45	negative	negative	ADJ	A	Degree=Pos	46	amod	_	_
@@ -20995,15 +20993,15 @@
 
 # sent_id = en_partut-ud-1715
 # text = Physiologie du Mariage and Scènes De La Vie Conjugale.
-1	Physiologie	Physiologie	NOUN	_	_	0	root	_	_
-2	du	du	ADP	E	_	3	case	_	_
-3	Mariage	Mariage	NOUN	_	_	1	nmod	_	_
+1	Physiologie	Physiologie	X	SW	Foreign=Yes	0	root	_	_
+2	du	du	X	SW	Foreign=Yes	1	flat:foreign	_	_
+3	Mariage	Mariage	X	SW	Foreign=Yes	1	flat:foreign	_	_
 4	and	and	CCONJ	CC	_	5	cc	_	_
-5	Scènes	Scènes	NOUN	_	_	1	conj	_	_
-6	De	De	ADP	_	_	8	case	_	_
-7	La	La	DET	RD	PronType=Art	8	det	_	_
-8	Vie	Vie	NOUN	_	_	5	nmod	_	_
-9	Conjugale	Conjugale	ADJ	_	_	8	amod	_	SpaceAfter=No
+5	Scènes	Scènes	X	SW	Foreign=Yes	1	conj	_	_
+6	De	De	X	SW	Foreign=Yes	5	flat:foreign	_	_
+7	La	La	X	SW	Foreign=Yes	5	flat:foreign	_	_
+8	Vie	Vie	X	SW	Foreign=Yes	5	flat:foreign	_	_
+9	Conjugale	Conjugale	X	SW	Foreign=Yes	5	flat:foreign	_	SpaceAfter=No
 10	.	.	PUNCT	FS	_	1	punct	_	_
 
 # sent_id = en_partut-ud-1716
@@ -21140,10 +21138,10 @@
 3	buried	bury	VERB	V	Tense=Past|VerbForm=Part	0	root	_	_
 4	at	at	ADP	E	_	6	case	_	_
 5	the	the	DET	RD	Definite=Def|PronType=Art	6	det	_	_
-6	Cimetière	Cimetière	PROPN	SP	_	3	obl	_	_
-7	du	du	X	X	_	8	case	_	_
-8	Père	Père	PROPN	SP	_	6	nmod	_	_
-9	Lachaise	Lachaise	PROPN	SP	_	8	nmod	_	_
+6	Cimetière	Cimetière	X	SW	Foreign=Yes	3	obl	_	_
+7	du	du	X	SW	Foreign=Yes	6	flat	_	_
+8	Père	Père	X	SW	Foreign=Yes	6	flat	_	_
+9	Lachaise	Lachaise	X	SW	Foreign=Yes	6	flat	_	_
 10	in	in	ADP	E	_	11	case	_	_
 11	Paris	Paris	PROPN	SP	_	3	obl	_	SpaceAfter=No
 12	.	.	PUNCT	FS	_	3	punct	_	_
@@ -21271,8 +21269,8 @@
 # sent_id = en_partut-ud-1729
 # text = The Comédie Humaine remained unfinished at the time of his death - Balzac had plans to include numerous other books, most of which he never started.
 1	The	the	DET	RD	Definite=Def|PronType=Art	2	det	_	_
-2	Comédie	Comédie	PROPN	SP	_	4	nsubj	_	_
-3	Humaine	Humaine	PROPN	SP	_	2	amod	_	_
+2	Comédie	Comédie	X	SW	Foreign=Yes	4	nsubj	_	_
+3	Humaine	Humaine	X	SW	Foreign=Yes	2	flat:foreign	_	_
 4	remained	remain	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 5	unfinished	unfinished	ADJ	A	Degree=Pos	4	xcomp	_	_
 6	at	at	ADP	E	_	8	case	_	_
@@ -21283,7 +21281,7 @@
 11	death	death	NOUN	S	Number=Sing	8	nmod	_	_
 12	-	-	PUNCT	FF	_	4	punct	_	_
 13	Balzac	Balzac	PROPN	SP	_	14	nsubj	_	_
-14	had	have	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	4	conj	_	_
+14	had	have	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	4	parataxis	_	_
 15	plans	plan	NOUN	S	Number=Plur	14	obj	_	_
 16	to	to	PART	PART	_	17	mark	_	_
 17	include	include	VERB	V	VerbForm=Inf	15	acl	_	_
@@ -21462,12 +21460,12 @@
 6	descriptions	description	NOUN	S	Number=Plur	2	obl	_	_
 7	of	of	ADP	E	_	9	case	_	_
 8	the	the	DET	RD	Definite=Def|PronType=Art	9	det	_	_
-9	Pension	Pension	NOUN	_	_	6	nmod	_	_
-10	Vauquer	Vauquer	PROPN	SP	_	9	flat:name	_	_
-11	in	in	ADP	E	_	13	case	_	_
-12	Le	Le	DET	RD	PronType=Art	13	det	_	_
-13	Père	Père	NOUN	_	_	9	nmod	_	_
-14	Goriot	Goriot	PROPN	SP	_	13	flat:name	_	SpaceAfter=No
+9	Pension	Pension	X	SW	Foreign=Yes	6	nmod	_	_
+10	Vauquer	Vauquer	X	SW	Foreign=Yes	9	flat:foreign	_	_
+11	in	in	ADP	E	_	12	case	_	_
+12	Le	Le	X	SW	Foreign=Yes	9	nmod	_	_
+13	Père	Père	X	SW	Foreign=Yes	12	flat:foreign	_	_
+14	Goriot	Goriot	X	SW	Foreign=Yes	12	flat:foreign	_	SpaceAfter=No
 15	,	,	PUNCT	FF	_	2	punct	_	_
 16	making	make	VERB	V	VerbForm=Ger	2	advcl	_	_
 17	the	the	DET	RD	Definite=Def|PronType=Art	18	det	_	_
@@ -21874,11 +21872,11 @@
 17	Valentin	Valentin	PROPN	SP	_	16	flat:name	_	SpaceAfter=No
 18	's	's	PART	PART	_	16	case	_	_
 19	decline	decline	NOUN	S	Number=Sing	25	nsubj	_	_
-20	in	in	ADP	E	_	22	case	_	_
-21	La	La	DET	RD	PronType=Art	22	det	_	_
-22	Peau	Peau	NOUN	_	_	19	nmod	_	_
-23	De	De	ADP	_	_	24	case	_	_
-24	Chagrin	Chagrin	NOUN	_	_	22	nmod	_	_
+20	in	in	ADP	E	_	21	case	_	_
+21	La	La	X	SW	Foreign=Yes	19	nmod	_	_
+22	Peau	Peau	X	SW	Foreign=Yes	21	flat:foreign	_	_
+23	De	De	X	SW	Foreign=Yes	21	flat:foreign	_	_
+24	Chagrin	Chagrin	X	SW	Foreign=Yes	21	flat:foreign	_	_
 25	exemplifies	exemplify	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	_
 26	the	the	DET	RD	Definite=Def|PronType=Art	27	det	_	_
 27	danger	danger	NOUN	S	Number=Sing	25	obj	_	_
@@ -21914,8 +21912,8 @@
 3	of	of	ADP	E	_	4	case	_	_
 4	Paris	Paris	PROPN	SP	_	2	nmod	_	_
 5	permeates	permeate	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-6	La	La	DET	RD	PronType=Art	7	det	_	_
-7	Comédie	Comédie	NOUN	_	_	5	obj	_	SpaceAfter=No
+6	La	La	X	SW	Foreign=Yes	5	obj	_	_
+7	Comédie	Comédie	X	SW	Foreign=Yes	6	flat:foreign	_	SpaceAfter=No
 8	.	.	PUNCT	FS	_	5	punct	_	_
 
 # sent_id = en_partut-ud-1758
@@ -21948,10 +21946,10 @@
 2	centrality	centrality	NOUN	S	Number=Sing	10	nsubj	_	_
 3	of	of	ADP	E	_	4	case	_	_
 4	Paris	Paris	PROPN	SP	_	2	nmod	_	_
-5	in	in	ADP	E	_	7	case	_	_
-6	La	La	DET	RD	PronType=Art	7	det	_	_
-7	Comédie	Comédie	NOUN	_	_	2	nmod	_	_
-8	Humaine	Humaine	ADJ	_	_	6	nmod	_	_
+5	in	in	ADP	E	_	6	case	_	_
+6	La	La	X	SW	Foreign=Yes	2	nmod	_	_
+7	Comédie	Comédie	X	SW	Foreign=Yes	6	flat:foreign	_	_
+8	Humaine	Humaine	X	SW	Foreign=Yes	6	flat:foreign	_	_
 9	is	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
 10	key	key	NOUN	S	Number=Sing	0	root	_	_
 11	to	to	ADP	E	_	14	case	_	_
@@ -22009,15 +22007,15 @@
 
 # sent_id = en_partut-ud-1763
 # text = La Peau De Chagrin, among his earliest novels, is a pessimistic tale of confusion and destruction.
-1	La	La	DET	RD	PronType=Art	2	det	_	_
-2	Peau	Peau	NOUN	_	_	14	nsubj	_	_
-3	De	De	ADP	_	_	4	case	_	_
-4	Chagrin	Chagrin	NOUN	_	_	2	nmod	_	SpaceAfter=No
-5	,	,	PUNCT	FF	_	2	punct	_	_
+1	La	La	X	SW	Foreign=Yes	14	nsubj	_	_
+2	Peau	Peau	X	SW	Foreign=Yes	1	flat:foreign	_	_
+3	De	De	X	SW	Foreign=Yes	1	flat:foreign	_	_
+4	Chagrin	Chagrin	X	SW	Foreign=Yes	1	flat:foreign	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	1	punct	_	_
 6	among	among	ADP	E	_	9	case	_	_
 7	his	his	DET	AP	Poss=Yes|PronType=Prs	9	nmod:poss	_	_
 8	earliest	earliest	ADJ	A	Degree=Sup	9	amod	_	_
-9	novels	novel	NOUN	S	Number=Plur	2	nmod	_	SpaceAfter=No
+9	novels	novel	NOUN	S	Number=Plur	14	obl	_	SpaceAfter=No
 10	,	,	PUNCT	FF	_	9	punct	_	_
 11	is	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	_
 12	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	14	det	_	_
@@ -22044,8 +22042,8 @@
 11	the	the	DET	RD	Definite=Def|PronType=Art	12	det	_	_
 12	characters	character	NOUN	S	Number=Plur	16	nsubj	_	_
 13	of	of	ADP	E	_	14	case	_	_
-14	Illusions	Illusions	PROPN	SP	_	12	nmod	_	_
-15	Perdues	Perdues	PROPN	SP	_	14	amod	_	_
+14	Illusions	Illusions	X	SW	Foreign=Yes	12	nmod	_	_
+15	Perdues	Perdues	X	SW	Foreign=Yes	14	flat:foreign	_	_
 16	reveal	reveal	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	conj	_	_
 17	sympathy	sympathy	NOUN	S	Number=Sing	16	obj	_	_
 18	for	for	ADP	E	_	19	case	_	_
@@ -22225,8 +22223,8 @@
 1	Marx	marx	NOUN	S	Number=Sing	3	nmod	_	SpaceAfter=No
 2	's	's	PART	PART	_	1	case	_	_
 3	work	work	NOUN	S	Number=Sing	7	nsubj	_	_
-4	Das	Das	DET	RD	PronType=Art	5	det	_	_
-5	Kapital	Kapital	NOUN	_	_	3	nmod	_	_
+4	Das	Das	X	SW	Foreign=Yes	3	nmod	_	_
+5	Kapital	Kapital	X	SW	Foreign=Yes	4	flat:foreign	_	_
 6	also	also	ADV	B	_	7	advmod	_	_
 7	makes	make	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 8	constant	constant	ADJ	A	Degree=Pos	9	amod	_	_
@@ -22420,8 +22418,8 @@
 17	to	to	ADP	E	_	20	case	_	_
 18	Balzac	Balzac	PROPN	SP	_	20	nmod	_	SpaceAfter=No
 19	's	's	PART	PART	_	18	case	_	_
-20	Illusions	illusion	NOUN	S	Number=Plur	14	obl	_	_
-21	Perdues	perdu	ADJ	A	Degree=Pos	20	nmod	_	SpaceAfter=No
+20	Illusions	illusions	X	SW	Foreign=Yes	14	obl	_	_
+21	Perdues	perdues	X	SW	Foreign=Yes	20	flat:foreign	_	SpaceAfter=No
 22	.	.	PUNCT	FS	_	3	punct	_	_
 
 # sent_id = en_partut-ud-1783
@@ -22702,8 +22700,8 @@
 3	artist	artist	NOUN	S	Number=Sing	16	nsubj:pass	_	_
 4	of	of	ADP	E	_	6	case	_	_
 5	the	the	DET	RD	Definite=Def|PronType=Art	6	det	_	_
-6	Comédie	Comédie	PROPN	SP	_	3	nmod	_	_
-7	Humaine	Humaine	PROPN	SP	_	6	flat:name	_	SpaceAfter=No
+6	Comédie	Comédie	X	SW	Foreign=Yes	3	nmod	_	_
+7	Humaine	Humaine	X	SW	Foreign=Yes	6	flat:foreign	_	SpaceAfter=No
 8	,	,	PUNCT	FF	_	3	punct	_	SpaceAfter=No
 9	"	"	PUNCT	FB	_	3	punct	_	_
 10	he	he	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	_
@@ -23123,7 +23121,7 @@
 11	Hamlet	Hamlet	PROPN	SP	_	10	obj	_	SpaceAfter=No
 12	,	,	PUNCT	FF	_	13	punct	_	_
 13	King	King	PROPN	SP	_	11	conj	_	_
-14	Lear	Lear	PROPN	SP	_	13	nmod	_	SpaceAfter=No
+14	Lear	Lear	PROPN	SP	_	13	flat	_	SpaceAfter=No
 15	,	,	PUNCT	FF	_	16	punct	_	_
 16	Othello	Othello	PROPN	SP	_	11	conj	_	SpaceAfter=No
 17	,	,	PUNCT	FF	_	19	punct	_	_
@@ -23949,7 +23947,7 @@
 21	Shakespeare	Shakespeare	PROPN	SP	_	23	nmod	_	SpaceAfter=No
 22	's	's	PART	PART	_	21	case	_	_
 23	Henry	Henry	PROPN	SP	_	6	nmod	_	_
-24	VI	sixth	ADJ	NO	Degree=Pos|NumType=Ord	23	amod	_	SpaceAfter=No
+24	VI	sixth	ADJ	NO	Degree=Pos|NumType=Ord	23	flat	_	SpaceAfter=No
 25	,	,	PUNCT	FF	_	23	punct	_	_
 26	Part	part	NOUN	S	Number=Sing	23	appos	_	_
 27	3	3	NUM	N	NumType=Card	26	nummod	_	SpaceAfter=No
@@ -24113,7 +24111,7 @@
 20	king	king	NOUN	S	Gender=Masc|Number=Sing	13	obl:agent	_	SpaceAfter=No
 21	,	,	PUNCT	FF	_	20	punct	_	_
 22	James	James	PROPN	SP	_	20	appos	_	_
-23	I	first	ADJ	NO	Degree=Pos|NumType=Ord	22	amod	_	SpaceAfter=No
+23	I	first	ADJ	NO	Degree=Pos|NumType=Ord	22	flat	_	SpaceAfter=No
 24	,	,	PUNCT	FF	_	22	punct	_	_
 25	and	and	CCONJ	CC	_	26	cc	_	_
 26	changed	change	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	13	conj	_	_
@@ -24421,7 +24419,7 @@
 16	Chorus	chorus	NOUN	S	Number=Sing	7	conj	_	_
 17	in	in	ADP	E	_	18	case	_	_
 18	Henry	Henry	PROPN	SP	_	16	orphan	_	_
-19	V	fifth	ADJ	NO	Degree=Pos|NumType=Ord	18	amod	_	SpaceAfter=No
+19	V	fifth	ADJ	NO	Degree=Pos|NumType=Ord	18	flat	_	SpaceAfter=No
 20	,	,	PUNCT	FF	_	7	punct	_	_
 21	though	though	SCONJ	CS	_	23	mark	_	_
 22	scholars	scholar	NOUN	S	Number=Plur	23	nsubj	_	_
@@ -24666,7 +24664,7 @@
 38	Court	court	NOUN	S	Number=Sing	33	nmod	_	_
 39	of	of	ADP	E	_	40	case	_	_
 40	King	King	PROPN	SP	_	38	nmod	_	_
-41	James	James	PROPN	SP	_	40	flat:name	_	SpaceAfter=No
+41	James	James	PROPN	SP	_	40	flat	_	SpaceAfter=No
 42	'	'	PUNCT	FB	_	33	punct	_	SpaceAfter=No
 43	)	)	PUNCT	FB	_	33	punct	_	SpaceAfter=No
 44	.	.	PUNCT	FS	_	21	punct	_	_
@@ -25207,14 +25205,14 @@
 6	Shakespeare	Shakespeare	PROPN	SP	_	4	nmod	_	_
 7	are	be	AUX	VA	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	8	cop	_	_
 8	Richard	Richard	PROPN	SP	_	0	root	_	_
-9	III	third	ADJ	NO	Degree=Pos|NumType=Ord	8	amod	_	_
+9	III	third	ADJ	NO	Degree=Pos|NumType=Ord	8	flat	_	_
 10	and	and	CCONJ	CC	_	13	cc	_	_
 11	the	the	DET	RD	Definite=Def|PronType=Art	13	det	_	_
 12	three	three	NUM	N	NumType=Card	13	nummod	_	_
 13	parts	part	NOUN	S	Number=Plur	8	conj	_	_
 14	of	of	ADP	E	_	15	case	_	_
 15	Henry	Henry	PROPN	SP	_	13	nmod	_	_
-16	VI	sixth	ADJ	NO	Degree=Pos|NumType=Ord	15	amod	_	SpaceAfter=No
+16	VI	sixth	ADJ	NO	Degree=Pos|NumType=Ord	15	flat	_	SpaceAfter=No
 17	,	,	PUNCT	FF	_	8	punct	_	_
 18	written	write	VERB	V	Tense=Past|VerbForm=Part	8	acl	_	_
 19	in	in	ADP	E	_	22	case	_	_
@@ -25742,7 +25740,7 @@
 20	Othello	Othello	PROPN	SP	_	16	nmod	_	_
 21	and	and	CCONJ	CC	_	22	cc	_	_
 22	King	King	PROPN	SP	_	20	conj	_	_
-23	Lear	Lear	PROPN	SP	_	22	nmod	_	SpaceAfter=No
+23	Lear	Lear	PROPN	SP	_	22	flat	_	SpaceAfter=No
 24	,	,	PUNCT	FF	_	13	punct	_	_
 25	are	be	AUX	VA	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	26	aux:pass	_	_
 26	undone	undo	VERB	V	Tense=Past|VerbForm=Part	0	root	_	_
@@ -25784,7 +25782,7 @@
 # text = In King Lear, the old king commits the tragic error of giving up his powers, initiating the events which lead to the torture and blinding of the Earl of Gloucester and the murder of Lear's youngest daughter Cordelia.
 1	In	in	ADP	E	_	2	case	_	_
 2	King	King	PROPN	SP	_	8	obl	_	_
-3	Lear	Lear	PROPN	SP	_	2	nmod	_	SpaceAfter=No
+3	Lear	Lear	PROPN	SP	_	2	flat	_	SpaceAfter=No
 4	,	,	PUNCT	FF	_	2	punct	_	_
 5	the	the	DET	RD	Definite=Def|PronType=Art	7	det	_	_
 6	old	old	ADJ	A	Degree=Pos	7	amod	_	_
@@ -26085,7 +26083,7 @@
 7	plays	play	NOUN	S	Number=Plur	2	obl	_	SpaceAfter=No
 8	,	,	PUNCT	FF	_	7	punct	_	_
 9	Henry	Henry	PROPN	SP	_	7	appos	_	_
-10	VIII	eigth	ADJ	NO	Degree=Pos|NumType=Ord	9	amod	_	_
+10	VIII	eigth	ADJ	NO	Degree=Pos|NumType=Ord	9	flat	_	_
 11	and	and	CCONJ	CC	_	15	cc	_	_
 12	The	the	DET	RD	Definite=Def|PronType=Art	15	det	_	_
 13	Two	two	NUM	N	NumType=Card	15	nummod	_	_
@@ -26185,7 +26183,7 @@
 8	part	part	NOUN	S	Number=Sing	5	obj	_	_
 9	of	of	ADP	E	_	10	case	_	_
 10	Henry	Henry	PROPN	SP	_	8	nmod	_	_
-11	IV	fourth	ADJ	NO	Degree=Pos|NumType=Ord	10	amod	_	SpaceAfter=No
+11	IV	fourth	ADJ	NO	Degree=Pos|NumType=Ord	10	flat	_	SpaceAfter=No
 12	,	,	PUNCT	FF	_	2	punct	_	_
 13	Leonard	Leonard	PROPN	SP	_	15	nsubj	_	_
 14	Digges	Digges	PROPN	SP	_	13	flat:name	_	_
@@ -26303,7 +26301,7 @@
 17	Othello	Othello	PROPN	SP	_	15	conj	_	_
 18	and	and	CCONJ	CC	_	19	cc	_	_
 19	King	King	PROPN	SP	_	15	conj	_	_
-20	Lear	Lear	PROPN	SP	_	19	nmod	_	SpaceAfter=No
+20	Lear	Lear	PROPN	SP	_	19	flat	_	SpaceAfter=No
 21	.	.	PUNCT	FS	_	9	punct	_	_
 
 # sent_id = en_partut-ud-1947
@@ -26332,7 +26330,7 @@
 22	the	the	DET	RD	Definite=Def|PronType=Art	24	det	_	_
 23	new	new	ADJ	A	Degree=Pos	24	amod	_	_
 24	King	king	NOUN	S	Gender=Masc|Number=Sing	17	obl	_	_
-25	James	James	PROPN	SP	_	24	nmod	_	SpaceAfter=No
+25	James	James	PROPN	SP	_	24	flat	_	SpaceAfter=No
 26	.	.	PUNCT	FS	_	17	punct	_	_
 
 # sent_id = en_partut-ud-1948
@@ -26484,7 +26482,7 @@
 29	fool	fool	NOUN	S	Number=Sing	17	conj	_	_
 30	in	in	ADP	E	_	31	case	_	_
 31	King	King	NOUN	S	Number=Sing	29	orphan	_	_
-32	Lear	Lear	PROPN	SP	_	31	nmod	_	SpaceAfter=No
+32	Lear	Lear	PROPN	SP	_	31	flat	_	SpaceAfter=No
 33	.	.	PUNCT	FS	_	3	punct	_	_
 
 # sent_id = en_partut-ud-1955
@@ -26498,7 +26496,7 @@
 7	recorded	record	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 8	that	that	SCONJ	CS	_	13	mark	_	_
 9	Henry	Henry	PROPN	SP	_	13	nsubj:pass	_	_
-10	VIII	eigth	ADJ	NO	Degree=Pos|NumType=Ord	9	amod	_	_
+10	VIII	eigth	ADJ	NO	Degree=Pos|NumType=Ord	9	flat	_	_
 11	"	"	PUNCT	FB	_	13	punct	_	SpaceAfter=No
 12	was	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	13	aux:pass	_	_
 13	set	set	ADJ	A	Degree=Pos	7	ccomp	_	_
@@ -26678,7 +26676,7 @@
 3	case	case	NOUN	S	Number=Sing	24	obl	_	_
 4	of	of	ADP	E	_	5	case	_	_
 5	King	King	PROPN	SP	_	3	nmod	_	_
-6	Lear	Lear	PROPN	SP	_	5	nmod	_	SpaceAfter=No
+6	Lear	Lear	PROPN	SP	_	5	flat	_	SpaceAfter=No
 7	,	,	PUNCT	FF	_	3	punct	_	_
 8	however	however	ADV	B	_	24	advmod	_	SpaceAfter=No
 9	,	,	PUNCT	FF	_	8	punct	_	_
@@ -27259,7 +27257,7 @@
 3	soliloquy	soliloquy	NOUN	S	Number=Sing	7	nsubj	_	_
 4	of	of	ADP	E	_	5	case	_	_
 5	Richard	Richard	PROPN	SP	_	3	nmod	_	_
-6	III	third	ADJ	NO	Degree=Pos|NumType=Ord	5	amod	_	_
+6	III	third	ADJ	NO	Degree=Pos|NumType=Ord	5	flat	_	_
 7	has	have	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 8	its	its	DET	AP	Number=Sing|Poss=Yes|PronType=Prs	9	nmod:poss	_	_
 9	roots	root	NOUN	S	Number=Plur	7	obj	_	_
@@ -27337,7 +27335,7 @@
 7	Juliet	Juliet	PROPN	SP	_	5	conj	_	SpaceAfter=No
 8	,	,	PUNCT	FF	_	9	punct	_	_
 9	Richard	Richard	PROPN	SP	_	5	conj	_	_
-10	II	second	ADJ	NO	Degree=Pos|NumType=Ord	9	amod	_	SpaceAfter=No
+10	II	second	ADJ	NO	Degree=Pos|NumType=Ord	9	flat	_	SpaceAfter=No
 11	,	,	PUNCT	FF	_	17	punct	_	_
 12	and	and	CCONJ	CC	_	17	cc	_	_
 13	A	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	15	det	_	_
@@ -27972,7 +27970,7 @@
 14	inspired	inspire	VERB	V	Tense=Past|VerbForm=Part	12	acl	_	_
 15	by	by	ADP	E	_	16	case	_	_
 16	King	King	PROPN	SP	_	14	obl:agent	_	_
-17	Lear	Lear	PROPN	SP	_	16	nmod	_	SpaceAfter=No
+17	Lear	Lear	PROPN	SP	_	16	flat	_	SpaceAfter=No
 18	.	.	PUNCT	FS	_	12	punct	_	_
 
 # sent_id = en_partut-ud-2030
@@ -28031,7 +28029,7 @@
 10	Romantics	Romantics	PROPN	SP	_	8	obj	_	_
 11	and	and	CCONJ	CC	_	15	cc	_	_
 12	the	the	DET	RD	Definite=Def|PronType=Art	15	det	_	_
-13	Pre	Pre	X	X	_	15	nmod	_	SpaceAfter=No
+13	Pre	Pre	X	X	_	15	compound	_	SpaceAfter=No
 14	-	-	PUNCT	FF	_	15	punct	_	SpaceAfter=No
 15	Raphaelites	Raphaelites	PROPN	SP	_	10	conj	_	SpaceAfter=No
 16	.	.	PUNCT	FS	_	4	punct	_	_
