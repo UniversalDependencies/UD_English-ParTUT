@@ -41,8 +41,17 @@ are found in the training, development and test set of UD_French-ParTUT and UD_I
 * Dep. relations: 46 of which 12 language specific
 * POS tags: 17
 * Category=value feature pairs: 34
-	
-		
+
+
+## Changelog 
+2017-11-15 v2.1 		
+* dates revised and annotated as flat structures
+* change of xpos for copulas (from VA to V)
+* other minor corrections 
+
+2017-03-01 v2
+* initial release
+
 
 ## References
  
