@@ -1,4 +1,10 @@
-# Corpus Description
+# Summary
+
+UD_English-ParTUT is a conversion of a multilingual parallel treebank developed at the University of Turin, 
+ and consisting of a variety of text genres, including talks, legal texts and Wikipedia articles.
+
+
+# Introduction
 
 UD_English-ParTUT data is derived from the already-existing parallel treebank Par(allel)TUT.
 
@@ -21,7 +27,11 @@ gathered from a large number of sources and domains:
 * the [Web Inventory of Translated Talks](https://wit3.fbk.eu/mt.php?release=2012-02) .
 
 
-## Corpus splitting
+# Acknowledgements
+We are deeply grateful to Project Syndicate© for letting us download and exploit their articles as text material, under the terms of educational use. 
+
+
+# Corpus splitting
 
 The corpus was randomly splitted as follows:
 
@@ -33,7 +43,7 @@ In order to preserve the 1:1 correspondence among the three language sections, a
 are found in the training, development and test set of UD_French-ParTUT and UD_Italian-ParTUT as well.
 
 
-## Basic statistics
+# Basic statistics
 
 * Tree count:  2090
 * Word count:  49648
@@ -43,17 +53,8 @@ are found in the training, development and test set of UD_French-ParTUT and UD_I
 * Category=value feature pairs: 34
 
 
-## Changelog 
-2017-11-15 v2.1 		
-* dates revised and annotated as flat structures
-* change of xpos for copulas (from VA to V)
-* other minor corrections 
 
-2017-03-01 v2
-* initial release
-
-
-## References
+# References
  
 * Manuela Sanguinetti, Cristina Bosco. 2014. PartTUT: The Turin University Parallel Treebank. 
   In Basili, Bosco, Delmonte, Moschitti, Simi (editors) Harmonization and development of resources and tools for Italian Natural Language Processing within the PARLI project, LNCS, Springer Verlag
@@ -65,18 +66,31 @@ are found in the training, development and test set of UD_French-ParTUT and UD_I
   In Proceedings of the 13th Workshop on Treebanks and Linguistic Theories (TLT-13), Tubingen (Germany)
   
 
-## Acknowledments
+## Changelog 
+2017-11-15 v2.1 		
+* dates were revised and annotated as flat structures
+* change of xpos for copulas (from VA to V)
+* other minor corrections 
+* revised splits, in order to align English sentences to Italian counterparts
 
-We are deeply grateful to Project Syndicate© for letting us download and exploit their articles as text material, under the terms of educational use. 
+2017-03-01 v2
+* initial release
 
 
-## Language metadata
 
---- Machine readable metadata ---
-Documentation status: partial
-Data source: semi-automatic
-Data available since: UD v2.0
+=== Machine-readable metadata ================================================
+
+Data available since: UD v2
 License: CC BY-NC-SA 4.0
-Genre: legal news wiki 
+Includes text: yes
+Genre: legal news wiki
+Lemmas: converted from manual
+UPOS: converted from manual
+XPOS: converted from manual
+Features: converted from manual
+Relations: converted from manual
 Contributors: Bosco, Cristina; Sanguinetti, Manuela
-Contact: msanguin@di.unito.it 
+Contributing: elsewhere
+Contact: msanguin@di.unito.it
+
+===============================================================================
