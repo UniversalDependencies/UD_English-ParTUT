@@ -33,14 +33,15 @@ We are deeply grateful to Project Syndicate© for letting us download and exploi
 
 # Corpus splitting
 
-The corpus was randomly splitted as follows:
+The corpus was randomly split using a script. In order to preserve the 1:1 correspondence among the three language sections, all of them were partitioned in the same way; therefore the same sentences, in the same order,
+are found in the training, development and test set of the English and Italian treebanks as well.
+However, considering that since v2.1 UD_Italian-ParTUT has been re-partitioned, because of overlapping sentences with UD_Italian, the English section of ParTUT now
+appears as follows:
 
-* en_partut-ud-train.conllu: 25871 words (1090 sentences)
-* en_partut-ud-dev.conllu: 12243 words (500 sentences)
-* en_partut-ud-test.conllu: 11534 words (500 sentences)
+* en_partut-ud-train.conllu: 43555 words (1783 sentences)
+* en_partut-ud-dev.conllu: 4577 words (238 sentences)
+* en_partut-ud-test.conllu: 1516 words (69 sentences)
 
-In order to preserve the 1:1 correspondence among the three language sections, all of them were partitioned in the same way; therefore the same sentences, in the same order,
-are found in the training, development and test set of UD_French-ParTUT and UD_Italian-ParTUT as well.
 
 
 # Basic statistics
