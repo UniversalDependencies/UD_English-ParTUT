@@ -85,11 +85,11 @@ Data available since: UD v2
 License: CC BY-NC-SA 4.0
 Includes text: yes
 Genre: legal news wiki
-Lemmas: converted from manual
-UPOS: converted from manual
-XPOS: converted from manual
-Features: converted from manual
-Relations: converted from manual
+Lemmas: converted with corrections
+UPOS: converted with corrections
+XPOS: converted with corrections
+Features: converted with corrections
+Relations: converted with corrections
 Contributors: Bosco, Cristina; Sanguinetti, Manuela
 Contributing: elsewhere
 Contact: msanguin@di.unito.it
