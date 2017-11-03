@@ -38,9 +38,9 @@ are found in the training, development and test set of the English and Italian t
 However, considering that since v2.1 UD_Italian-ParTUT has been re-partitioned, because of overlapping sentences with UD_Italian, the English section of ParTUT now
 appears as follows:
 
-* en_partut-ud-train.conllu: 43555 words (1783 sentences)
-* en_partut-ud-dev.conllu: 4577 words (238 sentences)
-* en_partut-ud-test.conllu: 1516 words (69 sentences)
+* en_partut-ud-train.conllu: 43518 words (1781 sentences)
+* en_partut-ud-dev.conllu: 2722 words (156 sentences)
+* en_partut-ud-test.conllu: 3408 words (153 sentences)
 
 
 
