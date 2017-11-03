@@ -1,7 +1,7 @@
 # Summary
 
 UD_English-ParTUT is a conversion of a multilingual parallel treebank developed at the University of Turin, 
- and consisting of a variety of text genres, including talks, legal texts and Wikipedia articles.
+ and consisting of a variety of text genres, including talks, legal texts and Wikipedia articles, among others.
 
 
 # Introduction
@@ -11,7 +11,7 @@ UD_English-ParTUT data is derived from the already-existing parallel treebank Pa
 ParTUT is a morpho-syntactically annotated collection of Italian/French/English parallel sentences, 
 which includes texts from different sources and representing different genres and domains, released in several formats.
 
-ParTUT data can be downloaded [here](http://www.di.unito.it/~tutreeb/treebanks.html) and [here](https://github.com/msang/partut-repo) (CoNLL format only).
+ParTUT data can be downloaded [here](http://www.di.unito.it/~tutreeb/treebanks.html) and [here](https://github.com/msang/partut-repo).
 
 ParTUT comprises approximately 167,000 tokens, with an average amount
 of 2,100 sentences per language. The texts of the collection currently available were
