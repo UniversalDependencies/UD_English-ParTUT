@@ -21357,26 +21357,6 @@
 23	representatives	representative	NOUN	S	Number=Plur	18	conj	_	SpaceAfter=No
 24	.	.	PUNCT	FS	_	5	punct	_	_
 
-# sent_id = en_partut-ud-785
-# text = (2) Everyone has the right of equal access to public service in his country.
-1	(	(	PUNCT	FB	_	2	punct	_	SpaceAfter=No
-2	2	2	NUM	N	NumType=Card	5	nummod	_	SpaceAfter=No
-3	)	)	PUNCT	FB	_	2	punct	_	_
-4	Everyone	everyone	PRON	PE	Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
-5	has	have	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-6	the	the	DET	RD	Definite=Def|PronType=Art	7	det	_	_
-7	right	right	NOUN	S	Number=Sing	5	obj	_	_
-8	of	of	ADP	E	_	10	case	_	_
-9	equal	equal	ADJ	A	Degree=Pos	10	amod	_	_
-10	access	access	NOUN	S	Number=Sing	7	nmod	_	_
-11	to	to	ADP	E	_	13	case	_	_
-12	public	public	ADJ	A	Degree=Pos	13	amod	_	_
-13	service	service	NOUN	S	Number=Sing	10	nmod	_	_
-14	in	in	ADP	E	_	16	case	_	_
-15	his	his	DET	AP	Poss=Yes|PronType=Prs	16	nmod:poss	_	_
-16	country	country	NOUN	S	Number=Sing	5	obl	_	SpaceAfter=No
-17	.	.	PUNCT	FS	_	5	punct	_	_
-
 # sent_id = en_partut-ud-786
 # text = (3) The will of the people shall be the basis of the authority of government;
 1	(	(	PUNCT	FB	_	2	punct	_	SpaceAfter=No
@@ -27705,29 +27685,6 @@
 12	such	such	DET	DD	PronType=Dem	13	det	_	_
 13	expectations	expectation	NOUN	S	Number=Plur	11	obj	_	SpaceAfter=No
 14	?	?	PUNCT	FS	_	11	punct	_	_
-
-# sent_id = en_partut-ud-1212
-# text = Though the likely answer is yes, the downside risks seem higher than they did a few decades ago.
-1	Though	though	SCONJ	CS	_	6	mark	_	_
-2	the	the	DET	RD	Definite=Def|PronType=Art	6	det	_	_
-3	likely	likely	ADJ	A	Degree=Pos	6	amod	_	_
-4	answer	answer	NOUN	S	Number=Sing	6	nsubj	_	_
-5	is	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
-6	yes	yes	INTJ	_	_	11	advcl	_	SpaceAfter=No
-7	,	,	PUNCT	FF	_	6	punct	_	_
-8	the	the	DET	RD	Definite=Def|PronType=Art	10	det	_	_
-9	downside	downside	NOUN	S	Number=Sing	10	nmod	_	_
-10	risks	risk	NOUN	S	Number=Plur	11	nsubj	_	_
-11	seem	seem	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	0	root	_	_
-12	higher	higher	ADJ	A	Degree=Cmp	11	xcomp	_	_
-13	than	than	ADP	E	_	15	mark	_	_
-14	they	they	PRON	PE	Number=Plur|Person=3|PronType=Prs	15	nsubj	_	_
-15	did	do	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	12	advcl	_	_
-16	a	a	DET	RI	Definite=Ind|PronType=Art	18	det	_	_
-17	few	few	ADJ	A	Degree=Pos	18	amod	_	_
-18	decades	decade	NOUN	S	Number=Plur	19	obl	_	_
-19	ago	ago	ADV	B	_	15	advmod	_	SpaceAfter=No
-20	.	.	PUNCT	FS	_	11	punct	_	_
 
 # sent_id = en_partut-ud-1213
 # text = So far, every prediction in the modern era that mankind's lot will worsen, from Thomas Malthus to Karl Marx, has turned out to be spectacularly wrong.
