@@ -66,7 +66,7 @@ appears as follows:
 
 ## Changelog
 2018-04-15 v2.2
-* no changes since previous release
+* few minor changes
 
 2017-11-15 v2.1
 * revised dates (now annotated as flat structures)
