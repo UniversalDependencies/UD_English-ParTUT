@@ -32610,7 +32610,7 @@
 11	by	by	ADP	E	_	15	case	_	_
 12	the	the	DET	RD	Definite=Def|PronType=Art	15	det	_	_
 13	Bretton	Bretton	PROPN	SP	_	15	nmod	_	_
-14	Woods	Woods	PROPN	SP	_	15	flat	_	_
+14	Woods	Woods	PROPN	SP	_	14	flat	_	_
 15	Committee	committee	NOUN	S	Number=Sing	10	obl	_	SpaceAfter=No
 16	,	,	PUNCT	FF	_	9	punct	_	_
 17	addressed	address	VERB	V	Tense=Past|VerbForm=Part	9	acl	_	_
@@ -42705,7 +42705,7 @@
 28	Michaelmas	Michaelmas	PROPN	SP	_	29	nmod	_	_
 29	Term	term	NOUN	S	Number=Sing	27	obl	_	_
 30	1588	1588	NUM	N	NumType=Card	29	nummod	_	_
-31	and	and	CCONJ	CC	_	32	flat	_	_
+31	and	and	CCONJ	CC	_	32	cc	_	_
 32	9	9	NUM	N	NumType=Card	29	conj	_	_
 33	October	October	PROPN	SP	_	32	flat	_	_
 34	1589	1589	NUM	N	NumType=Card	32	flat	_	SpaceAfter=No
