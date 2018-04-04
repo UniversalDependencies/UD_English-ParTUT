@@ -68,7 +68,7 @@
     <feat name="VerbForm" value="Part" upos="AUX,VERB">1544</feat><!-- been, given, based, made, taken, adopted, including, used, granted, set -->
   </feats>
   <!-- Statistics of universal dependency relations. -->
-  <deps unique="46">
+  <deps unique="44">
     <dep name="acl">831</dep>
     <dep name="acl:relcl">459</dep>
     <dep name="advcl">768</dep>
@@ -78,7 +78,7 @@
     <dep name="aux">1246</dep>
     <dep name="aux:pass">476</dep>
     <dep name="case">5899</dep>
-    <dep name="cc">1662</dep>
+    <dep name="cc">1663</dep>
     <dep name="ccomp">350</dep>
     <dep name="compound">131</dep>
     <dep name="compound:prt">102</dep>
@@ -93,9 +93,8 @@
     <dep name="dislocated">5</dep>
     <dep name="expl">132</dep>
     <dep name="fixed">273</dep>
-    <dep name="flat">251</dep>
+    <dep name="flat">609</dep>
     <dep name="flat:foreign">69</dep>
-    <dep name="flat:name">359</dep>
     <dep name="goeswith">52</dep>
     <dep name="iobj">33</dep>
     <dep name="mark">1611</dep>
@@ -107,8 +106,7 @@
     <dep name="nsubj:pass">473</dep>
     <dep name="nummod">569</dep>
     <dep name="obj">2064</dep>
-    <dep name="obl">2665</dep>
-    <dep name="obl:agent">144</dep>
+    <dep name="obl">2809</dep>
     <dep name="orphan">11</dep>
     <dep name="parataxis">35</dep>
     <dep name="punct">5797</dep>
