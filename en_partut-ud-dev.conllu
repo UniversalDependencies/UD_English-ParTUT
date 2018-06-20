@@ -1,7 +1,7 @@
 # sent_id = en_partut-ud-2
 # text = Creative Commons Corporation is not a law firm and does not provide legal services.
 1	Creative	Creative	PROPN	SP	_	3	nmod	_	_
-2	Commons	Commons	PROPN	SP	_	1	flat:name	_	_
+2	Commons	Commons	PROPN	SP	_	1	flat	_	_
 3	Corporation	corporation	NOUN	S	Number=Sing	8	nsubj	_	_
 4	is	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
 5	not	not	PART	PART	Polarity=Neg	8	advmod	_	_
@@ -33,7 +33,7 @@
 13	of	of	ADP	E	_	18	case	_	_
 14	this	this	DET	DD	Number=Sing|PronType=Dem	18	det	_	_
 15	Creative	Creative	PROPN	SP	_	18	nmod	_	_
-16	Commons	Commons	PROPN	SP	_	15	flat:name	_	_
+16	Commons	Commons	PROPN	SP	_	15	flat	_	_
 17	Public	public	ADJ	A	Degree=Pos	18	amod	_	_
 18	License	license	NOUN	S	Number=Sing	12	nmod	_	_
 19	(	(	PUNCT	FB	_	21	punct	_	SpaceAfter=No
@@ -268,7 +268,7 @@
 17	within	within	ADP	E	_	22	case	_	_
 18	the	the	DET	RD	Definite=Def|PronType=Art	22	det	_	_
 19	United	United	PROPN	SP	_	22	nmod	_	_
-20	Nations	Nations	PROPN	SP	_	19	flat:name	_	_
+20	Nations	Nations	PROPN	SP	_	19	flat	_	_
 21	Economic	economic	ADJ	A	Degree=Pos	22	amod	_	_
 22	Commission	commission	NOUN	S	Number=Sing	15	conj	_	_
 23	was	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	24	aux	_	_
@@ -337,7 +337,7 @@
 15	of	of	ADP	E	_	17	case	_	_
 16	the	the	DET	RD	Definite=Def|PronType=Art	17	det	_	_
 17	European	European	PROPN	SP	_	14	nmod	_	_
-18	Union	Union	PROPN	SP	_	17	flat:name	_	SpaceAfter=No
+18	Union	Union	PROPN	SP	_	17	flat	_	SpaceAfter=No
 19	.	.	PUNCT	FS	_	2	punct	_	_
 
 # sent_id = en_partut-ud-374
@@ -524,7 +524,7 @@
 37	your	you	DET	AP	Poss=Yes|PronType=Prs	40	nmod:poss	_	_
 38	mobile	mobile	NOUN	S	Number=Sing	39	nmod	_	_
 39	service	service	NOUN	S	Number=Sing	40	nmod	_	_
-40	provider	provider	NOUN	S	Number=Sing	35	obl:agent	_	SpaceAfter=No
+40	provider	provider	NOUN	S	Number=Sing	35	obl	_	SpaceAfter=No
 41	.	.	PUNCT	FS	_	16	punct	_	_
 
 # sent_id = en_partut-ud-485
@@ -1209,10 +1209,10 @@
 3	photomicrographs	photomicrographs	ADJ	A	Degree=Pos	0	root	_	_
 4	from	from	ADP	E	_	5	case	_	_
 5	Nick	Nick	PROPN	SP	_	3	obl	_	_
-6	Read	Read	PROPN	SP	_	5	flat:name	_	_
+6	Read	Read	PROPN	SP	_	5	flat	_	_
 7	and	and	CCONJ	CC	_	8	cc	_	_
 8	Patrick	Patrick	PROPN	SP	_	5	conj	_	_
-9	Hickey	Hickey	PROPN	SP	_	8	flat:name	_	SpaceAfter=No
+9	Hickey	Hickey	PROPN	SP	_	8	flat	_	SpaceAfter=No
 10	.	.	PUNCT	FS	_	3	punct	_	_
 
 # sent_id = en_partut-ud-901
@@ -1615,7 +1615,7 @@
 4	photograph	photograph	NOUN	S	Number=Sing	0	root	_	_
 5	by	by	ADP	E	_	6	case	_	_
 6	Franz	Franz	PROPN	SP	_	4	nmod	_	_
-7	Hueber	Hueber	PROPN	SP	_	6	flat:name	_	SpaceAfter=No
+7	Hueber	Hueber	PROPN	SP	_	6	flat	_	SpaceAfter=No
 8	.	.	PUNCT	FS	_	4	punct	_	_
 
 # sent_id = en_partut-ud-926
@@ -1628,7 +1628,7 @@
 6	s	s	X	X	_	5	goeswith	_	_
 7	in	in	ADP	E	_	8	case	_	_
 8	Saudi	Saudi	PROPN	SP	_	4	obl	_	_
-9	Arabia	Arabia	PROPN	SP	_	8	flat:name	_	SpaceAfter=No
+9	Arabia	Arabia	PROPN	SP	_	8	flat	_	SpaceAfter=No
 10	.	.	PUNCT	FS	_	4	punct	_	_
 
 # sent_id = en_partut-ud-927
@@ -1726,7 +1726,7 @@
 4	struck	strike	VERB	V	Tense=Past|VerbForm=Part	0	root	_	_
 5	by	by	ADP	E	_	7	case	_	_
 6	an	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	7	det	_	_
-7	asteroid	asteroid	NOUN	S	Number=Sing	4	obl:agent	_	SpaceAfter=No
+7	asteroid	asteroid	NOUN	S	Number=Sing	4	obl	_	SpaceAfter=No
 8	,	,	PUNCT	FF	_	15	punct	_	_
 9	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	11	det	_	_
 10	huge	huge	ADJ	A	Degree=Pos	11	amod	_	_
@@ -1817,7 +1817,7 @@
 7	is	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
 8	in	in	ADP	E	_	9	case	_	_
 9	Eastern	Eastern	PROPN	SP	_	0	root	_	_
-10	Oregon	Oregon	PROPN	SP	_	9	flat:name	_	SpaceAfter=No
+10	Oregon	Oregon	PROPN	SP	_	9	flat	_	SpaceAfter=No
 11	.	.	PUNCT	FS	_	9	punct	_	_
 
 # sent_id = en_partut-ud-940
@@ -2006,7 +2006,7 @@
 10	protected	protect	VERB	V	Tense=Past|VerbForm=Part	9	acl	_	_
 11	by	by	ADP	E	_	13	case	_	_
 12	IP	IP	PROPN	SP	_	13	nmod	_	_
-13	rights	right	NOUN	S	Number=Plur	10	obl:agent	_	_
+13	rights	right	NOUN	S	Number=Plur	10	obl	_	_
 14	are	be	AUX	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	16	cop	_	_
 15	the	the	DET	RD	Definite=Def|PronType=Art	16	det	_	_
 16	dynamo	dynamo	NOUN	S	Number=Sing	6	ccomp	_	_
@@ -2051,7 +2051,7 @@
 # sent_id = en_partut-ud-1101
 # text = Andy Haldane, one of the lieutenants Carney inherited at the BoE, has questioned the financial sector's economic contribution, pointing to "its ability to both invigorate and incapacitate large parts of the non-financial economy.
 1	Andy	Andy	PROPN	SP	_	15	nsubj	_	_
-2	Haldane	Haldane	PROPN	SP	_	1	flat:name	_	SpaceAfter=No
+2	Haldane	Haldane	PROPN	SP	_	1	flat	_	SpaceAfter=No
 3	,	,	PUNCT	FF	_	1	punct	_	_
 4	one	one	NUM	N	NumType=Card	1	nummod	_	_
 5	of	of	ADP	E	_	7	case	_	_
@@ -2524,7 +2524,7 @@
 9	captivated	captivate	VERB	V	Tense=Past|VerbForm=Part	0	root	_	_
 10	by	by	ADP	E	_	12	case	_	_
 11	the	the	DET	RD	Definite=Def|PronType=Art	12	det	_	_
-12	idea	idea	NOUN	S	Number=Sing	9	obl:agent	_	_
+12	idea	idea	NOUN	S	Number=Sing	9	obl	_	_
 13	of	of	ADP	E	_	14	mark	_	_
 14	cutting	cut	VERB	V	VerbForm=Ger	12	acl	_	_
 15	20,000	20,000	NUM	N	NumType=Card	16	nummod	_	_
@@ -2664,7 +2664,7 @@
 12	Scottish	scottish	ADJ	A	Degree=Pos	13	amod	_	_
 13	novelist	novelist	NOUN	S	Number=Sing	10	nmod	_	_
 14	Walter	Walter	PROPN	SP	_	13	nmod	_	_
-15	Scott	Scott	PROPN	SP	_	14	flat:name	_	SpaceAfter=No
+15	Scott	Scott	PROPN	SP	_	14	flat	_	SpaceAfter=No
 16	,	,	PUNCT	FF	_	5	punct	_	_
 17	Balzac	Balzac	PROPN	SP	_	5	nsubj	_	_
 18	sought	seek	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
@@ -2778,7 +2778,7 @@
 7	he	he	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	_
 8	married	marry	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 9	Anne	Anne	PROPN	SP	_	8	obj	_	_
-10	Hathaway	Hathaway	PROPN	SP	_	9	flat:name	_	SpaceAfter=No
+10	Hathaway	Hathaway	PROPN	SP	_	9	flat	_	SpaceAfter=No
 11	,	,	PUNCT	FF	_	9	punct	_	_
 12	with	with	ADP	E	_	13	case	_	_
 13	whom	who	PRON	PR	PronType=Rel	15	obl	_	_
@@ -2839,7 +2839,7 @@
 15	April	April	PROPN	SP	_	14	flat	_	SpaceAfter=No
 16	,	,	PUNCT	FF	_	14	punct	_	_
 17	Saint	Saint	PROPN	SP	_	20	nmod	_	_
-18	George	George	PROPN	SP	_	17	flat:name	_	SpaceAfter=No
+18	George	George	PROPN	SP	_	17	flat	_	SpaceAfter=No
 19	's	's	PART	PART	_	17	case	_	_
 20	Day	day	NOUN	S	Number=Sing	15	nmod	_	SpaceAfter=No
 21	.	.	PUNCT	FS	_	6	punct	_	_
@@ -2865,7 +2865,7 @@
 17	of	of	ADP	E	_	19	case	_	_
 18	the	the	DET	RD	Definite=Def|PronType=Art	19	det	_	_
 19	River	River	PROPN	SP	_	16	nmod	_	_
-20	Thames	Thames	PROPN	SP	_	19	flat:name	_	SpaceAfter=No
+20	Thames	Thames	PROPN	SP	_	19	flat	_	SpaceAfter=No
 21	,	,	PUNCT	FF	_	19	punct	_	_
 22	which	which	PRON	PR	PronType=Rel	24	obj	_	_
 23	they	they	PRON	PE	Number=Plur|Person=3|PronType=Prs	24	nsubj	_	_
@@ -2915,7 +2915,7 @@
 16	north	north	NOUN	S	Number=Sing	15	nmod	_	_
 17	of	of	ADP	E	_	21	case	_	_
 18	St	St	PROPN	SP	_	21	nmod	_	_
-19	Paul	Paul	PROPN	SP	_	18	flat:name	_	SpaceAfter=No
+19	Paul	Paul	PROPN	SP	_	18	flat	_	SpaceAfter=No
 20	's	's	PART	PART	_	18	case	_	_
 21	Cathedral	cathedral	NOUN	S	Number=Sing	16	nmod	_	_
 22	with	with	ADP	E	_	25	case	_	_
@@ -2936,7 +2936,7 @@
 8	Huguenot	huguenot	NOUN	S	Number=Sing	3	obl	_	_
 9	named	name	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	8	acl	_	_
 10	Christopher	Christopher	PROPN	SP	_	9	xcomp	_	_
-11	Mountjoy	Mountjoy	PROPN	SP	_	10	flat:name	_	SpaceAfter=No
+11	Mountjoy	Mountjoy	PROPN	SP	_	10	flat	_	SpaceAfter=No
 12	,	,	PUNCT	FF	_	10	punct	_	_
 13	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	14	det	_	_
 14	maker	maker	NOUN	S	Number=Sing	10	appos	_	_
@@ -2961,7 +2961,7 @@
 8	probably	probably	ADV	B	_	10	advmod	_	_
 9	with	with	ADP	E	_	10	case	_	_
 10	John	John	PROPN	SP	_	6	nmod	_	_
-11	Fletcher	Fletcher	PROPN	SP	_	10	flat:name	_	SpaceAfter=No
+11	Fletcher	Fletcher	PROPN	SP	_	10	flat	_	SpaceAfter=No
 12	,	,	PUNCT	FF	_	10	punct	_	_
 13	who	who	PRON	PR	PronType=Rel	14	nsubj	_	_
 14	succeeded	succeed	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	10	acl:relcl	_	_
@@ -2992,8 +2992,8 @@
 2	1613	1613	NUM	N	NumType=Card	7	obl	_	SpaceAfter=No
 3	,	,	PUNCT	FF	_	2	punct	_	_
 4	Sir	Sir	PROPN	SP	_	7	nsubj	_	_
-5	Henry	Henry	PROPN	SP	_	4	flat:name	_	_
-6	Wotton	Wotton	PROPN	SP	_	4	flat:name	_	_
+5	Henry	Henry	PROPN	SP	_	4	flat	_	_
+6	Wotton	Wotton	PROPN	SP	_	4	flat	_	_
 7	recorded	record	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 8	that	that	SCONJ	CS	_	13	mark	_	_
 9	Henry	Henry	PROPN	SP	_	13	nsubj:pass	_	_
@@ -3036,7 +3036,7 @@
 3	them	they	PRON	PE	Number=Plur|Person=3|PronType=Prs	2	obj	_	_
 4	to	to	ADP	E	_	5	case	_	_
 5	Henry	Henry	PROPN	SP	_	2	obl	_	_
-6	Wriothesley	Wriothesley	PROPN	SP	_	5	flat:name	_	SpaceAfter=No
+6	Wriothesley	Wriothesley	PROPN	SP	_	5	flat	_	SpaceAfter=No
 7	,	,	PUNCT	FF	_	5	punct	_	_
 8	Earl	Earl	PROPN	SP	_	5	appos	_	_
 9	of	of	ADP	E	_	10	case	_	_
@@ -3051,7 +3051,7 @@
 4	operas	opera	NOUN	S	Number=Plur	2	obj	_	_
 5	by	by	ADP	E	_	6	case	_	_
 6	Giuseppe	Giuseppe	PROPN	SP	_	4	nmod	_	_
-7	Verdi	Verdi	PROPN	SP	_	6	flat:name	_	SpaceAfter=No
+7	Verdi	Verdi	PROPN	SP	_	6	flat	_	SpaceAfter=No
 8	,	,	PUNCT	FF	_	4	punct	_	_
 9	Otello	Otello	PROPN	SP	_	4	nmod	_	_
 10	and	and	CCONJ	CC	_	11	cc	_	_
@@ -3145,7 +3145,7 @@
 10	-	-	PUNCT	FF	_	9	punct	_	SpaceAfter=No
 11	old	old	ADJ	A	Degree=Pos	9	amod	_	_
 12	Anne	Anne	PROPN	SP	_	5	obj	_	_
-13	Hathaway	Hathaway	PROPN	SP	_	12	flat:name	_	SpaceAfter=No
+13	Hathaway	Hathaway	PROPN	SP	_	12	flat	_	SpaceAfter=No
 14	,	,	PUNCT	FF	_	12	punct	_	_
 15	who	who	PRON	PR	PronType=Rel	17	nsubj	_	_
 16	was	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	17	cop	_	_
@@ -3162,7 +3162,7 @@
 6	century	century	NOUN	S	Number=Sing	10	obl	_	SpaceAfter=No
 7	,	,	PUNCT	FF	_	6	punct	_	_
 8	Edward	Edward	PROPN	SP	_	10	nsubj	_	_
-9	Dowden	Dowden	PROPN	SP	_	8	flat:name	_	_
+9	Dowden	Dowden	PROPN	SP	_	8	flat	_	_
 10	classified	classify	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 11	four	four	NUM	N	NumType=Card	10	obj	_	_
 12	of	of	ADP	E	_	15	case	_	_

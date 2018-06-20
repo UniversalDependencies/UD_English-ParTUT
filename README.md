@@ -65,6 +65,9 @@ appears as follows:
 
 
 ## Changelog
+2018-04-15 v2.2
+* few minor changes
+
 2017-11-15 v2.1
 * revised dates (now annotated as flat structures)
 * changed xpos of copulas (from VA to V)
@@ -77,8 +80,8 @@ appears as follows:
 
 # Metadata
 
-```
 === Machine-readable metadata ================================================
+```
 Data available since: UD v2.0
 License: CC BY-NC-SA 4.0
 Includes text: yes
@@ -91,5 +94,6 @@ Relations: converted with corrections
 Contributors: Bosco, Cristina; Sanguinetti, Manuela
 Contributing: elsewhere
 Contact: msanguin@di.unito.it
-===============================================================================
 ```
+===============================================================================
+
