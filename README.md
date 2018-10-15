@@ -65,6 +65,9 @@ appears as follows:
 
 
 ## Changelog
+2018-11-15 v2.3
+* no changes since last version
+
 2018-04-15 v2.2
 * few minor changes
 
