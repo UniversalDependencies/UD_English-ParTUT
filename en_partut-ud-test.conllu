@@ -145,7 +145,7 @@
 6	I	I	PRON	PE	Number=Sing|Person=1|PronType=Prs	7	nsubj	_	_
 7	feel	feel	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 8	an	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	9	det	_	_
-9	initiative	initiative	NOUN	S	Number=Sing	17	nsubj	_	_
+9	initiative	initiative	NOUN	S	Number=Sing	20	nsubj	_	_
 10	of	of	ADP	E	_	12	case	_	_
 11	the	the	DET	RD	Definite=Def|PronType=Art	12	det	_	_
 12	type	type	NOUN	S	Number=Sing	9	nmod	_	_
@@ -541,7 +541,7 @@
 9	we	we	PRON	PE	Number=Plur|Person=1|PronType=Prs	10	nsubj	_	_
 10	believe	believe	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	2	csubj	_	_
 11	-	-	PUNCT	FB	_	16	punct	_	_
-12	and	and	CCONJ	CC	_	10	cc	_	_
+12	and	and	CCONJ	CC	_	16	cc	_	_
 13	this	this	PRON	PD	Number=Sing|PronType=Dem	16	nsubj:pass	_	_
 14	is	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	aux:pass	_	_
 15	also	also	ADV	B	_	16	advmod	_	_
@@ -2069,7 +2069,7 @@
 12	Procedure	procedure	NOUN	S	Number=Sing	10	nmod	_	_
 13	as	as	ADP	E	_	15	case	_	_
 14	are	be	AUX	VA	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	15	aux	_	_
-15	rendered	render	VERB	V	Tense=Past|VerbForm=Part	5	advmod	_	_
+15	rendered	render	VERB	V	Tense=Past|VerbForm=Part	5	advcl	_	_
 16	necessary	necessary	ADJ	A	Degree=Pos	15	xcomp	_	_
 17	by	by	ADP	E	_	18	case	_	_
 18	accession	accession	NOUN	S	Number=Sing	15	obl	_	SpaceAfter=No
@@ -2328,7 +2328,7 @@
 21	Procedure	procedure	NOUN	S	Number=Sing	19	nmod	_	_
 22	as	as	ADP	E	_	24	case	_	_
 23	are	be	AUX	VA	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	24	aux	_	_
-24	rendered	render	VERB	V	Tense=Past|VerbForm=Part	14	advmod	_	_
+24	rendered	render	VERB	V	Tense=Past|VerbForm=Part	14	advcl	_	_
 25	necessary	necessary	ADJ	A	Degree=Pos	24	xcomp	_	_
 26	by	by	ADP	E	_	27	case	_	_
 27	accession	accession	NOUN	S	Number=Sing	24	obl	_	SpaceAfter=No
@@ -3327,7 +3327,7 @@
 # sent_id = en_partut-ud-1485
 # text = If there is no oppression of Russian speakers in Ukraine, there is no reason to change the country's political structure.
 1	If	if	SCONJ	CS	_	3	mark	_	_
-2	there	there	ADV	B	_	3	expl	_	_
+2	there	there	PRON	_	_	3	expl	_	_
 3	is	be	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	advcl	_	_
 4	no	no	DET	DI	PronType=Ind	5	det	_	_
 5	oppression	oppression	NOUN	S	Number=Sing	3	nsubj	_	_
@@ -3337,7 +3337,7 @@
 9	in	in	ADP	E	_	10	case	_	_
 10	Ukraine	Ukraine	PROPN	SP	_	3	obl	_	SpaceAfter=No
 11	,	,	PUNCT	FF	_	3	punct	_	_
-12	there	there	ADV	B	_	13	expl	_	_
+12	there	there	PRON	_	_	13	expl	_	_
 13	is	be	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 14	no	no	DET	DI	PronType=Ind	15	det	_	_
 15	reason	reason	NOUN	S	Number=Sing	13	nsubj	_	_
@@ -3816,10 +3816,10 @@
 1	In	in	ADP	E	_	8	case	_	_
 2	the	the	DET	RD	Definite=Def|PronType=Art	8	det	_	_
 3	18	18	NUM	N	NumType=Card	8	nummod	_	SpaceAfter=No
-4	th	th	ADJ	A	Degree=Pos	3	goeswith	_	_
+4	th	th	ADJ	A	Degree=Pos	3	amod	_	_
 5	and	and	CCONJ	CC	_	6	cc	_	_
 6	19	19	NUM	N	NumType=Card	3	conj	_	SpaceAfter=No
-7	th	th	ADJ	A	Degree=Pos	6	goeswith	_	_
+7	th	th	ADJ	A	Degree=Pos	6	amod	_	_
 8	centuries	century	NOUN	S	Number=Plur	13	obl	_	SpaceAfter=No
 9	,	,	PUNCT	FF	_	8	punct	_	_
 10	his	his	DET	AP	Poss=Yes|PronType=Prs	11	nmod:poss	_	_
@@ -3838,7 +3838,7 @@
 5	of	of	ADP	E	_	6	case	_	_
 6	academics	academics	NOUN	S	Gender=Fem|Number=Plur	4	nmod	_	_
 7	believe	believe	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	0	root	_	_
-8	there	there	ADV	B	_	9	expl	_	_
+8	there	there	PRON	_	_	9	expl	_	_
 9	is	be	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	ccomp	_	_
 10	reason	reason	NOUN	S	Number=Sing	9	nsubj	_	_
 11	to	to	PART	PART	_	12	mark	_	_
@@ -3865,7 +3865,7 @@
 32	into	into	ADP	E	_	36	case	_	_
 33	the	the	DET	RD	Definite=Def|PronType=Art	36	det	_	_
 34	21	21	NUM	N	NumType=Card	36	nummod	_	SpaceAfter=No
-35	st	st	ADJ	A	Degree=Pos	34	goeswith	_	_
+35	st	st	ADJ	A	Degree=Pos	34	amod	_	_
 36	century	century	NOUN	S	Number=Sing	31	obl	_	SpaceAfter=No
 37	.	.	PUNCT	FS	_	7	punct	_	_
 
