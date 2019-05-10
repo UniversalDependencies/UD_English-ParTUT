@@ -3,11 +3,11 @@ commit d71d1b63fd448a8b098d4b5a0329f8da3f7413b0
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
 Date:   Sat Apr 21 19:02:58 2018 +0200
 Evaluating the following revision of UD_English-ParTUT:
-commit b71112b1d60d702bdc0d301db1a49520b842ab48
-Merge: 3336ec2 57aa95a
+commit cc6dc1b16ff5c8a7b2283a93186776c258b20989
+Merge: 57520cc f49187d
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Size: counted 49648 of 49648 words (nodes).
-Size: min(0, log((N/1000)**2)) = 7.80991621541205.
+Size: counted 49634 of 49634 words (nodes).
+Size: min(0, log((N/1000)**2)) = 7.80935216553019.
 Size: maximum value 13.815511 is for 1000000 words or more.
 Split: Found more than 10000 training words.
 Split: Did not find at least 10000 development words.
@@ -15,12 +15,12 @@ Split: Did not find at least 10000 test words.
 Lemmas: source of annotation (from README) factor is 0.9.
 Universal POS tags: 17 out of 17 found in the corpus.
 Universal POS tags: source of annotation (from README) factor is 0.9.
-Features: 30261 out of 49648 total words have one or more features.
+Features: 30252 out of 49634 total words have one or more features.
 Features: source of annotation (from README) factor is 0.9.
 Universal relations: 34 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 0.9.
-Udapi: found 139 bugs.
-Udapi: worst expected case (threshold) is one bug per 10 words. There are 49648 words.
+Udapi: found 69 bugs.
+Udapi: worst expected case (threshold) is one bug per 10 words. There are 49634 words.
 Genres: found 3 out of 17 known.
 validate.py --lang en --max-err=10 UD_English-ParTUT/en_partut-ud-dev.conllu
 *** PASSED ***
@@ -32,11 +32,11 @@ Validity: 1
 (weight=0.0769230769230769) * (score{features}=0.9) = 0.0692307692307692
 (weight=0.0769230769230769) * (score{genres}=0.176470588235294) = 0.0135746606334842
 (weight=0.0769230769230769) * (score{lemmas}=0.9) = 0.0692307692307692
-(weight=0.256410256410256) * (score{size}=0.56530058608003) = 0.144948868225649
+(weight=0.256410256410256) * (score{size}=0.565259758788162) = 0.144938399689272
 (weight=0.0512820512820513) * (score{split}=0.34) = 0.0174358974358974
 (weight=0.0769230769230769) * (score{tags}=0.9) = 0.0692307692307692
-(weight=0.307692307692308) * (score{udapi}=0.972002900418949) = 0.299077815513523
+(weight=0.307692307692308) * (score{udapi}=0.986098239110287) = 0.303414842803165
 (weight=0.0769230769230769) * (score{udeprels}=0.827027027027027) = 0.0636174636174636
-(TOTAL score=0.746347013118325) * (availability=1) * (validity=1) = 0.746347013118325
-STARS = 3.5
-UD_English-ParTUT	0.746347013118325	3.5
+(TOTAL score=0.75067357187159) * (availability=1) * (validity=1) = 0.75067357187159
+STARS = 4
+UD_English-ParTUT	0.75067357187159	4
