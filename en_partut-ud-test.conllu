@@ -477,11 +477,11 @@
 45	and	and	CCONJ	CC	_	47	cc	_	_
 46	Social	social	ADJ	A	Degree=Pos	47	amod	_	_
 47	Affairs	affair	NOUN	S	Number=Plur	44	conj	_	_
-48	but	but	CCONJ	CC	_	39	cc	_	_
+48	but	but	CCONJ	CC	_	52	cc	_	_
 49	who	who	PRON	PR	PronType=Rel	52	nsubj	_	_
 50	is	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	52	cop	_	_
 51	unfortunately	unfortunately	ADV	B	_	52	advmod	_	_
-52	ill	ill	ADJ	A	Degree=Pos	47	acl:relcl	_	SpaceAfter=No
+52	ill	ill	ADJ	A	Degree=Pos	38	conj	_	SpaceAfter=No
 53	.	.	PUNCT	FS	_	8	punct	_	_
 
 # sent_id = en_partut-ud-331
