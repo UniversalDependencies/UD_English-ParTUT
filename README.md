@@ -65,6 +65,9 @@ appears as follows:
 
 
 ## Changelog
+2019-11-15 v2.5
+* revised some non-projective structures
+
 2019-05-15 v2.4
 * various corrections to pass new validation
 
