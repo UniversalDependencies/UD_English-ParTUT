@@ -3,9 +3,9 @@ commit d71d1b63fd448a8b098d4b5a0329f8da3f7413b0
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
 Date:   Sat Apr 21 19:02:58 2018 +0200
 Evaluating the following revision of UD_English-ParTUT:
-commit 7e8ac0f6da38dcc6b1321e3d2275845155f3937a
-Merge: 4eab386 4f5b344
+commit c638497a56e5b77b7d42ed187972e0993a6c1041
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Date:   Tue Nov 12 16:57:49 2019 +0100
 Size: counted 49634 of 49634 words (nodes).
 Size: min(0, log((N/1000)**2)) = 7.80935216553019.
 Size: maximum value 13.815511 is for 1000000 words or more.
