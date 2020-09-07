@@ -1923,7 +1923,7 @@
 12	Mr	mister	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
 13	Kumar	Kumar	PROPN	SP	_	12	flat	_	_
 14	Ponnambalam	Ponnambalam	PROPN	SP	_	12	flat	_	SpaceAfter=No
-15	,	,	PUNCT	FF	_	13	punct	_	_
+15	,	,	PUNCT	FF	_	18	punct	_	_
 16	who	who	PRON	PR	PronType=Rel	18	nsubj	_	_
 17	had	have	AUX	VA	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	18	aux	_	_
 18	visited	visit	VERB	V	Tense=Past|VerbForm=Part	12	acl:relcl	_	_
