@@ -2439,7 +2439,7 @@
 9	yellow	yellow	ADJ	A	Degree=Pos	10	amod	_	_
 10	fever	fever	NOUN	S	Number=Sing	7	nmod	_	_
 11	annually	annually	ADV	B	_	3	advmod	_	SpaceAfter=No
-12	,	,	PUNCT	FF	_	7	punct	_	_
+12	,	,	PUNCT	FF	_	13	punct	_	_
 13	leading	lead	VERB	V	VerbForm=Ger	7	acl	_	_
 14	to	to	ADP	E	_	16	case	_	_
 15	30,000	30,000	NUM	N	NumType=Card	16	nummod	_	_
