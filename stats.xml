@@ -10,19 +10,19 @@
     <dev><sentences>156</sentences><tokens>2721</tokens><words>2722</words><fused>1</fused></dev>
     <test><sentences>153</sentences><tokens>3404</tokens><words>3408</words><fused>4</fused></test>
   </size>
-  <lemmas unique="5581" /><!-- the, ,, ., of, be, and, to, in, a, that, have, for, this, -, as -->
+  <lemmas unique="5580" /><!-- the, ,, ., of, be, and, to, in, a, that, have, for, this, -, as -->
   <forms unique="6857" /><!-- the, ,, ., of, and, to, in, a, that, is, for, -, 's, as, this -->
   <fusions unique="9" /><!-- cannot, don't, ain't, can't, won't, aren't, des, had, shouldn't -->
   <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
   <tags unique="17">
-    <tag name="ADJ">3840</tag><!-- other, first, new, european, economic, financial, social, many, important, own -->
+    <tag name="ADJ">3839</tag><!-- other, first, new, european, economic, financial, social, many, important, own -->
     <tag name="ADP">6000</tag><!-- of, in, to, for, on, by, with, as, from, at -->
     <tag name="ADV">1896</tag><!-- more, also, so, now, only, how, however, well, as, very -->
     <tag name="AUX">2433</tag><!-- be, have, will, shall, can, may, do, must, might -->
     <tag name="CCONJ">1653</tag><!-- and, or, but, both, nor, neither, either, yet, as, et -->
     <tag name="DET">5321</tag><!-- the, a, this, his, their, its, any, us, that, no -->
     <tag name="INTJ">8</tag><!-- yes, etc., right -->
-    <tag name="NOUN">10570</tag><!-- work, time, commission, country, member, year, right, state, parliament, president -->
+    <tag name="NOUN">10571</tag><!-- work, time, commission, country, member, year, right, state, parliament, president -->
     <tag name="NUM">908</tag><!-- two, one, 1, three, 2, four, 18, 3, 6, five -->
     <tag name="PART">1290</tag><!-- to, 's, not, ' -->
     <tag name="PRON">2053</tag><!-- it, that, he, i, we, which, they, you, this, who -->
@@ -38,7 +38,7 @@
     <feat name="Definite" value="Def" upos="DET">2963</feat><!-- the, ’s, la, les, Le, une -->
     <feat name="Definite" value="Ind" upos="DET">974</feat><!-- a, an, another, Une -->
     <feat name="Degree" value="Cmp" upos="ADJ,ADV">242</feat><!-- more, less, later, greater, better, higher, longer, lower, bigger, closer -->
-    <feat name="Degree" value="Pos" upos="ADJ,ADV">3637</feat><!-- other, first, new, European, economic, financial, social, many, important, own -->
+    <feat name="Degree" value="Pos" upos="ADJ,ADV">3636</feat><!-- other, first, new, European, economic, financial, social, many, important, own -->
     <feat name="Degree" value="Sup" upos="ADJ,ADV">90</feat><!-- least, most, best, greatest, largest, highest, earliest, finest, latest, strongest -->
     <feat name="Foreign" value="Yes" upos="X">113</feat><!-- La, Comédie, humaine, De, Illusions, Le, Perdues, Chagrin, Peau, Père -->
     <feat name="Gender" value="Fem" upos="ADJ,DET,NOUN,PRON">174</feat><!-- women, Madam, she, Mrs, policymakers, wellbeing, additionality, agriculture, bardolatry, codependency -->
@@ -47,7 +47,7 @@
     <feat name="Mood" value="Ind" upos="AUX,VERB">3623</feat><!-- is, are, was, has, have, would, should, can, shall, will -->
     <feat name="Mood" value="Sub" upos="AUX,VERB">18</feat><!-- be, express -->
     <feat name="Number" value="Plur" upos="ADJ,AUX,DET,NOUN,PRON,VERB">4337</feat><!-- are, we, have, they, these, were, those, countries, people, states -->
-    <feat name="Number" value="Sing" upos="ADJ,AUX,DET,NOUN,PRON,VERB">11524</feat><!-- a, is, this, it, I, was, has, he, an, work -->
+    <feat name="Number" value="Sing" upos="ADJ,AUX,DET,NOUN,PRON,VERB">11525</feat><!-- a, is, this, it, I, was, has, he, an, work -->
     <feat name="NumType" value="Card" upos="NUM">908</feat><!-- two, one, 1, three, 2, four, 18, 3, 6, five -->
     <feat name="NumType" value="Ord" upos="ADJ,PRON">144</feat><!-- first, last, second, third, II, III, sixth, I, IV, VI -->
     <feat name="Person" value="1" upos="AUX,PRON,VERB">534</feat><!-- I, we, us, have, am, believe, me, do, think, ourselves -->
@@ -76,7 +76,7 @@
     <dep name="acl:relcl">458</dep>
     <dep name="advcl">770</dep>
     <dep name="advmod">1984</dep>
-    <dep name="amod">3139</dep>
+    <dep name="amod">3138</dep>
     <dep name="appos">119</dep>
     <dep name="aux">1246</dep>
     <dep name="aux:pass">476</dep>
@@ -101,7 +101,7 @@
     <dep name="goeswith">1</dep>
     <dep name="iobj">33</dep>
     <dep name="mark">1613</dep>
-    <dep name="nmod">4458</dep>
+    <dep name="nmod">4459</dep>
     <dep name="nmod:npmod">12</dep>
     <dep name="nmod:poss">642</dep>
     <dep name="nmod:tmod">4</dep>
