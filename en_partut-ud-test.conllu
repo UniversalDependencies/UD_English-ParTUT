@@ -3712,7 +3712,7 @@
 3	carved	carve	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 4	into	into	ADP	E	_	7	case	_	_
 5	the	the	DET	RD	Definite=Def|PronType=Art	7	det	_	_
-6	stone	stone	ADJ	A	Degree=Pos	7	amod	_	_
+6	stone	stone	NOUN	S	Number=Sing	7	nmod	_	_
 7	slab	slab	NOUN	S	Number=Sing	3	obl	_	_
 8	covering	cover	VERB	V	Number=Sing|Tense=Pres|VerbForm=Part	7	acl	_	_
 9	his	his	DET	AP	Poss=Yes|PronType=Prs	10	nmod:poss	_	_
@@ -3721,7 +3721,7 @@
 12	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	13	det	_	_
 13	curse	curse	NOUN	S	Number=Sing	11	obj	_	_
 14	against	against	ADP	E	_	15	mark	_	_
-15	moving	moving	VERB	V	VerbForm=Ger	11	advcl	_	_
+15	moving	move	VERB	V	VerbForm=Ger	11	advcl	_	_
 16	his	his	DET	AP	Poss=Yes|PronType=Prs	17	nmod:poss	_	_
 17	bones	bone	NOUN	S	Number=Plur	15	obj	_	SpaceAfter=No
 18	,	,	PUNCT	FF	_	17	punct	_	_
