@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit ca3b862e9e2871c76cd91bf78ffb089c0c60184d
+commit 3478a99bb195eb8749c367af4f7b3fd357a12a4c
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Thu May 6 20:16:19 2021 +0200
+Date:   Tue Nov 2 22:17:19 2021 +0100
 Evaluating the following revision of UD_English-ParTUT:
-commit d16e4fd0834ae75a272d86e26b05480b5ddf0bdc
-Merge: 4005308 e554726
+commit a5a8f626106e9dac595236ac7b15fcbbbaa2b4fb
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Date:   Thu May 13 09:06:50 2021 +0200
 Size: counted 49634 of 49634 words (nodes).
 Size: min(0, log((N/1000)**2)) = 7.80935216553019.
 Size: maximum value 13.815511 is for 1000000 words or more.
