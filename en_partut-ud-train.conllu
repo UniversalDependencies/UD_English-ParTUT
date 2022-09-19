@@ -37195,14 +37195,12 @@
 11	but	but	CCONJ	CC	_	14	cc	_	_
 12	his	his	DET	AP	Poss=Yes|PronType=Prs	13	nmod:poss	_	_
 13	apprentice	apprentice	NOUN	S	Number=Sing	14	nsubj	_	_
-14-15	had	_	_	_	_	_	_	_	_
-14	h	have	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	4	conj	_	_
-15	ad	have	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	14	goeswith	_	_
-16	enough	enough	ADV	B	_	14	advmod	_	_
-17	of	of	ADP	E	_	19	case	_	_
-18	the	the	DET	RD	Definite=Def|PronType=Art	19	det	_	_
-19	law	law	NOUN	S	Number=Sing	14	nmod	_	SpaceAfter=No
-20	.	.	PUNCT	FS	_	4	punct	_	_
+14	had	have	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	4	conj	_	_
+15	enough	enough	ADV	B	_	14	advmod	_	_
+16	of	of	ADP	E	_	18	case	_	_
+17	the	the	DET	RD	Definite=Def|PronType=Art	18	det	_	_
+18	law	law	NOUN	S	Number=Sing	14	nmod	_	SpaceAfter=No
+19	.	.	PUNCT	FS	_	4	punct	_	_
 
 # sent_id = en_partut-ud-1598
 # text = He despaired of being "a clerk, a machine, a riding-school hack, eating and drinking and sleeping at fixed hours.
