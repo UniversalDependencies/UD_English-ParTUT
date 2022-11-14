@@ -10287,7 +10287,7 @@
 20	desk	desk	NOUN	S	Number=Sing	21	nmod	_	_
 21	officer	officer	NOUN	S	Number=Sing	15	nmod	_	SpaceAfter=No
 22	,	,	PUNCT	FF	_	11	punct	_	_
-23	either	either	CCONJ	CC	_	31	cc	_	_
+23	either	either	CCONJ	CC	_	26	cc	_	_
 24	in	in	ADP	E	_	26	case	_	_
 25	the	the	DET	RD	Definite=Def|PronType=Art	26	det	_	_
 26	Commission	commission	NOUN	S	Number=Sing	11	obl	_	_
