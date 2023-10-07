@@ -42303,7 +42303,7 @@
 4	in	in	ADP	E	_	5	case	_	_
 5	Stratford	Stratford	PROPN	SP	_	3	obl	_	SpaceAfter=No
 6	-	-	PUNCT	FF	_	5	punct	_	SpaceAfter=No
-7	upon	upon	ADP	E	_	5	fixed	_	SpaceAfter=No
+7	upon	upon	ADP	E	_	5	flat	_	SpaceAfter=No
 8	-	-	PUNCT	FF	_	5	punct	_	SpaceAfter=No
 9	Avon	Avon	PROPN	SP	_	5	flat	_	_
 10	and	and	CCONJ	CC	_	11	cc	_	_
