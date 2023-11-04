@@ -95,8 +95,8 @@
     <dep name="discourse">11</dep>
     <dep name="dislocated">5</dep>
     <dep name="expl">132</dep>
-    <dep name="fixed">271</dep>
-    <dep name="flat">615</dep>
+    <dep name="fixed">270</dep>
+    <dep name="flat">616</dep>
     <dep name="flat:foreign">73</dep>
     <dep name="iobj">33</dep>
     <dep name="mark">1613</dep>
