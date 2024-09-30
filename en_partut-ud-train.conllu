@@ -22935,7 +22935,7 @@
 # text = And some of those whale meat samples were whale meat.
 1	And	and	CCONJ	CC	_	10	cc	_	_
 2	some	some	PRON	PI	PronType=Ind	10	nsubj	_	_
-3	of	of	ADP	E	_	4	case	_	_
+3	of	of	ADP	E	_	7	case	_	_
 4	those	that	DET	D	Number=Plur|PronType=Dem	7	det	_	_
 5	whale	whale	NOUN	S	Number=Sing	6	nmod	_	_
 6	meat	meat	NOUN	S	Number=Sing	7	nmod	_	_
@@ -40305,11 +40305,11 @@
 6	first	first	ADJ	NO	Degree=Pos|NumType=Ord	7	amod	_	_
 7	edition	edition	NOUN	S	Number=Sing	3	nmod	_	_
 8	of	of	ADP	E	_	9	case	_	_
-9	Scènes	Scènes	X	SW	_	7	nmod	_	_
-10	De	De	X	SW	_	9	flat:foreign	_	_
-11	La	La	X	SW	_	9	flat:foreign	_	_
-12	Vie	Vie	X	SW	_	9	flat:foreign	_	_
-13	Privée	Privée	X	SW	_	9	flat:foreign	_	SpaceAfter=No
+9	Scènes	Scènes	X	SW	Foreign=Yes	7	nmod	_	_
+10	De	De	X	SW	Foreign=Yes	9	flat:foreign	_	_
+11	La	La	X	SW	Foreign=Yes	9	flat:foreign	_	_
+12	Vie	Vie	X	SW	Foreign=Yes	9	flat:foreign	_	_
+13	Privée	Privée	X	SW	Foreign=Yes	9	flat:foreign	_	SpaceAfter=No
 14	,	,	PUNCT	FF	_	3	punct	_	_
 15	he	he	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	16	nsubj	_	_
 16	writes	write	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
@@ -40433,11 +40433,11 @@
 12	the	the	DET	RD	Definite=Def|PronType=Art	13	det	_	_
 13	preface	preface	NOUN	S	Number=Sing	10	obl	_	_
 14	to	to	ADP	E	_	16	case	_	_
-15	Le	le	X	SW	Foreign=Yes		16	det	_	_
-16	Lys	lys	X	SW	Foreign=Yes		13	nmod	_	_
-17	dans	dans	X	SW	Foreign=Yes		19	case	_	_
-18	La	la	X	SW	Foreign=Yes		19	det	_	_
-19	Vallée	vallée	X	SW	Foreign=Yes		16	nmod	_	SpaceAfter=No
+15	Le	le	X	SW	Foreign=Yes	16	det	_	_
+16	Lys	lys	X	SW	Foreign=Yes	13	nmod	_	_
+17	dans	dans	X	SW	Foreign=Yes	19	case	_	_
+18	La	la	X	SW	Foreign=Yes	19	det	_	_
+19	Vallée	vallée	X	SW	Foreign=Yes	16	nmod	_	SpaceAfter=No
 20	,	,	PUNCT	FF	_	10	punct	_	_
 21	"	"	PUNCT	FB	_	23	punct	_	SpaceAfter=No
 22	writers	writer	NOUN	S	Number=Plur	23	nsubj	_	_
@@ -41273,21 +41273,20 @@
 5	Flaubert	Flaubert	PROPN	SP	_	7	nmod	_	SpaceAfter=No
 6	's	's	PART	PART	_	5	case	_	_
 7	work	work	NOUN	S	Number=Sing	3	obl	_	_
-8	L	L	DET	_	PronType=Art	10	det	_	SpaceAfter=No
-9	'	'	X	X	_	8	dep	_	SpaceAfter=No
-10	education	education	X	SW	Foreign=Yes	7	nmod	_	_
-11	sentimentale	sentimentale	X	SW	Foreign=Yes	10	amod	_	SpaceAfter=No
-12	,	,	PUNCT	FF	_	7	punct	_	_
-13	which	which	PRON	PR	PronType=Rel	14	nsubj	_	_
-14	owes	owe	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	acl:relcl	_	_
-15	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	16	det	_	_
-16	debt	debt	NOUN	S	Number=Sing	14	obj	_	_
-17	to	to	ADP	E	_	20	case	_	_
-18	Balzac	Balzac	PROPN	SP	_	20	nmod	_	SpaceAfter=No
-19	's	's	PART	PART	_	18	case	_	_
-20	Illusions	illusions	X	SW	Foreign=Yes	14	obl	_	_
-21	Perdues	perdues	X	SW	Foreign=Yes	20	flat:foreign	_	SpaceAfter=No
-22	.	.	PUNCT	FS	_	3	punct	_	_
+8	L'	L	DET	_	PronType=Art	7	nmod	_	SpaceAfter=No
+9	education	education	X	SW	Foreign=Yes	8	flat:foreign	_	_
+10	sentimentale	sentimentale	X	SW	Foreign=Yes	8	flat:foreign	_	SpaceAfter=No
+11	,	,	PUNCT	FF	_	8	punct	_	_
+12	which	which	PRON	PR	PronType=Rel	13	nsubj	_	_
+13	owes	owe	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	acl:relcl	_	_
+14	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	15	det	_	_
+15	debt	debt	NOUN	S	Number=Sing	13	obj	_	_
+16	to	to	ADP	E	_	17	case	_	_
+17	Balzac	Balzac	PROPN	SP	_	19	nmod	_	SpaceAfter=No
+18	's	's	PART	PART	_	17	case	_	_
+19	Illusions	illusions	X	SW	Foreign=Yes	13	obl	_	_
+20	Perdues	perdues	X	SW	Foreign=Yes	19	flat:foreign	_	SpaceAfter=No
+21	.	.	PUNCT	FS	_	19	punct	_	_
 
 # sent_id = en_partut-ud-1783
 # text = "What Balzac started", says Lehan, "Flaubert helped finish.
@@ -41384,14 +41383,14 @@
 38	which	which	PRON	PR	PronType=Rel	40	obj	_	_
 39	Proust	Proust	PROPN	SP	_	40	nsubj	_	_
 40	used	use	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	37	acl:relcl	_	_
-41	in	in	ADP	E	_	44	case	_	_
-42	A	à	X	SW	Foreign=Yes	44	case	_	_
-43	la	la	X	SW	Foreign=Yes	44	det	_	_
-44	Recherche	recherche	X	SW	Foreign=Yes	40	obl	_	_
-45	du	du	X	SW	Foreign=Yes	46	case	_	_
-46	Temps	temp	X	SW	Foreign=Yes	44	nmod	_	_
-47	Perdu	perdu	X	SW	Foreign=Yes	46	amod	_	SpaceAfter=No
-48	.	.	PUNCT	FS	_	34	punct	_	_
+41	in	in	ADP	E	_	42	case	_	_
+42	A	à	X	SW	Foreign=Yes	40	obl	_	_
+43	la	la	X	SW	Foreign=Yes	42	flat:foreign	_	_
+44	Recherche	recherche	X	SW	Foreign=Yes	42	flat:foreign	_	_
+45	du	du	X	SW	Foreign=Yes	42	flat:foreign	_	_
+46	Temps	temp	X	SW	Foreign=Yes	42	flat:foreign	_	_
+47	Perdu	perdu	X	SW	Foreign=Yes	42	flat:foreign	_	SpaceAfter=No
+48	.	.	PUNCT	FS	_	42	punct	_	_
 
 # sent_id = en_partut-ud-1787
 # text = However, Proust wrote later in life that the contemporary fashion to rank Balzac higher than Tolstoy was "madness.
