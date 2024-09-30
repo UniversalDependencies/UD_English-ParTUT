@@ -28,7 +28,7 @@
 10	-	-	PUNCT	FF	_	9	punct	_	SpaceAfter=No
 11	is	be	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	amod	_	SpaceAfter=No
 12	"	"	PUNCT	FB	_	11	punct	_	_
-13	basis	basis	NOUN	S	Gender=Masc|Number=Sing	3	obl	_	SpaceAfter=No
+13	basis	basis	NOUN	S	Number=Sing	3	obl	_	SpaceAfter=No
 14	.	.	PUNCT	FS	_	3	punct	_	_
 
 # sent_id = en_partut-ud-5
@@ -379,7 +379,7 @@
 6	exercised	exercise	VERB	V	Tense=Past|VerbForm=Part	0	root	_	_
 7	in	in	ADP	E	_	9	case	_	_
 8	all	all	DET	T	PronType=Tot	9	det	_	_
-9	media	medium	NOUN	S	Gender=Masc|Number=Plur	6	obl	_	_
+9	media	medium	NOUN	S	Number=Plur	6	obl	_	_
 10	and	and	CCONJ	CC	_	11	cc	_	_
 11	formats	format	NOUN	S	Number=Plur	9	conj	_	_
 12	whether	whether	SCONJ	CS	_	14	mark	_	_
@@ -412,7 +412,7 @@
 18	rights	right	NOUN	S	Number=Plur	16	obj	_	_
 19	in	in	ADP	E	_	21	case	_	_
 20	other	other	ADJ	A	Degree=Pos	21	amod	_	_
-21	media	medium	NOUN	S	Gender=Masc|Number=Plur	16	obl	_	_
+21	media	medium	NOUN	S	Number=Plur	16	obl	_	_
 22	and	and	CCONJ	CC	_	23	cc	_	_
 23	formats	format	NOUN	S	Number=Plur	21	conj	_	SpaceAfter=No
 24	.	.	PUNCT	FS	_	4	punct	_	_
@@ -1030,7 +1030,7 @@
 16	,	,	PUNCT	FF	_	8	punct	_	_
 17	at	at	ADP	E	_	19	case	_	_
 18	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	19	det	_	_
-19	minimum	minimum	NOUN	S	Gender=Masc|Number=Sing	23	obl	_	_
+19	minimum	minimum	NOUN	S	Number=Sing	23	obl	_	_
 20	such	such	DET	DD	PronType=Dem	21	det	_	_
 21	credit	credit	NOUN	S	Number=Sing	23	nsubj	_	_
 22	will	will	AUX	VM	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	23	aux	_	_
@@ -1870,7 +1870,7 @@
 
 # sent_id = en_partut-ud-76
 # text = Madam President, on a point of order.
-1	Madam	madam	NOUN	S	Gender=Fem|Number=Sing	6	vocative	_	_
+1	Madam	madam	NOUN	S	Number=Sing	6	vocative	_	_
 2	President	president	NOUN	S	Number=Sing	1	compound	_	SpaceAfter=No
 3	,	,	PUNCT	FF	_	1	punct	_	_
 4	on	on	ADP	E	_	6	case	_	_
@@ -1920,7 +1920,7 @@
 9	Sri	Sri	PROPN	SP	_	5	obl	_	_
 10	Lanka	Lanka	PROPN	SP	_	9	flat	_	_
 11	was	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	12	cop	_	_
-12	Mr	mister	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+12	Mr	mister	NOUN	S	Number=Sing	0	root	_	_
 13	Kumar	Kumar	PROPN	SP	_	12	flat	_	_
 14	Ponnambalam	Ponnambalam	PROPN	SP	_	12	flat	_	SpaceAfter=No
 15	,	,	PUNCT	FF	_	18	punct	_	_
@@ -1946,7 +1946,7 @@
 5	for	for	ADP	E	_	6	case	_	_
 6	you	you	PRON	PE	Person=2|PronType=Prs	4	obl	_	SpaceAfter=No
 7	,	,	PUNCT	FF	_	6	punct	_	_
-8	Madam	madam	NOUN	S	Gender=Fem|Number=Sing	6	vocative	_	_
+8	Madam	madam	NOUN	S	Number=Sing	6	vocative	_	_
 9	President	president	NOUN	S	Number=Sing	8	compound	_	SpaceAfter=No
 10	,	,	PUNCT	FF	_	4	punct	_	_
 11	to	to	PART	PART	_	12	mark	_	_
@@ -2004,7 +2004,7 @@
 7	shall	shall	AUX	VM	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	_
 8	do	do	VERB	V	VerbForm=Inf	0	root	_	_
 9	as	as	SCONJ	CS	_	13	mark	_	_
-10	Mr	mister	NOUN	S	Gender=Masc|Number=Sing	13	nsubj	_	_
+10	Mr	mister	NOUN	S	Number=Sing	13	nsubj	_	_
 11	Evans	Evans	PROPN	SP	_	10	flat	_	_
 12	has	have	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	aux	_	_
 13	suggested	suggest	VERB	V	Tense=Past|VerbForm=Part	8	advcl	_	SpaceAfter=No
@@ -2012,7 +2012,7 @@
 
 # sent_id = en_partut-ud-82
 # text = Madam President, on a point of order.
-1	Madam	madam	NOUN	S	Gender=Fem|Number=Sing	6	vocative	_	_
+1	Madam	madam	NOUN	S	Number=Sing	6	vocative	_	_
 2	President	president	NOUN	S	Number=Sing	1	compound	_	SpaceAfter=No
 3	,	,	PUNCT	FF	_	1	punct	_	_
 4	on	on	ADP	E	_	6	case	_	_
@@ -2166,7 +2166,7 @@
 
 # sent_id = en_partut-ud-89
 # text = Madam President, coinciding with this year's first part-session of the European Parliament, a date has been set, unfortunately for next Thursday, in Texas in America, for the execution of a young 34 year-old man who has been sentenced to death.
-1	Madam	madam	NOUN	S	Gender=Fem|Number=Sing	22	vocative	_	_
+1	Madam	madam	NOUN	S	Number=Sing	22	vocative	_	_
 2	President	president	NOUN	S	Number=Sing	1	compound	_	SpaceAfter=No
 3	,	,	PUNCT	FF	_	1	punct	_	_
 4	coinciding	coincide	VERB	V	VerbForm=Ger	22	advcl	_	_
@@ -2209,7 +2209,7 @@
 41	year	year	NOUN	S	Number=Sing	43	obl	_	SpaceAfter=No
 42	-	-	PUNCT	FF	_	43	punct	_	SpaceAfter=No
 43	old	old	ADJ	A	Degree=Pos	44	amod	_	_
-44	man	man	NOUN	S	Gender=Masc|Number=Sing	36	nmod	_	_
+44	man	man	NOUN	S	Number=Sing	36	nmod	_	_
 45	who	who	PRON	PR	PronType=Rel	48	nsubj:pass	_	_
 46	has	have	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	48	aux	_	_
 47	been	be	AUX	VA	Tense=Past|VerbForm=Part	48	aux:pass	_	_
@@ -2277,7 +2277,7 @@
 55	of	of	ADP	E	_	56	case	_	_
 56	Texas	Texas	PROPN	SP	_	54	nmod	_	SpaceAfter=No
 57	,	,	PUNCT	FF	_	54	punct	_	_
-58	Mr	mister	NOUN	S	Gender=Masc|Number=Sing	54	appos	_	_
+58	Mr	mister	NOUN	S	Number=Sing	54	appos	_	_
 59	Bush	Bush	PROPN	SP	_	58	flat	_	SpaceAfter=No
 60	,	,	PUNCT	FF	_	58	punct	_	_
 61	who	who	PRON	PR	PronType=Rel	62	nsubj	_	_
@@ -2320,7 +2320,7 @@
 1	Thank	thank	VERB	V	Mood=Ind|VerbForm=Fin	0	root	_	_
 2	you	you	PRON	PE	PronType=Prs	1	obj	_	SpaceAfter=No
 3	,	,	PUNCT	FF	_	1	punct	_	_
-4	Mr	mister	NOUN	S	Gender=Masc|Number=Sing	1	vocative	_	_
+4	Mr	mister	NOUN	S	Number=Sing	1	vocative	_	_
 5	Segni	Segni	PROPN	SP	_	4	flat	_	SpaceAfter=No
 6	,	,	PUNCT	FF	_	9	punct	_	_
 7	I	I	PRON	PE	Number=Sing|Person=1|PronType=Prs	9	nsubj	_	_
@@ -2351,7 +2351,7 @@
 
 # sent_id = en_partut-ud-94
 # text = Madam President, I should like to draw your attention to a case in which this Parliament has consistently shown an interest.
-1	Madam	madam	NOUN	S	Gender=Fem|Number=Sing	6	vocative	_	_
+1	Madam	madam	NOUN	S	Number=Sing	6	vocative	_	_
 2	President	president	NOUN	S	Number=Sing	1	compound	_	SpaceAfter=No
 3	,	,	PUNCT	FF	_	1	punct	_	_
 4	I	I	PRON	PE	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
@@ -2504,7 +2504,7 @@
 2	findings	finding	NOUN	S	Number=Plur	3	nsubj	_	_
 3	form	form	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	the	the	DET	RD	Definite=Def|PronType=Art	5	det	_	_
-5	basis	basis	NOUN	S	Gender=Masc|Number=Sing	3	obj	_	_
+5	basis	basis	NOUN	S	Number=Sing	3	obj	_	_
 6	of	of	ADP	E	_	9	case	_	_
 7	the	the	DET	RD	Definite=Def|PronType=Art	9	det	_	_
 8	European	European	ADJ	A	Degree=Pos	9	amod	_	_
@@ -2564,7 +2564,7 @@
 # text = Yes, Mrs Schroedter, I shall be pleased to look into the facts of this case when I have received your letter.
 1	Yes	yes	INTJ	_	_	9	discourse	_	SpaceAfter=No
 2	,	,	PUNCT	FF	_	1	punct	_	_
-3	Mrs	mrs	NOUN	S	Gender=Fem|Number=Sing	9	vocative	_	_
+3	Mrs	mrs	NOUN	S	Number=Sing	9	vocative	_	_
 4	Schroedter	Schroedter	PROPN	SP	_	3	flat	_	SpaceAfter=No
 5	,	,	PUNCT	FF	_	3	punct	_	_
 6	I	I	PRON	PE	Number=Sing|Person=1|PronType=Prs	9	nsubj	_	_
@@ -2589,7 +2589,7 @@
 
 # sent_id = en_partut-ud-100
 # text = Madam President, I would firstly like to compliment you on the fact that you have kept your word and that, during this first part-session of the new year, the number of television channels in our offices has indeed increased considerably.
-1	Madam	madam	NOUN	S	Gender=Fem|Number=Sing	7	vocative	_	_
+1	Madam	madam	NOUN	S	Number=Sing	7	vocative	_	_
 2	President	president	NOUN	S	Number=Sing	1	compound	_	SpaceAfter=No
 3	,	,	PUNCT	FF	_	1	punct	_	_
 4	I	I	PRON	PE	Number=Sing|Person=1|PronType=Prs	7	nsubj	_	_
@@ -2640,7 +2640,7 @@
 # text = But, Madam President, my personal request has not been met.
 1	But	but	CCONJ	CC	_	12	cc	_	SpaceAfter=No
 2	,	,	PUNCT	FF	_	12	punct	_	_
-3	Madam	madam	NOUN	S	Gender=Fem|Number=Sing	12	vocative	_	_
+3	Madam	madam	NOUN	S	Number=Sing	12	vocative	_	_
 4	President	president	NOUN	S	Number=Sing	3	compound	_	SpaceAfter=No
 5	,	,	PUNCT	FF	_	3	punct	_	_
 6	my	my	DET	AP	Number=Sing|Poss=Yes|PronType=Prs	8	nmod:poss	_	_
@@ -2675,7 +2675,7 @@
 
 # sent_id = en_partut-ud-103
 # text = Mrs Plooij-Van Gorsel, I can tell you that this matter is on the agenda for the Quaestors' meeting on Wednesday.
-1	Mrs	mrs	NOUN	S	Gender=Fem|Number=Sing	9	vocative	_	_
+1	Mrs	mrs	NOUN	S	Number=Sing	9	vocative	_	_
 2	Plooij	Plooij	PROPN	SP	_	1	flat	_	SpaceAfter=No
 3	-	-	PUNCT	FF	_	1	punct	_	SpaceAfter=No
 4	Van	Van	PROPN	SP	_	1	flat	_	_
@@ -2719,7 +2719,7 @@
 
 # sent_id = en_partut-ud-105
 # text = Madam President, can you tell me why this Parliament does not adhere to the health and safety legislation that it actually passes?
-1	Madam	madam	NOUN	S	Gender=Fem|Number=Sing	6	vocative	_	_
+1	Madam	madam	NOUN	S	Number=Sing	6	vocative	_	_
 2	President	president	NOUN	S	Number=Sing	1	compound	_	SpaceAfter=No
 3	,	,	PUNCT	FF	_	1	punct	_	_
 4	can	can	AUX	VM	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	_
@@ -2841,7 +2841,7 @@
 
 # sent_id = en_partut-ud-112
 # text = Mrs Lynne, you are quite right and I shall check whether this has actually not been done.
-1	Mrs	mrs	NOUN	S	Gender=Fem|Number=Sing	7	vocative	_	_
+1	Mrs	mrs	NOUN	S	Number=Sing	7	vocative	_	_
 2	Lynne	Lynne	PROPN	SP	_	1	flat	_	SpaceAfter=No
 3	,	,	PUNCT	FF	_	1	punct	_	_
 4	you	you	PRON	PE	Person=2|PronType=Prs	7	nsubj	_	_
@@ -2900,10 +2900,10 @@
 
 # sent_id = en_partut-ud-114
 # text = Madam President, Mrs Díez González and I had tabled questions on certain opinions of the Vice-President, Mrs De Palacio, which appeared in a Spanish newspaper.
-1	Madam	madam	NOUN	S	Gender=Fem|Number=Sing	10	vocative	_	_
+1	Madam	madam	NOUN	S	Number=Sing	10	vocative	_	_
 2	President	president	NOUN	S	Number=Sing	1	compound	_	SpaceAfter=No
 3	,	,	PUNCT	FF	_	1	punct	_	_
-4	Mrs	mrs	NOUN	S	Gender=Fem|Number=Sing	10	nsubj	_	_
+4	Mrs	mrs	NOUN	S	Number=Sing	10	nsubj	_	_
 5	Díez	Díez	PROPN	SP	_	4	flat	_	_
 6	González	González	PROPN	SP	_	4	flat	_	_
 7	and	and	CCONJ	CC	_	8	cc	_	_
@@ -2920,7 +2920,7 @@
 18	-	-	PUNCT	FF	_	19	punct	_	SpaceAfter=No
 19	President	president	NOUN	S	Number=Sing	14	nmod	_	SpaceAfter=No
 20	,	,	PUNCT	FF	_	19	punct	_	_
-21	Mrs	mrs	NOUN	S	Gender=Fem|Number=Sing	19	appos	_	_
+21	Mrs	mrs	NOUN	S	Number=Sing	19	appos	_	_
 22	De	De	PROPN	SP	_	21	flat	_	_
 23	Palacio	Palacio	PROPN	SP	_	21	flat	_	SpaceAfter=No
 24	,	,	PUNCT	FF	_	21	punct	_	_
@@ -2968,7 +2968,7 @@
 4	previously	previously	ADV	B	_	3	advmod	_	_
 5	referred	refer	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 6	to	to	ADP	E	_	11	case	_	_
-7	Mrs	mrs	NOUN	S	Gender=Fem|Number=Sing	11	nmod	_	_
+7	Mrs	mrs	NOUN	S	Number=Sing	11	nmod	_	_
 8	De	De	PROPN	SP	_	7	flat	_	_
 9	Palacio	Palacio	PROPN	SP	_	7	flat	_	SpaceAfter=No
 10	's	's	PART	PART	_	7	case	_	_
@@ -3034,7 +3034,7 @@
 
 # sent_id = en_partut-ud-121
 # text = Madam President, I should like to know if there will be a clear message going out from Parliament this week about our discontent over today's decision refusing to renew the arms embargo on Indonesia, considering that the vast majority in this Parliament have endorsed the arms embargo in Indonesia in the past?
-1	Madam	madam	NOUN	S	Gender=Fem|Number=Sing	6	vocative	_	_
+1	Madam	madam	NOUN	S	Number=Sing	6	vocative	_	_
 2	President	president	NOUN	S	Number=Sing	1	compound	_	SpaceAfter=No
 3	,	,	PUNCT	FF	_	1	punct	_	_
 4	I	I	PRON	PE	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
@@ -3093,14 +3093,14 @@
 
 # sent_id = en_partut-ud-122
 # text = Today's decision not to renew the embargo is extremely dangerous considering the situation there.
-1	Today	today	NOUN	S	Number=Sing	3	nmod:tmod	_	SpaceAfter=No
+1	Today	today	NOUN	S	Number=Sing	3	nmod:unmarked	_	SpaceAfter=No
 2	's	's	PART	PART	_	1	case	_	_
 3	decision	decision	NOUN	S	Number=Sing	11	nsubj	_	_
 4	not	not	PART	PART	Polarity=Neg	6	advmod	_	_
 5	to	to	PART	PART	_	6	mark	_	_
 6	renew	renew	VERB	V	VerbForm=Inf	3	acl	_	_
 7	the	the	DET	RD	Definite=Def|PronType=Art	8	det	_	_
-8	embargo	embargo	NOUN	S	Gender=Masc|Number=Sing	6	obj	_	_
+8	embargo	embargo	NOUN	S	Number=Sing	6	obj	_	_
 9	is	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	_
 10	extremely	extremely	ADV	B	_	11	advmod	_	_
 11	dangerous	dangerous	ADJ	A	Degree=Pos	0	root	_	_
@@ -3144,7 +3144,7 @@
 10	to	to	PART	PART	_	11	mark	_	_
 11	renew	renew	VERB	V	VerbForm=Inf	9	xcomp	_	_
 12	the	the	DET	RD	Definite=Def|PronType=Art	13	det	_	_
-13	embargo	embargo	NOUN	S	Gender=Masc|Number=Sing	11	obj	_	SpaceAfter=No
+13	embargo	embargo	NOUN	S	Number=Sing	11	obj	_	SpaceAfter=No
 14	.	.	PUNCT	FS	_	3	punct	_	_
 
 # sent_id = en_partut-ud-125
@@ -3199,7 +3199,7 @@
 
 # sent_id = en_partut-ud-128
 # text = Madam President, the presentation of the Prodi Commission's political programme for the whole legislature was initially a proposal by the Group of the Party of European Socialists which was unanimously approved by the Conference of Presidents in September and which was also explicitly accepted by President Prodi, who reiterated his commitment in his inaugural speech.
-1	Madam	madam	NOUN	S	Gender=Fem|Number=Sing	20	vocative	_	_
+1	Madam	madam	NOUN	S	Number=Sing	20	vocative	_	_
 2	President	president	NOUN	S	Number=Sing	1	compound	_	SpaceAfter=No
 3	,	,	PUNCT	FF	_	1	punct	_	_
 4	the	the	DET	RD	Definite=Def|PronType=Art	5	det	_	_
@@ -3311,7 +3311,7 @@
 6	point	point	VERB	V	VerbForm=Inf	4	xcomp	_	_
 7	out	out	ADP	E	_	6	compound:prt	_	SpaceAfter=No
 8	,	,	PUNCT	FF	_	6	punct	_	_
-9	Madam	madam	NOUN	S	Gender=Fem|Number=Sing	6	vocative	_	_
+9	Madam	madam	NOUN	S	Number=Sing	6	vocative	_	_
 10	President	president	NOUN	S	Number=Sing	9	compound	_	SpaceAfter=No
 11	,	,	PUNCT	FF	_	6	punct	_	_
 12	that	that	SCONJ	CS	_	15	mark	_	_
@@ -3613,7 +3613,7 @@
 # text = Therefore, Madam President, I would ask you to request that the Commission express its opinion on this issue and that we then proceed to the vote.
 1	Therefore	therefore	ADV	B	_	8	advmod	_	SpaceAfter=No
 2	,	,	PUNCT	FF	_	1	punct	_	_
-3	Madam	madam	NOUN	S	Gender=Fem|Number=Sing	8	vocative	_	_
+3	Madam	madam	NOUN	S	Number=Sing	8	vocative	_	_
 4	President	president	NOUN	S	Number=Sing	3	compound	_	SpaceAfter=No
 5	,	,	PUNCT	FF	_	3	punct	_	_
 6	I	I	PRON	PE	Number=Sing|Person=1|PronType=Prs	8	nsubj	_	_
@@ -3756,7 +3756,7 @@
 5	adopted	adopt	VERB	V	Tense=Past|VerbForm=Part	0	root	_	_
 6	against	against	ADP	E	_	8	case	_	_
 7	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	8	det	_	_
-8	tax	tax	NOUN	S	Gender=Masc|Number=Sing	5	obl	_	_
+8	tax	tax	NOUN	S	Number=Sing	5	obl	_	_
 9	of	of	ADP	E	_	11	case	_	_
 10	this	this	DET	DD	Number=Sing|PronType=Dem	11	det	_	_
 11	kind	kind	NOUN	S	Number=Sing	8	nmod	_	SpaceAfter=No
@@ -3785,7 +3785,7 @@
 1	Thank	thank	VERB	V	Mood=Ind|VerbForm=Fin	0	root	_	_
 2	you	you	PRON	PE	PronType=Prs	1	obj	_	SpaceAfter=No
 3	,	,	PUNCT	FF	_	1	punct	_	_
-4	Mr	mister	NOUN	S	Gender=Masc|Number=Sing	1	vocative	_	_
+4	Mr	mister	NOUN	S	Number=Sing	1	vocative	_	_
 5	Poettering	Poettering	PROPN	SP	_	4	flat	_	SpaceAfter=No
 6	.	.	PUNCT	FS	_	1	punct	_	_
 
@@ -3795,7 +3795,7 @@
 2	shall	shall	AUX	VM	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
 3	now	now	ADV	B	_	4	advmod	_	_
 4	hear	hear	VERB	V	VerbForm=Inf	0	root	_	_
-5	Mr	mister	NOUN	S	Gender=Masc|Number=Sing	4	obj	_	_
+5	Mr	mister	NOUN	S	Number=Sing	4	obj	_	_
 6	Wurtz	Wurtz	PROPN	SP	_	5	flat	_	_
 7	speaking	speak	VERB	V	VerbForm=Ger	4	advcl	_	_
 8	against	against	ADP	E	_	10	case	_	_
@@ -3805,7 +3805,7 @@
 
 # sent_id = en_partut-ud-146
 # text = Madam President, I would firstly like to point out Mr Poettering's lack of logic.
-1	Madam	madam	NOUN	S	Gender=Fem|Number=Sing	7	vocative	_	_
+1	Madam	madam	NOUN	S	Number=Sing	7	vocative	_	_
 2	President	president	NOUN	S	Number=Sing	1	compound	_	SpaceAfter=No
 3	,	,	PUNCT	FF	_	1	punct	_	_
 4	I	I	PRON	PE	Number=Sing|Person=1|PronType=Prs	7	nsubj	_	_
@@ -3815,7 +3815,7 @@
 8	to	to	PART	PART	_	9	mark	_	_
 9	point	point	VERB	V	VerbForm=Inf	7	xcomp	_	_
 10	out	out	ADP	E	_	9	compound:prt	_	_
-11	Mr	mister	NOUN	S	Gender=Masc|Number=Sing	14	nmod	_	_
+11	Mr	mister	NOUN	S	Number=Sing	14	nmod	_	_
 12	Poettering	Poettering	PROPN	SP	_	11	flat	_	SpaceAfter=No
 13	's	's	PART	PART	_	12	case	_	_
 14	lack	lack	NOUN	S	Number=Sing	9	obj	_	_
@@ -3855,8 +3855,8 @@
 17	question	question	NOUN	S	Number=Sing	23	nsubj:pass	_	_
 18	regarding	regard	VERB	V	Number=Sing|Tense=Pres|VerbForm=Part	17	acl	_	_
 19	the	the	DET	RD	Definite=Def|PronType=Art	21	det	_	_
-20	capital	capital	NOUN	S	Gender=Masc|Number=Sing	21	amod	_	_
-21	tax	tax	NOUN	S	Gender=Masc|Number=Sing	18	obj	_	_
+20	capital	capital	NOUN	S	Number=Sing	21	amod	_	_
+21	tax	tax	NOUN	S	Number=Sing	18	obj	_	_
 22	be	be	AUX	VA	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	23	aux:pass	_	_
 23	withdrawn	withdraw	VERB	V	Tense=Past|VerbForm=Part	13	acl:relcl	_	_
 24	from	from	ADP	E	_	26	case	_	_
@@ -3888,7 +3888,7 @@
 
 # sent_id = en_partut-ud-150
 # text = Madam President, I would like to thank Mr Poettering for advertising this debate.
-1	Madam	madam	NOUN	S	Gender=Fem|Number=Sing	6	vocative	_	_
+1	Madam	madam	NOUN	S	Number=Sing	6	vocative	_	_
 2	President	president	NOUN	S	Number=Sing	1	compound	_	SpaceAfter=No
 3	,	,	PUNCT	FF	_	1	punct	_	_
 4	I	I	PRON	PE	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
@@ -3896,7 +3896,7 @@
 6	like	like	VERB	V	VerbForm=Inf	0	root	_	_
 7	to	to	PART	PART	_	8	mark	_	_
 8	thank	thank	VERB	V	VerbForm=Inf	6	xcomp	_	_
-9	Mr	mister	NOUN	S	Gender=Masc|Number=Sing	8	obj	_	_
+9	Mr	mister	NOUN	S	Number=Sing	8	obj	_	_
 10	Poettering	Poettering	PROPN	SP	_	9	flat	_	_
 11	for	for	ADP	E	_	12	mark	_	_
 12	advertising	advertize	VERB	V	VerbForm=Ger	8	advcl	_	_
@@ -3925,7 +3925,7 @@
 
 # sent_id = en_partut-ud-153
 # text = Madam President, the Presidency has already declared the result of the vote.
-1	Madam	madam	NOUN	S	Gender=Fem|Number=Sing	8	vocative	_	_
+1	Madam	madam	NOUN	S	Number=Sing	8	vocative	_	_
 2	President	president	NOUN	S	Number=Sing	1	compound	_	SpaceAfter=No
 3	,	,	PUNCT	FF	_	1	punct	_	_
 4	the	the	DET	RD	Definite=Def|PronType=Art	5	det	_	_
@@ -3952,7 +3952,7 @@
 
 # sent_id = en_partut-ud-155
 # text = Madam President, in the earlier vote - and I will abide by your ruling on this matter - on the question of the strategic plan of the Commission I indicated that I would like to speak in advance of the vote on behalf of my Group.
-1	Madam	madam	NOUN	S	Gender=Fem|Number=Sing	31	vocative	_	_
+1	Madam	madam	NOUN	S	Number=Sing	31	vocative	_	_
 2	President	president	NOUN	S	Number=Sing	1	compound	_	SpaceAfter=No
 3	,	,	PUNCT	FF	_	1	punct	_	_
 4	in	in	ADP	E	_	7	case	_	_
@@ -4046,7 +4046,7 @@
 
 # sent_id = en_partut-ud-158
 # text = Madam President, I do not wish to reopen the debate, but I had also asked for the floor, to comment on Mr Barón Crespo's motion.
-1	Madam	madam	NOUN	S	Gender=Fem|Number=Sing	7	vocative	_	_
+1	Madam	madam	NOUN	S	Number=Sing	7	vocative	_	_
 2	President	president	NOUN	S	Number=Sing	1	compound	_	SpaceAfter=No
 3	,	,	PUNCT	FF	_	1	punct	_	_
 4	I	I	PRON	PE	Number=Sing|Person=1|PronType=Prs	7	nsubj	_	_
@@ -4070,7 +4070,7 @@
 22	to	to	PART	PART	_	23	mark	_	_
 23	comment	comment	VERB	V	VerbForm=Inf	20	acl	_	_
 24	on	on	ADP	E	_	29	case	_	_
-25	Mr	mister	NOUN	S	Gender=Masc|Number=Sing	29	nmod	_	_
+25	Mr	mister	NOUN	S	Number=Sing	29	nmod	_	_
 26	Barón	Barón	PROPN	SP	_	25	flat	_	_
 27	Crespo	Crespo	PROPN	SP	_	25	flat	_	SpaceAfter=No
 28	's	's	PART	PART	_	25	case	_	_
@@ -4144,7 +4144,7 @@
 4	the	the	DET	RD	Definite=Def|PronType=Art	5	det	_	_
 5	Minutes	minute	NOUN	S	Number=Plur	3	obj	_	_
 6	for	for	ADP	E	_	9	case	_	_
-7	today	today	NOUN	S	Number=Sing	9	nmod:tmod	_	SpaceAfter=No
+7	today	today	NOUN	S	Number=Sing	9	nmod:unmarked	_	SpaceAfter=No
 8	's	's	PART	PART	_	7	case	_	_
 9	sitting	sitting	NOUN	S	Number=Sing	3	obl	_	_
 10	tomorrow	tomorrow	ADV	B	_	3	advmod	_	SpaceAfter=No
@@ -4223,10 +4223,10 @@
 
 # sent_id = en_partut-ud-166
 # text = Mr Cox, Mr Hänsch, would this be acceptable to you?
-1	Mr	mister	NOUN	S	Gender=Masc|Number=Sing	10	vocative	_	_
+1	Mr	mister	NOUN	S	Number=Sing	10	vocative	_	_
 2	Cox	Cox	PROPN	SP	_	1	flat	_	SpaceAfter=No
 3	,	,	PUNCT	FF	_	4	punct	_	_
-4	Mr	mister	NOUN	S	Gender=Masc|Number=Sing	1	conj	_	_
+4	Mr	mister	NOUN	S	Number=Sing	1	conj	_	_
 5	Hänsch	Hänsch	PROPN	SP	_	4	flat	_	SpaceAfter=No
 6	,	,	PUNCT	FF	_	1	punct	_	_
 7	would	will	AUX	VM	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	10	aux	_	_
@@ -4239,7 +4239,7 @@
 
 # sent_id = en_partut-ud-167
 # text = Madam President, if the vote records correctly how my Group voted I shall not, and cannot, object to that.
-1	Madam	madam	NOUN	S	Gender=Fem|Number=Sing	21	vocative	_	_
+1	Madam	madam	NOUN	S	Number=Sing	21	vocative	_	_
 2	President	president	NOUN	S	Number=Sing	1	compound	_	SpaceAfter=No
 3	,	,	PUNCT	FF	_	1	punct	_	_
 4	if	if	SCONJ	CS	_	7	mark	_	_
@@ -4329,7 +4329,7 @@
 
 # sent_id = en_partut-ud-171
 # text = Madam President, we cannot and must not accept the fact that we hear ever more frequently of accidents causing major damage on our roads, but also on our railways and waterways, not solely but at least partly because those involved do not take the transport of dangerous goods seriously enough or because - as a result of ignorance or a lack of training on the part of the drivers or others responsible for the various vehicles - a minor accident has all too often become a major disaster.
-1	Madam	madam	NOUN	S	Gender=Fem|Number=Sing	10	vocative	_	_
+1	Madam	madam	NOUN	S	Number=Sing	10	vocative	_	_
 2	President	president	NOUN	S	Number=Sing	1	compound	_	SpaceAfter=No
 3	,	,	PUNCT	FF	_	1	punct	_	_
 4	we	we	PRON	PE	Number=Plur|Person=1|PronType=Prs	10	nsubj	_	_
@@ -4779,7 +4779,7 @@
 
 # sent_id = en_partut-ud-182
 # text = Madam President, first of all I should like to thank Mr Koch for his report which has, at its heart, the issue of transport safety.
-1	Madam	madam	NOUN	S	Gender=Fem|Number=Sing	9	vocative	_	_
+1	Madam	madam	NOUN	S	Number=Sing	9	vocative	_	_
 2	President	president	NOUN	S	Number=Sing	1	compound	_	SpaceAfter=No
 3	,	,	PUNCT	FF	_	1	punct	_	_
 4	first	first	ADJ	NO	Degree=Pos|NumType=Ord	9	amod	_	_
@@ -4790,7 +4790,7 @@
 9	like	like	VERB	V	VerbForm=Inf	0	root	_	_
 10	to	to	PART	PART	_	11	mark	_	_
 11	thank	thank	VERB	V	VerbForm=Inf	9	xcomp	_	_
-12	Mr	mister	NOUN	S	Gender=Masc|Number=Sing	11	obj	_	_
+12	Mr	mister	NOUN	S	Number=Sing	11	obj	_	_
 13	Koch	Koch	PROPN	SP	_	12	flat	_	_
 14	for	for	ADP	E	_	16	case	_	_
 15	his	his	DET	AP	Poss=Yes|PronType=Prs	16	nmod:poss	_	_
@@ -5018,7 +5018,7 @@
 
 # sent_id = en_partut-ud-190
 # text = Madam President, I would like to make a few comments.
-1	Madam	madam	NOUN	S	Gender=Fem|Number=Sing	6	vocative	_	_
+1	Madam	madam	NOUN	S	Number=Sing	6	vocative	_	_
 2	President	president	NOUN	S	Number=Sing	1	compound	_	SpaceAfter=No
 3	,	,	PUNCT	FF	_	1	punct	_	_
 4	I	I	PRON	PE	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
@@ -5180,7 +5180,7 @@
 27	with	with	ADP	E	_	30	case	_	_
 28	partially	partially	ADV	B	_	29	advmod	_	_
 29	dangerous	dangerous	ADJ	A	Degree=Pos	30	amod	_	_
-30	cargo	cargo	NOUN	S	Gender=Masc|Number=Sing	26	nmod	_	_
+30	cargo	cargo	NOUN	S	Number=Sing	26	nmod	_	_
 31	are	be	AUX	VA	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	33	aux	_	_
 32	not	not	PART	PART	Polarity=Neg	33	advmod	_	_
 33	delivered	deliver	VERB	V	Tense=Past|VerbForm=Part	21	ccomp	_	_
@@ -5278,13 +5278,13 @@
 5	dispose	dispose	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	0	root	_	_
 6	of	of	ADP	E	_	8	case	_	_
 7	their	their	DET	AP	Poss=Yes|PronType=Prs	8	nmod:poss	_	_
-8	cargo	cargo	NOUN	S	Gender=Masc|Number=Sing	5	obl	_	_
+8	cargo	cargo	NOUN	S	Number=Sing	5	obl	_	_
 9	or	or	CCONJ	CC	_	10	cc	_	_
 10	mix	mix	NOUN	S	Number=Sing	8	conj	_	_
 11	it	it	PRON	PE	Number=Sing|Person=3|PronType=Prs	5	obj	_	_
 12	with	with	ADP	E	_	14	case	_	_
 13	other	other	ADJ	A	Degree=Pos	14	amod	_	_
-14	cargo	cargo	NOUN	S	Gender=Masc|Number=Sing	5	obl	_	SpaceAfter=No
+14	cargo	cargo	NOUN	S	Number=Sing	5	obl	_	SpaceAfter=No
 15	,	,	PUNCT	FF	_	5	punct	_	_
 16	which	which	PRON	PR	PronType=Rel	18	nsubj	_	_
 17	causes	cause	NOUN	S	Number=Plur	18	nmod	_	_
@@ -5456,7 +5456,7 @@
 
 # sent_id = en_partut-ud-207
 # text = Madam President, the importance of transport safety is highlighted on a regular basis in this Parliament and rightly so.
-1	Madam	madam	NOUN	S	Gender=Fem|Number=Sing	10	vocative	_	_
+1	Madam	madam	NOUN	S	Number=Sing	10	vocative	_	_
 2	President	president	NOUN	S	Number=Sing	1	compound	_	SpaceAfter=No
 3	,	,	PUNCT	FF	_	1	punct	_	_
 4	the	the	DET	RD	Definite=Def|PronType=Art	5	det	_	_
@@ -5469,7 +5469,7 @@
 11	on	on	ADP	E	_	14	case	_	_
 12	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	14	det	_	_
 13	regular	regular	ADJ	A	Degree=Pos	14	amod	_	_
-14	basis	basis	NOUN	S	Gender=Masc|Number=Sing	10	obl	_	_
+14	basis	basis	NOUN	S	Number=Sing	10	obl	_	_
 15	in	in	ADP	E	_	17	case	_	_
 16	this	this	DET	DD	Number=Sing|PronType=Dem	17	det	_	_
 17	Parliament	parliament	NOUN	S	Number=Sing	10	obl	_	_
@@ -5653,7 +5653,7 @@
 
 # sent_id = en_partut-ud-214
 # text = Mr President, Commissioner, I should first like to congratulate Mr Koch on his reports which, though technical, are nonetheless of very great significance for safety.
-1	Mr	mister	NOUN	S	Gender=Masc|Number=Sing	9	vocative	_	_
+1	Mr	mister	NOUN	S	Number=Sing	9	vocative	_	_
 2	President	president	NOUN	S	Number=Sing	1	compound	_	SpaceAfter=No
 3	,	,	PUNCT	FF	_	1	punct	_	_
 4	Commissioner	commissioner	NOUN	S	Number=Sing	9	vocative	_	SpaceAfter=No
@@ -5664,7 +5664,7 @@
 9	like	like	VERB	V	VerbForm=Inf	0	root	_	_
 10	to	to	PART	PART	_	11	mark	_	_
 11	congratulate	congratulate	VERB	V	VerbForm=Inf	9	xcomp	_	_
-12	Mr	mister	NOUN	S	Gender=Masc|Number=Sing	11	obj	_	_
+12	Mr	mister	NOUN	S	Number=Sing	11	obj	_	_
 13	Koch	Koch	PROPN	SP	_	12	flat	_	_
 14	on	on	ADP	E	_	16	case	_	_
 15	his	his	DET	AP	Poss=Yes|PronType=Prs	16	nmod:poss	_	_
@@ -5910,7 +5910,7 @@
 3	know	know	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	10	advcl	_	SpaceAfter=No
 4	,	,	PUNCT	FF	_	3	punct	_	_
 5	like	like	ADP	E	_	6	case	_	_
-6	Mr	mister	NOUN	S	Gender=Masc|Number=Sing	10	obl	_	_
+6	Mr	mister	NOUN	S	Number=Sing	10	obl	_	_
 7	Rack	Rack	PROPN	SP	_	6	flat	_	SpaceAfter=No
 8	,	,	PUNCT	FF	_	6	punct	_	_
 9	I	I	PRON	PE	Number=Sing|Person=1|PronType=Prs	10	nsubj	_	_
@@ -5963,7 +5963,7 @@
 
 # sent_id = en_partut-ud-228
 # text = Mr President, I would firstly like to congratulate the rapporteur, Mr Koch, on his magnificent work and his positive cooperation with the Commission with regard to improving the texts and presenting this report and this proposal;
-1	Mr	mister	NOUN	S	Gender=Masc|Number=Sing	7	vocative	_	_
+1	Mr	mister	NOUN	S	Number=Sing	7	vocative	_	_
 2	President	president	NOUN	S	Number=Sing	1	compound	_	SpaceAfter=No
 3	,	,	PUNCT	FF	_	1	punct	_	_
 4	I	I	PRON	PE	Number=Sing|Person=1|PronType=Prs	7	nsubj	_	_
@@ -5975,7 +5975,7 @@
 10	the	the	DET	RD	Definite=Def|PronType=Art	11	det	_	_
 11	rapporteur	rapporteur	NOUN	S	Number=Sing	9	obj	_	SpaceAfter=No
 12	,	,	PUNCT	FF	_	11	punct	_	_
-13	Mr	mister	NOUN	S	Gender=Masc|Number=Sing	11	appos	_	_
+13	Mr	mister	NOUN	S	Number=Sing	11	appos	_	_
 14	Koch	Koch	PROPN	SP	_	13	flat	_	SpaceAfter=No
 15	,	,	PUNCT	FF	_	13	punct	_	_
 16	on	on	ADP	E	_	19	case	_	_
@@ -6191,7 +6191,7 @@
 # sent_id = en_partut-ud-233
 # text = As Mr Simpson has said very correctly, this is a process which we can never take for granted or regard as having come to an end.
 1	As	as	SCONJ	CS	_	5	mark	_	_
-2	Mr	mister	NOUN	S	Gender=Masc|Number=Sing	5	nsubj	_	_
+2	Mr	mister	NOUN	S	Number=Sing	5	nsubj	_	_
 3	Simpson	Simpson	PROPN	SP	_	2	flat	_	_
 4	has	have	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
 5	said	say	VERB	V	Tense=Past|VerbForm=Part	12	advcl	_	_
@@ -6266,7 +6266,7 @@
 18	tunnels	tunnel	NOUN	S	Number=Plur	15	nmod	_	SpaceAfter=No
 19	,	,	PUNCT	FF	_	15	punct	_	_
 20	which	which	PRON	PR	PronType=Rel	26	obj	_	_
-21	Messrs	messrs	NOUN	S	Gender=Masc|Number=Plur	26	nsubj	_	_
+21	Messrs	messrs	NOUN	S	Number=Plur	26	nsubj	_	_
 22	Rack	Rack	PROPN	SP	_	21	nmod	_	_
 23	and	and	CCONJ	CC	_	24	cc	_	_
 24	Swoboda	Swoboda	PROPN	SP	_	22	conj	_	_
@@ -6546,7 +6546,7 @@
 15	the	the	DET	RD	Definite=Def|PronType=Art	16	det	_	_
 16	rapporteur	rapporteur	NOUN	S	Number=Sing	11	conj	_	SpaceAfter=No
 17	,	,	PUNCT	FF	_	16	punct	_	_
-18	Mr	mister	NOUN	S	Gender=Masc|Number=Sing	16	appos	_	_
+18	Mr	mister	NOUN	S	Number=Sing	16	appos	_	_
 19	Koch	Koch	PROPN	SP	_	18	flat	_	SpaceAfter=No
 20	.	.	PUNCT	FS	_	3	punct	_	_
 
@@ -6595,7 +6595,7 @@
 10	1999	1999	NUM	N	NumType=Card	8	nummod	_	SpaceAfter=No
 11	)	)	PUNCT	FB	_	8	punct	_	_
 12	by	by	ADP	E	_	13	case	_	_
-13	Mr	mister	NOUN	S	Gender=Masc|Number=Sing	6	nmod	_	_
+13	Mr	mister	NOUN	S	Number=Sing	6	nmod	_	_
 14	Koch	Koch	PROPN	SP	_	13	flat	_	SpaceAfter=No
 15	,	,	PUNCT	FF	_	6	punct	_	_
 16	on	on	ADP	E	_	17	case	_	_
@@ -6670,14 +6670,14 @@
 
 # sent_id = en_partut-ud-248
 # text = Mr President, Commissioner, ladies and gentlemen, the Directive on the approximation of the laws of the member states with regard to the transport of dangerous goods by road, which entered into force on 1 January 1997, contains a number of transitional provisions which are only valid for a limited period of time, the term of validity being linked to the completion of specific standardisation work by the CEN, that is the European committee for standardisation.
-1	Mr	mister	NOUN	S	Gender=Masc|Number=Sing	42	vocative	_	_
+1	Mr	mister	NOUN	S	Number=Sing	42	vocative	_	_
 2	President	president	NOUN	S	Number=Sing	1	compound	_	SpaceAfter=No
 3	,	,	PUNCT	FF	_	1	punct	_	_
 4	Commissioner	commissioner	NOUN	S	Number=Sing	42	vocative	_	SpaceAfter=No
 5	,	,	PUNCT	FF	_	4	punct	_	_
 6	ladies	lady	NOUN	S	Number=Plur	42	vocative	_	_
 7	and	and	CCONJ	CC	_	8	cc	_	_
-8	gentlemen	gentleman	NOUN	S	Gender=Masc|Number=Sing	6	conj	_	SpaceAfter=No
+8	gentlemen	gentleman	NOUN	S	Number=Sing	6	conj	_	SpaceAfter=No
 9	,	,	PUNCT	FF	_	6	punct	_	_
 10	the	the	DET	RD	Definite=Def|PronType=Art	11	det	_	_
 11	Directive	Directive	NOUN	S	Number=Sing	42	nsubj	_	_
@@ -6895,7 +6895,7 @@
 4	the	the	DET	RD	Definite=Def|PronType=Art	5	det	_	_
 5	Directive	Directive	NOUN	S	Number=Sing	2	nmod	_	_
 6	on	on	ADP	E	_	9	case	_	_
-7	today	today	NOUN	S	Number=Sing	9	nmod:tmod	_	SpaceAfter=No
+7	today	today	NOUN	S	Number=Sing	9	nmod:unmarked	_	SpaceAfter=No
 8	's	's	PART	PART	_	7	case	_	_
 9	agenda	agenda	NOUN	S	Number=Sing	5	nmod	_	_
 10	does	do	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	aux	_	_
@@ -7128,7 +7128,7 @@
 39	set	set	VERB	V	Tense=Past|VerbForm=Part	8	conj	_	_
 40	at	at	ADP	E	_	42	case	_	_
 41	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	42	det	_	_
-42	maximum	maximum	NOUN	S	Gender=Masc|Number=Sing	39	obl	_	_
+42	maximum	maximum	NOUN	S	Number=Sing	39	obl	_	_
 43	of	of	ADP	E	_	45	case	_	_
 44	three	three	NUM	N	NumType=Card	45	nummod	_	_
 45	months	month	NOUN	S	Number=Plur	42	nmod	_	SpaceAfter=No
@@ -7199,7 +7199,7 @@
 
 # sent_id = en_partut-ud-265
 # text = Mr President, colleagues, a happy new year and millennium to you all.
-1	Mr	mister	NOUN	S	Gender=Masc|Number=Sing	9	vocative	_	_
+1	Mr	mister	NOUN	S	Number=Sing	9	vocative	_	_
 2	President	president	NOUN	S	Number=Sing	1	compound	_	SpaceAfter=No
 3	,	,	PUNCT	FF	_	1	punct	_	_
 4	colleagues	colleague	NOUN	S	Number=Plur	9	vocative	_	SpaceAfter=No
@@ -7418,7 +7418,7 @@
 
 # sent_id = en_partut-ud-276
 # text = Mr President, with your permission I should like to begin by expressing my admiration for the way in which you executed the quick changeover of the chairmanship just now during the debate.
-1	Mr	mister	NOUN	S	Gender=Masc|Number=Sing	9	vocative	_	_
+1	Mr	mister	NOUN	S	Number=Sing	9	vocative	_	_
 2	President	president	NOUN	S	Number=Sing	1	compound	_	SpaceAfter=No
 3	,	,	PUNCT	FF	_	1	punct	_	_
 4	with	with	ADP	E	_	6	case	_	_
@@ -7543,7 +7543,7 @@
 1	The	the	DET	RD	Definite=Def|PronType=Art	2	det	_	_
 2	rapporteur	rapporteur	NOUN	S	Number=Sing	25	nsubj	_	SpaceAfter=No
 3	,	,	PUNCT	FF	_	2	punct	_	_
-4	Mr	mister	NOUN	S	Gender=Masc|Number=Sing	2	appos	_	_
+4	Mr	mister	NOUN	S	Number=Sing	2	appos	_	_
 5	Koch	Koch	PROPN	SP	_	4	flat	_	SpaceAfter=No
 6	,	,	PUNCT	FF	_	4	punct	_	_
 7	to	to	ADP	E	_	8	case	_	_
@@ -7692,7 +7692,7 @@
 24	of	of	ADP	E	_	25	case	_	_
 25	Parliament	parliament	NOUN	S	Number=Sing	23	nmod	_	SpaceAfter=No
 26	,	,	PUNCT	FF	_	23	punct	_	_
-27	Mr	mister	NOUN	S	Gender=Masc|Number=Sing	23	appos	_	_
+27	Mr	mister	NOUN	S	Number=Sing	23	appos	_	_
 28	Ari	Ari	PROPN	SP	_	27	flat	_	_
 29	Vatanen	Vatanen	PROPN	SP	_	27	flat	_	SpaceAfter=No
 30	.	.	PUNCT	FS	_	3	punct	_	_
@@ -7791,7 +7791,7 @@
 
 # sent_id = en_partut-ud-290
 # text = Mr President, I would like to thank not only Mr Koch, but also the Vice-President of the Commission for the clear and unambiguous way in which they have declared their support for safety in the transport sector and acknowledged it as a priority.
-1	Mr	mister	NOUN	S	Gender=Masc|Number=Sing	6	vocative	_	_
+1	Mr	mister	NOUN	S	Number=Sing	6	vocative	_	_
 2	President	president	NOUN	S	Number=Sing	1	compound	_	SpaceAfter=No
 3	,	,	PUNCT	FF	_	1	punct	_	_
 4	I	I	PRON	PE	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
@@ -7801,7 +7801,7 @@
 8	thank	thank	VERB	V	VerbForm=Inf	6	xcomp	_	_
 9	not	not	PART	PART	Polarity=Neg	10	advmod	_	_
 10	only	only	ADV	B	_	11	advmod	_	_
-11	Mr	mister	NOUN	S	Gender=Masc|Number=Sing	8	obj	_	_
+11	Mr	mister	NOUN	S	Number=Sing	8	obj	_	_
 12	Koch	Koch	PROPN	SP	_	11	flat	_	SpaceAfter=No
 13	,	,	PUNCT	FF	_	19	punct	_	_
 14	but	but	CCONJ	CC	_	19	cc	_	_
@@ -7928,7 +7928,7 @@
 2	moment	moment	NOUN	S	Number=Sing	3	obl	_	_
 3	ago	ago	ADV	B	_	7	advmod	_	SpaceAfter=No
 4	,	,	PUNCT	FF	_	3	punct	_	_
-5	Mr	mister	NOUN	S	Gender=Masc|Number=Sing	7	nsubj	_	_
+5	Mr	mister	NOUN	S	Number=Sing	7	nsubj	_	_
 6	Vatanen	Vatanen	PROPN	SP	_	5	flat	_	_
 7	spoke	speak	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 8	to	to	ADP	E	_	9	case	_	_
@@ -8021,7 +8021,7 @@
 7	with	with	ADP	E	_	8	case	_	_
 8	regard	regard	NOUN	S	Number=Sing	5	obl	_	_
 9	to	to	ADP	E	_	13	case	_	_
-10	Mr	mister	NOUN	S	Gender=Masc|Number=Sing	13	nmod	_	_
+10	Mr	mister	NOUN	S	Number=Sing	13	nmod	_	_
 11	Swoboda	Swoboda	PROPN	SP	_	10	flat	_	SpaceAfter=No
 12	's	's	PART	PART	_	10	case	_	_
 13	comments	comment	NOUN	S	Number=Plur	8	nmod	_	_
@@ -8068,7 +8068,7 @@
 54	year	year	NOUN	S	Number=Sing	50	obl	_	_
 55	and	and	CCONJ	CC	_	61	cc	_	_
 56	a	a	DET	RI	Definite=Ind|PronType=Art	57	det	_	_
-57	bit	bit	NOUN	S	Number=Sing	61	nmod:npmod	_	_
+57	bit	bit	NOUN	S	Number=Sing	61	nmod:unmarked	_	_
 58	with	with	ADP	E	_	61	case	_	_
 59	the	the	DET	RD	Definite=Def|PronType=Art	61	det	_	_
 60	same	same	ADJ	A	Degree=Pos	61	amod	_	_
@@ -8099,7 +8099,7 @@
 13	the	the	DET	RD	Definite=Def|PronType=Art	14	det	_	_
 14	rapporteur	rapporteur	NOUN	S	Number=Sing	11	conj	_	SpaceAfter=No
 15	,	,	PUNCT	FF	_	14	punct	_	_
-16	Mr	mister	NOUN	S	Gender=Masc|Number=Sing	14	appos	_	_
+16	Mr	mister	NOUN	S	Number=Sing	14	appos	_	_
 17	Koch	Koch	PROPN	SP	_	16	flat	_	SpaceAfter=No
 18	,	,	PUNCT	FF	_	16	punct	_	_
 19	which	which	PRON	PR	PronType=Rel	21	nsubj	_	_
@@ -8152,7 +8152,7 @@
 10	1999	1999	NUM	N	NumType=Card	8	nummod	_	SpaceAfter=No
 11	)	)	PUNCT	FB	_	8	punct	_	_
 12	by	by	ADP	E	_	13	case	_	_
-13	Mrs	mrs	NOUN	S	Gender=Fem|Number=Sing	6	nmod	_	_
+13	Mrs	mrs	NOUN	S	Number=Sing	6	nmod	_	_
 14	Schroedter	Schroedter	PROPN	SP	_	13	flat	_	SpaceAfter=No
 15	,	,	PUNCT	FF	_	13	punct	_	_
 16	on	on	ADP	E	_	17	case	_	_
@@ -8192,7 +8192,7 @@
 
 # sent_id = en_partut-ud-304
 # text = Mr President, it is particularly pleasing for me to make my first speech in the European Parliament on what is regarded as the most important issue within that part of the United Kingdom that I represent in this Parliament, namely Wales.
-1	Mr	mister	NOUN	S	Gender=Masc|Number=Sing	7	vocative	_	_
+1	Mr	mister	NOUN	S	Number=Sing	7	vocative	_	_
 2	President	president	NOUN	S	Number=Sing	1	compound	_	SpaceAfter=No
 3	,	,	PUNCT	FF	_	1	punct	_	_
 4	it	it	PRON	PE	Number=Sing|Person=3|PronType=Prs	7	expl	_	_
@@ -8340,7 +8340,7 @@
 28	of	of	ADP	E	_	31	case	_	_
 29	the	the	DET	RD	Definite=Def|PronType=Art	31	det	_	_
 30	economic	economic	ADJ	A	Degree=Pos	31	amod	_	_
-31	base	base	NOUN	S	Gender=Masc|Number=Sing	27	nmod	_	_
+31	base	base	NOUN	S	Number=Sing	27	nmod	_	_
 32	within	within	ADP	E	_	34	case	_	_
 33	the	the	DET	RD	Definite=Def|PronType=Art	34	det	_	_
 34	Principality	principality	NOUN	S	Number=Sing	21	obl	_	SpaceAfter=No
@@ -8535,7 +8535,7 @@
 
 # sent_id = en_partut-ud-317
 # text = Mr President, our committee views these issues very differently and, to start, I will speak from the point of view of research.
-1	Mr	mister	NOUN	S	Gender=Masc|Number=Sing	6	vocative	_	_
+1	Mr	mister	NOUN	S	Number=Sing	6	vocative	_	_
 2	President	president	NOUN	S	Number=Sing	1	compound	_	SpaceAfter=No
 3	,	,	PUNCT	FF	_	1	punct	_	_
 4	our	us	DET	AP	Poss=Yes|PronType=Prs	5	nmod:poss	_	_
@@ -8985,7 +8985,7 @@
 2	her	her	DET	AP	Poss=Yes|PronType=Prs	3	nmod:poss	_	_
 3	report	report	NOUN	S	Number=Sing	8	obl	_	SpaceAfter=No
 4	,	,	PUNCT	FF	_	3	punct	_	_
-5	Mrs	mrs	NOUN	S	Gender=Fem|Number=Sing	8	nsubj	_	_
+5	Mrs	mrs	NOUN	S	Number=Sing	8	nsubj	_	_
 6	Flautre	Flautre	PROPN	SP	_	5	flat	_	_
 7	also	also	ADV	B	_	8	advmod	_	_
 8	drew	draw	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
@@ -9110,7 +9110,7 @@
 
 # sent_id = en_partut-ud-334
 # text = Mr President, Commissioner, the proposal presented by the Commission, in accordance with its mandate, is a reasonable starting point for the Committee on Agriculture and Rural Development.
-1	Mr	mister	NOUN	S	Gender=Masc|Number=Sing	23	vocative	_	_
+1	Mr	mister	NOUN	S	Number=Sing	23	vocative	_	_
 2	President	president	NOUN	S	Number=Sing	1	compound	_	SpaceAfter=No
 3	,	,	PUNCT	FF	_	1	punct	_	_
 4	Commissioner	commissioner	NOUN	S	Number=Sing	23	vocative	_	SpaceAfter=No
@@ -9483,13 +9483,13 @@
 4	to	to	PART	PART	_	5	mark	_	_
 5	prioritise	prioritize	VERB	V	VerbForm=Inf	3	csubj	_	_
 6	general	general	ADJ	A	Degree=Pos	7	amod	_	_
-7	criteria	criterion	NOUN	S	Gender=Masc|Number=Plur	5	obj	_	_
+7	criteria	criterion	NOUN	S	Number=Plur	5	obj	_	_
 8	for	for	ADP	E	_	10	case	_	_
 9	land	land	NOUN	S	Number=Sing	10	obj	_	_
 10	planning	planning	NOUN	S	Number=Sing	7	nmod	_	_
 11	and	and	CCONJ	CC	_	13	cc	_	_
 12	demographic	demographic	ADJ	A	Degree=Pos	13	amod	_	_
-13	equilibrium	equilibrium	NOUN	S	Gender=Masc|Number=Sing	10	conj	_	SpaceAfter=No
+13	equilibrium	equilibrium	NOUN	S	Number=Sing	10	conj	_	SpaceAfter=No
 14	,	,	PUNCT	FF	_	17	punct	_	_
 15	and	and	CCONJ	CC	_	17	cc	_	_
 16	to	to	PART	PART	_	17	mark	_	_
@@ -9589,7 +9589,7 @@
 
 # sent_id = en_partut-ud-348
 # text = Mr President, Commissioner, I would like to begin by thanking Mrs Schroedter, the rapporteur, for her work.
-1	Mr	mister	NOUN	S	Gender=Masc|Number=Sing	8	vocative	_	_
+1	Mr	mister	NOUN	S	Number=Sing	8	vocative	_	_
 2	President	president	NOUN	S	Number=Sing	1	compound	_	SpaceAfter=No
 3	,	,	PUNCT	FF	_	1	punct	_	_
 4	Commissioner	commissioner	NOUN	S	Number=Sing	8	vocative	_	SpaceAfter=No
@@ -9601,7 +9601,7 @@
 10	begin	begin	VERB	V	VerbForm=Inf	8	xcomp	_	_
 11	by	by	ADP	E	_	12	mark	_	_
 12	thanking	thank	VERB	V	VerbForm=Ger	10	advcl	_	_
-13	Mrs	mrs	NOUN	S	Gender=Fem|Number=Sing	12	obj	_	_
+13	Mrs	mrs	NOUN	S	Number=Sing	12	obj	_	_
 14	Schroedter	Schroedter	PROPN	SP	_	13	flat	_	SpaceAfter=No
 15	,	,	PUNCT	FF	_	13	punct	_	_
 16	the	the	DET	RD	Definite=Def|PronType=Art	17	det	_	_
@@ -10032,7 +10032,7 @@
 
 # sent_id = en_partut-ud-358
 # text = Mr President, it is incumbent upon me to remind my colleague, Mr Evans, of why Wales actually achieved Objective 1 status.
-1	Mr	mister	NOUN	S	Gender=Masc|Number=Sing	6	vocative	_	_
+1	Mr	mister	NOUN	S	Number=Sing	6	vocative	_	_
 2	President	president	NOUN	S	Number=Sing	1	compound	_	SpaceAfter=No
 3	,	,	PUNCT	FF	_	1	punct	_	_
 4	it	it	PRON	PE	Number=Sing|Person=3|PronType=Prs	6	expl	_	_
@@ -10045,7 +10045,7 @@
 11	my	my	DET	AP	Number=Sing|Poss=Yes|PronType=Prs	12	nmod:poss	_	_
 12	colleague	colleague	NOUN	S	Number=Sing	10	iobj	_	SpaceAfter=No
 13	,	,	PUNCT	FF	_	12	punct	_	_
-14	Mr	mister	NOUN	S	Gender=Masc|Number=Sing	12	appos	_	_
+14	Mr	mister	NOUN	S	Number=Sing	12	appos	_	_
 15	Evans	Evans	PROPN	SP	_	14	flat	_	SpaceAfter=No
 16	,	,	PUNCT	FF	_	14	punct	_	_
 17	of	of	ADP	E	_	21	case	_	_
@@ -10087,7 +10087,7 @@
 9	party	party	NOUN	S	Number=Sing	10	nmod	_	_
 10	leader	leader	NOUN	S	Number=Sing	16	nsubj	_	SpaceAfter=No
 11	,	,	PUNCT	FF	_	10	punct	_	_
-12	Mr	mister	NOUN	S	Gender=Masc|Number=Sing	10	appos	_	_
+12	Mr	mister	NOUN	S	Number=Sing	10	appos	_	_
 13	Hague	Hague	PROPN	SP	_	12	flat	_	SpaceAfter=No
 14	,	,	PUNCT	FF	_	12	punct	_	_
 15	was	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	16	cop	_	_
@@ -10105,7 +10105,7 @@
 27	the	the	DET	RD	Definite=Def|PronType=Art	28	det	_	_
 28	book	book	NOUN	S	Number=Sing	25	nmod	_	_
 29	on	on	ADP	E	_	30	case	_	_
-30	additionality	additionality	NOUN	S	Gender=Fem|Number=Sing	25	nmod	_	_
+30	additionality	additionality	NOUN	S	Number=Sing	25	nmod	_	_
 31	which	which	PRON	PR	PronType=Rel	32	nsubj	_	_
 32	led	lead	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	23	advcl	_	_
 33	to	to	ADP	E	_	36	case	_	_
@@ -10141,14 +10141,14 @@
 15	on	on	ADP	E	_	18	case	_	_
 16	Objective	objective	ADJ	A	Degree=Pos	18	amod	_	_
 17	1	1	NUM	N	NumType=Card	16	nummod	_	_
-18	additionality	additionality	NOUN	S	Gender=Fem|Number=Sing	14	nmod	_	SpaceAfter=No
+18	additionality	additionality	NOUN	S	Number=Sing	14	nmod	_	SpaceAfter=No
 19	.	.	PUNCT	FS	_	3	punct	_	_
 
 # sent_id = en_partut-ud-362
 # text = I suggest Mr Evans goes back and reads the Regulation.
 1	I	I	PRON	PE	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
 2	suggest	suggest	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
-3	Mr	mister	NOUN	S	Gender=Masc|Number=Sing	5	nsubj	_	_
+3	Mr	mister	NOUN	S	Number=Sing	5	nsubj	_	_
 4	Evans	Evans	PROPN	SP	_	3	flat	_	_
 5	goes	go	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ccomp	_	_
 6	back	back	ADV	B	_	5	advmod	_	_
@@ -10225,7 +10225,7 @@
 9	reports	report	NOUN	S	Number=Plur	4	obl	_	_
 10	in	in	ADP	E	_	12	case	_	_
 11	the	the	DET	RD	Definite=Def|PronType=Art	12	det	_	_
-12	media	medium	NOUN	S	Gender=Masc|Number=Plur	9	nmod	_	_
+12	media	medium	NOUN	S	Number=Plur	9	nmod	_	_
 13	that	that	SCONJ	CS	_	17	mark	_	_
 14	Europe	Europe	PROPN	SP	_	17	nsubj	_	_
 15	is	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	aux	_	_
@@ -10687,7 +10687,7 @@
 
 # sent_id = en_partut-ud-389
 # text = Mr President, Commissioner, as proof that this Parliament has not yet overcome its role as a consultative and subordinate institution, the excellent report by a fellow member of my Group, Elisabeth Schroedter, has not been able to reach plenary sitting because the plans for regional development for the period 2000-2006 for Objective 1 regions have been sitting in the Commission's offices for several months.
-1	Mr	mister	NOUN	S	Gender=Masc|Number=Sing	41	vocative	_	_
+1	Mr	mister	NOUN	S	Number=Sing	41	vocative	_	_
 2	President	president	NOUN	S	Number=Sing	1	compound	_	SpaceAfter=No
 3	,	,	PUNCT	FF	_	1	punct	_	_
 4	Commissioner	commissioner	NOUN	S	Number=Sing	41	vocative	_	SpaceAfter=No
@@ -10818,7 +10818,7 @@
 
 # sent_id = en_partut-ud-391
 # text = Mr President, we should not forget that the main, strategic objective of the Structural and Cohesion Funds and of their coordination is to achieve economic and social cohesion.
-1	Mr	mister	NOUN	S	Gender=Masc|Number=Sing	7	vocative	_	_
+1	Mr	mister	NOUN	S	Number=Sing	7	vocative	_	_
 2	President	president	NOUN	S	Number=Sing	1	compound	_	SpaceAfter=No
 3	,	,	PUNCT	FF	_	1	punct	_	_
 4	we	we	PRON	PE	Number=Plur|Person=1|PronType=Prs	7	nsubj	_	_
@@ -11284,7 +11284,7 @@
 
 # sent_id = en_partut-ud-407
 # text = Mr President, I support the main proposals of the report concerning the administration of the Structural Funds and the Cohesion Fund for the period 2000-2006 and the main recommendations of the report which include the following:
-1	Mr	mister	NOUN	S	Gender=Masc|Number=Sing	5	vocative	_	_
+1	Mr	mister	NOUN	S	Number=Sing	5	vocative	_	_
 2	President	president	NOUN	S	Number=Sing	1	compound	_	SpaceAfter=No
 3	,	,	PUNCT	FF	_	1	punct	_	_
 4	I	I	PRON	PE	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_
@@ -11518,7 +11518,7 @@
 
 # sent_id = en_partut-ud-414
 # text = Mr President, on numerous occasions in the past I have disagreed with the rapporteur on her approach to regional policy issues.
-1	Mr	mister	NOUN	S	Gender=Masc|Number=Sing	12	vocative	_	_
+1	Mr	mister	NOUN	S	Number=Sing	12	vocative	_	_
 2	President	president	NOUN	S	Number=Sing	1	compound	_	SpaceAfter=No
 3	,	,	PUNCT	FF	_	1	punct	_	_
 4	on	on	ADP	E	_	6	case	_	_
@@ -11578,7 +11578,7 @@
 32	as	as	SCONJ	CS	_	46	mark	_	_
 33	we	we	PRON	PE	Number=Plur|Person=1|PronType=Prs	46	nsubj	_	_
 34	and	and	CCONJ	CC	_	35	cc	_	_
-35	Mrs	mrs	NOUN	S	Gender=Fem|Number=Sing	33	conj	_	_
+35	Mrs	mrs	NOUN	S	Number=Sing	33	conj	_	_
 36	Mccarthy	Mccarthy	PROPN	SP	_	35	flat	_	SpaceAfter=No
 37	,	,	PUNCT	FF	_	33	punct	_	_
 38	as	as	ADP	E	_	39	case	_	_
@@ -11629,7 +11629,7 @@
 18	attention	attention	NOUN	S	Number=Sing	16	obj	_	_
 19	to	to	ADP	E	_	21	case	_	_
 20	the	the	DET	RD	Definite=Def|PronType=Art	21	det	_	_
-21	emphasis	emphasis	NOUN	S	Gender=Masc|Number=Sing	16	obl	_	_
+21	emphasis	emphasis	NOUN	S	Number=Sing	16	obl	_	_
 22	the	the	DET	RD	Definite=Def|PronType=Art	23	det	_	_
 23	Commission	commission	NOUN	S	Number=Sing	25	nsubj	_	_
 24	has	have	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	25	aux	_	_
@@ -11832,7 +11832,7 @@
 
 # sent_id = en_partut-ud-426
 # text = Mr President, Commissioner, in this minute and a half I should like, first of all, to congratulate Mrs Schroedter.
-1	Mr	mister	NOUN	S	Gender=Masc|Number=Sing	14	vocative	_	_
+1	Mr	mister	NOUN	S	Number=Sing	14	vocative	_	_
 2	President	president	NOUN	S	Number=Sing	1	compound	_	SpaceAfter=No
 3	,	,	PUNCT	FF	_	1	punct	_	_
 4	Commissioner	commissioner	NOUN	S	Number=Sing	14	vocative	_	SpaceAfter=No
@@ -11842,7 +11842,7 @@
 8	minute	minute	NOUN	S	Number=Sing	14	obl	_	_
 9	and	and	CCONJ	CC	_	11	cc	_	_
 10	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	11	det	_	_
-11	half	half	NOUN	S	Gender=Masc|Number=Sing	8	conj	_	_
+11	half	half	NOUN	S	Number=Sing	8	conj	_	_
 12	I	I	PRON	PE	Number=Sing|Person=1|PronType=Prs	14	nsubj	_	_
 13	should	shall	AUX	VM	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	14	aux	_	_
 14	like	like	VERB	V	VerbForm=Inf	0	root	_	SpaceAfter=No
@@ -11853,7 +11853,7 @@
 19	,	,	PUNCT	FF	_	14	punct	_	_
 20	to	to	PART	PART	_	21	mark	_	_
 21	congratulate	congratulate	VERB	V	VerbForm=Inf	14	xcomp	_	_
-22	Mrs	mrs	NOUN	S	Gender=Fem|Number=Sing	21	obj	_	_
+22	Mrs	mrs	NOUN	S	Number=Sing	21	obj	_	_
 23	Schroedter	Schroedter	PROPN	SP	_	22	flat	_	SpaceAfter=No
 24	.	.	PUNCT	FS	_	14	punct	_	_
 
@@ -12278,7 +12278,7 @@
 
 # sent_id = en_partut-ud-443
 # text = Mr President, the priority given to financial and monetary criteria reinforces the increase in inequalities of every shape and form.
-1	Mr	mister	NOUN	S	Gender=Masc|Number=Sing	12	vocative	_	_
+1	Mr	mister	NOUN	S	Number=Sing	12	vocative	_	_
 2	President	president	NOUN	S	Number=Sing	1	compound	_	SpaceAfter=No
 3	,	,	PUNCT	FF	_	1	punct	_	_
 4	the	the	DET	RD	Definite=Def|PronType=Art	5	det	_	_
@@ -12288,7 +12288,7 @@
 8	financial	financial	ADJ	A	Degree=Pos	11	amod	_	_
 9	and	and	CCONJ	CC	_	10	cc	_	_
 10	monetary	monetary	ADJ	A	Degree=Pos	8	conj	_	_
-11	criteria	criterion	NOUN	S	Gender=Masc|Number=Plur	6	obl	_	_
+11	criteria	criterion	NOUN	S	Number=Plur	6	obl	_	_
 12	reinforces	reinforce	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 13	the	the	DET	RD	Definite=Def|PronType=Art	14	det	_	_
 14	increase	increase	NOUN	S	Number=Sing	12	obj	_	_
@@ -12356,7 +12356,7 @@
 7	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	10	det	_	_
 8	unified	unified	ADJ	A	Degree=Pos	10	amod	_	_
 9	capital	capital	ADJ	A	Degree=Pos	10	amod	_	_
-10	tax	tax	NOUN	S	Gender=Masc|Number=Sing	1	nsubj	_	SpaceAfter=No
+10	tax	tax	NOUN	S	Number=Sing	1	nsubj	_	SpaceAfter=No
 11	,	,	PUNCT	FF	_	10	punct	_	_
 12	which	which	PRON	PR	PronType=Rel	14	nsubj	_	_
 13	would	will	AUX	VM	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	14	aux	_	_
@@ -12476,7 +12476,7 @@
 30	to	to	PART	PART	_	31	mark	_	_
 31	plan	plan	VERB	V	VerbForm=Inf	27	acl	_	_
 32	and	and	CCONJ	CC	_	33	cc	_	_
-33	revitalise	revitalise	NOUN	S	Gender=Fem|Number=Sing	31	conj	_	_
+33	revitalise	revitalise	NOUN	S	Number=Sing	31	conj	_	_
 34	its	its	DET	AP	Number=Sing|Poss=Yes|PronType=Prs	35	nmod:poss	_	_
 35	economy	economy	NOUN	S	Number=Sing	33	nmod	_	SpaceAfter=No
 36	.	.	PUNCT	FS	_	24	punct	_	_
@@ -13573,7 +13573,7 @@
 2	simple	simple	ADJ	A	Degree=Pos	3	amod	_	_
 3	image	image	NOUN	S	Number=Sing	1	obj	_	_
 4	and	and	CCONJ	CC	_	8	cc	_	_
-5	text	text	NOUN	S	Number=Sing	7	nmod:npmod	_	SpaceAfter=No
+5	text	text	NOUN	S	Number=Sing	7	nmod:unmarked	_	SpaceAfter=No
 6	-	-	PUNCT	FF	_	7	punct	_	SpaceAfter=No
 7	based	based	VERB	V	Tense=Past|VerbForm=Part	8	amod	_	_
 8	adverts	advert	NOUN	S	Number=Plur	3	conj	_	_
@@ -13847,7 +13847,7 @@
 3	bids	bid	NOUN	S	Number=Plur	10	nsubj	_	_
 4	for	for	ADP	E	_	9	case	_	_
 5	our	us	DET	AP	Poss=Yes|PronType=Prs	9	nmod:poss	_	_
-6	auction	auction	NOUN	S	Number=Sing	8	nmod:npmod	_	SpaceAfter=No
+6	auction	auction	NOUN	S	Number=Sing	8	nmod:unmarked	_	SpaceAfter=No
 7	-	-	PUNCT	FF	_	8	punct	_	SpaceAfter=No
 8	based	based	VERB	V	Tense=Past|VerbForm=Part	9	amod	_	_
 9	system	system	NOUN	S	Number=Sing	3	nmod	_	_
@@ -13935,7 +13935,7 @@
 16	per	per	ADP	E	_	18	case	_	SpaceAfter=No
 17	-	-	PUNCT	FF	_	18	punct	_	SpaceAfter=No
 18	customer	customer	NOUN	S	Number=Sing	14	nmod	_	_
-19	basis	basis	NOUN	S	Gender=Masc|Number=Sing	2	nmod	_	SpaceAfter=No
+19	basis	basis	NOUN	S	Number=Sing	2	nmod	_	SpaceAfter=No
 20	.	.	PUNCT	FS	_	2	punct	_	_
 
 # sent_id = en_partut-ud-533
@@ -14458,7 +14458,7 @@
 
 # sent_id = en_partut-ud-567
 # text = Directive 2005/32/EC of the European Parliament and of the Council of 6 July 2005 establishing a framework for the setting of ecodesign requirements for energy-using products and amending Council Directive 92/42/EEC and Directives 96/57/EC and 2000/55/EC of the European Parliament and of the Council.
-1	Directive	directive	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+1	Directive	directive	NOUN	S	Number=Sing	0	root	_	_
 2	2005	2005	NUM	N	NumType=Card	1	nummod	_	SpaceAfter=No
 3	/	/	PUNCT	FF	_	2	punct	_	SpaceAfter=No
 4	32	32	NUM	N	NumType=Card	2	nummod	_	SpaceAfter=No
@@ -15289,7 +15289,7 @@
 18	is	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	22	cop	_	_
 19	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	22	det	_	_
 20	major	major	ADJ	A	Degree=Pos	22	amod	_	_
-21	innovative	innovativo	ADJ	A	Gender=Fem|Number=Plur	22	amod	_	_
+21	innovative	innovativo	ADJ	A	Number=Plur	22	amod	_	_
 22	element	element	NOUN	S	Number=Sing	5	acl:relcl	_	_
 23	of	of	ADP	E	_	29	case	_	_
 24	the	the	DET	RD	Definite=Def|PronType=Art	29	det	_	_
@@ -16367,7 +16367,7 @@
 8	and	and	CCONJ	CC	_	9	cc	_	_
 9	information	information	NOUN	S	Number=Sing	7	conj	_	_
 10	on	on	ADP	E	_	11	case	_	_
-11	ecodesign	ecodesign	NOUN	S	Gender=Fem|Number=Sing	9	nmod	_	_
+11	ecodesign	ecodesign	NOUN	S	Number=Sing	9	nmod	_	_
 12	for	for	ADP	E	_	13	case	_	_
 13	SMEs	SME	PROPN	SP	_	11	nmod	_	SpaceAfter=No
 14	,	,	PUNCT	FF	_	13	punct	_	_
@@ -16453,7 +16453,7 @@
 39	adopted	adopt	VERB	V	Tense=Past|VerbForm=Part	38	acl	_	_
 40	on	on	ADP	E	_	42	case	_	_
 41	the	the	DET	RD	Definite=Def|PronType=Art	42	det	_	_
-42	basis	basis	NOUN	S	Gender=Masc|Number=Sing	39	obl	_	_
+42	basis	basis	NOUN	S	Number=Sing	39	obl	_	_
 43	of	of	ADP	E	_	45	case	_	_
 44	this	this	DET	DD	Number=Sing|PronType=Dem	45	det	_	_
 45	Directive	Directive	NOUN	S	Number=Sing	42	nmod	_	SpaceAfter=No
@@ -18252,7 +18252,7 @@
 18	by	by	ADP	E	_	21	case	_	_
 19	law	law	NOUN	S	Number=Sing	20	nmod	_	_
 20	enforcement	enforcement	NOUN	S	Number=Sing	21	nmod	_	_
-21	officials	officials	NOUN	S	Gender=Fem|Number=Sing	10	obl	_	SpaceAfter=No
+21	officials	officials	NOUN	S	Number=Sing	10	obl	_	SpaceAfter=No
 22	;	;	PUNCT	FC	_	10	punct	_	_
 
 # sent_id = en_partut-ud-669
@@ -19413,9 +19413,9 @@
 3	result	result	NOUN	S	Number=Sing	19	obl	_	SpaceAfter=No
 4	,	,	PUNCT	FF	_	3	punct	_	_
 5	the	the	DET	RD	Definite=Def|PronType=Art	6	det	_	_
-6	transnationality	transnationality	NOUN	S	Gender=Fem|Number=Sing	19	nsubj:pass	_	_
+6	transnationality	transnationality	NOUN	S	Number=Sing	19	nsubj:pass	_	_
 7	and	and	CCONJ	CC	_	8	cc	_	_
-8	multidisciplinarity	multidisciplinarity	NOUN	S	Gender=Fem|Number=Sing	6	conj	_	_
+8	multidisciplinarity	multidisciplinarity	NOUN	S	Number=Sing	6	conj	_	_
 9	required	require	VERB	V	Tense=Past|VerbForm=Part	8	acl	_	_
 10	under	under	ADP	E	_	11	case	_	_
 11	Article	article	NOUN	S	Number=Sing	9	obl	_	_
@@ -19733,7 +19733,7 @@
 14	to	to	PART	PART	_	15	mark	_	_
 15	apply	apply	VERB	V	VerbForm=Inf	13	acl	_	_
 16	the	the	DET	RD	Definite=Def|PronType=Art	17	det	_	_
-17	acquis	acquis	NOUN	S	Gender=Fem|Number=Plur	15	obj	_	_
+17	acquis	acquis	NOUN	S	Number=Plur	15	obj	_	_
 18	in	in	ADP	E	_	21	case	_	_
 19	the	the	DET	RD	Definite=Def|PronType=Art	21	det	_	_
 20	specific	specific	ADJ	A	Degree=Pos	21	amod	_	_
@@ -20207,7 +20207,7 @@
 4	essential	essential	ADJ	A	Degree=Pos	0	root	_	SpaceAfter=No
 5	,	,	PUNCT	FF	_	4	punct	_	_
 6	if	if	SCONJ	CS	_	8	mark	_	_
-7	man	man	NOUN	S	Gender=Masc|Number=Sing	8	nsubj	_	_
+7	man	man	NOUN	S	Number=Sing	8	nsubj	_	_
 8	is	be	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	advcl	_	_
 9	not	not	PART	PART	Polarity=Neg	8	advmod	_	_
 10	to	to	PART	PART	_	12	mark	_	_
@@ -20295,9 +20295,9 @@
 32	equal	equal	ADJ	A	Degree=Pos	33	amod	_	_
 33	rights	right	NOUN	S	Number=Plur	18	conj	_	_
 34	of	of	ADP	E	_	35	case	_	_
-35	men	man	NOUN	S	Gender=Masc|Number=Plur	33	nmod	_	_
+35	men	man	NOUN	S	Number=Plur	33	nmod	_	_
 36	and	and	CCONJ	CC	_	37	cc	_	_
-37	women	women	NOUN	S	Gender=Fem|Number=Sing	35	conj	_	_
+37	women	women	NOUN	S	Number=Sing	35	conj	_	_
 38	and	and	CCONJ	CC	_	40	cc	_	_
 39	have	have	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	40	aux	_	_
 40	determined	determine	VERB	V	Tense=Past|VerbForm=Part	12	conj	_	_
@@ -20584,7 +20584,7 @@
 7	made	make	VERB	V	Tense=Past|VerbForm=Part	0	root	_	_
 8	on	on	ADP	E	_	10	case	_	_
 9	the	the	DET	RD	Definite=Def|PronType=Art	10	det	_	_
-10	basis	basis	NOUN	S	Gender=Masc|Number=Sing	7	obl	_	_
+10	basis	basis	NOUN	S	Number=Sing	7	obl	_	_
 11	of	of	ADP	E	_	18	case	_	_
 12	the	the	DET	RD	Definite=Def|PronType=Art	18	det	_	_
 13	political	political	ADJ	A	Degree=Pos	18	amod	_	SpaceAfter=No
@@ -21370,7 +21370,7 @@
 9	shall	shall	AUX	VM	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	12	aux	_	_
 10	be	be	AUX	V	VerbForm=Inf	12	cop	_	_
 11	the	the	DET	RD	Definite=Def|PronType=Art	12	det	_	_
-12	basis	basis	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+12	basis	basis	NOUN	S	Number=Sing	0	root	_	_
 13	of	of	ADP	E	_	15	case	_	_
 14	the	the	DET	RD	Definite=Def|PronType=Art	15	det	_	_
 15	authority	authority	NOUN	S	Number=Sing	12	nmod	_	_
@@ -21670,7 +21670,7 @@
 # sent_id = en_partut-ud-796
 # text = All children, whether born in or out of wedlock, shall enjoy the same social protection.
 1	All	all	DET	T	PronType=Tot	2	det	_	_
-2	children	child	NOUN	S	Gender=Masc|Number=Plur	13	nsubj	_	SpaceAfter=No
+2	children	child	NOUN	S	Number=Plur	13	nsubj	_	SpaceAfter=No
 3	,	,	PUNCT	FF	_	2	punct	_	_
 4	whether	whether	SCONJ	CS	_	5	mark	_	_
 5	born	born	ADJ	A	Degree=Pos	2	acl	_	_
@@ -21678,7 +21678,7 @@
 7	or	or	CCONJ	CC	_	8	cc	_	_
 8	out	out	ADP	E	_	6	conj	_	_
 9	of	of	ADP	E	_	10	case	_	_
-10	wedlock	wedlock	NOUN	S	Gender=Fem|Number=Sing	5	obl	_	SpaceAfter=No
+10	wedlock	wedlock	NOUN	S	Number=Sing	5	obl	_	SpaceAfter=No
 11	,	,	PUNCT	FF	_	5	punct	_	_
 12	shall	shall	AUX	VM	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	13	aux	_	_
 13	enjoy	enjoy	VERB	V	VerbForm=Inf	0	root	_	_
@@ -21775,7 +21775,7 @@
 18	given	give	VERB	V	Tense=Past|VerbForm=Part	14	acl:relcl	_	_
 19	to	to	ADP	E	_	21	case	_	_
 20	their	their	DET	AP	Poss=Yes|PronType=Prs	21	nmod:poss	_	_
-21	children	child	NOUN	S	Gender=Masc|Number=Plur	18	obl	_	SpaceAfter=No
+21	children	child	NOUN	S	Number=Plur	18	obl	_	SpaceAfter=No
 22	.	.	PUNCT	FS	_	5	punct	_	_
 
 # sent_id = en_partut-ud-801
@@ -22254,7 +22254,7 @@
 38	bad	bad	ADV	B	_	18	ccomp	_	_
 39	they	they	PRON	PE	Number=Plur|Person=3|PronType=Prs	40	nsubj	_	_
 40	turned	turn	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	38	advcl	_	_
-41	lead	lead	NOUN	S	Number=Sing	44	nmod:npmod	_	SpaceAfter=No
+41	lead	lead	NOUN	S	Number=Sing	44	nmod:unmarked	_	SpaceAfter=No
 42	-	-	PUNCT	FF	_	43	punct	_	SpaceAfter=No
 43	based	based	VERB	V	Tense=Past|VerbForm=Part	41	amod	_	_
 44	paints	paint	NOUN	S	Number=Plur	45	nmod	_	_
@@ -22349,7 +22349,7 @@
 1	We	we	PRON	PE	Number=Plur|Person=1|PronType=Prs	2	nsubj	_	_
 2	see	see	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	the	the	DET	RD	Definite=Def|PronType=Art	4	det	_	_
-4	base	base	NOUN	S	Gender=Masc|Number=Sing	2	obj	_	_
+4	base	base	NOUN	S	Number=Sing	2	obj	_	_
 5	of	of	ADP	E	_	8	case	_	_
 6	the	the	DET	RD	Definite=Def|PronType=Art	8	det	_	_
 7	food	food	NOUN	S	Number=Sing	8	nmod	_	_
@@ -22668,7 +22668,7 @@
 2	dolphins	dolphin	NOUN	S	Number=Plur	3	nsubj	_	_
 3	eat	eat	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	the	the	DET	RD	Definite=Def|PronType=Art	5	det	_	_
-5	fish	fish	NOUN	S	Gender=Masc|Number=Sing	3	obj	_	_
+5	fish	fish	NOUN	S	Number=Sing	3	obj	_	_
 6	that	that	PRON	PR	PronType=Rel	7	nsubj	_	_
 7	have	have	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	5	acl:relcl	_	_
 8	PCBs	PCB	PROPN	SP	_	7	obj	_	_
@@ -22749,7 +22749,7 @@
 2	after	after	ADP	E	_	8	mark	_	_
 3	their	their	DET	AP	Poss=Yes|PronType=Prs	5	nmod:poss	_	_
 4	first	first	ADJ	NO	Degree=Pos|NumType=Ord	5	amod	_	_
-5	calf	calf	NOUN	S	Gender=Masc|Number=Sing	8	nsubj:pass	_	_
+5	calf	calf	NOUN	S	Number=Sing	8	nsubj:pass	_	_
 6	is	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux:pass	_	_
 7	already	already	ADV	B	_	8	advmod	_	_
 8	weaned	wean	VERB	V	Tense=Past|VerbForm=Part	1	acl	_	SpaceAfter=No
@@ -22779,7 +22779,7 @@
 8	for	for	ADP	E	_	11	case	_	_
 9	the	the	DET	RD	Definite=Def|PronType=Art	11	det	_	_
 10	first	first	ADJ	NO	Degree=Pos|NumType=Ord	11	amod	_	_
-11	calf	calf	NOUN	S	Gender=Masc|Number=Sing	19	nmod	_	_
+11	calf	calf	NOUN	S	Number=Sing	19	nmod	_	_
 12	born	born	ADJ	A	Degree=Pos	11	amod	_	_
 13	of	of	ADP	E	_	16	case	_	_
 14	every	every	DET	DI	Number=Sing|PronType=Ind	16	det	_	_
@@ -22829,7 +22829,7 @@
 32	first	first	ADJ	NO	Degree=Pos|NumType=Ord	34	amod	_	SpaceAfter=No
 33	-	-	PUNCT	FF	_	34	punct	_	SpaceAfter=No
 34	born	born	ADJ	A	Degree=Pos	35	amod	_	_
-35	calf	calf	NOUN	S	Gender=Masc|Number=Sing	29	nmod	_	SpaceAfter=No
+35	calf	calf	NOUN	S	Number=Sing	29	nmod	_	SpaceAfter=No
 36	.	.	PUNCT	FS	_	7	punct	_	_
 
 # sent_id = en_partut-ud-852
@@ -23332,7 +23332,7 @@
 5	mired	mire	VERB	V	Tense=Past|VerbForm=Part	0	root	_	_
 6	in	in	ADP	E	_	8	case	_	_
 7	political	politic	ADJ	A	Degree=Pos	8	amod	_	_
-8	crises	crisis	NOUN	S	Gender=Masc|Number=Plur	5	obl	_	_
+8	crises	crisis	NOUN	S	Number=Plur	5	obl	_	_
 9	that	that	PRON	PR	PronType=Rel	10	nsubj	_	_
 10	reflect	reflect	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	8	acl:relcl	_	_
 11	long	long	ADV	B	_	13	advmod	_	SpaceAfter=No
@@ -23753,7 +23753,7 @@
 27	amount	amount	NOUN	S	Number=Sing	33	nsubj:pass	_	_
 28	of	of	ADP	E	_	30	case	_	_
 29	government	government	NOUN	S	Number=Sing	30	nmod	_	_
-30	mythmaking	mythmaking	NOUN	S	Gender=Fem|Number=Sing	27	nmod	_	_
+30	mythmaking	mythmaking	NOUN	S	Number=Sing	27	nmod	_	_
 31	should	shall	AUX	VM	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	33	aux	_	_
 32	be	be	AUX	VA	VerbForm=Inf	33	aux:pass	_	_
 33	allowed	allow	VERB	V	Tense=Past|VerbForm=Part	24	acl:relcl	_	_
@@ -23791,7 +23791,7 @@
 17	of	of	ADP	E	_	18	case	_	_
 18	resources	resource	NOUN	S	Number=Plur	16	nmod	_	_
 19	in	in	ADP	E	_	22	case	_	_
-20	self	self	NOUN	S	Gender=Masc|Number=Sing	22	nmod	_	SpaceAfter=No
+20	self	self	NOUN	S	Number=Sing	22	nmod	_	SpaceAfter=No
 21	-	-	PUNCT	FF	_	20	punct	_	SpaceAfter=No
 22	insurance	insurance	NOUN	S	Number=Sing	13	obl	_	_
 23	by	by	ADP	E	_	24	mark	_	_
@@ -23810,7 +23810,7 @@
 5	with	with	ADP	E	_	8	case	_	_
 6	the	the	DET	RD	Definite=Def|PronType=Art	8	det	_	_
 7	excessive	excessive	ADJ	A	Degree=Pos	8	amod	_	_
-8	financialization	financialization	NOUN	S	Gender=Fem|Number=Sing	4	obl	_	_
+8	financialization	financialization	NOUN	S	Number=Sing	4	obl	_	_
 9	of	of	ADP	E	_	12	case	_	_
 10	the	the	DET	RD	Definite=Def|PronType=Art	12	det	_	_
 11	global	global	ADJ	A	Degree=Pos	12	amod	_	_
@@ -24458,7 +24458,7 @@
 29	,	,	PUNCT	FF	_	24	punct	_	_
 30	claiming	claim	VERB	V	VerbForm=Ger	24	advcl	_	_
 31	that	that	SCONJ	CS	_	33	mark	_	_
-32	exclusivity	exclusivity	NOUN	S	Gender=Fem|Number=Sing	33	nsubj	_	_
+32	exclusivity	exclusivity	NOUN	S	Number=Sing	33	nsubj	_	_
 33	enables	enable	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	30	ccomp	_	_
 34	companies	company	NOUN	S	Number=Plur	33	obj	_	_
 35	to	to	PART	PART	_	36	mark	_	_
@@ -24515,7 +24515,7 @@
 12	,	,	PUNCT	FF	_	3	punct	_	_
 13	is	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
 14	the	the	DET	RD	Definite=Def|PronType=Art	15	det	_	_
-15	shortage	shortage	NOUN	S	Gender=Fem|Number=Sing	3	nsubj	_	_
+15	shortage	shortage	NOUN	S	Number=Sing	3	nsubj	_	_
 16	of	of	ADP	E	_	17	case	_	_
 17	doctors	doctor	NOUN	S	Number=Plur	15	nmod	_	SpaceAfter=No
 18	,	,	PUNCT	FF	_	19	punct	_	_
@@ -25081,7 +25081,7 @@
 39	of	of	ADP	E	_	42	case	_	_
 40	the	the	DET	RD	Definite=Def|PronType=Art	42	det	_	_
 41	financial	financial	ADJ	A	Degree=Pos	42	amod	_	_
-42	crisis	crisis	NOUN	S	Gender=Masc|Number=Sing	38	nmod	_	SpaceAfter=No
+42	crisis	crisis	NOUN	S	Number=Sing	38	nmod	_	SpaceAfter=No
 43	,	,	PUNCT	FF	_	29	punct	_	_
 44	from	from	ADP	E	_	46	case	_	_
 45	4.9	4.9	NUM	N	NumType=Card	46	nummod	_	SpaceAfter=No
@@ -25141,7 +25141,7 @@
 4	argue	argue	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 5	that	that	SCONJ	CS	_	11	mark	_	_
 6	increased	increased	ADJ	A	Degree=Pos	7	amod	_	_
-7	financialization	financialization	NOUN	S	Gender=Fem|Number=Sing	11	nsubj	_	_
+7	financialization	financialization	NOUN	S	Number=Sing	11	nsubj	_	_
 8	was	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	11	cop	_	_
 9	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	11	det	_	_
 10	mixed	mix	VERB	V	Tense=Past|VerbForm=Part	11	acl	_	_
@@ -25405,7 +25405,7 @@
 8	the	the	DET	RD	Definite=Def|PronType=Art	11	det	_	_
 9	so-called	so-called	ADJ	A	Degree=Pos	11	amod	_	_
 10	"	"	PUNCT	FB	_	11	punct	_	SpaceAfter=No
-11	quants	quants	NOUN	S	Gender=Fem|Number=Plur	6	obl	_	SpaceAfter=No
+11	quants	quants	NOUN	S	Number=Plur	6	obl	_	SpaceAfter=No
 12	.	.	PUNCT	FS	_	1	punct	_	_
 
 # sent_id = en_partut-ud-1119
@@ -25418,7 +25418,7 @@
 6	the	the	DET	RD	Definite=Def|PronType=Art	9	det	_	_
 7	2008	2008	NUM	N	NumType=Card	9	nummod	_	_
 8	financial	financial	ADJ	A	Degree=Pos	9	amod	_	_
-9	crisis	crisis	NOUN	S	Gender=Masc|Number=Sing	4	nmod	_	SpaceAfter=No
+9	crisis	crisis	NOUN	S	Number=Sing	4	nmod	_	SpaceAfter=No
 10	,	,	PUNCT	FF	_	4	punct	_	_
 11	more	more	ADJ	A	Degree=Cmp	14	advmod	_	_
 12	than	than	ADP	E	_	11	fixed	_	_
@@ -25636,7 +25636,7 @@
 3	–	–	PUNCT	FF	_	1	punct	_	_
 4	Following	follow	VERB	V	VerbForm=Ger	15	advcl	_	_
 5	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	6	det	_	_
-6	crescendo	crescendo	NOUN	S	Gender=Masc|Number=Sing	4	obj	_	_
+6	crescendo	crescendo	NOUN	S	Number=Sing	4	obj	_	_
 7	of	of	ADP	E	_	9	case	_	_
 8	terrifying	terrifying	ADJ	A	Degree=Pos	9	amod	_	_
 9	violence	violence	NOUN	S	Number=Sing	6	nmod	_	SpaceAfter=No
@@ -25739,7 +25739,7 @@
 
 # sent_id = en_partut-ud-1134
 # text = Quantum mechanics offers a fitting metaphor.
-1	Quantum	quantum	NOUN	S	Gender=Masc|Number=Sing	2	nmod	_	_
+1	Quantum	quantum	NOUN	S	Number=Sing	2	nmod	_	_
 2	mechanics	mechanics	NOUN	S	Number=Sing	3	nsubj	_	_
 3	offers	offer	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	6	det	_	_
@@ -25927,7 +25927,7 @@
 16	with	with	ADP	E	_	19	case	_	_
 17	the	the	DET	RD	Definite=Def|PronType=Art	19	det	_	_
 18	euro	euro	NOUN	S	Number=Sing	19	nmod	_	_
-19	crisis	crisis	NOUN	S	Gender=Masc|Number=Sing	14	obl	_	_
+19	crisis	crisis	NOUN	S	Number=Sing	14	obl	_	_
 20	pitting	pit	VERB	V	Number=Sing|Tense=Pres|VerbForm=Part	19	acl	_	_
 21	creditor	creditor	NOUN	S	Number=Sing	24	nmod	_	_
 22	and	and	CCONJ	CC	_	23	cc	_	_
@@ -26190,7 +26190,7 @@
 26	German	German	ADJ	A	Degree=Pos	32	amod	_	_
 27	and	and	CCONJ	CC	_	31	cc	_	_
 28	other	other	ADJ	A	Degree=Pos	31	amod	_	_
-29	EU	EU	PROPN	SP	_	31	nmod:npmod	_	SpaceAfter=No
+29	EU	EU	PROPN	SP	_	31	nmod:unmarked	_	SpaceAfter=No
 30	-	-	PUNCT	FF	_	31	punct	_	SpaceAfter=No
 31	based	based	VERB	V	Tense=Past|VerbForm=Part	26	conj	_	_
 32	companies	company	NOUN	S	Number=Plur	24	nmod	_	SpaceAfter=No
@@ -26587,7 +26587,7 @@
 2	depends	depend	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	on	on	ADP	E	_	5	case	_	_
 4	Russian	Russian	ADJ	A	Degree=Pos	5	amod	_	_
-5	gas	gas	NOUN	S	Gender=Masc|Number=Sing	2	obl	_	SpaceAfter=No
+5	gas	gas	NOUN	S	Number=Sing	2	obl	_	SpaceAfter=No
 6	,	,	PUNCT	FF	_	9	punct	_	_
 7	and	and	CCONJ	CC	_	9	cc	_	_
 8	it	it	PRON	PE	Number=Sing|Person=3|PronType=Prs	9	nsubj	_	_
@@ -26737,7 +26737,7 @@
 2	the	the	DET	RD	Definite=Def|PronType=Art	3	det	_	_
 3	throes	throe	NOUN	S	Number=Plur	10	nmod	_	_
 4	of	of	ADP	E	_	5	case	_	_
-5	crisis	crisis	NOUN	S	Gender=Masc|Number=Sing	3	nmod	_	SpaceAfter=No
+5	crisis	crisis	NOUN	S	Number=Sing	3	nmod	_	SpaceAfter=No
 6	,	,	PUNCT	FF	_	3	punct	_	_
 7	generalization	generalization	NOUN	S	Number=Sing	10	nsubj	_	_
 8	is	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
@@ -26794,7 +26794,7 @@
 31	'	'	X	X	_	30	case	_	SpaceAfter=No
 32	s	s	X	X	_	30	dep	_	_
 33	financial	financial	ADJ	A	Degree=Pos	34	amod	_	_
-34	crisis	crisis	NOUN	S	Gender=Masc|Number=Sing	27	obl	_	_
+34	crisis	crisis	NOUN	S	Number=Sing	27	obl	_	_
 35	–	–	PUNCT	FB	_	18	punct	_	_
 36	China	China	PROPN	SP	_	37	nsubj	_	_
 37	runs	run	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
@@ -27210,7 +27210,7 @@
 2	economic	economic	ADJ	A	Degree=Pos	3	amod	_	_
 3	analogue	analogue	NOUN	S	Number=Sing	6	nsubj	_	_
 4	of	of	ADP	E	_	5	case	_	_
-5	codependency	codependency	NOUN	S	Gender=Fem|Number=Sing	3	nmod	_	_
+5	codependency	codependency	NOUN	S	Number=Sing	3	nmod	_	_
 6	applies	apply	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 7	especially	especially	ADV	B	_	8	advmod	_	_
 8	well	well	ADV	B	_	6	advmod	_	_
@@ -27340,7 +27340,7 @@
 16	trade	trade	NOUN	S	Number=Sing	15	obj	_	SpaceAfter=No
 17	,	,	PUNCT	FF	_	22	punct	_	_
 18	the	the	DET	RD	Definite=Def|PronType=Art	19	det	_	_
-19	renminbi	renminbi	NOUN	S	Gender=Fem|Number=Sing	22	nmod	_	SpaceAfter=No
+19	renminbi	renminbi	NOUN	S	Number=Sing	22	nmod	_	SpaceAfter=No
 20	's	's	PART	PART	_	19	case	_	_
 21	exchange	exchange	NOUN	S	Number=Sing	22	nmod	_	_
 22	rate	rate	NOUN	S	Number=Sing	16	conj	_	SpaceAfter=No
@@ -27547,7 +27547,7 @@
 7	s	s	X	X	_	5	dep	_	_
 8	Asian	Asian	ADJ	A	Degree=Pos	10	amod	_	_
 9	financial	financial	ADJ	A	Degree=Pos	10	amod	_	_
-10	crisis	crisis	NOUN	S	Gender=Masc|Number=Sing	2	obl	_	_
+10	crisis	crisis	NOUN	S	Number=Sing	2	obl	_	_
 11	as	as	ADP	E	_	17	case	_	_
 12	the	the	DET	RD	Definite=Def|PronType=Art	13	det	_	_
 13	region	region	NOUN	S	Number=Sing	17	nmod	_	SpaceAfter=No
@@ -27632,7 +27632,7 @@
 24	wars	war	NOUN	S	Number=Plur	22	nmod	_	_
 25	and	and	CCONJ	CC	_	27	cc	_	_
 26	financial	financial	ADJ	A	Degree=Pos	27	amod	_	_
-27	crises	crisis	NOUN	S	Gender=Masc|Number=Plur	24	conj	_	SpaceAfter=No
+27	crises	crisis	NOUN	S	Number=Plur	24	conj	_	SpaceAfter=No
 28	.	.	PUNCT	FS	_	9	punct	_	_
 
 # sent_id = en_partut-ud-1210
@@ -27734,7 +27734,7 @@
 # text = Periodic political rebalancing, sometimes peaceful, sometimes not, has ensured that the vast majority of people have benefited, albeit some far more than others.
 1	Periodic	periodic	ADJ	A	Degree=Pos	3	amod	_	_
 2	political	politic	ADJ	A	Degree=Pos	3	amod	_	_
-3	rebalancing	rebalancing	NOUN	S	Gender=Fem|Number=Sing	12	nsubj	_	SpaceAfter=No
+3	rebalancing	rebalancing	NOUN	S	Number=Sing	12	nsubj	_	SpaceAfter=No
 4	,	,	PUNCT	FF	_	3	punct	_	_
 5	sometimes	sometimes	ADV	B	_	12	advmod	_	_
 6	peaceful	peaceful	ADJ	A	Degree=Pos	12	amod	_	SpaceAfter=No
@@ -27873,7 +27873,7 @@
 16	stemming	stem	VERB	V	Number=Sing|Tense=Pres|VerbForm=Part	11	acl	_	_
 17	from	from	ADP	E	_	19	case	_	_
 18	political	politic	ADJ	A	Degree=Pos	19	amod	_	_
-19	underperformance	underperformance	NOUN	S	Gender=Fem|Number=Sing	16	obl	_	_
+19	underperformance	underperformance	NOUN	S	Number=Sing	16	obl	_	_
 20	and	and	CCONJ	CC	_	21	cc	_	_
 21	dysfunction	dysfunction	NOUN	S	Number=Sing	19	conj	_	SpaceAfter=No
 22	.	.	PUNCT	FS	_	8	punct	_	_
@@ -28267,7 +28267,7 @@
 11	as	as	ADP	E	_	14	case	_	_
 12	an	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	14	det	_	_
 13	"	"	PUNCT	FB	_	14	punct	_	SpaceAfter=No
-14	internality	internality	NOUN	S	Gender=Fem|Number=Sing	10	obl	_	SpaceAfter=No
+14	internality	internality	NOUN	S	Number=Sing	10	obl	_	SpaceAfter=No
 15	"	"	PUNCT	FB	_	14	punct	_	SpaceAfter=No
 16	,	,	PUNCT	FF	_	2	punct	_	_
 17	can	can	AUX	VM	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	18	aux	_	_
@@ -28326,7 +28326,7 @@
 5	redistribution	redistribution	NOUN	S	Number=Sing	3	obj	_	_
 6	through	through	ADP	E	_	9	case	_	_
 7	national	national	ADJ	A	Degree=Pos	8	amod	_	_
-8	tax	tax	NOUN	S	Gender=Masc|Number=Sing	9	nmod	_	_
+8	tax	tax	NOUN	S	Number=Sing	9	nmod	_	_
 9	systems	system	NOUN	S	Number=Plur	5	nmod	_	SpaceAfter=No
 10	,	,	PUNCT	FF	_	9	punct	_	_
 11	together	together	ADV	B	_	14	advmod	_	_
@@ -28369,7 +28369,7 @@
 19	by	by	ADP	E	_	20	mark	_	_
 20	encouraging	encourage	VERB	V	VerbForm=Ger	12	conj	_	_
 21	more	more	ADV	B	Degree=Cmp	22	advmod	_	_
-22	women	woman	NOUN	S	Gender=Fem|Number=Plur	20	obj	_	_
+22	women	woman	NOUN	S	Number=Plur	20	obj	_	_
 23	and	and	CCONJ	CC	_	24	cc	_	_
 24	retirees	retiree	NOUN	S	Number=Plur	22	conj	_	_
 25	to	to	PART	PART	_	26	mark	_	_
@@ -28860,7 +28860,7 @@
 28	led	lead	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	11	conj	_	_
 29	to	to	ADP	E	_	31	case	_	_
 30	the	the	DET	RD	Definite=Def|PronType=Art	31	det	_	_
-31	crisis	crisis	NOUN	S	Gender=Masc|Number=Sing	28	obl	_	_
+31	crisis	crisis	NOUN	S	Number=Sing	28	obl	_	_
 32	from	from	ADP	E	_	33	case	_	_
 33	which	which	PRON	PR	PronType=Rel	38	obl	_	_
 34	we	we	PRON	PE	Number=Plur|Person=1|PronType=Prs	38	nsubj	_	_
@@ -29208,7 +29208,7 @@
 11	improvement	improvement	NOUN	S	Number=Sing	9	obj	_	_
 12	in	in	ADP	E	_	14	case	_	_
 13	societal	societal	ADJ	A	Degree=Pos	14	amod	_	_
-14	wellbeing	wellbeing	NOUN	S	Gender=Fem|Number=Sing	11	nmod	_	_
+14	wellbeing	wellbeing	NOUN	S	Number=Sing	11	nmod	_	_
 15	resulting	result	VERB	V	Number=Sing|Tense=Pres|VerbForm=Part	14	acl	_	_
 16	from	from	ADP	E	_	17	case	_	_
 17	innovation	innovation	NOUN	S	Number=Sing	15	obl	_	SpaceAfter=No
@@ -29519,7 +29519,7 @@
 12	contributing	contribute	VERB	V	VerbForm=Ger	5	ccomp	_	_
 13	to	to	ADP	E	_	15	case	_	_
 14	our	us	DET	AP	Poss=Yes|PronType=Prs	15	nmod:poss	_	_
-15	wellbeing	wellbeing	NOUN	S	Gender=Fem|Number=Sing	12	obl	_	SpaceAfter=No
+15	wellbeing	wellbeing	NOUN	S	Number=Sing	12	obl	_	SpaceAfter=No
 16	,	,	PUNCT	FF	_	5	punct	_	_
 17	at	at	ADV	B	_	20	advmod	_	_
 18	least	least	ADV	B	Degree=Sup	17	fixed	_	_
@@ -29538,7 +29538,7 @@
 31	the	the	DET	RD	Definite=Def|PronType=Art	36	det	_	_
 32	pre	pre	ADJ	A	Degree=Pos	34	amod	_	SpaceAfter=No
 33	-	-	PUNCT	FF	_	32	punct	_	SpaceAfter=No
-34	crisis	crisis	NOUN	S	Gender=Masc|Number=Sing	36	nmod	_	_
+34	crisis	crisis	NOUN	S	Number=Sing	36	nmod	_	_
 35	global	global	ADJ	A	Degree=Pos	36	amod	_	_
 36	economy	economy	NOUN	S	Number=Sing	30	obj	_	SpaceAfter=No
 37	,	,	PUNCT	FF	_	25	punct	_	_
@@ -29713,7 +29713,7 @@
 14	housing	housing	NOUN	S	Number=Sing	15	nmod	_	_
 15	conditions	condition	NOUN	S	Number=Plur	6	conj	_	_
 16	on	on	ADP	E	_	19	case	_	_
-17	children	child	NOUN	S	Gender=Masc|Number=Plur	19	nmod	_	SpaceAfter=No
+17	children	child	NOUN	S	Number=Plur	19	nmod	_	SpaceAfter=No
 18	's	's	PART	PART	_	17	case	_	_
 19	health	health	NOUN	S	Number=Sing	2	nmod	_	_
 20	–	–	PUNCT	FF	_	19	punct	_	_
@@ -29849,7 +29849,7 @@
 10	,	,	PUNCT	FF	_	9	punct	_	_
 11	including	include	VERB	V	VerbForm=Ger	9	advcl	_	_
 12	higher	higher	ADJ	A	Degree=Cmp	16	amod	_	_
-13	child	child	NOUN	S	Gender=Masc|Number=Sing	15	nmod	_	SpaceAfter=No
+13	child	child	NOUN	S	Number=Sing	15	nmod	_	SpaceAfter=No
 14	-	-	PUNCT	FF	_	13	punct	_	SpaceAfter=No
 15	mortality	mortality	NOUN	S	Number=Sing	16	nmod	_	_
 16	rates	rates	NOUN	S	Number=Sing	11	obj	_	SpaceAfter=No
@@ -29871,7 +29871,7 @@
 32	can	can	AUX	VM	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	33	aux	_	_
 33	lock	lock	VERB	V	VerbForm=Inf	30	acl:relcl	_	_
 34	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	35	det	_	_
-35	child	child	NOUN	S	Gender=Masc|Number=Sing	33	obj	_	_
+35	child	child	NOUN	S	Number=Sing	33	obj	_	_
 36	into	into	ADP	E	_	39	case	_	_
 37	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	39	det	_	_
 38	vicious	vicious	ADJ	A	Degree=Pos	39	amod	_	_
@@ -29957,7 +29957,7 @@
 44	determinants	determinant	NOUN	S	Number=Plur	37	acl	_	_
 45	of	of	ADP	E	_	49	case	_	_
 46	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	47	det	_	_
-47	child	child	NOUN	S	Gender=Masc|Number=Sing	49	nmod	_	SpaceAfter=No
+47	child	child	NOUN	S	Number=Sing	49	nmod	_	SpaceAfter=No
 48	's	's	PART	PART	_	47	case	_	_
 49	development	development	NOUN	S	Number=Sing	44	nmod	_	SpaceAfter=No
 50	.	.	PUNCT	FS	_	3	punct	_	_
@@ -30025,7 +30025,7 @@
 19	maternal	maternal	ADJ	A	Degree=Pos	25	amod	_	SpaceAfter=No
 20	-	-	PUNCT	FB	_	19	punct	_	_
 21	and	and	CCONJ	CC	_	22	cc	_	_
-22	child	child	NOUN	S	Gender=Masc|Number=Sing	19	conj	_	SpaceAfter=No
+22	child	child	NOUN	S	Number=Sing	19	conj	_	SpaceAfter=No
 23	-	-	PUNCT	FB	_	24	punct	_	SpaceAfter=No
 24	health	health	NOUN	S	Number=Sing	25	nmod	_	_
 25	services	services	NOUN	S	Number=Sing	17	nmod	_	_
@@ -30084,7 +30084,7 @@
 12	case	case	NOUN	S	Number=Sing	9	obl	_	_
 13	of	of	ADP	E	_	15	case	_	_
 14	female	female	ADJ	A	Degree=Pos	15	amod	_	_
-15	children	child	NOUN	S	Gender=Masc|Number=Plur	12	nmod	_	SpaceAfter=No
+15	children	child	NOUN	S	Number=Plur	12	nmod	_	SpaceAfter=No
 16	.	.	PUNCT	FS	_	9	punct	_	_
 
 # sent_id = en_partut-ud-1309
@@ -30137,7 +30137,7 @@
 14	eggs	egg	NOUN	S	Number=Plur	15	nsubj	_	_
 15	shape	shape	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	8	acl:relcl	_	_
 16	her	her	DET	AP	Poss=Yes|PronType=Prs	17	nmod:poss	_	_
-17	grandchildren	grandchild	NOUN	S	Gender=Masc|Number=Plur	19	nmod	_	SpaceAfter=No
+17	grandchildren	grandchild	NOUN	S	Number=Plur	19	nmod	_	SpaceAfter=No
 18	's	's	PART	PART	_	17	case	_	_
 19	prospects	prospect	NOUN	S	Number=Plur	15	obj	_	SpaceAfter=No
 20	,	,	PUNCT	FF	_	1	punct	_	_
@@ -30146,7 +30146,7 @@
 23	not	not	PART	PART	Polarity=Neg	24	advmod	_	_
 24	surprising	surprising	ADJ	A	Degree=Pos	0	root	_	_
 25	that	that	SCONJ	CS	_	27	mark	_	_
-26	policymakers	policymakers	NOUN	S	Gender=Fem|Number=Sing	27	nsubj	_	_
+26	policymakers	policymakers	NOUN	S	Number=Sing	27	nsubj	_	_
 27	remain	remain	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	24	csubj	_	_
 28	so	so	ADV	B	_	29	advmod	_	_
 29	oblivious	oblivious	ADJ	A	Degree=Pos	27	xcomp	_	_
@@ -30155,7 +30155,7 @@
 32	long-term	long-term	ADJ	A	Degree=Pos	33	amod	_	_
 33	impact	impact	NOUN	S	Number=Sing	27	obl	_	_
 34	of	of	ADP	E	_	37	case	_	_
-35	women	women	NOUN	S	Gender=Fem|Number=Sing	37	nmod	_	SpaceAfter=No
+35	women	women	NOUN	S	Number=Sing	37	nmod	_	SpaceAfter=No
 36	's	's	PART	PART	_	35	case	_	_
 37	health	health	NOUN	S	Number=Sing	33	nmod	_	SpaceAfter=No
 38	.	.	PUNCT	FS	_	24	punct	_	_
@@ -30194,12 +30194,12 @@
 4	,	,	PUNCT	FF	_	10	punct	_	_
 5	text	text	NOUN	S	Number=Sing	7	nmod	_	SpaceAfter=No
 6	-	-	PUNCT	FF	_	7	punct	_	SpaceAfter=No
-7	message	message	NOUN	S	Number=Sing	9	nmod:npmod	_	SpaceAfter=No
+7	message	message	NOUN	S	Number=Sing	9	nmod:unmarked	_	SpaceAfter=No
 8	-	-	PUNCT	FF	_	9	punct	_	SpaceAfter=No
 9	based	based	VERB	V	Tense=Past|VerbForm=Part	10	amod	_	_
 10	initiatives	initiative	NOUN	S	Number=Plur	3	conj	_	SpaceAfter=No
 11	,	,	PUNCT	FF	_	16	punct	_	_
-12	school	school	NOUN	S	Number=Sing	14	nmod:npmod	_	SpaceAfter=No
+12	school	school	NOUN	S	Number=Sing	14	nmod:unmarked	_	SpaceAfter=No
 13	-	-	PUNCT	FF	_	14	punct	_	SpaceAfter=No
 14	based	based	VERB	V	Tense=Past|VerbForm=Part	16	amod	_	_
 15	food	food	NOUN	S	Number=Sing	16	nmod	_	_
@@ -30242,7 +30242,7 @@
 # sent_id = en_partut-ud-1315
 # text = Compelling policymakers to implement such policies will require a new set of skills that draws upon lessons from around the world.
 1	Compelling	compel	VERB	V	Number=Sing|Tense=Pres|VerbForm=Part	2	acl	_	_
-2	policymakers	policymakers	NOUN	S	Gender=Fem|Number=Plur	8	nsubj	_	_
+2	policymakers	policymakers	NOUN	S	Number=Plur	8	nsubj	_	_
 3	to	to	PART	PART	_	4	mark	_	_
 4	implement	implement	VERB	V	VerbForm=Inf	2	acl	_	_
 5	such	such	DET	DD	PronType=Dem	6	det	_	_
@@ -30341,7 +30341,7 @@
 3	end	end	NOUN	S	Number=Sing	28	obl	_	SpaceAfter=No
 4	,	,	PUNCT	FF	_	3	punct	_	_
 5	entertainment	entertainment	NOUN	S	Number=Sing	6	nmod	_	_
-6	media	medium	NOUN	S	Gender=Masc|Number=Plur	28	nsubj:pass	_	_
+6	media	medium	NOUN	S	Number=Plur	28	nsubj:pass	_	_
 7	like	like	ADP	E	_	9	case	_	_
 8	soap	soap	NOUN	S	Number=Sing	9	nmod	_	_
 9	operas	opera	NOUN	S	Number=Plur	6	nmod	_	SpaceAfter=No
@@ -30422,7 +30422,7 @@
 9	past	past	ADJ	A	Degree=Pos	10	amod	_	_
 10	time	time	NOUN	S	Number=Sing	3	conj	_	_
 11	for	for	ADP	E	_	12	case	_	_
-12	policymakers	policymakers	NOUN	S	Gender=Fem|Number=Plur	10	nmod	_	_
+12	policymakers	policymakers	NOUN	S	Number=Plur	10	nmod	_	_
 13	to	to	PART	PART	_	14	mark	_	_
 14	deliver	deliver	VERB	V	VerbForm=Inf	10	acl	_	_
 15	it	it	PRON	PE	Number=Sing|Person=3|PronType=Prs	14	obj	_	SpaceAfter=No
@@ -30547,7 +30547,7 @@
 16	,	,	PUNCT	FF	_	11	punct	_	_
 17	with	with	ADP	E	_	19	case	_	_
 18	an	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	19	det	_	_
-19	emphasis	emphasis	NOUN	S	Gender=Masc|Number=Sing	11	obl	_	_
+19	emphasis	emphasis	NOUN	S	Number=Sing	11	obl	_	_
 20	on	on	ADP	E	_	21	mark	_	_
 21	maximizing	maximize	VERB	V	VerbForm=Ger	19	acl	_	_
 22	its	its	DET	AP	Number=Sing|Poss=Yes|PronType=Prs	26	nmod:poss	_	_
@@ -30656,7 +30656,7 @@
 # sent_id = en_partut-ud-1330
 # text = But women remain underutilized, to the detriment of the entire economy.
 1	But	but	CCONJ	CC	_	3	cc	_	_
-2	women	woman	NOUN	S	Gender=Fem|Number=Plur	3	nsubj	_	_
+2	women	woman	NOUN	S	Number=Plur	3	nsubj	_	_
 3	remain	remain	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	underutilized	underutilized	VERB	V	Tense=Past|VerbForm=Part	3	xcomp	_	SpaceAfter=No
 5	,	,	PUNCT	FF	_	3	punct	_	_
@@ -30687,7 +30687,7 @@
 14	economic	economic	ADJ	A	Degree=Pos	15	amod	_	_
 15	opportunities	opportunity	NOUN	S	Number=Plur	10	obj	_	_
 16	for	for	ADP	E	_	17	case	_	_
-17	women	women	NOUN	S	Gender=Fem|Number=Sing	10	obl	_	SpaceAfter=No
+17	women	women	NOUN	S	Number=Sing	10	obl	_	SpaceAfter=No
 18	,	,	PUNCT	FF	_	10	punct	_	_
 19	in	in	ADP	E	_	20	case	_	_
 20	part	part	ADV	B	_	22	advmod	_	_
@@ -30739,7 +30739,7 @@
 9	Park	Park	PROPN	SP	_	7	appos	_	_
 10	Geun	Geun	PROPN	SP	_	9	flat	_	SpaceAfter=No
 11	-	-	PUNCT	FF	_	9	punct	_	SpaceAfter=No
-12	hye	hye	NOUN	S	Gender=Fem|Number=Sing	9	flat	_	SpaceAfter=No
+12	hye	hye	NOUN	S	Number=Sing	9	flat	_	SpaceAfter=No
 13	,	,	PUNCT	FF	_	9	punct	_	_
 14	in	in	ADP	E	_	15	case	_	_
 15	2012	2012	NUM	N	NumType=Card	3	obl	_	SpaceAfter=No
@@ -30776,7 +30776,7 @@
 9	of	of	ADP	E	_	12	case	_	_
 10	South	South	NOUN	S	_	12	nmod	_	_
 11	Korean	Korean	ADJ	A	Degree=Pos	10	compound	_	_
-12	women	women	NOUN	S	Gender=Fem|Number=Sing	8	nmod	_	_
+12	women	women	NOUN	S	Number=Sing	8	nmod	_	_
 13	aged	age	VERB	V	Tense=Past|VerbForm=Part	12	acl	_	_
 14	15	15	NUM	N	NumType=Card	13	xcomp	_	SpaceAfter=No
 15	-	-	PUNCT	FF	_	14	punct	_	SpaceAfter=No
@@ -30839,7 +30839,7 @@
 4	participation	participation	NOUN	S	Number=Sing	5	nmod	_	_
 5	rate	rate	NOUN	S	Number=Sing	15	nsubj	_	_
 6	for	for	ADP	E	_	7	case	_	_
-7	women	women	NOUN	S	Gender=Fem|Number=Sing	5	nmod	_	_
+7	women	women	NOUN	S	Number=Sing	5	nmod	_	_
 8	with	with	ADP	E	_	12	case	_	_
 9	post	post	NOUN	S	Number=Sing	11	obl	_	SpaceAfter=No
 10	-	-	PUNCT	FF	_	11	punct	_	SpaceAfter=No
@@ -30885,7 +30885,7 @@
 13	female	female	ADJ	A	Degree=Pos	14	amod	_	_
 14	workers	worker	NOUN	S	Number=Plur	22	nmod	_	SpaceAfter=No
 15	,	,	PUNCT	FF	_	14	punct	_	_
-16	child	child	NOUN	S	Gender=Masc|Number=Sing	17	obj	_	_
+16	child	child	NOUN	S	Number=Sing	17	obj	_	_
 17	rearing	rear	NOUN	S	Number=Sing	22	nsubj	_	_
 18	is	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	22	cop	_	_
 19	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	22	det	_	_
@@ -30901,7 +30901,7 @@
 3	,	,	PUNCT	FF	_	2	punct	_	_
 4	South	South	NOUN	S	_	6	nmod	_	_
 5	Korean	Korean	ADJ	A	Degree=Pos	4	compound	_	_
-6	women	women	NOUN	S	Gender=Fem|Number=Sing	7	nsubj	_	_
+6	women	women	NOUN	S	Number=Sing	7	nsubj	_	_
 7	participate	participate	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	0	root	_	_
 8	in	in	ADP	E	_	11	case	_	_
 9	the	the	DET	RD	Definite=Def|PronType=Art	11	det	_	_
@@ -30941,7 +30941,7 @@
 13	57	57	NUM	N	NumType=Card	14	nummod	_	SpaceAfter=No
 14	%	%	SYM	X	_	7	obl	_	_
 15	among	among	ADP	E	_	16	case	_	_
-16	women	women	NOUN	S	Gender=Fem|Number=Sing	7	obl	_	_
+16	women	women	NOUN	S	Number=Sing	7	obl	_	_
 17	in	in	ADP	E	_	19	case	_	_
 18	their	their	DET	AP	Poss=Yes|PronType=Prs	19	nmod:poss	_	_
 19	30	30	NUM	N	NumType=Card	16	nummod	_	SpaceAfter=No
@@ -31001,7 +31001,7 @@
 11	additional	additional	ADJ	A	Degree=Pos	12	amod	_	_
 12	jobs	job	NOUN	S	Number=Plur	10	obj	_	_
 13	for	for	ADP	E	_	14	case	_	_
-14	women	women	NOUN	S	Gender=Fem|Number=Sing	10	obl	_	SpaceAfter=No
+14	women	women	NOUN	S	Number=Sing	10	obl	_	SpaceAfter=No
 15	.	.	PUNCT	FS	_	5	punct	_	_
 
 # sent_id = en_partut-ud-1345
@@ -31177,7 +31177,7 @@
 7	the	the	DET	RD	Definite=Def|PronType=Art	8	det	_	_
 8	mismatch	mismatch	NOUN	S	Number=Sing	6	obj	_	_
 9	between	between	ADP	E	_	12	case	_	_
-10	women	women	NOUN	S	Gender=Fem|Number=Sing	12	nmod	_	SpaceAfter=No
+10	women	women	NOUN	S	Number=Sing	12	nmod	_	SpaceAfter=No
 11	's	's	PART	PART	_	10	case	_	_
 12	abilities	ability	NOUN	S	Number=Plur	6	obl	_	_
 13	and	and	CCONJ	CC	_	16	cc	_	_
@@ -31198,7 +31198,7 @@
 8	roles	role	NOUN	S	Number=Plur	6	obj	_	SpaceAfter=No
 9	,	,	PUNCT	FF	_	4	punct	_	_
 10	encouraging	encourage	VERB	V	VerbForm=Ger	4	advcl	_	_
-11	children	child	NOUN	S	Gender=Masc|Number=Plur	10	obj	_	_
+11	children	child	NOUN	S	Number=Plur	10	obj	_	_
 12	to	to	PART	PART	_	13	mark	_	_
 13	follow	follow	VERB	V	VerbForm=Inf	10	xcomp	_	_
 14	culturally	culturally	ADV	B	_	15	advmod	_	_
@@ -31283,7 +31283,7 @@
 18	giving	give	VERB	V	VerbForm=Ger	8	advcl	_	_
 19	talented	talented	ADJ	A	Degree=Pos	21	amod	_	_
 20	young	young	ADJ	A	Degree=Pos	21	amod	_	_
-21	women	woman	NOUN	S	Gender=Fem|Number=Plur	18	iobj	_	_
+21	women	woman	NOUN	S	Number=Plur	18	iobj	_	_
 22	the	the	DET	RD	Definite=Def|PronType=Art	23	det	_	_
 23	tools	tool	NOUN	S	Number=Plur	18	obj	_	_
 24	they	they	PRON	PE	Number=Plur|Person=3|PronType=Prs	25	nsubj	_	_
@@ -31556,7 +31556,7 @@
 3	why	why	ADV	B	_	12	advmod	_	_
 4	leaders	leader	NOUN	S	Number=Plur	12	nsubj	_	_
 5	and	and	CCONJ	CC	_	6	cc	_	_
-6	policymakers	policymakers	NOUN	S	Gender=Fem|Number=Plur	4	conj	_	_
+6	policymakers	policymakers	NOUN	S	Number=Plur	4	conj	_	_
 7	from	from	ADP	E	_	10	case	_	_
 8	across	across	ADP	E	_	7	fixed	_	_
 9	the	the	DET	RD	Definite=Def|PronType=Art	10	det	_	_
@@ -31665,12 +31665,12 @@
 17	conducted	conduct	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 18	an	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	20	det	_	_
 19	unprecedented	unprecedented	ADJ	A	Degree=Pos	20	amod	_	_
-20	analysis	analysis	NOUN	S	Gender=Masc|Number=Sing	17	obj	_	_
+20	analysis	analysis	NOUN	S	Number=Sing	17	obj	_	_
 21	of	of	ADP	E	_	23	case	_	_
 22	the	the	DET	RD	Definite=Def|PronType=Art	23	det	_	_
 23	challenges	challenge	NOUN	S	Number=Plur	20	nmod	_	_
 24	facing	face	VERB	V	VerbForm=Ger	23	acl:relcl	_	_
-25	women	woman	NOUN	S	Gender=Fem|Number=Plur	26	nmod	_	_
+25	women	woman	NOUN	S	Number=Plur	26	nmod	_	_
 26	farmers	farmer	NOUN	S	Number=Plur	24	nsubj	_	SpaceAfter=No
 27	.	.	PUNCT	FS	_	17	punct	_	_
 
@@ -31746,13 +31746,13 @@
 3	experts	expert	NOUN	S	Number=Plur	4	nsubj	_	_
 4	believed	believe	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 5	that	that	SCONJ	CS	_	9	mark	_	_
-6	women	woman	NOUN	S	Gender=Fem|Number=Plur	8	nmod	_	SpaceAfter=No
+6	women	woman	NOUN	S	Number=Plur	8	nmod	_	SpaceAfter=No
 7	's	's	PART	PART	_	6	case	_	_
 8	farms	farm	NOUN	S	Number=Plur	9	nsubj	_	_
 9	produced	produce	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	4	ccomp	_	_
 10	less	less	ADV	B	Degree=Cmp	9	advmod	_	_
 11	because	because	SCONJ	CS	_	13	mark	_	_
-12	women	women	NOUN	S	Gender=Fem|Number=Sing	13	nsubj	_	_
+12	women	women	NOUN	S	Number=Sing	13	nsubj	_	_
 13	have	have	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	9	advcl	_	_
 14	less	less	ADV	B	Degree=Cmp	15	advmod	_	_
 15	access	access	NOUN	S	Number=Sing	13	obj	_	_
@@ -31805,7 +31805,7 @@
 18	persists	persist	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	ccomp	_	_
 19	even	even	ADV	B	_	22	advmod	_	_
 20	when	when	SCONJ	CS	_	22	mark	_	_
-21	women	women	NOUN	S	Gender=Fem|Number=Sing	22	nsubj	_	_
+21	women	women	NOUN	S	Number=Sing	22	nsubj	_	_
 22	have	have	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	18	advcl	_	_
 23	equal	equal	ADJ	A	Degree=Pos	24	amod	_	_
 24	access	access	NOUN	S	Number=Sing	22	obj	_	_
@@ -31835,7 +31835,7 @@
 18	norms	norm	NOUN	S	Number=Plur	14	obl	_	_
 19	that	that	PRON	PR	PronType=Rel	20	nsubj	_	_
 20	prevent	prevent	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	18	acl:relcl	_	_
-21	women	woman	NOUN	S	Gender=Fem|Number=Plur	20	obj	_	_
+21	women	woman	NOUN	S	Number=Plur	20	obj	_	_
 22	from	from	SCONJ	CS	_	23	mark	_	_
 23	reaching	reach	VERB	V	VerbForm=Ger	20	advcl	_	_
 24	their	their	DET	AP	Poss=Yes|PronType=Prs	26	nmod:poss	_	_
@@ -31852,7 +31852,7 @@
 5	report	report	NOUN	S	Number=Sing	6	nsubj	_	_
 6	found	find	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 7	that	that	SCONJ	CS	_	9	mark	_	_
-8	women	woman	NOUN	S	Gender=Fem|Number=Plur	9	nsubj	_	_
+8	women	woman	NOUN	S	Number=Plur	9	nsubj	_	_
 9	face	face	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	6	ccomp	_	_
 10	obstacles	obstacle	NOUN	S	Number=Plur	9	obj	_	_
 11	mobilizing	mobilize	VERB	V	Number=Sing|Tense=Pres|VerbForm=Part	10	acl	_	_
@@ -31869,7 +31869,7 @@
 
 # sent_id = en_partut-ud-1379
 # text = Women usually have more childcare and household responsibilities than men, which make it difficult for them to devote as much time to farm work, or even to supervise hired labor.
-1	Women	woman	NOUN	S	Gender=Fem|Number=Plur	3	nsubj	_	_
+1	Women	woman	NOUN	S	Number=Plur	3	nsubj	_	_
 2	usually	usually	ADV	B	_	3	advmod	_	_
 3	have	have	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	more	more	ADV	B	Degree=Cmp	8	advmod	_	_
@@ -31878,7 +31878,7 @@
 7	household	household	NOUN	S	Number=Sing	5	conj	_	_
 8	responsibilities	responsibility	NOUN	S	Number=Plur	3	obj	_	_
 9	than	than	ADP	E	_	10	case	_	_
-10	men	man	NOUN	S	Gender=Masc|Number=Plur	8	nmod	_	SpaceAfter=No
+10	men	man	NOUN	S	Number=Plur	8	nmod	_	SpaceAfter=No
 11	,	,	PUNCT	FF	_	3	punct	_	_
 12	which	which	PRON	PR	PronType=Rel	13	nsubj	_	_
 13	make	make	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	3	advcl	_	_
@@ -31913,7 +31913,7 @@
 6	the	the	DET	RD	Definite=Def|PronType=Art	7	det	_	_
 7	fact	fact	NOUN	S	Number=Sing	4	obl	_	_
 8	that	that	SCONJ	CS	_	12	mark	_	_
-9	women	women	NOUN	S	Gender=Fem|Number=Sing	12	nsubj	_	_
+9	women	women	NOUN	S	Number=Sing	12	nsubj	_	_
 10	are	be	AUX	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	12	cop	_	_
 11	also	also	ADV	B	_	12	advmod	_	_
 12	likely	likely	ADJ	A	Degree=Pos	7	acl	_	_
@@ -31960,7 +31960,7 @@
 26	to	to	PART	PART	_	27	mark	_	_
 27	visit	visit	VERB	V	VerbForm=Inf	24	xcomp	_	_
 28	when	when	SCONJ	CS	_	32	mark	_	_
-29	women	woman	NOUN	S	Gender=Fem|Number=Plur	32	nsubj	_	_
+29	women	woman	NOUN	S	Number=Plur	32	nsubj	_	_
 30	are	be	AUX	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	32	cop	_	_
 31	most	most	ADV	B	_	32	advmod	_	_
 32	likely	likely	ADJ	A	Degree=Pos	27	advcl	_	_
@@ -31980,7 +31980,7 @@
 6	may	may	AUX	VM	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	_
 7	mean	mean	VERB	V	VerbForm=Inf	0	root	_	_
 8	increasing	increase	VERB	V	VerbForm=Ger	7	ccomp	_	_
-9	women	woman	NOUN	S	Gender=Fem|Number=Plur	11	nmod	_	SpaceAfter=No
+9	women	woman	NOUN	S	Number=Plur	11	nmod	_	SpaceAfter=No
 10	's	's	PART	PART	_	9	case	_	_
 11	access	access	NOUN	S	Number=Sing	8	obj	_	_
 12	to	to	ADP	E	_	13	case	_	_
@@ -32109,7 +32109,7 @@
 19	to	to	PART	PART	_	20	mark	_	_
 20	continue	continue	VERB	V	VerbForm=Inf	18	xcomp	_	_
 21	–	–	PUNCT	FB	_	18	punct	_	_
-22	policymakers	policymakers	NOUN	S	Gender=Fem|Number=Plur	24	nsubj	_	_
+22	policymakers	policymakers	NOUN	S	Number=Plur	24	nsubj	_	_
 23	should	shall	AUX	VM	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	24	aux	_	_
 24	take	take	VERB	V	VerbForm=Inf	0	root	_	_
 25	into	into	ADP	E	_	26	case	_	_
@@ -32219,7 +32219,7 @@
 # text = The Ukrainian crisis may prove helpful, though that appears less likely now – which may be a good thing to the extent that one unintended consequence could be a loan to Ukraine that is larger than it really needs.
 1	The	the	DET	RD	Definite=Def|PronType=Art	3	det	_	_
 2	Ukrainian	Ukrainian	PROPN	SP	_	3	nmod	_	_
-3	crisis	crisis	NOUN	S	Gender=Masc|Number=Sing	5	nsubj	_	_
+3	crisis	crisis	NOUN	S	Number=Sing	5	nsubj	_	_
 4	may	may	AUX	VM	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
 5	prove	prove	VERB	V	VerbForm=Inf	0	root	_	_
 6	helpful	helpful	ADJ	A	Degree=Pos	5	xcomp	_	SpaceAfter=No
@@ -32315,7 +32315,7 @@
 16	routine	routine	ADJ	A	Degree=Pos	15	xcomp	_	SpaceAfter=No
 17	,	,	PUNCT	FF	_	21	punct	_	_
 18	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	19	det	_	_
-19	lot	lot	NOUN	S	Number=Sing	20	nmod:npmod	_	_
+19	lot	lot	NOUN	S	Number=Sing	20	nmod:unmarked	_	_
 20	less	less	ADV	B	Degree=Cmp	21	advmod	_	_
 21	interesting	interesting	ADJ	A	Degree=Pos	16	conj	_	SpaceAfter=No
 22	,	,	PUNCT	FF	_	25	punct	_	_
@@ -33445,7 +33445,7 @@
 24	force	force	NOUN	S	Number=Sing	19	nmod	_	_
 25	employed	employ	VERB	V	Tense=Past|VerbForm=Part	24	acl	_	_
 26	in	in	ADP	E	_	27	case	_	_
-27	agriculture	agriculture	NOUN	S	Gender=Fem|Number=Sing	25	obl	_	_
+27	agriculture	agriculture	NOUN	S	Number=Sing	25	obl	_	_
 28	could	can	AUX	VM	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	30	aux	_	_
 29	possibly	possibly	ADV	B	_	30	advmod	_	_
 30	fall	fall	VERB	V	VerbForm=Inf	16	ccomp	_	_
@@ -33471,7 +33471,7 @@
 9	farmers	farmer	NOUN	S	Number=Plur	6	nmod	_	SpaceAfter=No
 10	,	,	PUNCT	FF	_	12	punct	_	_
 11	useful	useful	ADJ	A	Degree=Pos	12	amod	_	_
-12	craftsmen	craftsman	NOUN	S	Gender=Masc|Number=Plur	9	conj	_	SpaceAfter=No
+12	craftsmen	craftsman	NOUN	S	Number=Plur	9	conj	_	SpaceAfter=No
 13	,	,	PUNCT	FF	_	15	punct	_	_
 14	dissolute	dissolute	ADJ	A	Degree=Pos	15	amod	_	_
 15	aristocrats	aristocrat	NOUN	S	Number=Plur	12	conj	_	SpaceAfter=No
@@ -33526,7 +33526,7 @@
 2	Marx	Marx	PROPN	SP	_	7	nsubj	_	_
 3	nor	nor	CCONJ	CC	_	5	cc	_	_
 4	the	the	DET	RD	Definite=Def|PronType=Art	5	det	_	_
-5	physiocrats	physiocrats	NOUN	S	Gender=Fem|Number=Plur	2	conj	_	_
+5	physiocrats	physiocrats	NOUN	S	Number=Plur	2	conj	_	_
 6	could	can	AUX	VM	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	7	aux	_	_
 7	imagine	imagine	VERB	V	VerbForm=Inf	0	root	_	_
 8	the	the	DET	RD	Definite=Def|PronType=Art	14	det	_	_
@@ -33556,7 +33556,7 @@
 32	labor	labor	NOUN	S	Number=Sing	33	nmod	_	_
 33	force	force	NOUN	S	Number=Sing	29	nmod	_	_
 34	in	in	ADP	E	_	35	case	_	_
-35	agriculture	agriculture	NOUN	S	Gender=Fem|Number=Sing	27	obl	_	_
+35	agriculture	agriculture	NOUN	S	Number=Sing	27	obl	_	_
 36	and	and	CCONJ	CC	_	39	cc	_	_
 37	another	another	DET	RI	Definite=Ind|Number=Sing|PronType=Art	39	det	_	_
 38	20	20	NUM	N	NumType=Card	39	nummod	_	SpaceAfter=No
@@ -33746,9 +33746,9 @@
 # text = Our young men and women are volunteering for military service like never before.
 1	Our	us	DET	AP	Poss=Yes|PronType=Prs	3	nmod:poss	_	_
 2	young	young	ADJ	A	Degree=Pos	3	amod	_	_
-3	men	man	NOUN	S	Gender=Masc|Number=Plur	7	nsubj	_	_
+3	men	man	NOUN	S	Number=Plur	7	nsubj	_	_
 4	and	and	CCONJ	CC	_	5	cc	_	_
-5	women	women	NOUN	S	Gender=Fem|Number=Sing	3	conj	_	_
+5	women	women	NOUN	S	Number=Sing	3	conj	_	_
 6	are	be	AUX	VA	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	7	aux	_	_
 7	volunteering	volunteer	VERB	V	VerbForm=Ger	0	root	_	_
 8	for	for	ADP	E	_	10	case	_	_
@@ -33940,7 +33940,7 @@
 28	to	to	PART	PART	_	29	mark	_	_
 29	resolve	resolve	VERB	V	VerbForm=Inf	25	acl	_	_
 30	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	31	det	_	_
-31	crisis	crisis	NOUN	S	Gender=Masc|Number=Sing	29	obj	_	_
+31	crisis	crisis	NOUN	S	Number=Sing	29	obj	_	_
 32	of	of	ADP	E	_	36	case	_	_
 33	the	the	DET	RD	Definite=Def|PronType=Art	34	det	_	_
 34	Kremlin	Kremlin	PROPN	SP	_	36	nmod	_	SpaceAfter=No
@@ -34087,7 +34087,7 @@
 # text = But the wellbeing of Ukrainian democracy is not what Putin has in mind;
 1	But	but	CCONJ	CC	_	3	cc	_	_
 2	the	the	DET	RD	Definite=Def|PronType=Art	3	det	_	_
-3	wellbeing	wellbeing	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+3	wellbeing	wellbeing	NOUN	S	Number=Sing	0	root	_	_
 4	of	of	ADP	E	_	6	case	_	_
 5	Ukrainian	Ukrainian	ADJ	A	Degree=Pos	6	amod	_	_
 6	democracy	democracy	NOUN	S	Number=Sing	3	nmod	_	_
@@ -34354,9 +34354,9 @@
 25	and	and	CCONJ	CC	_	28	cc	_	_
 26	the	the	DET	RD	Definite=Def|PronType=Art	28	det	_	_
 27	brave	brave	ADJ	A	Degree=Pos	28	amod	_	_
-28	men	man	NOUN	S	Gender=Masc|Number=Plur	24	conj	_	_
+28	men	man	NOUN	S	Number=Plur	24	conj	_	_
 29	and	and	CCONJ	CC	_	30	cc	_	_
-30	women	women	NOUN	S	Gender=Fem|Number=Sing	24	conj	_	_
+30	women	women	NOUN	S	Number=Sing	24	conj	_	_
 31	who	who	PRON	PR	PronType=Rel	32	nsubj	_	_
 32	ousted	oust	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	30	acl:relcl	_	_
 33	Yanukovych	Yanukovych	PROPN	SP	_	32	obj	_	SpaceAfter=No
@@ -34554,7 +34554,7 @@
 10	to	to	ADP	E	_	13	case	_	_
 11	Ukraine	Ukraine	PROPN	SP	_	13	nmod	_	SpaceAfter=No
 12	's	's	PART	PART	_	11	case	_	_
-13	crisis	crisis	NOUN	S	Gender=Masc|Number=Sing	6	obl	_	_
+13	crisis	crisis	NOUN	S	Number=Sing	6	obl	_	_
 14	is	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	cop	_	_
 15	understandable	understandable	ADJ	A	Degree=Pos	0	root	_	SpaceAfter=No
 16	.	.	PUNCT	FS	_	15	punct	_	_
@@ -34663,7 +34663,7 @@
 # sent_id = en_partut-ud-1495
 # text = The Mosquito Menace.
 1	The	the	DET	RD	Definite=Def|PronType=Art	3	det	_	_
-2	Mosquito	mosquito	NOUN	S	Gender=Masc|Number=Sing	3	nmod	_	_
+2	Mosquito	mosquito	NOUN	S	Number=Sing	3	nmod	_	_
 3	Menace	menace	NOUN	S	Number=Sing	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	FS	_	3	punct	_	_
 
@@ -34753,7 +34753,7 @@
 8	disease	disease	NOUN	S	Number=Sing	10	obj	_	SpaceAfter=No
 9	-	-	PUNCT	FF	_	8	punct	_	SpaceAfter=No
 10	carrying	carry	VERB	V	Number=Sing|Tense=Pres|VerbForm=Part	11	acl	_	_
-11	mosquito	mosquito	NOUN	S	Gender=Masc|Number=Sing	5	nmod	_	_
+11	mosquito	mosquito	NOUN	S	Number=Sing	5	nmod	_	_
 12	to	to	PART	PART	_	13	mark	_	_
 13	transmit	transmit	VERB	V	VerbForm=Inf	2	advcl	_	_
 14	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	18	det	_	_
@@ -34763,7 +34763,7 @@
 18	infection	infection	NOUN	S	Number=Sing	13	obj	_	_
 19	–	–	PUNCT	FF	_	2	punct	_	_
 20	and	and	CCONJ	CC	_	22	cc	_	_
-21	mosquitoes	mosquito	NOUN	S	Gender=Masc|Number=Plur	22	nsubj	_	_
+21	mosquitoes	mosquito	NOUN	S	Number=Plur	22	nsubj	_	_
 22	breed	breed	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	2	conj	_	_
 23	and	and	CCONJ	CC	_	24	cc	_	_
 24	multiply	multiply	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	22	conj	_	_
@@ -34816,7 +34816,7 @@
 40	mechanisms	mechanism	NOUN	S	Number=Plur	47	nsubj:pass	_	_
 41	for	for	ADP	E	_	42	mark	_	_
 42	controlling	control	VERB	V	VerbForm=Ger	40	acl	_	_
-43	mosquito	mosquito	NOUN	S	Gender=Masc|Number=Sing	44	nmod	_	_
+43	mosquito	mosquito	NOUN	S	Number=Sing	44	nmod	_	_
 44	populations	population	NOUN	S	Number=Plur	42	obj	_	_
 45	are	be	AUX	VA	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	47	aux:pass	_	_
 46	desperately	desperately	ADV	B	_	47	advmod	_	_
@@ -34919,7 +34919,7 @@
 19	been	be	AUX	V	Tense=Past|VerbForm=Part	20	cop	_	_
 20	effective	effective	ADJ	A	Degree=Pos	0	root	_	_
 21	with	with	ADP	E	_	22	case	_	_
-22	mosquitoes	mosquito	NOUN	S	Gender=Masc|Number=Plur	20	obl	_	SpaceAfter=No
+22	mosquitoes	mosquito	NOUN	S	Number=Plur	20	obl	_	SpaceAfter=No
 23	,	,	PUNCT	FF	_	22	punct	_	_
 24	owing	owe	VERB	V	VerbForm=Ger	22	acl	_	_
 25	to	to	ADP	E	_	27	case	_	_
@@ -34965,7 +34965,7 @@
 17	to	to	PART	PART	_	18	mark	_	_
 18	control	control	VERB	V	VerbForm=Inf	16	acl	_	_
 19	the	the	DET	RD	Definite=Def|PronType=Art	21	det	_	_
-20	mosquito	mosquito	NOUN	S	Gender=Masc|Number=Sing	21	nmod	_	_
+20	mosquito	mosquito	NOUN	S	Number=Sing	21	nmod	_	_
 21	species	species	NOUN	S	Number=Sing	18	obj	_	_
 22	that	that	PRON	PR	PronType=Rel	23	nsubj	_	_
 23	transmits	transmit	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	acl:relcl	_	_
@@ -34976,7 +34976,7 @@
 # sent_id = en_partut-ud-1508
 # text = Male mosquitoes do not bite, so their release presents no health risk, and, because their progeny die, no genetically engineered mosquitoes persist in the environment.
 1	Male	male	ADJ	A	Degree=Pos	2	amod	_	_
-2	mosquitoes	mosquito	NOUN	S	Gender=Masc|Number=Plur	5	nsubj	_	_
+2	mosquitoes	mosquito	NOUN	S	Number=Plur	5	nsubj	_	_
 3	do	do	AUX	VM	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	5	aux	_	_
 4	not	not	PART	PART	Polarity=Neg	5	advmod	_	_
 5	bite	bite	NOUN	S	Number=Sing	0	root	_	SpaceAfter=No
@@ -34999,7 +34999,7 @@
 22	no	no	DET	DI	PronType=Ind	25	det	_	_
 23	genetically	genetically	ADV	B	_	24	advmod	_	_
 24	engineered	engineer	VERB	V	Tense=Past|VerbForm=Part	25	acl	_	_
-25	mosquitoes	mosquito	NOUN	S	Gender=Masc|Number=Plur	26	nsubj	_	_
+25	mosquitoes	mosquito	NOUN	S	Number=Plur	26	nsubj	_	_
 26	persist	persist	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	10	conj	_	_
 27	in	in	ADP	E	_	29	case	_	_
 28	the	the	DET	RD	Definite=Def|PronType=Art	29	det	_	_
@@ -35033,7 +35033,7 @@
 23	reduction	reduction	NOUN	S	Number=Sing	19	obl	_	_
 24	in	in	ADP	E	_	27	case	_	_
 25	the	the	DET	RD	Definite=Def|PronType=Art	27	det	_	_
-26	mosquito	mosquito	NOUN	S	Gender=Masc|Number=Sing	27	nmod	_	_
+26	mosquito	mosquito	NOUN	S	Number=Sing	27	nmod	_	_
 27	population	population	NOUN	S	Number=Sing	23	nmod	_	SpaceAfter=No
 28	.	.	PUNCT	FS	_	19	punct	_	_
 
@@ -35068,7 +35068,7 @@
 10	or	or	CCONJ	CC	_	13	cc	_	_
 11	the	the	DET	RD	Definite=Def|PronType=Art	13	det	_	_
 12	Oxitec	Oxitec	PROPN	SP	_	13	nmod	_	_
-13	mosquitoes	mosquito	NOUN	S	Gender=Masc|Number=Plur	9	conj	_	_
+13	mosquitoes	mosquito	NOUN	S	Number=Plur	9	conj	_	_
 14	proceeds	proceed	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 15	progressively	progressively	ADV	B	_	14	advmod	_	_
 16	from	from	ADP	E	_	17	case	_	_
@@ -35144,11 +35144,11 @@
 14	presumably	presumably	ADV	B	_	15	advmod	_	_
 15	conduct	conduct	VERB	V	VerbForm=Inf	0	root	_	_
 16	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	21	det	_	_
-17	science	science	NOUN	S	Number=Sing	19	nmod:npmod	_	SpaceAfter=No
+17	science	science	NOUN	S	Number=Sing	19	nmod:unmarked	_	SpaceAfter=No
 18	-	-	PUNCT	FF	_	19	punct	_	SpaceAfter=No
 19	based	based	VERB	V	Tense=Past|VerbForm=Part	21	amod	_	_
 20	risk	risk	NOUN	S	Number=Sing	21	nmod	_	_
-21	analysis	analysis	NOUN	S	Gender=Masc|Number=Sing	15	obj	_	SpaceAfter=No
+21	analysis	analysis	NOUN	S	Number=Sing	15	obj	_	SpaceAfter=No
 22	.	.	PUNCT	FS	_	15	punct	_	_
 
 # sent_id = en_partut-ud-1515
@@ -35206,7 +35206,7 @@
 8	the	the	DET	RD	Definite=Def|PronType=Art	9	det	_	_
 9	case	case	NOUN	S	Number=Sing	6	obl	_	_
 10	of	of	ADP	E	_	12	case	_	_
-11	mosquito	mosquito	NOUN	S	Gender=Masc|Number=Sing	12	nmod	_	_
+11	mosquito	mosquito	NOUN	S	Number=Sing	12	nmod	_	_
 12	control	control	NOUN	S	Number=Sing	9	nmod	_	SpaceAfter=No
 13	,	,	PUNCT	FF	_	6	punct	_	_
 14	given	give	VERB	V	Tense=Past|VerbForm=Part	6	advcl	_	_
@@ -35241,7 +35241,7 @@
 20	to	to	PART	PART	_	21	mark	_	_
 21	emphasize	emphasize	VERB	V	VerbForm=Inf	16	advcl	_	_
 22	"	"	PUNCT	FB	_	29	punct	_	SpaceAfter=No
-23	science	science	NOUN	S	Number=Sing	25	nmod:npmod	_	SpaceAfter=No
+23	science	science	NOUN	S	Number=Sing	25	nmod:unmarked	_	SpaceAfter=No
 24	-	-	PUNCT	FF	_	25	punct	_	SpaceAfter=No
 25	based	based	VERB	V	Tense=Past|VerbForm=Part	29	amod	_	SpaceAfter=No
 26	,	,	PUNCT	FF	_	27	punct	_	_
@@ -35310,7 +35310,7 @@
 5	suffering	suffering	NOUN	S	Number=Sing	3	nmod	_	_
 6	caused	cause	VERB	V	Tense=Past|VerbForm=Part	5	acl	_	_
 7	by	by	ADP	E	_	11	case	_	_
-8	mosquito	mosquito	NOUN	S	Gender=Masc|Number=Sing	10	obl	_	SpaceAfter=No
+8	mosquito	mosquito	NOUN	S	Number=Sing	10	obl	_	SpaceAfter=No
 9	-	-	PUNCT	FF	_	10	punct	_	SpaceAfter=No
 10	borne	bear	VERB	V	Tense=Past|VerbForm=Part	11	acl	_	_
 11	diseases	disease	NOUN	S	Number=Plur	6	obl	_	SpaceAfter=No
@@ -35420,7 +35420,7 @@
 8	as	as	ADP	E	_	11	case	_	_
 9	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	11	det	_	_
 10	rallying	rallying	ADJ	A	Degree=Pos	11	amod	_	_
-11	cry	cry	NOUN	S	Gender=Masc|Number=Sing	7	obl	_	_
+11	cry	cry	NOUN	S	Number=Sing	7	obl	_	_
 12	for	for	ADP	E	_	15	case	_	_
 13	greater	greater	ADJ	A	Degree=Cmp	15	amod	_	_
 14	European	European	ADJ	A	Degree=Pos	15	amod	_	_
@@ -35558,7 +35558,7 @@
 14	program	program	NOUN	S	Number=Sing	11	obj	_	_
 15	for	for	ADP	E	_	17	case	_	_
 16	its	its	DET	AP	Number=Sing|Poss=Yes|PronType=Prs	17	nmod:poss	_	_
-17	focus	focus	NOUN	S	Gender=Masc|Number=Sing	11	obl	_	_
+17	focus	focus	NOUN	S	Number=Sing	11	obl	_	_
 18	on	on	ADP	E	_	21	case	_	_
 19	countries	country	NOUN	S	Number=Plur	21	nmod	_	SpaceAfter=No
 20	'	'	PART	PART	_	19	case	_	_
@@ -35704,7 +35704,7 @@
 5	are	be	AUX	VA	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	6	aux	_	_
 6	indulging	indulge	VERB	V	VerbForm=Ger	0	root	_	_
 7	in	in	ADP	E	_	8	case	_	_
-8	triumphalism	triumphalism	NOUN	S	Gender=Fem|Number=Sing	6	obl	_	SpaceAfter=No
+8	triumphalism	triumphalism	NOUN	S	Number=Sing	6	obl	_	SpaceAfter=No
 9	,	,	PUNCT	FF	_	6	punct	_	_
 10	viewing	view	VERB	V	VerbForm=Ger	6	advcl	_	_
 11	the	the	DET	RD	Definite=Def|PronType=Art	14	det	_	_
@@ -35731,7 +35731,7 @@
 6	of	of	ADP	E	_	9	case	_	_
 7	the	the	DET	RD	Definite=Def|PronType=Art	9	det	_	_
 8	ongoing	ongoing	ADJ	A	Degree=Pos	9	amod	_	_
-9	crisis	crisis	NOUN	S	Gender=Masc|Number=Sing	5	nmod	_	_
+9	crisis	crisis	NOUN	S	Number=Sing	5	nmod	_	_
 10	have	have	AUX	VA	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	11	aux	_	_
 11	exposed	expose	VERB	V	Tense=Past|VerbForm=Part	0	root	_	_
 12	the	the	DET	RD	Definite=Def|PronType=Art	13	det	_	_
@@ -35747,7 +35747,7 @@
 22	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	23	det	_	_
 23	warning	warning	NOUN	S	Number=Sing	20	obl	_	_
 24	that	that	PRON	PR	PronType=Rel	33	obj	_	_
-25	today	today	NOUN	S	Number=Sing	28	nmod:tmod	_	SpaceAfter=No
+25	today	today	NOUN	S	Number=Sing	28	nmod:unmarked	_	SpaceAfter=No
 26	's	's	PART	PART	_	25	case	_	_
 27	technocratic	technocratic	ADJ	A	Degree=Pos	28	amod	_	_
 28	Band	band	NOUN	S	Number=Sing	33	nsubj	_	SpaceAfter=No
@@ -35975,7 +35975,7 @@
 6	thinker	thinker	NOUN	S	Number=Sing	3	conj	_	_
 7	as	as	ADP	E	_	9	case	_	_
 8	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	9	det	_	_
-9	child	child	NOUN	S	Gender=Masc|Number=Sing	3	nmod	_	SpaceAfter=No
+9	child	child	NOUN	S	Number=Sing	3	nmod	_	SpaceAfter=No
 10	,	,	PUNCT	FF	_	3	punct	_	_
 11	Balzac	Balzac	PROPN	SP	_	12	nsubj	_	_
 12	had	have	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
@@ -36070,7 +36070,7 @@
 16	,	,	PUNCT	FF	_	17	punct	_	_
 17	printer	printer	NOUN	S	Number=Sing	15	conj	_	SpaceAfter=No
 18	,	,	PUNCT	FF	_	19	punct	_	_
-19	businessman	businessman	NOUN	S	Gender=Fem|Number=Sing	15	conj	_	SpaceAfter=No
+19	businessman	businessman	NOUN	S	Number=Sing	15	conj	_	SpaceAfter=No
 20	,	,	PUNCT	FF	_	21	punct	_	_
 21	critic	critic	NOUN	S	Number=Sing	15	conj	_	SpaceAfter=No
 22	,	,	PUNCT	FF	_	24	punct	_	_
@@ -36212,7 +36212,7 @@
 10	one	one	NUM	N	NumType=Card	0	root	_	_
 11	of	of	ADP	E	_	13	case	_	_
 12	eleven	eleven	NUM	N	NumType=Card	13	nummod	_	_
-13	children	child	NOUN	S	Gender=Masc|Number=Plur	10	nmod	_	_
+13	children	child	NOUN	S	Number=Plur	10	nmod	_	_
 14	from	from	ADP	E	_	17	case	_	_
 15	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	17	det	_	_
 16	poor	poor	ADJ	A	Degree=Pos	17	amod	_	_
@@ -36267,7 +36267,7 @@
 6	Secretary	secretary	NOUN	S	Number=Sing	5	xcomp	_	_
 7	to	to	ADP	E	_	11	case	_	_
 8	the	the	DET	RD	Definite=Def|PronType=Art	9	det	_	_
-9	King	king	NOUN	S	Gender=Masc|Number=Sing	11	nmod	_	SpaceAfter=No
+9	King	king	NOUN	S	Number=Sing	11	nmod	_	SpaceAfter=No
 10	's	's	PART	PART	_	9	case	_	_
 11	Council	Council	NOUN	S	Number=Sing	6	nmod	_	_
 12	and	and	CCONJ	CC	_	14	cc	_	_
@@ -36432,7 +36432,7 @@
 27	actually	actually	ADV	B	_	30	advmod	_	_
 28	the	the	DET	RD	Definite=Def|PronType=Art	30	det	_	_
 29	second	second	ADJ	NO	Degree=Pos|NumType=Ord	30	amod	_	_
-30	child	child	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+30	child	child	NOUN	S	Number=Sing	0	root	_	_
 31	born	born	VERB	V	Tense=Past|VerbForm=Part	30	acl	_	_
 32	to	to	ADP	E	_	34	case	_	_
 33	the	the	DET	RD	Definite=Def|PronType=Art	34	det	_	_
@@ -36479,7 +36479,7 @@
 13	,	,	PUNCT	FF	_	16	punct	_	_
 14	and	and	CCONJ	CC	_	16	cc	_	_
 15	his	his	DET	AP	Poss=Yes|PronType=Prs	16	nmod:poss	_	_
-16	brother	brother	NOUN	S	Gender=Masc|Number=Sing	8	conj	_	_
+16	brother	brother	NOUN	S	Number=Sing	8	conj	_	_
 17	Henry	Henry	PROPN	SP	_	16	nmod	_	SpaceAfter=No
 18	-	-	PUNCT	FF	_	17	punct	_	SpaceAfter=No
 19	François	François	PROPN	SP	_	17	flat	_	_
@@ -36546,7 +36546,7 @@
 20	nurse	nurse	VERB	V	VerbForm=Inf	13	xcomp	_	_
 21	their	their	DET	AP	Poss=Yes|PronType=Prs	23	nmod:poss	_	_
 22	own	own	ADJ	A	Degree=Pos	23	amod	_	_
-23	children	child	NOUN	S	Gender=Masc|Number=Plur	20	obj	_	SpaceAfter=No
+23	children	child	NOUN	S	Number=Plur	20	obj	_	SpaceAfter=No
 24	,	,	PUNCT	FF	_	13	punct	_	_
 25	sending	send	VERB	V	VerbForm=Ger	31	csubj	_	_
 26	babies	baby	NOUN	S	Number=Plur	25	obj	_	_
@@ -36725,7 +36725,7 @@
 4	scenes	scene	NOUN	S	Number=Plur	2	obj	_	_
 5	from	from	ADP	E	_	7	case	_	_
 6	his	his	DET	AP	Poss=Yes|PronType=Prs	7	nmod:poss	_	_
-7	boyhood	boyhood	NOUN	S	Gender=Fem|Number=Sing	2	obl	_	SpaceAfter=No
+7	boyhood	boyhood	NOUN	S	Number=Sing	2	obl	_	SpaceAfter=No
 8	-	-	PUNCT	FB	_	11	punct	_	SpaceAfter=No
 9	as	as	SCONJ	CS	_	11	mark	_	_
 10	he	he	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	_
@@ -36819,7 +36819,7 @@
 20	sort	sort	NOUN	S	Number=Sing	16	nmod	_	_
 21	of	of	ADP	E	_	23	case	_	_
 22	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	23	det	_	_
-23	coma	coma	NOUN	S	Gender=Masc|Number=Sing	20	nmod	_	SpaceAfter=No
+23	coma	coma	NOUN	S	Number=Sing	20	nmod	_	SpaceAfter=No
 24	"	"	PUNCT	FB	_	20	punct	_	SpaceAfter=No
 25	.	.	PUNCT	FS	_	4	punct	_	_
 
@@ -36906,7 +36906,7 @@
 22	of	of	ADP	E	_	23	mark	_	_
 23	restoring	restore	VERB	V	VerbForm=Ger	16	conj	_	_
 24	the	the	DET	RD	Definite=Def|PronType=Art	25	det	_	_
-25	men	man	NOUN	S	Gender=Masc|Number=Plur	23	obj	_	_
+25	men	man	NOUN	S	Number=Plur	23	obj	_	_
 26	who	who	PRON	PR	PronType=Rel	27	nsubj	_	_
 27	commit	commit	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	25	acl:relcl	_	_
 28	them	they	PRON	PE	Number=Plur|Person=3|PronType=Prs	27	obj	_	_
@@ -37255,7 +37255,7 @@
 10	life	life	NOUN	S	Number=Sing	7	nmod	_	_
 11	at	at	ADP	E	_	13	case	_	_
 12	the	the	DET	RD	Definite=Def|PronType=Art	13	det	_	_
-13	grindstone	grindstone	NOUN	S	Gender=Fem|Number=Sing	10	nmod	_	SpaceAfter=No
+13	grindstone	grindstone	NOUN	S	Number=Sing	10	nmod	_	SpaceAfter=No
 14	,	,	PUNCT	FF	_	15	punct	_	_
 15	doing	do	VERB	V	Number=Sing|Tense=Pres|VerbForm=Part	10	conj	_	_
 16	the	the	DET	RD	Definite=Def|PronType=Art	18	det	_	_
@@ -37383,7 +37383,7 @@
 60	miles	mile	NOUN	S	Number=Plur	66	nmod	_	_
 61	[	[	PUNCT	FB	_	63	punct	_	SpaceAfter=No
 62	32	32	NUM	N	NumType=Card	63	nummod	_	_
-63	km	kilometer	NOUN	S	Gender=Masc	60	appos	_	SpaceAfter=No
+63	km	kilometer	NOUN	S	_	60	appos	_	SpaceAfter=No
 64	]	]	PUNCT	FB	_	63	punct	_	_
 65	outside	outside	ADP	E	_	66	case	_	_
 66	Paris	Paris	PROPN	SP	_	58	nmod	_	SpaceAfter=No
@@ -37752,7 +37752,7 @@
 10	complete	complete	ADJ	A	Degree=Pos	11	amod	_	_
 11	repression	repression	NOUN	S	Number=Sing	21	advcl	_	_
 12	of	of	ADP	E	_	16	case	_	_
-13	man	man	NOUN	S	Gender=Masc|Number=Sing	16	nmod	_	SpaceAfter=No
+13	man	man	NOUN	S	Number=Sing	16	nmod	_	SpaceAfter=No
 14	's	's	PART	PART	_	13	case	_	_
 15	depraved	deprave	VERB	V	Tense=Past|VerbForm=Part	16	acl	_	_
 16	tendencies	tendency	NOUN	S	Number=Plur	11	nmod	_	SpaceAfter=No
@@ -37914,7 +37914,7 @@
 5	Balzac	Balzac	PROPN	SP	_	6	nsubj	_	_
 6	owed	owe	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 7	50,000	50,000	NUM	N	NumType=Card	8	nummod	_	_
-8	francs	francs	NOUN	S	Gender=Fem|Number=Plur	6	obj	_	_
+8	francs	francs	NOUN	S	Number=Plur	6	obj	_	_
 9	to	to	ADP	E	_	11	case	_	_
 10	his	his	DET	AP	Poss=Yes|PronType=Prs	11	nmod:poss	_	_
 11	mother	mother	NOUN	S	Number=Sing	6	obl	_	SpaceAfter=No
@@ -37926,11 +37926,11 @@
 2	never	never	ADV	B	_	3	advmod	_	_
 3	lost	lose	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 4	his	his	DET	AP	Poss=Yes|PronType=Prs	5	nmod:poss	_	_
-5	penchant	penchant	NOUN	S	Gender=Fem|Number=Sing	3	obj	_	_
+5	penchant	penchant	NOUN	S	Number=Sing	3	obj	_	_
 6	for	for	ADP	E	_	9	case	_	_
-7	une	uno	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+7	une	uno	DET	RD	Definite=Def|Number=Sing|PronType=Art	9	det	_	_
 8	bonne	bon	ADJ	A	Degree=Pos	9	amod	_	_
-9	spéculation	spéculation	NOUN	S	Gender=Fem|Number=Sing	3	obl	_	SpaceAfter=No
+9	spéculation	spéculation	NOUN	S	Number=Sing	3	obl	_	SpaceAfter=No
 10	.	.	PUNCT	FS	_	3	punct	_	_
 
 # sent_id = en_partut-ud-1631
@@ -38010,7 +38010,7 @@
 5	to	to	PART	PART	_	6	mark	_	_
 6	become	become	VERB	V	Tense=Past|VerbForm=Part	4	xcomp	_	_
 7	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	8	det	_	_
-8	genius	genius	NOUN	S	Gender=Masc|Number=Sing	6	xcomp	_	SpaceAfter=No
+8	genius	genius	NOUN	S	Number=Sing	6	xcomp	_	SpaceAfter=No
 9	.	.	PUNCT	FS	_	4	punct	_	_
 
 # sent_id = en_partut-ud-1636
@@ -38217,7 +38217,7 @@
 22	year	year	NOUN	S	Number=Sing	24	obl	_	SpaceAfter=No
 23	-	-	PUNCT	FF	_	24	punct	_	SpaceAfter=No
 24	old	old	ADJ	A	Degree=Pos	25	amod	_	_
-25	man	man	NOUN	S	Gender=Masc|Number=Sing	16	nmod	_	_
+25	man	man	NOUN	S	Number=Sing	16	nmod	_	_
 26	who	who	PRON	PR	PronType=Rel	27	nsubj	_	_
 27	kills	kill	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	25	acl:relcl	_	_
 28	his	his	DET	AP	Poss=Yes|PronType=Prs	29	nmod:poss	_	_
@@ -38280,7 +38280,7 @@
 27	skill	skill	NOUN	S	Number=Sing	25	obl	_	SpaceAfter=No
 28	,	,	PUNCT	FF	_	30	punct	_	_
 29	not	not	PART	PART	Polarity=Neg	30	advmod	_	_
-30	birthright	birthright	NOUN	S	Gender=Fem|Number=Sing	27	conj	_	SpaceAfter=No
+30	birthright	birthright	NOUN	S	Number=Sing	27	conj	_	SpaceAfter=No
 31	.	.	PUNCT	FS	_	6	punct	_	_
 
 # sent_id = en_partut-ud-1646
@@ -38434,7 +38434,7 @@
 29	peace	peace	NOUN	S	Number=Sing	26	obj	_	_
 30	between	between	ADP	E	_	32	case	_	_
 31	the	the	DET	RD	Definite=Def|PronType=Art	32	det	_	_
-32	King	king	NOUN	S	Gender=Masc|Number=Sing	29	nmod	_	_
+32	King	king	NOUN	S	Number=Sing	29	nmod	_	_
 33	and	and	CCONJ	CC	_	35	cc	_	_
 34	insurgent	insurgent	ADJ	A	Degree=Pos	35	amod	_	_
 35	forces	force	NOUN	S	Number=Plur	32	conj	_	SpaceAfter=No
@@ -38503,7 +38503,7 @@
 28	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	31	det	_	_
 29	despondent	despondent	ADJ	A	Degree=Pos	31	amod	_	_
 30	young	young	ADJ	A	Degree=Pos	31	amod	_	_
-31	man	man	NOUN	S	Gender=Masc|Number=Sing	26	nmod	_	_
+31	man	man	NOUN	S	Number=Sing	26	nmod	_	_
 32	named	name	VERB	V	Tense=Past|VerbForm=Part	31	acl	_	_
 33	Raphaël	Raphaël	PROPN	SP	_	32	xcomp	_	_
 34	De	De	PROPN	SP	_	33	flat	_	_
@@ -38588,7 +38588,7 @@
 9	her	her	DET	AP	Poss=Yes|PronType=Prs	10	nmod:poss	_	_
 10	father	father	NOUN	S	Number=Sing	12	nmod	_	SpaceAfter=No
 11	's	's	PART	PART	_	10	case	_	_
-12	miserliness	miserliness	NOUN	S	Gender=Fem|Number=Plur	8	obj	_	SpaceAfter=No
+12	miserliness	miserliness	NOUN	S	Number=Plur	8	obj	_	SpaceAfter=No
 13	,	,	PUNCT	FF	_	16	punct	_	_
 14	it	it	PRON	PE	Number=Sing|Person=3|PronType=Prs	16	nsubj	_	_
 15	also	also	ADV	B	_	16	advmod	_	_
@@ -38733,7 +38733,7 @@
 38	)	)	PUNCT	FB	_	37	punct	_	_
 39	fathered	father	VERB	V	Tense=Past|VerbForm=Part	31	acl	_	_
 40	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	41	det	_	_
-41	child	child	NOUN	S	Gender=Masc|Number=Sing	39	obj	_	SpaceAfter=No
+41	child	child	NOUN	S	Number=Sing	39	obj	_	SpaceAfter=No
 42	,	,	PUNCT	FF	_	41	punct	_	_
 43	Marie	Marie	PROPN	SP	_	41	appos	_	SpaceAfter=No
 44	-	-	PUNCT	FF	_	43	punct	_	SpaceAfter=No
@@ -38869,7 +38869,7 @@
 12	provided	provide	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 13	an	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	15	det	_	_
 14	appropriate	appropriate	ADJ	A	Degree=Pos	15	amod	_	_
-15	milieu	milieu	NOUN	S	Gender=Masc|Number=Sing	12	obj	_	_
+15	milieu	milieu	NOUN	S	Number=Sing	12	obj	_	_
 16	in	in	ADP	E	_	17	case	_	_
 17	which	which	PRON	PR	PronType=Rel	19	obl	_	_
 18	to	to	PART	PART	_	19	mark	_	_
@@ -38942,13 +38942,13 @@
 
 # sent_id = en_partut-ud-1673
 # text = Splendeurs et misères des courtisanes (The Harlot High and Low, 1847) continues Lucien's story.
-1	Splendeurs	Splendeurs	NOUN	S	Gender=Masc|Number=Plur	16	nsubj	_	_
+1	Splendeurs	Splendeurs	NOUN	S	Number=Plur	16	nsubj	_	_
 2	et	et	CCONJ	CC	_	3	cc	_	_
-3	misères	misères	NOUN	S	Gender=Fem|Number=Plur	1	conj	_	_
+3	misères	misères	NOUN	S	Number=Plur	1	conj	_	_
 4-5	des	_	_	_	_	_	_	_	_
 4	de	de	ADP	E	_	6	case	_	_
 5	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	6	det	_	_
-6	courtisanes	courtisanes	NOUN	S	Gender=Fem|Number=Plur	3	nmod	_	_
+6	courtisanes	courtisanes	NOUN	S	Number=Plur	3	nmod	_	_
 7	(	(	PUNCT	FB	_	9	punct	_	SpaceAfter=No
 8	The	the	DET	RD	Definite=Def|PronType=Art	9	det	_	_
 9	Harlot	Harlot	PROPN	SP	_	10	nmod	_	_
@@ -39140,7 +39140,7 @@
 45	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	48	det	_	_
 46	closely	closely	ADV	B	_	47	advmod	_	_
 47	plotted	plot	VERB	V	Tense=Past|VerbForm=Part	48	acl	_	_
-48	novella	novella	NOUN	S	Gender=Masc|Number=Sing	44	xcomp	_	_
+48	novella	novella	NOUN	S	Number=Sing	44	xcomp	_	_
 49	of	of	ADP	E	_	52	case	_	_
 50	only	only	ADV	B	_	52	advmod	_	_
 51	fifty	fifty	NUM	N	NumType=Card	52	nummod	_	_
@@ -39288,7 +39288,7 @@
 16	such	such	ADP	E	_	19	case	_	_
 17	as	as	ADP	E	_	16	fixed	_	_
 18	Les	Les	DET	RD	Definite=Def|Number=Plur|PronType=Art	19	det	_	_
-19	employés	employés	NOUN	S	Gender=Masc|Number=Plur	14	nmod	_	_
+19	employés	employés	NOUN	S	Number=Plur	14	nmod	_	_
 20	(	(	PUNCT	FB	_	23	punct	_	SpaceAfter=No
 21	The	the	DET	RD	Definite=Def|PronType=Art	23	det	_	_
 22	Government	Government	PROPN	SP	_	23	nmod	_	_
@@ -39439,7 +39439,7 @@
 31	to	to	ADP	E	_	34	case	_	_
 32	her	her	DET	AP	Poss=Yes|PronType=Prs	34	nmod:poss	_	_
 33	youngest	youngest	ADJ	A	Degree=Sup	34	amod	_	_
-34	child	child	NOUN	S	Gender=Masc|Number=Sing	30	nmod	_	SpaceAfter=No
+34	child	child	NOUN	S	Number=Sing	30	nmod	_	SpaceAfter=No
 35	.	.	PUNCT	FS	_	5	punct	_	_
 
 # sent_id = en_partut-ud-1697
@@ -39513,7 +39513,7 @@
 32	sadness	sadness	NOUN	S	Number=Sing	31	obj	_	_
 33	at	at	ADP	E	_	35	case	_	_
 34	the	the	DET	RD	Definite=Def|PronType=Art	35	det	_	_
-35	cynicism	cynicism	NOUN	S	Gender=Fem|Number=Sing	32	nmod	_	_
+35	cynicism	cynicism	NOUN	S	Number=Sing	32	nmod	_	_
 36	and	and	CCONJ	CC	_	37	cc	_	_
 37	atheism	atheism	NOUN	S	Number=Sing	35	conj	_	_
 38	in	in	ADP	E	_	39	case	_	_
@@ -39526,7 +39526,7 @@
 45	negative	negative	ADJ	A	Degree=Pos	46	amod	_	_
 46	portrayal	portrayal	NOUN	S	Number=Sing	35	conj	_	_
 47	of	of	ADP	E	_	48	case	_	_
-48	women	women	NOUN	S	Gender=Fem|Number=Sing	46	nmod	_	SpaceAfter=No
+48	women	women	NOUN	S	Number=Sing	46	nmod	_	SpaceAfter=No
 49	.	.	PUNCT	FS	_	5	punct	_	_
 
 # sent_id = en_partut-ud-1700
@@ -39591,7 +39591,7 @@
 3	married	marry	VERB	V	Tense=Past|VerbForm=Part	0	root	_	_
 4	to	to	ADP	E	_	6	case	_	_
 5	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	6	det	_	_
-6	man	man	NOUN	S	Gender=Masc|Number=Sing	3	obl	_	_
+6	man	man	NOUN	S	Number=Sing	3	obl	_	_
 7	twenty	twenty	NUM	N	NumType=Card	8	nummod	_	_
 8	years	year	NOUN	S	Number=Plur	10	nmod	_	_
 9	her	her	DET	AP	Poss=Yes|PronType=Prs	10	nmod:poss	_	_
@@ -39685,7 +39685,7 @@
 23	but	but	CCONJ	CC	_	28	cc	_	_
 24	which	which	PRON	PR	PronType=Rel	28	obj	_	_
 25	the	the	DET	RD	Definite=Def|PronType=Art	26	det	_	_
-26	hero	hero	NOUN	S	Gender=Masc|Number=Sing	28	nsubj	_	_
+26	hero	hero	NOUN	S	Number=Sing	28	nsubj	_	_
 27	is	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	28	cop	_	_
 28	determined	determined	ADJ	A	Degree=Pos	17	conj	_	_
 29	to	to	PART	PART	_	30	mark	_	_
@@ -39844,13 +39844,13 @@
 15	both	both	DET	DI	PronType=Ind	16	det	_	_
 16	husband	husband	NOUN	S	Number=Sing	11	obl	_	_
 17	and	and	CCONJ	CC	_	18	cc	_	_
-18	wife	wife	NOUN	S	Gender=Masc|Number=Sing	16	conj	_	SpaceAfter=No
+18	wife	wife	NOUN	S	Number=Sing	16	conj	_	SpaceAfter=No
 19	:	:	PUNCT	FC	_	11	punct	_	_
 
 # sent_id = en_partut-ud-1713
 # text = her feet were too swollen to walk, and he endured severe heart trouble.
 1	her	her	DET	AP	Poss=Yes|PronType=Prs	2	nmod:poss	_	_
-2	feet	foot	NOUN	S	Gender=Masc|Number=Plur	5	nsubj	_	_
+2	feet	foot	NOUN	S	Number=Plur	5	nsubj	_	_
 3	were	be	AUX	V	Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	5	cop	_	_
 4	too	too	ADV	B	_	5	advmod	_	_
 5	swollen	swell	VERB	V	Tense=Past|VerbForm=Part	0	root	_	_
@@ -40000,7 +40000,7 @@
 14	as	as	ADP	E	_	15	case	_	_
 15	pallbearer	pallbearer	NOUN	S	Number=Sing	13	obl	_	_
 16	and	and	CCONJ	CC	_	17	cc	_	_
-17	eulogist	eulogist	NOUN	S	Gender=Fem|Number=Sing	15	conj	_	_
+17	eulogist	eulogist	NOUN	S	Number=Sing	15	conj	_	_
 18	at	at	ADP	E	_	21	case	_	_
 19	Balzac	Balzac	PROPN	SP	_	21	nmod	_	SpaceAfter=No
 20	's	's	PART	PART	_	19	case	_	_
@@ -40047,7 +40047,7 @@
 21	death	death	NOUN	S	Number=Sing	13	obl	_	_
 22	of	of	ADP	E	_	24	case	_	_
 23	the	the	DET	RD	Definite=Def|PronType=Art	24	det	_	_
-24	man	man	NOUN	S	Gender=Masc|Number=Sing	21	nmod	_	_
+24	man	man	NOUN	S	Number=Sing	21	nmod	_	_
 25	of	of	ADP	E	_	26	case	_	_
 26	talent	talent	NOUN	S	Number=Sing	24	nmod	_	SpaceAfter=No
 27	;	;	PUNCT	FC	_	13	punct	_	_
@@ -40060,9 +40060,9 @@
 4	mourning	mourning	NOUN	S	Number=Sing	2	nmod	_	_
 5	for	for	ADP	E	_	7	case	_	_
 6	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	7	det	_	_
-7	man	man	NOUN	S	Gender=Masc|Number=Sing	4	nmod	_	_
+7	man	man	NOUN	S	Number=Sing	4	nmod	_	_
 8	of	of	ADP	E	_	9	case	_	_
-9	genius	genius	NOUN	S	Gender=Masc|Number=Sing	7	nmod	_	SpaceAfter=No
+9	genius	genius	NOUN	S	Number=Sing	7	nmod	_	SpaceAfter=No
 10	.	.	PUNCT	FS	_	2	punct	_	_
 
 # sent_id = en_partut-ud-1726
@@ -40089,10 +40089,10 @@
 20	Courbet	Courbet	PROPN	SP	_	19	flat	_	SpaceAfter=No
 21	,	,	PUNCT	FF	_	22	punct	_	_
 22	Dumas	Dumas	PROPN	SP	_	16	conj	_	_
-23	père	père	NOUN	S	Gender=Masc|Number=Sing	22	nmod	_	_
+23	père	père	NOUN	S	Number=Sing	22	nmod	_	_
 24	and	and	CCONJ	CC	_	25	cc	_	_
 25	Dumas	Dumas	PROPN	SP	_	16	conj	_	_
-26	fils	fil	NOUN	S	Gender=Masc|Number=Plur	25	nmod	_	SpaceAfter=No
+26	fils	fil	NOUN	S	Number=Plur	25	nmod	_	SpaceAfter=No
 27	.	.	PUNCT	FS	_	5	punct	_	_
 
 # sent_id = en_partut-ud-1727
@@ -40224,7 +40224,7 @@
 1	"	"	PUNCT	FB	_	4	punct	_	SpaceAfter=No
 2	The	the	DET	RD	Definite=Def|PronType=Art	4	det	_	_
 3	vanishing	vanishing	ADJ	A	Degree=Pos	4	amod	_	_
-4	man	man	NOUN	S	Gender=Masc|Number=Sing	32	nsubj	_	SpaceAfter=No
+4	man	man	NOUN	S	Number=Sing	32	nsubj	_	SpaceAfter=No
 5	"	"	PUNCT	FB	_	4	punct	_	SpaceAfter=No
 6	,	,	PUNCT	FF	_	7	punct	_	_
 7	writes	write	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	32	parataxis	_	_
@@ -40433,11 +40433,11 @@
 12	the	the	DET	RD	Definite=Def|PronType=Art	13	det	_	_
 13	preface	preface	NOUN	S	Number=Sing	10	obl	_	_
 14	to	to	ADP	E	_	16	case	_	_
-15	Le	le	DET	RD	Definite=Def|Number=Sing|PronType=Art	16	det	_	_
-16	Lys	lys	NOUN	S	Gender=Masc|Number=Sing	13	nmod	_	_
-17	dans	dans	ADP	E	_	19	case	_	_
-18	La	la	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	19	det	_	_
-19	Vallée	vallée	NOUN	S	Gender=Fem|Number=Sing	16	nmod	_	SpaceAfter=No
+15	Le	le	X	SW	Foreign=Yes		16	det	_	_
+16	Lys	lys	X	SW	Foreign=Yes		13	nmod	_	_
+17	dans	dans	X	SW	Foreign=Yes		19	case	_	_
+18	La	la	X	SW	Foreign=Yes		19	det	_	_
+19	Vallée	vallée	X	SW	Foreign=Yes		16	nmod	_	SpaceAfter=No
 20	,	,	PUNCT	FF	_	10	punct	_	_
 21	"	"	PUNCT	FB	_	23	punct	_	SpaceAfter=No
 22	writers	writer	NOUN	S	Number=Plur	23	nsubj	_	_
@@ -40827,7 +40827,7 @@
 3	of	of	ADP	E	_	6	case	_	_
 4	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	6	det	_	_
 5	young	young	ADJ	A	Degree=Pos	6	amod	_	_
-6	man	man	NOUN	S	Gender=Masc|Number=Sing	2	nmod	_	_
+6	man	man	NOUN	S	Number=Sing	2	nmod	_	_
 7	coming	come	VERB	V	Number=Sing|Tense=Pres|VerbForm=Part	6	acl	_	_
 8	into	into	ADP	E	_	10	case	_	_
 9	the	the	DET	RD	Definite=Def|PronType=Art	10	det	_	_
@@ -40910,7 +40910,7 @@
 # text = But the cynicism declined as his oeuvre progressed, and the characters of Illusions Perdues reveal sympathy for those who are pushed to one side by society.
 1	But	but	CCONJ	CC	_	4	cc	_	_
 2	the	the	DET	RD	Definite=Def|PronType=Art	3	det	_	_
-3	cynicism	cynicism	NOUN	S	Gender=Fem|Number=Sing	4	nsubj	_	_
+3	cynicism	cynicism	NOUN	S	Number=Sing	4	nsubj	_	_
 4	declined	decline	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 5	as	as	SCONJ	CS	_	8	mark	_	_
 6	his	his	DET	AP	Poss=Yes|PronType=Prs	7	nmod:poss	_	_
@@ -40979,7 +40979,7 @@
 14	incognito	incognito	ADJ	A	Degree=Pos	13	amod	_	_
 15	among	among	ADP	E	_	17	case	_	_
 16	the	the	DET	RD	Definite=Def|PronType=Art	17	det	_	_
-17	masses	masse	NOUN	S	Gender=Masc|Number=Plur	13	obl	_	_
+17	masses	masse	NOUN	S	Number=Plur	13	obl	_	_
 18	of	of	ADP	E	_	20	case	_	_
 19	Parisian	parisian	ADJ	A	Degree=Pos	20	amod	_	_
 20	society	society	NOUN	S	Number=Sing	17	nmod	_	_
@@ -41219,7 +41219,7 @@
 1	"	"	PUNCT	FB	_	2	punct	_	SpaceAfter=No
 2	What	what	DET	DQ	PronType=Int	0	root	_	_
 3	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	4	det	_	_
-4	man	man	NOUN	S	Gender=Masc|Number=Sing	2	nmod	_	_
+4	man	man	NOUN	S	Number=Sing	2	nmod	_	_
 5	he	he	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
 6	would	will	AUX	VM	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	2	aux	_	_
 7	have	have	AUX	VA	VerbForm=Inf	2	aux	_	_
@@ -41275,8 +41275,8 @@
 7	work	work	NOUN	S	Number=Sing	3	obl	_	_
 8	L	L	DET	_	PronType=Art	10	det	_	SpaceAfter=No
 9	'	'	X	X	_	8	dep	_	SpaceAfter=No
-10	education	education	NOUN	S	Number=Sing	7	nmod	_	_
-11	sentimentale	sentimentale	ADJ	A	Gender=Fem|Number=Sing	10	amod	_	SpaceAfter=No
+10	education	education	X	SW	Foreign=Yes	7	nmod	_	_
+11	sentimentale	sentimentale	X	SW	Foreign=Yes	10	amod	_	SpaceAfter=No
 12	,	,	PUNCT	FF	_	7	punct	_	_
 13	which	which	PRON	PR	PronType=Rel	14	nsubj	_	_
 14	owes	owe	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	acl:relcl	_	_
@@ -41349,10 +41349,10 @@
 3	's	's	PART	PART	_	2	case	_	_
 4	story	story	NOUN	S	Number=Sing	34	nsubj	_	_
 5	Une	une	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
-6	Heure	heure	NOUN	S	Gender=Fem|Number=Sing	4	nmod	_	_
+6	Heure	heure	NOUN	S	Number=Sing	4	nmod	_	_
 7	de	de	ADP	E	_	9	case	_	_
 8	ma	ma	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	9	nmod:poss	_	_
-9	Vie	vie	NOUN	S	Gender=Fem|Number=Sing	6	nmod	_	_
+9	Vie	vie	NOUN	S	Number=Sing	6	nmod	_	_
 10	(	(	PUNCT	FB	_	12	punct	_	SpaceAfter=No
 11	An	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	12	det	_	_
 12	Hour	hour	NOUN	S	Number=Sing	6	nmod	_	_
@@ -41385,12 +41385,12 @@
 39	Proust	Proust	PROPN	SP	_	40	nsubj	_	_
 40	used	use	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	37	acl:relcl	_	_
 41	in	in	ADP	E	_	44	case	_	_
-42	A	à	ADP	E	_	44	case	_	_
-43	la	la	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	44	det	_	_
-44	Recherche	recherche	NOUN	S	Gender=Fem|Number=Sing	40	obl	_	_
-45	du	du	ADP	E	_	46	case	_	_
-46	Temps	temp	NOUN	S	Gender=Masc	44	nmod	_	_
-47	Perdu	perdu	ADJ	A	Gender=Masc|Number=Sing	46	amod	_	SpaceAfter=No
+42	A	à	X	SW	Foreign=Yes	44	case	_	_
+43	la	la	X	SW	Foreign=Yes	44	det	_	_
+44	Recherche	recherche	X	SW	Foreign=Yes	40	obl	_	_
+45	du	du	X	SW	Foreign=Yes	46	case	_	_
+46	Temps	temp	X	SW	Foreign=Yes	44	nmod	_	_
+47	Perdu	perdu	X	SW	Foreign=Yes	46	amod	_	SpaceAfter=No
 48	.	.	PUNCT	FS	_	34	punct	_	_
 
 # sent_id = en_partut-ud-1787
@@ -41669,7 +41669,7 @@
 9	,	,	PUNCT	FF	_	5	punct	_	_
 10	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	12	det	_	_
 11	detailed	detail	VERB	V	Tense=Past|VerbForm=Part	12	acl	_	_
-12	analysis	analysis	NOUN	S	Gender=Masc|Number=Sing	5	obl	_	_
+12	analysis	analysis	NOUN	S	Number=Sing	5	obl	_	_
 13	of	of	ADP	E	_	16	case	_	_
 14	Balzac	Balzac	PROPN	SP	_	16	nmod	_	SpaceAfter=No
 15	's	's	PART	PART	_	14	case	_	_
@@ -41680,7 +41680,7 @@
 20	key	key	NOUN	S	Number=Sing	21	amod	_	_
 21	work	work	NOUN	S	Number=Sing	12	conj	_	_
 22	in	in	ADP	E	_	25	case	_	_
-23	structuralist	structuralist	NOUN	S	Gender=Fem|Number=Sing	25	nmod	_	_
+23	structuralist	structuralist	NOUN	S	Number=Sing	25	nmod	_	_
 24	literary	literary	ADJ	A	Degree=Pos	25	amod	_	_
 25	criticism	criticism	NOUN	S	Number=Sing	21	nmod	_	SpaceAfter=No
 26	.	.	PUNCT	FS	_	5	punct	_	_
@@ -41899,15 +41899,15 @@
 29	Lord	lord	NOUN	S	Number=Sing	32	nmod	_	_
 30	Chamberlain	Chamberlain	PROPN	SP	_	29	nmod	_	SpaceAfter=No
 31	's	's	PART	PART	_	30	case	_	_
-32	Men	man	NOUN	S	Gender=Masc|Number=Plur	27	obl	_	SpaceAfter=No
+32	Men	man	NOUN	S	Number=Plur	27	obl	_	SpaceAfter=No
 33	,	,	PUNCT	FF	_	27	punct	_	_
 34	later	later	ADV	B	Degree=Cmp	35	advmod	_	_
 35	known	know	VERB	V	Tense=Past|VerbForm=Part	27	advcl	_	_
 36	as	as	ADP	E	_	40	case	_	_
 37	the	the	DET	RD	Definite=Def|PronType=Art	38	det	_	_
-38	King	king	NOUN	S	Gender=Masc|Number=Sing	40	nmod	_	SpaceAfter=No
+38	King	king	NOUN	S	Number=Sing	40	nmod	_	SpaceAfter=No
 39	's	's	PART	PART	_	38	case	_	_
-40	Men	man	NOUN	S	Gender=Masc|Number=Plur	27	obl	_	SpaceAfter=No
+40	Men	man	NOUN	S	Number=Plur	27	obl	_	SpaceAfter=No
 41	.	.	PUNCT	FS	_	7	punct	_	_
 
 # sent_id = en_partut-ud-1811
@@ -42189,7 +42189,7 @@
 7	acclaimed	acclaim	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 8	Shakespeare	Shakespeare	PROPN	SP	_	10	nmod	_	SpaceAfter=No
 9	's	's	PART	PART	_	8	case	_	_
-10	genius	genius	NOUN	S	Gender=Masc|Number=Sing	7	obj	_	SpaceAfter=No
+10	genius	genius	NOUN	S	Number=Sing	7	obj	_	SpaceAfter=No
 11	,	,	PUNCT	FF	_	15	punct	_	_
 12	and	and	CCONJ	CC	_	15	cc	_	_
 13	the	the	DET	RD	Definite=Def|PronType=Art	14	det	_	_
@@ -42205,7 +42205,7 @@
 23	Shaw	Shaw	PROPN	SP	_	21	flat	_	_
 24	called	call	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	19	acl:relcl	_	_
 25	"	"	PUNCT	FB	_	26	punct	_	SpaceAfter=No
-26	bardolatry	bardolatry	NOUN	S	Gender=Fem|Number=Sing	24	xcomp	_	SpaceAfter=No
+26	bardolatry	bardolatry	NOUN	S	Number=Sing	24	xcomp	_	SpaceAfter=No
 27	"	"	PUNCT	FB	_	26	punct	_	SpaceAfter=No
 28	.	.	PUNCT	FS	_	7	punct	_	_
 
@@ -42273,11 +42273,11 @@
 8	Shakespeare	Shakespeare	PROPN	SP	_	7	flat	_	SpaceAfter=No
 9	,	,	PUNCT	FF	_	7	punct	_	_
 10	an	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	11	det	_	_
-11	alderman	alderman	NOUN	S	Gender=Fem|Number=Sing	7	appos	_	_
+11	alderman	alderman	NOUN	S	Number=Sing	7	appos	_	_
 12	and	and	CCONJ	CC	_	15	cc	_	_
 13	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	15	det	_	_
 14	successful	successful	ADJ	A	Degree=Pos	15	amod	_	_
-15	glover	glover	NOUN	S	Gender=Fem|Number=Sing	11	conj	_	_
+15	glover	glover	NOUN	S	Number=Sing	11	conj	_	_
 16	originally	originally	ADV	B	_	18	advmod	_	_
 17	from	from	ADP	E	_	18	case	_	_
 18	Snitterfield	Snitterfield	PROPN	SP	_	11	nmod	_	SpaceAfter=No
@@ -42355,7 +42355,7 @@
 2	was	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	cop	_	_
 3	the	the	DET	RD	Definite=Def|PronType=Art	5	det	_	_
 4	third	third	ADJ	NO	Degree=Pos|NumType=Ord	5	amod	_	_
-5	child	child	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+5	child	child	NOUN	S	Number=Sing	0	root	_	_
 6	of	of	ADP	E	_	7	case	_	_
 7	eight	eight	NUM	N	NumType=Card	5	nummod	_	_
 8	and	and	CCONJ	CC	_	12	cc	_	_
@@ -42386,7 +42386,7 @@
 17	educated	educate	VERB	V	Tense=Past|VerbForm=Part	12	ccomp	_	_
 18	at	at	ADP	E	_	23	case	_	_
 19	the	the	DET	RD	Definite=Def|PronType=Art	20	det	_	_
-20	King	king	NOUN	S	Gender=Masc|Number=Sing	23	nmod	_	SpaceAfter=No
+20	King	king	NOUN	S	Number=Sing	23	nmod	_	SpaceAfter=No
 21	's	's	PART	PART	_	20	case	_	_
 22	New	New	PROPN	SP	_	23	nmod	_	_
 23	School	school	NOUN	S	Number=Sing	17	obl	_	_
@@ -42425,7 +42425,7 @@
 11	but	but	CCONJ	CC	_	17	cc	_	_
 12	grammar	grammar	NOUN	S	Number=Sing	13	nmod	_	_
 13	school	school	NOUN	S	Number=Sing	14	nmod	_	_
-14	curricula	curriculum	NOUN	S	Gender=Masc|Number=Plur	17	nsubj	_	_
+14	curricula	curriculum	NOUN	S	Number=Plur	17	nsubj	_	_
 15	were	be	AUX	V	Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	17	cop	_	_
 16	largely	largely	ADV	B	_	17	advmod	_	_
 17	similar	similar	ADJ	A	Degree=Pos	3	conj	_	SpaceAfter=No
@@ -42689,7 +42689,7 @@
 18	case	case	NOUN	S	Number=Sing	13	nmod	_	_
 19	before	before	ADP	E	_	24	case	_	_
 20	the	the	DET	RD	Definite=Def|PronType=Art	24	det	_	_
-21	Queen	queen	NOUN	S	Gender=Fem|Number=Sing	24	nmod	_	SpaceAfter=No
+21	Queen	queen	NOUN	S	Number=Sing	24	nmod	_	SpaceAfter=No
 22	's	's	PART	PART	_	21	case	_	_
 23	Bench	bench	NOUN	S	Number=Sing	24	nmod	_	_
 24	court	court	NOUN	S	Number=Sing	5	nmod	_	_
@@ -43137,7 +43137,7 @@
 26	common	common	ADJ	A	Degree=Pos	29	amod	_	_
 27	"	"	PUNCT	FB	_	29	punct	_	SpaceAfter=No
 28	universal	universal	ADJ	A	Degree=Pos	29	amod	_	_
-29	genius	genius	NOUN	S	Gender=Masc|Number=Sing	12	obl	_	SpaceAfter=No
+29	genius	genius	NOUN	S	Number=Sing	12	obl	_	SpaceAfter=No
 30	"	"	PUNCT	FB	_	29	punct	_	SpaceAfter=No
 31	.	.	PUNCT	FS	_	12	punct	_	_
 
@@ -43199,7 +43199,7 @@
 12	Lord	lord	NOUN	S	Number=Sing	15	nmod	_	_
 13	Chamberlain	Chamberlain	PROPN	SP	_	12	nmod	_	SpaceAfter=No
 14	's	's	PART	PART	_	13	case	_	_
-15	Men	man	NOUN	S	Gender=Masc|Number=Plur	8	obl	_	SpaceAfter=No
+15	Men	man	NOUN	S	Number=Plur	8	obl	_	SpaceAfter=No
 16	,	,	PUNCT	FF	_	15	punct	_	_
 17	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	18	det	_	_
 18	company	company	NOUN	S	Number=Sing	15	nmod	_	_
@@ -43245,7 +43245,7 @@
 17	by	by	ADP	E	_	20	case	_	_
 18	the	the	DET	RD	Definite=Def|PronType=Art	20	det	_	_
 19	new	new	ADJ	A	Degree=Pos	20	amod	_	_
-20	king	king	NOUN	S	Gender=Masc|Number=Sing	13	obl	_	SpaceAfter=No
+20	king	king	NOUN	S	Number=Sing	13	obl	_	SpaceAfter=No
 21	,	,	PUNCT	FF	_	20	punct	_	_
 22	James	James	PROPN	SP	_	20	appos	_	_
 23	I	first	ADJ	NO	Degree=Pos|NumType=Ord	22	flat	_	SpaceAfter=No
@@ -43256,9 +43256,9 @@
 28	name	name	NOUN	S	Number=Sing	26	obj	_	_
 29	to	to	ADP	E	_	33	case	_	_
 30	the	the	DET	RD	Definite=Def|PronType=Art	31	det	_	_
-31	King	king	NOUN	S	Gender=Masc|Number=Sing	33	nmod	_	SpaceAfter=No
+31	King	king	NOUN	S	Number=Sing	33	nmod	_	SpaceAfter=No
 32	's	's	PART	PART	_	31	case	_	_
-33	Men	man	NOUN	S	Gender=Masc|Number=Plur	26	obl	_	SpaceAfter=No
+33	Men	man	NOUN	S	Number=Plur	26	obl	_	SpaceAfter=No
 34	.	.	PUNCT	FS	_	13	punct	_	_
 
 # sent_id = en_partut-ud-1860
@@ -43388,7 +43388,7 @@
 14	lists	list	NOUN	S	Number=Plur	9	obl	_	_
 15	for	for	ADP	E	_	17	case	_	_
 16	Every	every	DET	DI	Number=Sing|PronType=Ind	17	det	_	_
-17	Man	man	NOUN	S	Gender=Masc|Number=Sing	9	obl	_	_
+17	Man	man	NOUN	S	Number=Sing	9	obl	_	_
 18	In	in	ADP	E	_	20	case	_	_
 19	His	his	DET	AP	Poss=Yes|PronType=Prs	20	nmod:poss	_	_
 20	Humour	humour	NOUN	S	Number=Sing	17	nmod	_	_
@@ -43675,12 +43675,12 @@
 27	Evans	Evans	PROPN	SP	_	26	flat	_	SpaceAfter=No
 28	,	,	PUNCT	FF	_	16	punct	_	_
 29	the	the	DET	RD	Definite=Def|PronType=Art	32	det	_	_
-30	King	king	NOUN	S	Gender=Masc|Number=Sing	32	nmod	_	SpaceAfter=No
+30	King	king	NOUN	S	Number=Sing	32	nmod	_	SpaceAfter=No
 31	's	's	PART	PART	_	30	case	_	_
-32	Men	man	NOUN	S	Gender=Masc|Number=Plur	34	nsubj	_	_
+32	Men	man	NOUN	S	Number=Plur	34	nsubj	_	_
 33	'	'	PUNCT	FF	_	34	punct	_	SpaceAfter=No
 34	placed	place	VERB	V	Tense=Past|VerbForm=Part	13	ccomp	_	_
-35	men	man	NOUN	S	Gender=Masc|Number=Plur	36	nmod	_	_
+35	men	man	NOUN	S	Number=Plur	36	nmod	_	_
 36	players	player	NOUN	S	Number=Plur	34	obj	_	SpaceAfter=No
 37	'	'	PUNCT	FF	_	36	punct	_	_
 38	there	there	ADV	B	_	34	advmod	_	SpaceAfter=No
@@ -43902,7 +43902,7 @@
 9	survived	survive	VERB	V	Tense=Past|VerbForm=Part	2	conj	_	_
 10	by	by	ADP	E	_	12	case	_	_
 11	his	his	DET	AP	Poss=Yes|PronType=Prs	12	nmod:poss	_	_
-12	wife	wife	NOUN	S	Gender=Masc|Number=Sing	9	obl	_	_
+12	wife	wife	NOUN	S	Number=Sing	9	obl	_	_
 13	and	and	CCONJ	CC	_	15	cc	_	_
 14	two	two	NUM	N	NumType=Card	15	nummod	_	_
 15	daughters	daughter	NOUN	S	Number=Plur	12	conj	_	SpaceAfter=No
@@ -43930,7 +43930,7 @@
 18	Quiney	Quiney	PROPN	SP	_	17	flat	_	SpaceAfter=No
 19	,	,	PUNCT	FF	_	17	punct	_	_
 20	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	21	det	_	_
-21	vintner	vintner	NOUN	S	Gender=Fem|Number=Sing	17	appos	_	SpaceAfter=No
+21	vintner	vintner	NOUN	S	Number=Sing	17	appos	_	SpaceAfter=No
 22	,	,	PUNCT	FF	_	17	punct	_	_
 23	two	two	NUM	N	NumType=Card	24	nummod	_	_
 24	months	month	NOUN	S	Number=Plur	16	obl	_	_
@@ -44061,7 +44061,7 @@
 2	Quineys	Quineys	PROPN	SP	_	3	nsubj	_	_
 3	had	have	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 4	three	three	NUM	N	NumType=Card	5	nummod	_	_
-5	children	child	NOUN	S	Gender=Masc|Number=Plur	3	obj	_	SpaceAfter=No
+5	children	child	NOUN	S	Number=Plur	3	obj	_	SpaceAfter=No
 6	,	,	PUNCT	FF	_	5	punct	_	_
 7	all	all	PRON	PI	PronType=Ind	10	nsubj	_	_
 8	of	of	ADP	E	_	9	case	_	_
@@ -44077,7 +44077,7 @@
 2	Halls	Hall	PROPN	SP	_	3	nsubj	_	_
 3	had	have	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 4	one	one	NUM	N	NumType=Card	5	nummod	_	_
-5	child	child	NOUN	S	Gender=Masc|Number=Sing	3	obj	_	SpaceAfter=No
+5	child	child	NOUN	S	Number=Sing	3	obj	_	SpaceAfter=No
 6	,	,	PUNCT	FF	_	5	punct	_	_
 7	Elizabeth	Elizabeth	PROPN	SP	_	5	nmod	_	SpaceAfter=No
 8	,	,	PUNCT	FF	_	7	punct	_	_
@@ -44085,9 +44085,9 @@
 10	married	marry	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	7	acl:relcl	_	_
 11	twice	twice	ADV	B	_	10	advmod	_	_
 12	but	but	CCONJ	CC	_	13	cc	_	_
-13	died	died	NOUN	S	Gender=Fem|Number=Sing	10	conj	_	_
+13	died	died	NOUN	S	Number=Sing	10	conj	_	_
 14	without	without	ADP	E	_	15	case	_	_
-15	children	child	NOUN	S	Gender=Masc|Number=Plur	13	nmod	_	_
+15	children	child	NOUN	S	Number=Plur	13	nmod	_	_
 16	in	in	ADP	E	_	17	case	_	_
 17	1670	1670	NUM	N	NumType=Card	13	obl	_	SpaceAfter=No
 18	,	,	PUNCT	FF	_	19	punct	_	_
@@ -44106,7 +44106,7 @@
 4	scarcely	scarcely	ADV	B	_	5	advmod	_	_
 5	mentions	mention	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 6	his	his	DET	AP	Poss=Yes|PronType=Prs	7	nmod:poss	_	_
-7	wife	wife	NOUN	S	Gender=Masc|Number=Sing	5	obj	_	SpaceAfter=No
+7	wife	wife	NOUN	S	Number=Sing	5	obj	_	SpaceAfter=No
 8	,	,	PUNCT	FF	_	7	punct	_	_
 9	Anne	Anne	PROPN	SP	_	7	nmod	_	SpaceAfter=No
 10	,	,	PUNCT	FF	_	9	punct	_	_
@@ -44629,7 +44629,7 @@
 30	spirit	spirit	NOUN	S	Number=Sing	24	nmod	_	_
 31	by	by	ADP	E	_	33	case	_	_
 32	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	33	det	_	_
-33	man	man	NOUN	S	Gender=Masc|Number=Sing	24	nmod	_	_
+33	man	man	NOUN	S	Number=Sing	24	nmod	_	_
 34	sometimes	sometimes	ADV	B	_	35	advmod	_	_
 35	troubles	trouble	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 36	modern	modern	ADJ	A	Degree=Pos	37	amod	_	_
@@ -44941,7 +44941,7 @@
 # text = The titular hero of one of Shakespeare's most famous tragedies, Hamlet, has probably been discussed more than any other Shakespearean character, especially for his famous soliloquy which begins "To be or not to be;
 1	The	the	DET	RD	Definite=Def|PronType=Art	3	det	_	_
 2	titular	titular	ADJ	A	Degree=Pos	3	amod	_	_
-3	hero	hero	NOUN	S	Gender=Masc|Number=Sing	18	nsubj:pass	_	_
+3	hero	hero	NOUN	S	Number=Sing	18	nsubj:pass	_	_
 4	of	of	ADP	E	_	5	case	_	_
 5	one	one	NUM	N	NumType=Card	3	nummod	_	_
 6	of	of	ADP	E	_	11	case	_	_
@@ -44994,7 +44994,7 @@
 10	hesitation	hesitation	NOUN	S	Number=Sing	4	acl:relcl	_	SpaceAfter=No
 11	,	,	PUNCT	FF	_	4	punct	_	_
 12	the	the	DET	RD	Definite=Def|PronType=Art	13	det	_	_
-13	heroes	hero	NOUN	S	Gender=Masc|Number=Plur	26	nsubj:pass	_	_
+13	heroes	hero	NOUN	S	Number=Plur	26	nsubj:pass	_	_
 14	of	of	ADP	E	_	16	case	_	_
 15	the	the	DET	RD	Definite=Def|PronType=Art	16	det	_	_
 16	tragedies	tragedy	NOUN	S	Number=Plur	13	nmod	_	_
@@ -45038,7 +45038,7 @@
 19	and	and	CCONJ	CC	_	20	cc	_	_
 20	destroy	destroy	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	17	conj	_	_
 21	the	the	DET	RD	Definite=Def|PronType=Art	22	det	_	_
-22	hero	hero	NOUN	S	Gender=Masc|Number=Sing	20	obj	_	_
+22	hero	hero	NOUN	S	Number=Sing	20	obj	_	_
 23	and	and	CCONJ	CC	_	24	cc	_	_
 24	those	that	PRON	PD	Number=Plur|PronType=Dem	22	conj	_	_
 25	he	he	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	26	nsubj	_	_
@@ -45066,7 +45066,7 @@
 17	murders	murder	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	acl:relcl	_	_
 18	the	the	DET	RD	Definite=Def|PronType=Art	20	det	_	_
 19	innocent	innocent	ADJ	A	Degree=Pos	20	amod	_	_
-20	wife	wife	NOUN	S	Gender=Masc|Number=Sing	17	obj	_	_
+20	wife	wife	NOUN	S	Number=Sing	17	obj	_	_
 21	who	who	PRON	PR	PronType=Rel	22	nsubj	_	_
 22	loves	love	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	acl:relcl	_	_
 23	him	he	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	22	obj	_	SpaceAfter=No
@@ -45080,7 +45080,7 @@
 4	,	,	PUNCT	FF	_	2	punct	_	_
 5	the	the	DET	RD	Definite=Def|PronType=Art	7	det	_	_
 6	old	old	ADJ	A	Degree=Pos	7	amod	_	_
-7	king	king	NOUN	S	Gender=Masc|Number=Sing	8	nsubj	_	_
+7	king	king	NOUN	S	Number=Sing	8	nsubj	_	_
 8	commits	commit	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 9	the	the	DET	RD	Definite=Def|PronType=Art	11	det	_	_
 10	tragic	tragic	ADJ	A	Degree=Pos	11	amod	_	_
@@ -45167,7 +45167,7 @@
 17	Macbeth	Macbeth	PROPN	SP	_	16	obj	_	_
 18	and	and	CCONJ	CC	_	20	cc	_	_
 19	his	his	DET	AP	Poss=Yes|PronType=Prs	20	nmod:poss	_	_
-20	wife	wife	NOUN	S	Gender=Masc|Number=Sing	17	conj	_	SpaceAfter=No
+20	wife	wife	NOUN	S	Number=Sing	17	conj	_	SpaceAfter=No
 21	,	,	PUNCT	FF	_	20	punct	_	_
 22	Lady	Lady	PROPN	SP	_	20	appos	_	_
 23	Macbeth	Macbeth	PROPN	SP	_	22	nmod	_	SpaceAfter=No
@@ -45176,7 +45176,7 @@
 26	murder	murder	VERB	V	VerbForm=Inf	16	xcomp	_	_
 27	the	the	DET	RD	Definite=Def|PronType=Art	29	det	_	_
 28	rightful	rightful	ADJ	A	Degree=Pos	29	amod	_	_
-29	king	king	NOUN	S	Gender=Masc|Number=Sing	26	obj	_	_
+29	king	king	NOUN	S	Number=Sing	26	obj	_	_
 30	and	and	CCONJ	CC	_	31	cc	_	_
 31	usurp	usurp	VERB	V	VerbForm=Inf	26	conj	_	_
 32	the	the	DET	RD	Definite=Def|PronType=Art	33	det	_	_
@@ -45581,13 +45581,13 @@
 3	Lord	lord	NOUN	S	Number=Sing	6	nmod	_	_
 4	Chamberlain	Chamberlain	PROPN	SP	_	3	nmod	_	SpaceAfter=No
 5	's	's	PART	PART	_	4	case	_	_
-6	Men	man	NOUN	S	Gender=Masc|Number=Plur	8	nsubj:pass	_	_
+6	Men	man	NOUN	S	Number=Plur	8	nsubj:pass	_	_
 7	were	be	AUX	VA	Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	8	aux:pass	_	_
 8	renamed	rename	VERB	V	Tense=Past|VerbForm=Part	17	advcl	_	_
 9	the	the	DET	RD	Definite=Def|PronType=Art	10	det	_	_
-10	King	king	NOUN	S	Gender=Masc|Number=Sing	12	nmod	_	SpaceAfter=No
+10	King	king	NOUN	S	Number=Sing	12	nmod	_	SpaceAfter=No
 11	's	's	PART	PART	_	10	case	_	_
-12	Men	man	NOUN	S	Gender=Masc|Number=Plur	8	xcomp	_	_
+12	Men	man	NOUN	S	Number=Plur	8	xcomp	_	_
 13	in	in	ADP	E	_	14	case	_	_
 14	1603	1603	NUM	N	NumType=Card	8	obl	_	SpaceAfter=No
 15	,	,	PUNCT	FF	_	8	punct	_	_
@@ -45599,7 +45599,7 @@
 21	with	with	ADP	E	_	24	case	_	_
 22	the	the	DET	RD	Definite=Def|PronType=Art	24	det	_	_
 23	new	new	ADJ	A	Degree=Pos	24	amod	_	_
-24	King	king	NOUN	S	Gender=Masc|Number=Sing	17	obl	_	_
+24	King	king	NOUN	S	Number=Sing	17	obl	_	_
 25	James	James	PROPN	SP	_	24	flat	_	SpaceAfter=No
 26	.	.	PUNCT	FS	_	17	punct	_	_
 
@@ -45613,9 +45613,9 @@
 6	patchy	patchy	ADJ	A	Degree=Pos	12	advcl	_	SpaceAfter=No
 7	,	,	PUNCT	FF	_	6	punct	_	_
 8	the	the	DET	RD	Definite=Def|PronType=Art	9	det	_	_
-9	King	king	NOUN	S	Gender=Masc|Number=Sing	11	nmod	_	SpaceAfter=No
+9	King	king	NOUN	S	Number=Sing	11	nmod	_	SpaceAfter=No
 10	's	's	PART	PART	_	9	case	_	_
-11	Men	man	NOUN	S	Gender=Masc|Number=Plur	12	nsubj	_	_
+11	Men	man	NOUN	S	Number=Plur	12	nsubj	_	_
 12	performed	perform	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 13	seven	seven	NUM	N	NumType=Card	12	obj	_	_
 14	of	of	ADP	E	_	17	case	_	_
@@ -45871,9 +45871,9 @@
 14	friends	friend	NOUN	S	Number=Plur	10	nmod	_	_
 15	from	from	ADP	E	_	19	case	_	_
 16	the	the	DET	RD	Definite=Def|PronType=Art	17	det	_	_
-17	King	king	NOUN	S	Gender=Masc|Number=Sing	19	nmod	_	SpaceAfter=No
+17	King	king	NOUN	S	Number=Sing	19	nmod	_	SpaceAfter=No
 18	's	's	PART	PART	_	17	case	_	_
-19	Men	man	NOUN	S	Gender=Masc|Number=Plur	14	nmod	_	SpaceAfter=No
+19	Men	man	NOUN	S	Number=Plur	14	nmod	_	SpaceAfter=No
 20	,	,	PUNCT	FF	_	4	punct	_	_
 21	published	publish	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 22	the	the	DET	RD	Definite=Def|PronType=Art	24	det	_	_
@@ -45952,7 +45952,7 @@
 6	them	they	PRON	PE	Number=Plur|Person=3|PronType=Prs	4	nmod	_	_
 7	"	"	PUNCT	FB	_	9	punct	_	SpaceAfter=No
 8	bad	bad	ADJ	A	Degree=Pos	9	amod	_	_
-9	quartos	quartos	NOUN	S	Gender=Fem|Number=Plur	3	obl	_	SpaceAfter=No
+9	quartos	quartos	NOUN	S	Number=Plur	3	obl	_	SpaceAfter=No
 10	"	"	PUNCT	FB	_	9	punct	_	_
 11	because	because	ADP	E	_	19	case	_	_
 12	of	of	ADP	E	_	11	fixed	_	_
@@ -46044,7 +46044,7 @@
 20	texts	text	NOUN	S	Number=Plur	18	obj	_	_
 21	between	between	ADP	E	_	23	case	_	_
 22	the	the	DET	RD	Definite=Def|PronType=Art	23	det	_	_
-23	quarto	quarto	NOUN	S	Gender=Fem|Number=Sing	26	nmod	_	_
+23	quarto	quarto	NOUN	S	Number=Sing	26	nmod	_	_
 24	and	and	CCONJ	CC	_	25	cc	_	_
 25	folio	folio	NOUN	S	Number=Sing	23	conj	_	_
 26	editions	edition	NOUN	S	Number=Plur	20	nmod	_	SpaceAfter=No
@@ -46079,7 +46079,7 @@
 25	from	from	ADP	E	_	28	case	_	_
 26	the	the	DET	RD	Definite=Def|PronType=Art	28	det	_	_
 27	1608	1608	NUM	N	NumType=Card	28	nummod	_	_
-28	quarto	quarto	NOUN	S	Gender=Fem|Number=Sing	24	obl	_	SpaceAfter=No
+28	quarto	quarto	NOUN	S	Number=Sing	24	obl	_	SpaceAfter=No
 29	,	,	PUNCT	FF	_	24	punct	_	_
 30	that	that	SCONJ	CS	_	34	mark	_	_
 31	the	the	DET	RD	Definite=Def|PronType=Art	33	det	_	_
@@ -46165,7 +46165,7 @@
 7	,	,	PUNCT	FF	_	4	punct	_	_
 8	the	the	DET	RD	Definite=Def|PronType=Art	10	det	_	_
 9	virtuous	virtuous	ADJ	A	Degree=Pos	10	amod	_	_
-10	wife	wife	NOUN	S	Gender=Masc|Number=Sing	13	nsubj:pass	_	_
+10	wife	wife	NOUN	S	Number=Sing	13	nsubj:pass	_	_
 11	Lucrece	Lucrece	PROPN	SP	_	10	nmod	_	_
 12	is	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	aux:pass	_	_
 13	raped	rape	VERB	V	Tense=Past|VerbForm=Part	0	root	_	_
@@ -46181,7 +46181,7 @@
 2	by	by	ADP	E	_	5	case	_	_
 3	Ovid	ovid	NOUN	S	Number=Sing	5	nmod	_	SpaceAfter=No
 4	's	's	PART	PART	_	3	case	_	_
-5	Metamorphoses	metamorphosis	NOUN	S	Gender=Masc|Number=Plur	1	obl	_	SpaceAfter=No
+5	Metamorphoses	metamorphosis	NOUN	S	Number=Plur	1	obl	_	SpaceAfter=No
 6	,	,	PUNCT	FF	_	1	punct	_	_
 7	the	the	DET	RD	Definite=Def|PronType=Art	8	det	_	_
 8	poems	poem	NOUN	S	Number=Plur	9	nsubj	_	_
@@ -46493,7 +46493,7 @@
 26	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	29	det	_	_
 27	fair	fair	ADJ	A	Degree=Pos	29	amod	_	_
 28	young	young	ADJ	A	Degree=Pos	29	amod	_	_
-29	man	man	NOUN	S	Gender=Masc|Number=Sing	24	nmod	_	_
+29	man	man	NOUN	S	Number=Sing	24	nmod	_	_
 30	(	(	PUNCT	FB	_	34	punct	_	SpaceAfter=No
 31	the	the	DET	RD	Definite=Def|PronType=Art	34	det	_	_
 32	"	"	PUNCT	FB	_	34	punct	_	SpaceAfter=No
@@ -46554,7 +46554,7 @@
 6	to	to	ADP	E	_	9	case	_	_
 7	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	9	det	_	_
 8	"	"	PUNCT	FB	_	9	punct	_	SpaceAfter=No
-9	Mr.	mister	NOUN	S	Gender=Masc	5	obl	_	_
+9	Mr.	mister	NOUN	S	_	5	obl	_	_
 10	W.H.	W.H.	PROPN	SP	_	9	flat	_	SpaceAfter=No
 11	"	"	PUNCT	FB	_	9	punct	_	SpaceAfter=No
 12	,	,	PUNCT	FF	_	9	punct	_	_
@@ -46774,7 +46774,7 @@
 13	forward	forward	ADV	B	_	12	advmod	_	_
 14	to	to	ADP	E	_	16	case	_	_
 15	the	the	DET	RD	Definite=Def|PronType=Art	16	det	_	_
-16	soliloquies	soliloquies	NOUN	S	Gender=Fem|Number=Plur	12	obl	_	_
+16	soliloquies	soliloquies	NOUN	S	Number=Plur	12	obl	_	_
 17	of	of	ADP	E	_	21	case	_	_
 18	Shakespeare	Shakespeare	PROPN	SP	_	21	nmod	_	SpaceAfter=No
 19	's	's	PART	PART	_	18	case	_	_
@@ -47211,7 +47211,7 @@
 1	Shakespeare	Shakespeare	PROPN	SP	_	2	nsubj	_	_
 2	combined	combine	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 3	poetic	poetic	ADJ	A	Degree=Pos	4	amod	_	_
-4	genius	genius	NOUN	S	Gender=Masc|Number=Sing	2	obj	_	_
+4	genius	genius	NOUN	S	Number=Sing	2	obj	_	_
 5	with	with	ADP	E	_	8	case	_	_
 6	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	8	det	_	_
 7	practical	practical	ADJ	A	Degree=Pos	8	amod	_	_
@@ -47309,7 +47309,7 @@
 8	gave	give	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	5	conj	_	_
 9	his	his	DET	AP	Poss=Yes|PronType=Prs	8	nmod:poss	_	_
 10	characters	character	NOUN	S	Number=Plur	11	nmod	_	_
-11	clearer	clearer	NOUN	S	Gender=Fem|Number=Sing	8	obj	_	_
+11	clearer	clearer	NOUN	S	Number=Sing	8	obj	_	_
 12	and	and	CCONJ	CC	_	14	cc	_	_
 13	more	more	ADV	B	Degree=Cmp	14	advmod	_	_
 14	varied	vary	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	5	conj	_	_
@@ -47506,7 +47506,7 @@
 4	Herman	Herman	PROPN	SP	_	3	nmod	_	_
 5	Melville	Melville	PROPN	SP	_	4	flat	_	SpaceAfter=No
 6	's	's	PART	PART	_	4	case	_	_
-7	soliloquies	soliloquies	NOUN	S	Gender=Fem|Number=Plur	8	nsubj	_	_
+7	soliloquies	soliloquies	NOUN	S	Number=Plur	8	nsubj	_	_
 8	owe	owe	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	0	root	_	_
 9	much	much	ADJ	A	Degree=Pos	8	obj	_	_
 10	to	to	ADP	E	_	11	case	_	_
@@ -47526,7 +47526,7 @@
 9	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	12	det	_	_
 10	classic	classic	ADJ	A	Degree=Pos	12	amod	_	_
 11	tragic	tragic	ADJ	A	Degree=Pos	12	amod	_	_
-12	hero	hero	NOUN	S	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+12	hero	hero	NOUN	S	Number=Sing	0	root	_	SpaceAfter=No
 13	,	,	PUNCT	FF	_	12	punct	_	_
 14	inspired	inspire	VERB	V	Tense=Past|VerbForm=Part	12	acl	_	_
 15	by	by	ADP	E	_	16	case	_	_
@@ -47935,7 +47935,7 @@
 22	termed	term	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	20	acl:relcl	_	_
 23	his	his	DET	AP	Poss=Yes|PronType=Prs	25	nmod:poss	_	_
 24	natural	natural	ADJ	A	Degree=Pos	25	amod	_	_
-25	genius	genius	NOUN	S	Gender=Masc|Number=Sing	22	xcomp	_	SpaceAfter=No
+25	genius	genius	NOUN	S	Number=Sing	22	xcomp	_	SpaceAfter=No
 26	.	.	PUNCT	FS	_	9	punct	_	_
 
 # sent_id = en_partut-ud-2048
@@ -48057,7 +48057,7 @@
 9	for	for	ADP	E	_	12	case	_	_
 10	Shakespeare	Shakespeare	PROPN	SP	_	12	nmod	_	SpaceAfter=No
 11	's	's	PART	PART	_	10	case	_	_
-12	genius	genius	NOUN	S	Gender=Masc|Number=Sing	8	nmod	_	_
+12	genius	genius	NOUN	S	Number=Sing	8	nmod	_	_
 13	often	often	ADV	B	_	14	advmod	_	_
 14	bordered	border	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 15	on	on	ADP	E	_	16	case	_	_
@@ -48146,7 +48146,7 @@
 13	worship	worship	NOUN	S	Number=Sing	10	nmod	_	_
 14	as	as	ADP	E	_	16	case	_	_
 15	"	"	PUNCT	FB	_	16	punct	_	SpaceAfter=No
-16	bardolatry	bardolatry	NOUN	S	Gender=Fem|Number=Sing	8	obl	_	SpaceAfter=No
+16	bardolatry	bardolatry	NOUN	S	Number=Sing	8	obl	_	SpaceAfter=No
 17	"	"	PUNCT	FB	_	16	punct	_	SpaceAfter=No
 18	.	.	PUNCT	FS	_	8	punct	_	_
 
@@ -48584,7 +48584,7 @@
 5	of	of	ADP	E	_	8	case	_	_
 6	their	their	DET	AP	Poss=Yes|PronType=Prs	8	nmod:poss	_	_
 7	three	three	NUM	N	NumType=Card	8	nummod	_	_
-8	children	child	NOUN	S	Gender=Masc|Number=Plur	4	nmod	_	SpaceAfter=No
+8	children	child	NOUN	S	Number=Plur	4	nmod	_	SpaceAfter=No
 9	,	,	PUNCT	FF	_	4	punct	_	_
 10	was	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	11	aux:pass	_	_
 11	born	bear	VERB	V	Tense=Past|VerbForm=Part	0	root	_	_
@@ -48625,7 +48625,7 @@
 24	for	for	ADP	E	_	27	case	_	_
 25	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	27	det	_	_
 26	young	young	ADJ	A	Degree=Pos	27	amod	_	_
-27	man	man	NOUN	S	Gender=Masc|Number=Sing	23	nmod	_	SpaceAfter=No
+27	man	man	NOUN	S	Number=Sing	23	nmod	_	SpaceAfter=No
 28	.	.	PUNCT	FS	_	7	punct	_	_
 
 # sent_id = en_partut-ud-2082
@@ -48770,7 +48770,7 @@
 17	-	-	PUNCT	FF	_	18	punct	_	SpaceAfter=No
 18	attributions	attribution	NOUN	S	Number=Plur	11	conj	_	SpaceAfter=No
 19	,	,	PUNCT	FF	_	20	punct	_	_
-20	repaintings	repaintings	NOUN	S	Gender=Fem|Number=Plur	11	conj	_	_
+20	repaintings	repaintings	NOUN	S	Number=Plur	11	conj	_	_
 21	and	and	CCONJ	CC	_	22	cc	_	_
 22	relabelling	relabelling	NOUN	S	Number=Sing	11	conj	_	_
 23	of	of	ADP	E	_	24	case	_	_

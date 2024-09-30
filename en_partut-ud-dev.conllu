@@ -139,7 +139,7 @@
 
 # sent_id = en_partut-ud-118
 # text = Mr Berenguer Fuster, we shall check all this.
-1	Mr	mister	NOUN	S	Gender=Masc|Number=Sing	7	vocative	_	_
+1	Mr	mister	NOUN	S	Number=Sing	7	vocative	_	_
 2	Berenguer	Berenguer	PROPN	SP	_	1	flat	_	_
 3	Fuster	Fuster	PROPN	SP	_	1	flat	_	SpaceAfter=No
 4	,	,	PUNCT	FF	_	1	punct	_	_
@@ -215,7 +215,7 @@
 21	me	i	PRON	PE	Number=Sing|Person=1|PronType=Prs	19	obl	_	SpaceAfter=No
 22	,	,	PUNCT	FF	_	19	punct	_	_
 23	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	24	det	_	_
-24	little	little	ADJ	A	Degree=Pos	27	nmod:npmod	_	_
+24	little	little	ADJ	A	Degree=Pos	27	nmod:unmarked	_	_
 25	like	like	ADP	E	_	27	case	_	_
 26	first	first	ADJ	NO	Degree=Pos|NumType=Ord	27	amod	_	_
 27	love	love	NOUN	S	Number=Sing	19	obl	_	SpaceAfter=No
@@ -251,7 +251,7 @@
 # text = The reason Mr Koch produced his sound report was because the work in the CEN and within the United Nations Economic Commission was proceeding none too expeditiously.
 1	The	the	DET	RD	Definite=Def|PronType=Art	2	det	_	_
 2	reason	reason	NOUN	S	Number=Sing	9	nsubj	_	_
-3	Mr	mister	NOUN	S	Gender=Masc|Number=Sing	5	nsubj	_	_
+3	Mr	mister	NOUN	S	Number=Sing	5	nsubj	_	_
 4	Koch	Koch	PROPN	SP	_	3	flat	_	_
 5	produced	produce	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	2	acl	_	_
 6	his	his	DET	AP	Poss=Yes|PronType=Prs	8	nmod:poss	_	_
@@ -280,7 +280,7 @@
 
 # sent_id = en_partut-ud-294
 # text = Mr President, I would once again like to congratulate Mr Koch on his magnificent work on this other report, which in a way supplements the debate which we held in October on rail transport.
-1	Mr	mister	NOUN	S	Gender=Masc|Number=Sing	8	vocative	_	_
+1	Mr	mister	NOUN	S	Number=Sing	8	vocative	_	_
 2	President	president	NOUN	S	Number=Sing	1	compound	_	SpaceAfter=No
 3	,	,	PUNCT	FF	_	1	punct	_	_
 4	I	I	PRON	PE	Number=Sing|Person=1|PronType=Prs	8	nsubj	_	_
@@ -290,7 +290,7 @@
 8	like	like	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	0	root	_	_
 9	to	to	PART	PART	_	10	mark	_	_
 10	congratulate	congratulate	VERB	V	VerbForm=Inf	8	xcomp	_	_
-11	Mr	mister	NOUN	S	Gender=Masc|Number=Sing	10	obj	_	_
+11	Mr	mister	NOUN	S	Number=Sing	10	obj	_	_
 12	Koch	Koch	PROPN	SP	_	11	flat	_	_
 13	on	on	ADP	E	_	16	case	_	_
 14	his	his	DET	AP	Poss=Yes|PronType=Prs	16	nmod:poss	_	_
@@ -820,13 +820,13 @@
 20	are	be	AUX	VA	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	21	aux:pass	_	_
 21	based	based	VERB	V	Tense=Past|VerbForm=Part	12	conj	_	_
 22	on	on	ADP	E	_	23	case	_	_
-23	mycelium	mycelium	NOUN	S	Gender=Masc|Number=Sing	21	obl	_	SpaceAfter=No
+23	mycelium	mycelium	NOUN	S	Number=Sing	21	obl	_	SpaceAfter=No
 24	.	.	PUNCT	FS	_	2	punct	_	_
 
 # sent_id = en_partut-ud-877
 # text = The mycelium infuses all landscapes, it holds soils together, it's extremely tenacious.
 1	The	the	DET	RD	Definite=Def|PronType=Art	2	det	_	_
-2	mycelium	mycelium	NOUN	S	Gender=Masc|Number=Sing	3	nsubj	_	_
+2	mycelium	mycelium	NOUN	S	Number=Sing	3	nsubj	_	_
 3	infuses	infuse	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	all	all	DET	T	PronType=Tot	5	det	_	_
 5	landscapes	landscape	NOUN	S	Number=Plur	3	obj	_	SpaceAfter=No
@@ -851,7 +851,7 @@
 5	30,000	30,000	NUM	N	NumType=Card	6	nummod	_	_
 6	times	time	NOUN	S	Number=Plur	8	nmod	_	_
 7	its	its	DET	AP	Number=Sing|Poss=Yes|PronType=Prs	8	nmod:poss	_	_
-8	mass	mass	NOUN	S	Gender=Masc|Number=Sing	2	obj	_	SpaceAfter=No
+8	mass	mass	NOUN	S	Number=Sing	2	obj	_	SpaceAfter=No
 9	.	.	PUNCT	FS	_	2	punct	_	_
 
 # sent_id = en_partut-ud-879
@@ -861,7 +861,7 @@
 3	the	the	DET	RD	Definite=Def|PronType=Art	6	det	_	_
 4	grand	grand	NOUN	S	Number=Sing	6	nmod	_	_
 5	molecular	molecular	ADJ	A	Degree=Pos	6	amod	_	_
-6	disassemblers	disassemblers	NOUN	S	Gender=Fem|Number=Plur	0	root	_	_
+6	disassemblers	disassemblers	NOUN	S	Number=Plur	0	root	_	_
 7	of	of	ADP	E	_	8	case	_	_
 8	nature	nature	NOUN	S	Number=Sing	6	nmod	_	_
 9	-	-	PUNCT	FF	_	6	punct	_	_
@@ -977,7 +977,7 @@
 1	We	we	PRON	PE	Number=Plur|Person=1|PronType=Prs	2	nsubj	_	_
 2	call	call	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	it	it	PRON	PE	Number=Sing|Person=3|PronType=Prs	2	obj	_	_
-4	mycophobia	mycophobia	NOUN	S	Gender=Fem|Number=Sing	2	xcomp	_	SpaceAfter=No
+4	mycophobia	mycophobia	NOUN	S	Number=Sing	2	xcomp	_	SpaceAfter=No
 5	,	,	PUNCT	FF	_	4	punct	_	_
 6	the	the	DET	RD	Definite=Def|PronType=Art	8	det	_	_
 7	irrational	irrational	ADJ	A	Degree=Pos	8	amod	_	_
@@ -1084,7 +1084,7 @@
 # text = After they sporulate, they do rot.
 1	After	after	ADP	E	_	3	case	_	_
 2	they	they	PRON	PE	Number=Plur|Person=3|PronType=Prs	3	nsubj	_	_
-3	sporulate	sporulate	NOUN	S	Gender=Fem|Number=Sing	7	obl	_	SpaceAfter=No
+3	sporulate	sporulate	NOUN	S	Number=Sing	7	obl	_	SpaceAfter=No
 4	,	,	PUNCT	FF	_	3	punct	_	_
 5	they	they	PRON	PE	Number=Plur|Person=3|PronType=Prs	7	nsubj	_	_
 6	do	do	AUX	VM	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	7	aux	_	_
@@ -1135,7 +1135,7 @@
 13	that	that	PRON	PR	PronType=Rel	14	nsubj	_	_
 14	feed	fee	VERB	V	Tense=Past|VerbForm=Part	12	acl:relcl	_	_
 15	the	the	DET	RD	Definite=Def|PronType=Art	16	det	_	_
-16	mycelium	mycelium	NOUN	S	Gender=Masc|Number=Sing	14	obj	_	SpaceAfter=No
+16	mycelium	mycelium	NOUN	S	Number=Sing	14	obj	_	SpaceAfter=No
 17	.	.	PUNCT	FS	_	2	punct	_	_
 
 # sent_id = en_partut-ud-896
@@ -1160,7 +1160,7 @@
 6	,	,	PUNCT	FF	_	10	punct	_	_
 7	and	and	CCONJ	CC	_	10	cc	_	_
 8	the	the	DET	RD	Definite=Def|PronType=Art	9	det	_	_
-9	mycelium	mycelium	NOUN	S	Gender=Masc|Number=Sing	10	nsubj	_	_
+9	mycelium	mycelium	NOUN	S	Number=Sing	10	nsubj	_	_
 10	forms	form	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	conj	_	_
 11	and	and	CCONJ	CC	_	12	cc	_	_
 12	goes	go	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	conj	_	_
@@ -1192,14 +1192,14 @@
 # sent_id = en_partut-ud-899
 # text = My foot is covering approximately 300 miles of mycelium.
 1	My	my	DET	AP	Number=Sing|Poss=Yes|PronType=Prs	2	nmod:poss	_	_
-2	foot	foot	NOUN	S	Gender=Masc|Number=Sing	4	nsubj	_	_
+2	foot	foot	NOUN	S	Number=Sing	4	nsubj	_	_
 3	is	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
 4	covering	cover	VERB	V	VerbForm=Ger	0	root	_	_
 5	approximately	approximately	ADV	B	_	7	advmod	_	_
 6	300	300	NUM	N	NumType=Card	7	nummod	_	_
 7	miles	mile	NOUN	S	Number=Plur	4	obj	_	_
 8	of	of	ADP	E	_	9	case	_	_
-9	mycelium	mycelium	NOUN	S	Gender=Masc|Number=Sing	7	nmod	_	SpaceAfter=No
+9	mycelium	mycelium	NOUN	S	Number=Sing	7	nmod	_	SpaceAfter=No
 10	.	.	PUNCT	FS	_	4	punct	_	_
 
 # sent_id = en_partut-ud-900
@@ -1222,7 +1222,7 @@
 3	that	that	PRON	PR	PronType=Rel	2	obj	_	_
 4	as	as	ADP	E	_	7	mark	_	_
 5	the	the	DET	RD	Definite=Def|PronType=Art	6	det	_	_
-6	mycelium	mycelium	NOUN	S	Gender=Masc|Number=Sing	7	nsubj	_	_
+6	mycelium	mycelium	NOUN	S	Number=Sing	7	nsubj	_	_
 7	grows	grow	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	advcl	_	SpaceAfter=No
 8	,	,	PUNCT	FF	_	7	punct	_	_
 9	it	it	PRON	PE	Number=Sing|Person=3|PronType=Prs	10	nsubj	_	_
@@ -1245,7 +1245,7 @@
 5	,	,	PUNCT	FF	_	7	punct	_	_
 6	so	so	ADV	B	_	7	advmod	_	_
 7	does	do	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	_
-8	mycelium	mycelium	NOUN	S	Gender=Masc|Number=Sing	7	nsubj	_	SpaceAfter=No
+8	mycelium	mycelium	NOUN	S	Number=Sing	7	nsubj	_	SpaceAfter=No
 9	.	.	PUNCT	FS	_	2	punct	_	_
 
 # sent_id = en_partut-ud-903
@@ -1349,7 +1349,7 @@
 9	s	s	X	X	_	8	dep	_	SpaceAfter=No
 10	,	,	PUNCT	FF	_	3	punct	_	_
 11	that	that	DET	DD	Number=Sing|PronType=Dem	17	det	_	_
-12	mycelium	mycelium	NOUN	S	Gender=Masc|Number=Sing	17	nsubj	_	_
+12	mycelium	mycelium	NOUN	S	Number=Sing	17	nsubj	_	_
 13	is	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	cop	_	_
 14	Earth	earth	NOUN	S	Number=Sing	17	nmod	_	SpaceAfter=No
 15	's	's	PART	PART	_	14	case	_	_
@@ -1364,7 +1364,7 @@
 3	look	look	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	11	advcl	_	_
 4	at	at	ADP	E	_	6	case	_	_
 5	the	the	DET	RD	Definite=Def|PronType=Art	6	det	_	_
-6	mycelium	mycelium	NOUN	S	Gender=Masc|Number=Sing	3	obl	_	SpaceAfter=No
+6	mycelium	mycelium	NOUN	S	Number=Sing	3	obl	_	SpaceAfter=No
 7	,	,	PUNCT	FF	_	3	punct	_	_
 8	they	they	PRON	PE	Number=Plur|Person=3|PronType=Prs	11	nsubj	_	SpaceAfter=No
 9	're	be	AUX	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	11	cop	_	_
@@ -1375,7 +1375,7 @@
 # sent_id = en_partut-ud-911
 # text = The mycelium is sentient.
 1	The	the	DET	RD	Definite=Def|PronType=Art	2	det	_	_
-2	mycelium	mycelium	NOUN	S	Gender=Masc|Number=Sing	4	nsubj	_	_
+2	mycelium	mycelium	NOUN	S	Number=Sing	4	nsubj	_	_
 3	is	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
 4	sentient	sentient	ADJ	A	Degree=Pos	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	FS	_	4	punct	_	_
@@ -1556,7 +1556,7 @@
 2	,	,	PUNCT	FF	_	1	punct	_	_
 3	fungi	fungi	NOUN	S	Number=Plur	6	nsubj	_	_
 4	and	and	CCONJ	CC	_	5	cc	_	_
-5	mycelium	mycelium	NOUN	S	Gender=Masc|Number=Sing	3	conj	_	_
+5	mycelium	mycelium	NOUN	S	Number=Sing	3	conj	_	_
 6	sequester	sequester	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	0	root	_	_
 7	carbon	carbon	NOUN	S	Number=Sing	8	nmod	_	_
 8	dioxide	dioxide	NOUN	S	Number=Sing	6	obj	_	_
@@ -1565,7 +1565,7 @@
 11	form	form	NOUN	S	Number=Sing	6	obl	_	_
 12	of	of	ADP	E	_	14	case	_	_
 13	calcium	calcium	NOUN	S	Number=Sing	14	nmod	_	_
-14	oxalates	oxalates	NOUN	S	Gender=Fem|Number=Sing	11	nmod	_	SpaceAfter=No
+14	oxalates	oxalates	NOUN	S	Number=Sing	11	nmod	_	SpaceAfter=No
 15	.	.	PUNCT	FS	_	6	punct	_	_
 
 # sent_id = en_partut-ud-923
@@ -1594,7 +1594,7 @@
 22	of	of	ADP	E	_	25	case	_	_
 23	the	the	DET	RD	Definite=Def|PronType=Art	25	det	_	_
 24	rock	rock	NOUN	S	Number=Sing	25	nmod	_	_
-25	matrix	matrix	NOUN	S	Gender=Masc|Number=Sing	20	obl	_	SpaceAfter=No
+25	matrix	matrix	NOUN	S	Number=Sing	20	obl	_	SpaceAfter=No
 26	.	.	PUNCT	FS	_	1	punct	_	_
 
 # sent_id = en_partut-ud-924
@@ -1661,7 +1661,7 @@
 6	was	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	cop	_	_
 7	about	about	ADV	B	_	9	advmod	_	_
 8	three	three	NUM	N	NumType=Card	9	nummod	_	_
-9	feet	foot	NOUN	S	Gender=Masc|Number=Plur	10	obl	_	_
+9	feet	foot	NOUN	S	Number=Plur	10	obl	_	_
 10	tall	tall	ADJ	A	Degree=Pos	0	root	_	SpaceAfter=No
 11	.	.	PUNCT	FS	_	10	punct	_	_
 
@@ -1679,7 +1679,7 @@
 10	less	less	ADJ	A	Degree=Cmp	0	root	_	_
 11	than	than	ADP	E	_	13	case	_	_
 12	two	two	NUM	N	NumType=Card	13	nummod	_	_
-13	feet	foot	NOUN	S	Gender=Masc|Number=Plur	10	obl	_	SpaceAfter=No
+13	feet	foot	NOUN	S	Number=Plur	10	obl	_	SpaceAfter=No
 14	.	.	PUNCT	FS	_	10	punct	_	_
 
 # sent_id = en_partut-ud-931
@@ -1702,7 +1702,7 @@
 2	across	across	ADP	E	_	5	case	_	_
 3	most	most	ADV	B	_	5	advmod	_	_
 4	land	land	ADJ	A	Degree=Pos	5	amod	_	_
-5	masses	masse	NOUN	S	Gender=Masc|Number=Plur	0	root	_	SpaceAfter=No
+5	masses	masse	NOUN	S	Number=Plur	0	root	_	SpaceAfter=No
 6	.	.	PUNCT	FS	_	5	punct	_	_
 
 # sent_id = en_partut-ud-933
@@ -1732,7 +1732,7 @@
 10	huge	huge	ADJ	A	Degree=Pos	11	amod	_	_
 11	amount	amount	NOUN	S	Number=Sing	15	nsubj:pass	_	_
 12	of	of	ADP	E	_	13	case	_	_
-13	debris	debris	NOUN	S	Gender=Fem|Number=Plur	11	nmod	_	_
+13	debris	debris	NOUN	S	Number=Plur	11	nmod	_	_
 14	was	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	15	aux:pass	_	_
 15	jettisoned	jettison	VERB	V	Tense=Past|VerbForm=Part	4	conj	_	_
 16	into	into	ADP	E	_	18	case	_	_
@@ -1842,7 +1842,7 @@
 6	planet	planet	NOUN	S	Number=Sing	3	nmod	_	_
 7	is	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
 8	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	10	det	_	_
-9	mycelial	mycelial	NOUN	S	Gender=Fem|Number=Sing	10	nmod	_	_
+9	mycelial	mycelial	NOUN	S	Number=Sing	10	nmod	_	_
 10	mat	mat	NOUN	S	Number=Sing	0	root	_	SpaceAfter=No
 11	,	,	PUNCT	FF	_	10	punct	_	_
 12	one	one	NUM	N	NumType=Card	13	nummod	_	_
@@ -1854,7 +1854,7 @@
 # sent_id = en_partut-ud-942
 # text = The mycelium, in the right conditions, produces a mushroom - it bursts through with such ferocity that it can break asphalt.
 1	The	the	DET	RD	Definite=Def|PronType=Art	2	det	_	_
-2	mycelium	mycelium	NOUN	S	Gender=Masc|Number=Sing	9	nsubj	_	SpaceAfter=No
+2	mycelium	mycelium	NOUN	S	Number=Sing	9	nsubj	_	SpaceAfter=No
 3	,	,	PUNCT	FF	_	2	punct	_	_
 4	in	in	ADP	E	_	7	case	_	_
 5	the	the	DET	RD	Definite=Def|PronType=Art	7	det	_	_
@@ -2045,7 +2045,7 @@
 21	improving	improve	VERB	V	Number=Sing|Tense=Pres|VerbForm=Part	18	conj	_	_
 22	citizens	citizen	NOUN	S	Number=Plur	24	nmod	_	SpaceAfter=No
 23	'	'	PART	PART	_	22	case	_	_
-24	wellbeing	wellbeing	NOUN	S	Gender=Fem|Number=Sing	21	obj	_	SpaceAfter=No
+24	wellbeing	wellbeing	NOUN	S	Number=Sing	21	obj	_	SpaceAfter=No
 25	.	.	PUNCT	FS	_	3	punct	_	_
 
 # sent_id = en_partut-ud-1101
@@ -2151,7 +2151,7 @@
 12	best	best	ADJ	A	Degree=Sup	9	nmod	_	_
 13	and	and	CCONJ	CC	_	15	cc	_	_
 14	the	the	DET	RD	Definite=Def|PronType=Art	15	det	_	_
-15	brightest	brightest	NOUN	S	Gender=Fem|Number=Sing	12	conj	_	SpaceAfter=No
+15	brightest	brightest	NOUN	S	Number=Sing	12	conj	_	SpaceAfter=No
 16	,	,	PUNCT	FF	_	4	punct	_	_
 17	there	there	PRON	_	_	19	expl	_	_
 18	could	can	AUX	VM	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	19	aux	_	_
@@ -2178,7 +2178,7 @@
 2	know	know	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	that	that	SCONJ	CS	_	7	mark	_	_
 4	subatomic	subatomic	ADJ	A	Degree=Pos	5	amod	_	_
-5	phenomena	phenomenon	NOUN	S	Gender=Masc|Number=Plur	7	nsubj	_	_
+5	phenomena	phenomenon	NOUN	S	Number=Plur	7	nsubj	_	_
 6	can	can	AUX	VM	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	_
 7	manifest	manifest	VERB	V	VerbForm=Inf	2	ccomp	_	_
 8	themselves	they	PRON	PE	Number=Plur|Person=3|PronType=Prs	7	obj	_	_
@@ -2261,7 +2261,7 @@
 1	A	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	4	det	_	_
 2	global	global	ADJ	A	Degree=Pos	3	amod	_	_
 3	carbon	carbon	NOUN	S	Number=Sing	4	nmod	_	_
-4	tax	tax	NOUN	S	Gender=Masc|Number=Sing	6	nsubj	_	_
+4	tax	tax	NOUN	S	Number=Sing	6	nsubj	_	_
 5	would	will	AUX	VM	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	6	aux	_	_
 6	mitigate	mitigate	VERB	V	VerbForm=Inf	0	root	_	_
 7	climate	climate	NOUN	S	Number=Sing	8	nmod	_	_
@@ -2453,7 +2453,7 @@
 2	with	with	ADP	E	_	8	case	_	_
 3	pragmatic	pragmatic	ADJ	A	Degree=Pos	8	amod	_	SpaceAfter=No
 4	,	,	PUNCT	FF	_	7	punct	_	_
-5	fact	fact	NOUN	S	Number=Sing	7	nmod:npmod	_	SpaceAfter=No
+5	fact	fact	NOUN	S	Number=Sing	7	nmod:unmarked	_	SpaceAfter=No
 6	-	-	PUNCT	FF	_	7	punct	_	SpaceAfter=No
 7	based	based	VERB	V	Tense=Past|VerbForm=Part	3	conj	_	_
 8	Regulation	regulation	NOUN	S	Number=Sing	12	obl	_	_
@@ -2763,7 +2763,7 @@
 26	are	be	AUX	VA	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	27	aux:pass	_	_
 27	written	write	VERB	V	Tense=Past|VerbForm=Part	22	ccomp	_	_
 28	for	for	ADP	E	_	29	case	_	_
-29	everybody	everybody	NOUN	S	Gender=Fem|Number=Sing	27	obl	_	SpaceAfter=No
+29	everybody	everybody	NOUN	S	Number=Sing	27	obl	_	SpaceAfter=No
 30	"	"	PUNCT	FB	_	27	punct	_	SpaceAfter=No
 31	.	.	PUNCT	FS	_	22	punct	_	_
 
@@ -2785,7 +2785,7 @@
 14	he	he	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	15	nsubj	_	_
 15	had	have	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	9	acl:relcl	_	_
 16	three	three	NUM	N	NumType=Card	17	nummod	_	_
-17	children	child	NOUN	S	Gender=Masc|Number=Plur	15	obj	_	SpaceAfter=No
+17	children	child	NOUN	S	Number=Plur	15	obj	_	SpaceAfter=No
 18	:	:	PUNCT	FC	_	8	punct	_	_
 
 # sent_id = en_partut-ud-1820
@@ -2892,7 +2892,7 @@
 14	him	he	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	obj	_	_
 15	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	17	det	_	_
 16	wealthy	wealthy	ADJ	A	Degree=Pos	17	amod	_	_
-17	man	man	NOUN	S	Gender=Masc|Number=Sing	13	xcomp	_	SpaceAfter=No
+17	man	man	NOUN	S	Number=Sing	13	xcomp	_	SpaceAfter=No
 18	.	.	PUNCT	FS	_	9	punct	_	_
 
 # sent_id = en_partut-ud-1874
@@ -2972,9 +2972,9 @@
 19	playwright	playwright	NOUN	S	Number=Sing	14	obl	_	_
 20	for	for	ADP	E	_	24	case	_	_
 21	the	the	DET	RD	Definite=Def|PronType=Art	22	det	_	_
-22	King	king	NOUN	S	Gender=Masc|Number=Sing	24	nmod	_	SpaceAfter=No
+22	King	king	NOUN	S	Number=Sing	24	nmod	_	SpaceAfter=No
 23	's	's	PART	PART	_	22	case	_	_
-24	Men	man	NOUN	S	Gender=Masc|Number=Plur	19	nmod	_	SpaceAfter=No
+24	Men	man	NOUN	S	Number=Plur	19	nmod	_	SpaceAfter=No
 25	.	.	PUNCT	FS	_	6	punct	_	_
 
 # sent_id = en_partut-ud-1926
