@@ -449,7 +449,7 @@
 14	limited	limit	VERB	V	Tense=Past|VerbForm=Part	11	conj	_	_
 15	by	by	ADP	E	_	18	case	_	_
 16	the	the	DET	RD	Definite=Def|PronType=Art	18	det	_	_
-17	following	following	ADJ	A	Number=Sing	18	amod	_	_
+17	following	follow	VERB	V	VerbForm=Ger	18	amod	_	_
 18	restrictions	restriction	NOUN	S	Number=Plur	14	obl	_	SpaceAfter=No
 19	:	:	PUNCT	FC	_	10	punct	_	_
 
@@ -1956,7 +1956,7 @@
 15	to	to	ADP	E	_	19	case	_	_
 16	the	the	DET	RD	Definite=Def|PronType=Art	19	det	_	_
 17	Sri	Sri	NOUN	S	_	19	nmod	_	_
-18	Lankan	Lankan	ADJ	A	Number=Sing	17	fixed	_	_
+18	Lankan	Lankan	ADJ	A	_	17	fixed	_	_
 19	President	president	NOUN	S	Number=Sing	12	obl	_	_
 20	expressing	express	VERB	V	Number=Sing|Tense=Pres|VerbForm=Part	12	advcl	_	_
 21	Parliament	parliament	NOUN	S	Number=Sing	23	nmod	_	SpaceAfter=No
@@ -6074,7 +6074,7 @@
 31	,	,	PUNCT	FF	_	37	punct	_	_
 32	and	and	CCONJ	CC	_	37	cc	_	_
 33	in	in	ADP	E	_	34	case	_	_
-34	particular	particular	ADJ	A	Number=Sing	37	nmod	_	_
+34	particular	particular	ADJ	A	Degree=Pos	37	nmod	_	_
 35	the	the	DET	RD	Definite=Def|PronType=Art	37	det	_	_
 36	transport	transport	NOUN	S	Number=Sing	37	nmod	_	_
 37	group	group	NOUN	S	Number=Sing	27	conj	_	SpaceAfter=No
@@ -6777,7 +6777,7 @@
 # sent_id = en_partut-ud-250
 # text = In particular, annexes cannot be adapted to take account of technical and industrial developments.
 1	In	in	ADP	E	_	2	case	_	_
-2	particular	particular	ADJ	A	Number=Sing	8	obl	_	SpaceAfter=No
+2	particular	particular	ADJ	A	Degree=Pos	8	obl	_	SpaceAfter=No
 3	,	,	PUNCT	FF	_	2	punct	_	_
 4	annexes	annex	NOUN	S	Number=Plur	8	nsubj	_	_
 5-6	cannot	_	_	_	_	_	_	_	_
@@ -6962,7 +6962,7 @@
 42	regulations	regulation	NOUN	S	Number=Plur	38	obj	_	SpaceAfter=No
 43	,	,	PUNCT	FF	_	38	punct	_	_
 44	in	in	ADP	E	_	45	case	_	_
-45	particular	particular	ADJ	A	Number=Sing	48	nmod	_	_
+45	particular	particular	ADJ	A	Degree=Pos	48	nmod	_	_
 46	for	for	ADP	E	_	48	case	_	_
 47	the	the	DET	RD	Definite=Def|PronType=Art	48	det	_	_
 48	transport	transport	NOUN	S	Number=Sing	38	obl	_	_
@@ -6990,7 +6990,7 @@
 6	is	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
 7	consequently	consequently	ADV	B	_	10	advmod	_	_
 8	in	in	ADP	E	_	10	case	_	_
-9	full	full	ADJ	A	Number=Sing	10	amod	_	_
+9	full	full	ADJ	A	Degree=Pos	10	amod	_	_
 10	accordance	accordance	NOUN	S	Number=Sing	0	root	_	_
 11	with	with	ADP	E	_	13	case	_	_
 12	the	the	DET	RD	Definite=Def|PronType=Art	13	det	_	_
@@ -7815,7 +7815,7 @@
 22	Commission	commission	NOUN	S	Number=Sing	19	nmod	_	_
 23	for	for	ADP	E	_	28	case	_	_
 24	the	the	DET	RD	Definite=Def|PronType=Art	28	det	_	_
-25	clear	clear	ADJ	A	Number=Sing	28	amod	_	_
+25	clear	clear	ADJ	A	Degree=Pos	28	amod	_	_
 26	and	and	CCONJ	CC	_	27	cc	_	_
 27	unambiguous	unambiguous	ADJ	A	Degree=Pos	25	conj	_	_
 28	way	way	NOUN	S	Number=Sing	8	obl	_	_
@@ -8045,7 +8045,7 @@
 31	as	as	ADV	B	_	32	advmod	_	_
 32	much	much	ADV	B	_	27	advmod	_	_
 33	as	as	ADP	E	_	34	case	_	_
-34	possible	possible	ADJ	A	Number=Sing	32	obl	_	_
+34	possible	possible	ADJ	A	Degree=Pos	32	obl	_	_
 35	because	because	SCONJ	CS	_	39	mark	_	_
 36	it	it	PRON	PE	Number=Sing|Person=3|PronType=Prs	39	nsubj	_	_
 37	would	will	AUX	VM	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	39	aux	_	_
@@ -10646,7 +10646,7 @@
 16	regional	regional	ADJ	A	Degree=Pos	17	amod	_	_
 17	policy	policy	NOUN	S	Number=Sing	12	obj	_	_
 18	in	in	ADP	E	_	12	advmod	_	_
-19	general	full	ADJ	A	Number=Sing	18	fixed	_	SpaceAfter=No
+19	general	full	ADJ	A	Degree=Pos	18	fixed	_	SpaceAfter=No
 20	.	.	PUNCT	FS	_	10	punct	_	_
 
 # sent_id = en_partut-ud-387
@@ -12708,7 +12708,7 @@
 1	Facebook	Facebook	PROPN	SP	_	5	nsubj	_	_
 2	is	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
 3	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	5	det	_	_
-4	free	free	ADJ	A	Number=Sing	5	amod	_	_
+4	free	free	ADJ	A	Degree=Pos	5	amod	_	_
 5	site	site	NOUN	S	Number=Sing	0	root	_	_
 6	and	and	CCONJ	CC	_	9	cc	_	_
 7	will	will	AUX	VM	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	9	aux	_	_
@@ -15897,7 +15897,7 @@
 44	the	the	DET	RD	Definite=Def|PronType=Art	45	det	_	_
 45	context	context	NOUN	S	Number=Sing	39	obl	_	_
 46	of	of	ADP	E	_	48	case	_	_
-47	this	this	ADJ	A	Number=Sing	48	amod	_	_
+47	this	this	ADJ	A	Degree=Pos	48	amod	_	_
 48	Directive	Directive	NOUN	S	Number=Sing	45	nmod	_	SpaceAfter=No
 49	.	.	PUNCT	FS	_	35	punct	_	_
 
@@ -16062,7 +16062,7 @@
 20	legislation	legislation	NOUN	S	Number=Sing	13	obl	_	SpaceAfter=No
 21	,	,	PUNCT	FF	_	20	punct	_	_
 22	in	in	ADP	E	_	23	case	_	_
-23	particular	particular	ADJ	A	Number=Sing	24	obl	_	_
+23	particular	particular	ADJ	A	Degree=Pos	24	obl	_	_
 24	concerning	concern	VERB	V	Number=Sing|Tense=Pres|VerbForm=Part	20	acl	_	_
 25	toxic	toxic	ADJ	A	Degree=Pos	26	amod	_	_
 26	substances	substance	NOUN	S	Number=Plur	24	obj	_	SpaceAfter=No
@@ -17762,7 +17762,7 @@
 # sent_id = en_partut-ud-653
 # text = This overall favourable situation is the result of a long preparation at both legislative and institutional level and demonstrates the high level of cooperation achieved in EU and at international level.
 1	This	this	DET	DD	Number=Sing|PronType=Dem	4	det	_	_
-2	overall	overall	ADJ	A	Number=Sing	3	amod	_	_
+2	overall	overall	ADJ	A	Degree=Pos	3	amod	_	_
 3	favourable	favourable	ADJ	A	Degree=Pos	4	amod	_	_
 4	situation	situation	NOUN	S	Number=Sing	7	nsubj	_	_
 5	is	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
@@ -18189,7 +18189,7 @@
 29	instruments	instrument	NOUN	S	Number=Plur	27	conj	_	_
 30	and	and	CCONJ	CC	_	36	cc	_	_
 31	in	in	ADP	E	_	32	case	_	_
-32	particular	particular	ADJ	A	Number=Sing	36	nmod	_	_
+32	particular	particular	ADJ	A	Degree=Pos	36	nmod	_	_
 33	of	of	ADP	E	_	36	case	_	_
 34	the	the	DET	RD	Definite=Def|PronType=Art	36	det	_	_
 35	relevant	relevant	ADJ	A	Degree=Pos	36	amod	_	_
@@ -23383,7 +23383,7 @@
 1	Economists	economist	NOUN	S	Number=Plur	8	nsubj	_	SpaceAfter=No
 2	,	,	PUNCT	FF	_	1	punct	_	_
 3	in	in	ADP	E	_	4	case	_	_
-4	particular	particular	ADJ	A	Number=Sing	8	obl	_	SpaceAfter=No
+4	particular	particular	ADJ	A	Degree=Pos	8	obl	_	SpaceAfter=No
 5	,	,	PUNCT	FF	_	4	punct	_	_
 6	should	shall	AUX	VM	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	8	aux	_	_
 7	have	have	AUX	VA	VerbForm=Inf	8	aux	_	_
@@ -41347,27 +41347,27 @@
 2	Balzac	Balzac	PROPN	SP	_	4	nmod	_	SpaceAfter=No
 3	's	's	PART	PART	_	2	case	_	_
 4	story	story	NOUN	S	Number=Sing	34	nsubj	_	_
-5	Une	une	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
-6	Heure	heure	NOUN	S	Number=Sing	4	nmod	_	_
-7	de	de	ADP	E	_	9	case	_	_
-8	ma	ma	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	9	nmod:poss	_	_
-9	Vie	vie	NOUN	S	Number=Sing	6	nmod	_	_
+5	Une	une	X	SW	Foreign=Yes	4	nmod	_	_
+6	Heure	heure	X	SW	Foreign=Yes	5	flat:foreign	_	_
+7	de	de	X	SW	Foreign=Yes	5	flat:foreign	_	_
+8	ma	ma	X	SW	Foreign=Yes	5	flat:foreign	_	_
+9	Vie	vie	X	SW	Foreign=Yes	5	flat:foreign	_	_
 10	(	(	PUNCT	FB	_	12	punct	_	SpaceAfter=No
 11	An	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	12	det	_	_
-12	Hour	hour	NOUN	S	Number=Sing	6	nmod	_	_
+12	Hour	hour	NOUN	S	Number=Sing	5	nmod	_	_
 13	of	of	ADP	E	_	15	case	_	_
 14	my	my	DET	AP	Number=Sing|Poss=Yes|PronType=Prs	15	nmod:poss	_	_
 15	Life	life	NOUN	S	Number=Sing	12	nmod	_	SpaceAfter=No
 16	,	,	PUNCT	FF	_	12	punct	_	_
 17	1822	1822	NUM	N	NumType=Card	12	nummod	_	SpaceAfter=No
 18	)	)	PUNCT	FB	_	12	punct	_	SpaceAfter=No
-19	,	,	PUNCT	FF	_	6	punct	_	_
+19	,	,	PUNCT	FF	_	12	punct	_	_
 20	in	in	ADP	E	_	21	case	_	_
 21	which	which	PRON	PR	PronType=Rel	25	obl	_	_
 22	minute	minute	ADJ	A	Degree=Pos	23	amod	_	_
 23	details	detail	NOUN	S	Number=Plur	25	nsubj:pass	_	_
 24	are	be	AUX	VA	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	25	aux:pass	_	_
-25	followed	follow	VERB	V	Tense=Past|VerbForm=Part	6	acl:relcl	_	_
+25	followed	follow	VERB	V	Tense=Past|VerbForm=Part	4	acl:relcl	_	_
 26	by	by	ADP	E	_	29	case	_	_
 27	deep	deep	ADJ	A	Degree=Pos	29	amod	_	_
 28	personal	personal	ADJ	A	Degree=Pos	29	amod	_	_
@@ -41750,7 +41750,7 @@
 35	the	the	DET	RD	Definite=Def|PronType=Art	36	det	_	_
 36	world	world	NOUN	S	Number=Sing	39	nmod	_	SpaceAfter=No
 37	's	's	PART	PART	_	36	case	_	_
-38	pre-eminent	pre-eminent	ADJ	A	_	39	amod	_	_
+38	pre-eminent	pre-eminent	ADJ	A	Degree=Pos	39	amod	_	_
 39	dramatist	dramatist	NOUN	S	Number=Sing	33	conj	_	SpaceAfter=No
 40	.	.	PUNCT	FS	_	18	punct	_	_
 
@@ -42183,7 +42183,7 @@
 2	Romantics	Romantics	PROPN	SP	_	7	nsubj	_	SpaceAfter=No
 3	,	,	PUNCT	FF	_	2	punct	_	_
 4	in	in	ADP	E	_	5	case	_	_
-5	particular	particular	ADJ	A	Number=Sing	7	obl	_	SpaceAfter=No
+5	particular	particular	ADJ	A	Degree=Pos	7	obl	_	SpaceAfter=No
 6	,	,	PUNCT	FF	_	5	punct	_	_
 7	acclaimed	acclaim	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 8	Shakespeare	Shakespeare	PROPN	SP	_	10	nmod	_	SpaceAfter=No
@@ -47357,7 +47357,7 @@
 # sent_id = en_partut-ud-2020
 # text = In particular, he expanded the dramatic potential of characterisation, plot, language, and genre.
 1	In	in	ADP	E	_	2	case	_	_
-2	particular	particular	ADJ	A	Number=Sing	5	obl	_	SpaceAfter=No
+2	particular	particular	ADJ	A	Degree=Pos	5	obl	_	SpaceAfter=No
 3	,	,	PUNCT	FF	_	2	punct	_	_
 4	he	he	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
 5	expanded	expand	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
@@ -47602,7 +47602,7 @@
 8	psychology	psychology	NOUN	S	Number=Sing	5	obl	_	SpaceAfter=No
 9	,	,	PUNCT	FF	_	5	punct	_	_
 10	in	in	ADP	E	_	11	case	_	_
-11	particular	particular	ADJ	A	Number=Sing	12	nmod	_	_
+11	particular	particular	ADJ	A	Degree=Pos	12	nmod	_	_
 12	that	that	PRON	PD	Number=Sing|PronType=Dem	5	obj	_	_
 13	of	of	ADP	E	_	14	case	_	_
 14	Hamlet	Hamlet	PROPN	SP	_	12	nmod	_	SpaceAfter=No
