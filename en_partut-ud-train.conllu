@@ -15289,7 +15289,7 @@
 18	is	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	22	cop	_	_
 19	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	22	det	_	_
 20	major	major	ADJ	A	Degree=Pos	22	amod	_	_
-21	innovative	innovativo	ADJ	A	Number=Plur	22	amod	_	_
+21	innovative	innovative	ADJ	A	Degree=Pos	22	amod	_	_
 22	element	element	NOUN	S	Number=Sing	5	acl:relcl	_	_
 23	of	of	ADP	E	_	29	case	_	_
 24	the	the	DET	RD	Definite=Def|PronType=Art	29	det	_	_
@@ -20464,7 +20464,7 @@
 84	of	of	ADP	E	_	86	case	_	_
 85	Member	member	NOUN	S	Number=Sing	86	compound	_	_
 86	States	state	NOUN	S	Number=Plur	83	nmod	_	_
-87	themselves	they	ADJ	A	Number=Plur	86	amod	_	_
+87	themselves	themselves	PRON	PE	Number=Plur|Person=3|PronType=Emp|Reflex=Yes	86	amod	_	_
 88	and	and	CCONJ	CC	_	91	cc	_	_
 89	among	among	ADP	E	_	91	case	_	_
 90	the	the	DET	RD	Definite=Def|PronType=Art	91	det	_	_
@@ -46526,7 +46526,7 @@
 20	them	they	PRON	PE	Number=Plur|Person=3|PronType=Prs	19	obj	_	_
 21	represents	represent	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	conj	_	_
 22	Shakespeare	Shakespeare	PROPN	SP	_	21	obj	_	_
-23	himself	he	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	22	nmod	_	SpaceAfter=No
+23	himself	he	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Emp	22	nmod	_	SpaceAfter=No
 24	,	,	PUNCT	FF	_	21	punct	_	_
 25	though	though	SCONJ	CS	_	27	mark	_	_
 26	Wordsworth	Wordsworth	PROPN	SP	_	27	nsubj	_	_
