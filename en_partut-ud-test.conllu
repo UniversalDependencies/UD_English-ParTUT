@@ -870,15 +870,15 @@
 2	you	you	PRON	PE	Person=2|PronType=Prs	5	nsubj	_	_
 3-4	don't	_	_	_	_	_	_	_	_
 3	do	do	AUX	VM	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	5	aux	_	_
-4	not	not	PART	PART	Polarity=Neg	5	advmod	_	_
+4	n't	not	PART	PART	Polarity=Neg	5	advmod	_	_
 5	see	see	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	12	advcl	_	_
 6	the	the	DET	RD	Definite=Def|PronType=Art	7	det	_	_
 7	button	button	NOUN	S	Number=Sing	5	obj	_	SpaceAfter=No
 8	,	,	PUNCT	FF	_	5	punct	_	_
 9	you	you	PRON	PE	Person=2|PronType=Prs	12	nsubj	_	_
 10-11	can't	_	_	_	_	_	_	_	_
-10	can	can	AUX	VM	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	12	aux	_	_
-11	not	not	PART	PART	Polarity=Neg	12	advmod	_	_
+10	ca	can	AUX	VM	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	12	aux	_	_
+11	n't	not	PART	PART	Polarity=Neg	12	advmod	_	_
 12	subscribe	subscribe	VERB	V	VerbForm=Inf	0	root	_	SpaceAfter=No
 13	.	.	PUNCT	FS	_	12	punct	_	_
 
@@ -1090,14 +1090,14 @@
 1	If	if	SCONJ	CS	_	5	mark	_	_
 2	momma	momma	NOUN	S	Number=Sing	5	nsubj	_	_
 3-4	ain't	_	_	_	_	_	_	_	_
-3	is	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
-4	not	not	PART	PART	Polarity=Neg	5	advmod	_	_
+3	ai	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	n't	not	PART	PART	Polarity=Neg	5	advmod	_	_
 5	happy	happy	ADJ	A	Degree=Pos	10	advcl	_	SpaceAfter=No
 6	,	,	PUNCT	FF	_	5	punct	_	_
 7	nobody	nobody	PRON	PI	PronType=Ind	10	nsubj	_	_
 8-9	ain't	_	_	_	_	_	_	_	_
-8	is	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
-9	not	not	PART	PART	Polarity=Neg	10	advmod	_	_
+8	ai	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
+9	n't	not	PART	PART	Polarity=Neg	10	advmod	_	_
 10	happy	happy	ADJ	A	Degree=Pos	0	root	_	SpaceAfter=No
 11	.	.	PUNCT	FS	_	10	punct	_	_
 
