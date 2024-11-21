@@ -356,7 +356,8 @@
 8	into	into	ADP	E	_	9	case	_	_
 9	consideration	consideration	NOUN	S	Number=Sing	7	obl	_	_
 10	in	in	ADP	E	_	13	case	_	_
-11	tomorrow	tomorrow	NOUN	S	Number=Sing	13	nmod	_	SpaceAfter=No
+11-12	tomorrow's	_	_	_	_	_	_	_	_
+11	tomorrow	tomorrow	NOUN	S	Number=Sing	13	nmod	_	_
 12	's	's	PART	PART	_	11	case	_	_
 13	vote	vote	NOUN	S	Number=Sing	7	obl	_	SpaceAfter=No
 14	.	.	PUNCT	FS	_	2	punct	_	_
@@ -782,7 +783,8 @@
 12	failure	failure	NOUN	S	Number=Sing	38	nsubj	_	_
 13	of	of	ADP	E	_	17	case	_	_
 14	the	the	DET	RD	Definite=Def|PronType=Art	15	det	_	_
-15	Commission	commission	NOUN	S	Number=Sing	17	nmod	_	SpaceAfter=No
+15-16	Commission's	_	_	_	_	_	_	_	_
+15	Commission	commission	NOUN	S	Number=Sing	17	nmod	_	_
 16	's	's	PART	PART	_	15	case	_	_
 17	communication	communication	NOUN	S	Number=Sing	12	nmod	_	_
 18	to	to	PART	PART	_	19	mark	_	_
@@ -851,14 +853,16 @@
 4	hear	hear	VERB	V	VerbForm=Inf	0	root	_	_
 5	from	from	ADP	E	_	6	case	_	_
 6	people	people	NOUN	S	Number=Plur	4	obl	_	_
-7	you	you	PRON	PE	Person=2|PronType=Prs	9	nsubj	_	SpaceAfter=No
+7-8	you're	_	_	_	_	_	_	_	_
+7	you	you	PRON	PE	Person=2|PronType=Prs	9	nsubj	_	_
 8	're	be	AUX	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	9	cop	_	_
 9	interested	interested	ADJ	A	Degree=Pos	6	acl:relcl	_	_
 10	in	in	ADP	E	_	9	obl	_	SpaceAfter=No
 11	,	,	PUNCT	FF	_	4	punct	_	_
 12	even	even	ADV	B	_	17	advmod	_	_
 13	if	if	SCONJ	CS	_	17	mark	_	_
-14	you	you	PRON	PE	Person=2|PronType=Prs	17	nsubj	_	SpaceAfter=No
+14-15	you're	_	_	_	_	_	_	_	_
+14	you	you	PRON	PE	Person=2|PronType=Prs	17	nsubj	_	_
 15	're	be	AUX	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	17	cop	_	_
 16	not	not	PART	PART	Polarity=Neg	17	advmod	_	_
 17	friends	friend	NOUN	S	Number=Plur	4	advcl	_	SpaceAfter=No
@@ -870,15 +874,15 @@
 2	you	you	PRON	PE	Person=2|PronType=Prs	5	nsubj	_	_
 3-4	don't	_	_	_	_	_	_	_	_
 3	do	do	AUX	VM	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	5	aux	_	_
-4	not	not	PART	PART	Polarity=Neg	5	advmod	_	_
+4	n't	not	PART	PART	Polarity=Neg	5	advmod	_	_
 5	see	see	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	12	advcl	_	_
 6	the	the	DET	RD	Definite=Def|PronType=Art	7	det	_	_
 7	button	button	NOUN	S	Number=Sing	5	obj	_	SpaceAfter=No
 8	,	,	PUNCT	FF	_	5	punct	_	_
 9	you	you	PRON	PE	Person=2|PronType=Prs	12	nsubj	_	_
 10-11	can't	_	_	_	_	_	_	_	_
-10	can	can	AUX	VM	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	12	aux	_	_
-11	not	not	PART	PART	Polarity=Neg	12	advmod	_	_
+10	ca	can	AUX	VM	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	12	aux	_	_
+11	n't	not	PART	PART	Polarity=Neg	12	advmod	_	_
 12	subscribe	subscribe	VERB	V	VerbForm=Inf	0	root	_	SpaceAfter=No
 13	.	.	PUNCT	FS	_	12	punct	_	_
 
@@ -1090,14 +1094,14 @@
 1	If	if	SCONJ	CS	_	5	mark	_	_
 2	momma	momma	NOUN	S	Number=Sing	5	nsubj	_	_
 3-4	ain't	_	_	_	_	_	_	_	_
-3	is	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
-4	not	not	PART	PART	Polarity=Neg	5	advmod	_	_
+3	ai	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	n't	not	PART	PART	Polarity=Neg	5	advmod	_	_
 5	happy	happy	ADJ	A	Degree=Pos	10	advcl	_	SpaceAfter=No
 6	,	,	PUNCT	FF	_	5	punct	_	_
 7	nobody	nobody	PRON	PI	PronType=Ind	10	nsubj	_	_
 8-9	ain't	_	_	_	_	_	_	_	_
-8	is	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
-9	not	not	PART	PART	Polarity=Neg	10	advmod	_	_
+8	ai	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
+9	n't	not	PART	PART	Polarity=Neg	10	advmod	_	_
 10	happy	happy	ADJ	A	Degree=Pos	0	root	_	SpaceAfter=No
 11	.	.	PUNCT	FS	_	10	punct	_	_
 
@@ -3032,7 +3036,8 @@
 5	most	most	PRON	P	PronType=Ind	27	nsubj	_	_
 6	of	of	ADP	E	_	11	case	_	_
 7	the	the	DET	RD	Definite=Def|PronType=Art	11	det	_	_
-8	symposium	symposium	NOUN	S	Number=Sing	11	nmod	_	SpaceAfter=No
+8-9	symposium's	_	_	_	_	_	_	_	_
+8	symposium	symposium	NOUN	S	Number=Sing	11	nmod	_	_
 9	's	's	PART	PART	_	8	case	_	_
 10	47	47	NUM	N	NumType=Card	11	nummod	_	_
 11	participants	participant	NOUN	S	Number=Plur	5	nmod	_	_
@@ -3058,12 +3063,14 @@
 31	to	to	ADP	E	_	32	case	_	_
 32	which	which	PRON	PR	PronType=Rel	37	obl	_	_
 33	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	34	det	_	_
-34	mother	mother	NOUN	S	Number=Sing	36	nmod	_	SpaceAfter=No
+34-35	mother's	_	_	_	_	_	_	_	_
+34	mother	mother	NOUN	S	Number=Sing	36	nmod	_	_
 35	's	's	PART	PART	_	34	case	_	_
 36	nutrition	nutrition	NOUN	S	Number=Sing	37	nsubj	_	_
 37	affects	affect	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	30	acl:relcl	_	_
 38	her	her	DET	AP	Poss=Yes|PronType=Prs	39	nmod:poss	_	_
-39	offspring	offspring	NOUN	S	Number=Sing	41	nmod	_	SpaceAfter=No
+39-40	offspring's	_	_	_	_	_	_	_	_
+39	offspring	offspring	NOUN	S	Number=Sing	41	nmod	_	_
 40	's	's	PART	PART	_	39	case	_	_
 41	wellbeing	wellbeing	NOUN	S	Number=Sing	37	obj	_	SpaceAfter=No
 42	.	.	PUNCT	FS	_	3	punct	_	_
@@ -3106,7 +3113,8 @@
 10	developing	develop	VERB	V	VerbForm=Ger	17	csubj	_	_
 11	and	and	CCONJ	CC	_	12	cc	_	_
 12	maximizing	maximize	VERB	V	VerbForm=Ger	10	conj	_	_
-13	women	women	NOUN	S	Number=Sing	15	nmod	_	SpaceAfter=No
+13-14	women's	_	_	_	_	_	_	_	_
+13	women	women	NOUN	S	Number=Sing	15	nmod	_	_
 14	's	's	PART	PART	_	13	case	_	_
 15	potential	potential	NOUN	S	Number=Sing	12	obj	_	_
 16	will	will	AUX	VM	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	17	aux	_	_
@@ -3189,7 +3197,8 @@
 # sent_id = en_partut-ud-1410
 # text = These countries' global economic and financial significance has grown rapidly, yet they have relatively little representation at the Fund.
 1	These	this	DET	DD	Number=Plur|PronType=Dem	2	det	_	_
-2	countries	country	NOUN	S	Number=Plur	8	nmod	_	SpaceAfter=No
+2-3	countries'	_	_	_	_	_	_	_	_
+2	countries	country	NOUN	S	Number=Plur	8	nmod	_	_
 3	'	'	PART	PART	_	2	case	_	_
 4	global	global	ADJ	A	Degree=Pos	8	amod	_	_
 5	economic	economic	ADJ	A	Degree=Pos	8	amod	_	_
@@ -3289,7 +3298,8 @@
 10	country	country	NOUN	S	Number=Sing	8	obj	_	_
 11	after	after	ADP	E	_	16	case	_	_
 12	Viktor	Viktor	PROPN	SP	_	16	nmod	_	_
-13	Yanukovych	Yanukovych	PROPN	SP	_	12	flat	_	SpaceAfter=No
+13-14	Yanukovych's	_	_	_	_	_	_	_	_
+13	Yanukovych	Yanukovych	PROPN	SP	_	12	flat	_	_
 14	's	's	PART	PART	_	12	case	_	_
 15	predatory	predatory	ADJ	A	Degree=Pos	16	amod	_	_
 16	rule	rule	NOUN	S	Number=Sing	8	obl	_	SpaceAfter=No
@@ -3344,7 +3354,8 @@
 16	to	to	PART	PART	_	17	mark	_	_
 17	change	change	VERB	V	VerbForm=Inf	15	acl	_	_
 18	the	the	DET	RD	Definite=Def|PronType=Art	19	det	_	_
-19	country	country	NOUN	S	Number=Sing	22	nmod	_	SpaceAfter=No
+19-20	country's	_	_	_	_	_	_	_	_
+19	country	country	NOUN	S	Number=Sing	22	nmod	_	_
 20	's	's	PART	PART	_	19	case	_	_
 21	political	politic	ADJ	A	Degree=Pos	22	amod	_	_
 22	structure	structure	NOUN	S	Number=Sing	17	obj	_	SpaceAfter=No
@@ -3789,7 +3800,8 @@
 # sent_id = en_partut-ud-2018
 # text = In Shakespeare's late romances, he deliberately returned to a more artificial style, which emphasised the illusion of theatre.
 1	In	in	ADP	E	_	5	case	_	_
-2	Shakespeare	Shakespeare	PROPN	SP	_	5	nmod	_	SpaceAfter=No
+2-3	Shakespeare's	_	_	_	_	_	_	_	_
+2	Shakespeare	Shakespeare	PROPN	SP	_	5	nmod	_	_
 3	's	's	PART	PART	_	2	case	_	_
 4	late	late	ADJ	A	Degree=Pos	5	amod	_	_
 5	romances	romance	NOUN	S	Number=Plur	9	obl	_	SpaceAfter=No
