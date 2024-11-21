@@ -704,7 +704,8 @@
 
 # sent_id = en_partut-ud-828
 # text = It's that pyramid.
-1	It	it	PRON	PE	Number=Sing|Person=3|PronType=Prs	4	nsubj	_	SpaceAfter=No
+1-2	It's	_	_	_	_	_	_	_	_
+1	It	it	PRON	PE	Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
 2	's	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
 3	that	that	DET	DD	PronType=Dem	4	det	_	_
 4	pyramid	pyramid	NOUN	S	Number=Sing	0	root	_	SpaceAfter=No
@@ -713,7 +714,8 @@
 # sent_id = en_partut-ud-845
 # text = And what's that?
 1	And	and	CCONJ	CC	_	2	cc	_	_
-2	what	what	PRON	PQ	Number=Sing|PronType=Int	0	root	_	SpaceAfter=No
+2-3	what's	_	_	_	_	_	_	_	_
+2	what	what	PRON	PQ	Number=Sing|PronType=Int	0	root	_	_
 3	's	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
 4	that	that	SCONJ	CS	_	2	nsubj	_	SpaceAfter=No
 5	?	?	PUNCT	FS	_	2	punct	_	_
@@ -836,7 +838,8 @@
 9	soils	soil	NOUN	S	Number=Plur	8	obj	_	_
 10	together	together	ADV	B	_	8	advmod	_	SpaceAfter=No
 11	,	,	PUNCT	FF	_	15	punct	_	_
-12	it	it	PRON	PE	Number=Sing|Person=3|PronType=Prs	15	nsubj	_	SpaceAfter=No
+12-13	it's	_	_	_	_	_	_	_	_
+12	it	it	PRON	PE	Number=Sing|Person=3|PronType=Prs	15	nsubj	_	_
 13	's	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	cop	_	_
 14	extremely	extremely	ADV	B	_	15	advmod	_	_
 15	tenacious	tenacious	ADJ	A	Degree=Pos	8	conj	_	SpaceAfter=No
@@ -856,7 +859,8 @@
 
 # sent_id = en_partut-ud-879
 # text = They're the grand molecular disassemblers of nature - the soil magicians.
-1	They	they	PRON	PE	Number=Plur|Person=3|PronType=Prs	6	nsubj	_	SpaceAfter=No
+1-2	They're	_	_	_	_	_	_	_	_
+1	They	they	PRON	PE	Number=Plur|Person=3|PronType=Prs	6	nsubj	_	_
 2	're	be	AUX	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	6	cop	_	_
 3	the	the	DET	RD	Definite=Def|PronType=Art	6	det	_	_
 4	grand	grand	NOUN	S	Number=Sing	6	nmod	_	_
@@ -909,7 +913,8 @@
 
 # sent_id = en_partut-ud-882
 # text = I'm in love with the old-growth forest, and I'm a patriotic American because we have those.
-1	I	I	PRON	PE	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	SpaceAfter=No
+1-2	I'm	_	_	_	_	_	_	_	_
+1	I	I	PRON	PE	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
 2	'm	be	AUX	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	cop	_	_
 3	in	in	ADP	E	_	4	case	_	_
 4	love	love	NOUN	S	Number=Sing	0	root	_	_
@@ -921,7 +926,8 @@
 10	forest	forest	NOUN	S	Number=Sing	4	nmod	_	SpaceAfter=No
 11	,	,	PUNCT	FF	_	17	punct	_	_
 12	and	and	CCONJ	CC	_	17	cc	_	_
-13	I	I	PRON	PE	Number=Sing|Person=1|PronType=Prs	17	nsubj	_	SpaceAfter=No
+13-14	I'm	_	_	_	_	_	_	_	_
+13	I	I	PRON	PE	Number=Sing|Person=1|PronType=Prs	17	nsubj	_	_
 14	'm	be	AUX	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	17	cop	_	_
 15	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	17	det	_	_
 16	patriotic	patriotic	ADJ	A	Degree=Pos	17	amod	_	_
@@ -1017,7 +1023,8 @@
 1	In	in	ADP	E	_	2	case	_	_
 2	fact	fact	NOUN	S	Number=Sing	8	obl	_	SpaceAfter=No
 3	,	,	PUNCT	FF	_	2	punct	_	_
-4	we	we	PRON	PE	Number=Plur|Person=1|PronType=Prs	8	nsubj	_	SpaceAfter=No
+4-5	we're	_	_	_	_	_	_	_	_
+4	we	we	PRON	PE	Number=Plur|Person=1|PronType=Prs	8	nsubj	_	_
 5	're	be	AUX	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	8	cop	_	_
 6	more	more	ADV	B	Degree=Cmp	7	advmod	_	_
 7	closely	closely	ADV	B	_	8	advmod	_	_
@@ -1073,7 +1080,8 @@
 3	is	be	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	5	det	_	_
 5	mushroom	mushroom	NOUN	S	Number=Sing	3	nsubj	_	_
-6	that	that	PRON	PR	PronType=Rel	8	nsubj	_	SpaceAfter=No
+6-7	that's	_	_	_	_	_	_	_	_
+6	that	that	PRON	PR	PronType=Rel	8	nsubj	_	_
 7	's	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
 8	past	past	ADV	B	_	5	acl:relcl	_	_
 9	its	its	DET	AP	Number=Sing|Poss=Yes|PronType=Prs	10	nmod:poss	_	_
@@ -1351,7 +1359,8 @@
 11	that	that	DET	DD	Number=Sing|PronType=Dem	17	det	_	_
 12	mycelium	mycelium	NOUN	S	Number=Sing	17	nsubj	_	_
 13	is	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	cop	_	_
-14	Earth	earth	NOUN	S	Number=Sing	17	nmod	_	SpaceAfter=No
+14-15	Earth's	_	_	_	_	_	_	_	_
+14	Earth	earth	NOUN	S	Number=Sing	17	nmod	_	_
 15	's	's	PART	PART	_	14	case	_	_
 16	natural	natural	ADJ	A	Degree=Pos	17	amod	_	_
 17	Internet	internet	NOUN	S	Number=Sing	3	ccomp	_	SpaceAfter=No
@@ -1366,7 +1375,8 @@
 5	the	the	DET	RD	Definite=Def|PronType=Art	6	det	_	_
 6	mycelium	mycelium	NOUN	S	Number=Sing	3	obl	_	SpaceAfter=No
 7	,	,	PUNCT	FF	_	3	punct	_	_
-8	they	they	PRON	PE	Number=Plur|Person=3|PronType=Prs	11	nsubj	_	SpaceAfter=No
+8-9	they're	_	_	_	_	_	_	_	_
+8	they	they	PRON	PE	Number=Plur|Person=3|PronType=Prs	11	nsubj	_	_
 9	're	be	AUX	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	11	cop	_	_
 10	highly	highly	ADV	B	_	11	advmod	_	_
 11	branched	branch	VERB	V	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
@@ -1621,7 +1631,8 @@
 # sent_id = en_partut-ud-926
 # text = This photograph's taken 1950s in Saudi Arabia.
 1	This	this	DET	DD	Number=Sing|PronType=Dem	2	det	_	_
-2	photograph	photograph	NOUN	S	Number=Sing	4	nsubj:pass	_	SpaceAfter=No
+2-3	photograph's	_	_	_	_	_	_	_	_
+2	photograph	photograph	NOUN	S	Number=Sing	4	nsubj:pass	_	_
 3	's	's	PART	PART	_	2	case	_	_
 4	taken	take	VERB	V	Tense=Past|VerbForm=Part	0	root	_	_
 5	1950	1950	NUM	N	NumType=Card	4	obl	_	SpaceAfter=No
@@ -1890,7 +1901,8 @@
 
 # sent_id = en_partut-ud-944
 # text = I'm going to show you six, if I can, solutions for helping to save the world.
-1	I	I	PRON	PE	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	SpaceAfter=No
+1-2	I'm	_	_	_	_	_	_	_	_
+1	I	I	PRON	PE	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
 2	'm	be	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	aux	_	_
 3	going	go	VERB	V	VerbForm=Ger	0	root	_	_
 4	to	to	PART	PART	_	5	mark	_	_
@@ -2026,7 +2038,8 @@
 2	is	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
 3	time	time	NOUN	S	Number=Sing	0	root	_	_
 4	for	for	ADP	E	_	7	case	_	_
-5	India	India	PROPN	SP	_	7	nmod	_	SpaceAfter=No
+5-6	India's	_	_	_	_	_	_	_	_
+5	India	India	PROPN	SP	_	7	nmod	_	_
 6	's	's	PART	PART	_	5	case	_	_
 7	leaders	leader	NOUN	S	Number=Plur	3	nmod	_	_
 8	to	to	PART	PART	_	9	mark	_	_
@@ -2043,7 +2056,8 @@
 19	growth	growth	NOUN	S	Number=Sing	18	obj	_	_
 20	and	and	CCONJ	CC	_	21	cc	_	_
 21	improving	improve	VERB	V	Number=Sing|Tense=Pres|VerbForm=Part	18	conj	_	_
-22	citizens	citizen	NOUN	S	Number=Plur	24	nmod	_	SpaceAfter=No
+22-23	citizens'	_	_	_	_	_	_	_	_
+22	citizens	citizen	NOUN	S	Number=Plur	24	nmod	_	_
 23	'	'	PART	PART	_	22	case	_	_
 24	wellbeing	wellbeing	NOUN	S	Number=Sing	21	obj	_	SpaceAfter=No
 25	.	.	PUNCT	FS	_	3	punct	_	_
@@ -2067,7 +2081,8 @@
 15	questioned	question	VERB	V	Tense=Past|VerbForm=Part	0	root	_	_
 16	the	the	DET	RD	Definite=Def|PronType=Art	18	det	_	_
 17	financial	financial	ADJ	A	Degree=Pos	18	amod	_	_
-18	sector	sector	NOUN	S	Number=Sing	21	nmod	_	SpaceAfter=No
+18-19	sector's	_	_	_	_	_	_	_	_
+18	sector	sector	NOUN	S	Number=Sing	21	nmod	_	_
 19	's	's	PART	PART	_	18	case	_	_
 20	economic	economic	ADJ	A	Degree=Pos	21	amod	_	_
 21	contribution	contribution	NOUN	S	Number=Sing	15	obj	_	SpaceAfter=No
@@ -2108,7 +2123,8 @@
 12	,	,	PUNCT	FF	_	19	punct	_	_
 13	and	and	CCONJ	CC	_	19	cc	_	_
 14	the	the	DET	RD	Definite=Def|PronType=Art	15	det	_	_
-15	authors	author	NOUN	S	Number=Plur	17	nmod	_	SpaceAfter=No
+15-16	authors'	_	_	_	_	_	_	_	_
+15	authors	author	NOUN	S	Number=Plur	17	nmod	_	_
 16	'	'	PART	PART	_	15	case	_	_
 17	conclusions	conclusion	NOUN	S	Number=Plur	19	nsubj	_	_
 18	are	be	AUX	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	19	cop	_	_
@@ -2280,7 +2296,8 @@
 3	innovation	innovation	NOUN	S	Number=Sing	4	nsubj	_	_
 4	affects	affect	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	advcl	_	_
 5	an	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	6	det	_	_
-6	automobile	automobile	NOUN	S	Number=Sing	8	nmod	_	SpaceAfter=No
+6-7	automobile's	_	_	_	_	_	_	_	_
+6	automobile	automobile	NOUN	S	Number=Sing	8	nmod	_	_
 7	's	's	PART	PART	_	6	case	_	_
 8	quality	quality	NOUN	S	Number=Sing	4	obj	_	SpaceAfter=No
 9	,	,	PUNCT	FF	_	4	punct	_	_
@@ -2400,7 +2417,8 @@
 1	Next	next	ADJ	A	Degree=Pos	2	amod	_	_
 2	month	month	NOUN	S	Number=Sing	9	obl	_	SpaceAfter=No
 3	,	,	PUNCT	FF	_	2	punct	_	_
-4	Ukraine	Ukraine	PROPN	SP	_	6	nmod	_	SpaceAfter=No
+4-5	Ukraine's	_	_	_	_	_	_	_	_
+4	Ukraine	Ukraine	PROPN	SP	_	6	nmod	_	_
 5	's	's	PART	PART	_	4	case	_	_
 6	citizens	citizen	NOUN	S	Number=Plur	9	nsubj	_	_
 7	will	will	AUX	VM	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	9	aux	_	_
@@ -2462,7 +2480,8 @@
 11	world	world	NOUN	S	Number=Sing	12	nsubj	_	_
 12	realize	realize	VERB	V	VerbForm=Inf	0	root	_	_
 13	genetic	genetic	ADJ	A	Degree=Pos	14	amod	_	_
-14	engineering	engineering	NOUN	S	Number=Sing	20	nmod	_	SpaceAfter=No
+14-15	engineering's	_	_	_	_	_	_	_	_
+14	engineering	engineering	NOUN	S	Number=Sing	20	nmod	_	_
 15	's	's	PART	PART	_	14	case	_	_
 16	full	full	ADJ	A	Degree=Pos	17	amod	_	_
 17	disease	disease	NOUN	S	Number=Sing	19	obj	_	SpaceAfter=No
@@ -2559,7 +2578,8 @@
 8	raced	race	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 9	to	to	ADP	E	_	13	case	_	_
 10	his	his	DET	AP	Poss=Yes|PronType=Prs	11	nmod:poss	_	_
-11	sister	sister	NOUN	S	Number=Sing	13	nmod	_	SpaceAfter=No
+11-12	sister's	_	_	_	_	_	_	_	_
+11	sister	sister	NOUN	S	Number=Sing	13	nmod	_	_
 12	's	's	PART	PART	_	11	case	_	_
 13	apartment	apartment	NOUN	S	Number=Sing	8	obl	_	_
 14	and	and	CCONJ	CC	_	15	cc	_	_
@@ -2596,7 +2616,8 @@
 26	center	center	NOUN	S	Number=Sing	11	advcl	_	_
 27	of	of	ADP	E	_	33	case	_	_
 28	the	the	DET	RD	Definite=Def|PronType=Art	29	det	_	_
-29	book	book	NOUN	S	Number=Sing	33	nmod	_	SpaceAfter=No
+29-30	book's	_	_	_	_	_	_	_	_
+29	book	book	NOUN	S	Number=Sing	33	nmod	_	_
 30	's	's	PART	PART	_	29	case	_	_
 31	most	most	ADV	B	_	32	advmod	_	_
 32	brutal	brutal	ADJ	A	Degree=Pos	33	amod	_	_
@@ -2684,7 +2705,8 @@
 1	Some	some	DET	DI	PronType=Ind	2	det	_	_
 2	critics	critic	NOUN	S	Number=Plur	3	nsubj	_	_
 3	consider	consider	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	0	root	_	_
-4	Balzac	Balzac	PROPN	SP	_	6	nmod	_	SpaceAfter=No
+4-5	Balzac's	_	_	_	_	_	_	_	_
+4	Balzac	Balzac	PROPN	SP	_	6	nmod	_	_
 5	's	's	PART	PART	_	4	case	_	_
 6	writing	writing	NOUN	S	Number=Sing	3	obj	_	_
 7	exemplary	exemplary	NOUN	S	Number=Sing	3	xcomp	_	_
@@ -2839,7 +2861,8 @@
 15	April	April	PROPN	SP	_	14	flat	_	SpaceAfter=No
 16	,	,	PUNCT	FF	_	14	punct	_	_
 17	Saint	Saint	PROPN	SP	_	20	nmod	_	_
-18	George	George	PROPN	SP	_	17	flat	_	SpaceAfter=No
+18-19	George's	_	_	_	_	_	_	_	_
+18	George	George	PROPN	SP	_	17	flat	_	_
 19	's	's	PART	PART	_	17	case	_	_
 20	Day	day	NOUN	S	Number=Sing	14	nmod	_	SpaceAfter=No
 21	.	.	PUNCT	FS	_	6	punct	_	_
@@ -2878,7 +2901,8 @@
 # text = Records of Shakespeare's property purchases and investments indicate that the company made him a wealthy man.
 1	Records	record	NOUN	S	Number=Plur	9	nsubj	_	_
 2	of	of	ADP	E	_	6	case	_	_
-3	Shakespeare	Shakespeare	PROPN	SP	_	6	nmod	_	SpaceAfter=No
+3-4	Shakespeare's	_	_	_	_	_	_	_	_
+3	Shakespeare	Shakespeare	PROPN	SP	_	6	nmod	_	_
 4	's	's	PART	PART	_	3	case	_	_
 5	property	property	NOUN	S	Number=Sing	6	nmod	_	_
 6	purchases	purchase	NOUN	S	Number=Plur	1	nmod	_	_
@@ -2915,7 +2939,8 @@
 16	north	north	NOUN	S	Number=Sing	15	nmod	_	_
 17	of	of	ADP	E	_	21	case	_	_
 18	St	St	PROPN	SP	_	21	nmod	_	_
-19	Paul	Paul	PROPN	SP	_	18	flat	_	SpaceAfter=No
+19-20	Paul's	_	_	_	_	_	_	_	_
+19	Paul	Paul	PROPN	SP	_	18	flat	_	_
 20	's	's	PART	PART	_	18	case	_	_
 21	Cathedral	cathedral	NOUN	S	Number=Sing	16	nmod	_	_
 22	with	with	ADP	E	_	25	case	_	_
@@ -2941,7 +2966,8 @@
 13	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	14	det	_	_
 14	maker	maker	NOUN	S	Number=Sing	10	appos	_	_
 15	of	of	ADP	E	_	18	case	_	_
-16	ladies	lady	NOUN	S	Number=Plur	18	nmod	_	SpaceAfter=No
+16-17	ladies'	_	_	_	_	_	_	_	_
+16	ladies	lady	NOUN	S	Number=Plur	18	nmod	_	_
 17	'	'	PART	PART	_	16	case	_	_
 18	wigs	wig	NOUN	S	Number=Plur	14	nmod	_	_
 19	and	and	CCONJ	CC	_	21	cc	_	_
@@ -2972,7 +2998,8 @@
 19	playwright	playwright	NOUN	S	Number=Sing	14	obl	_	_
 20	for	for	ADP	E	_	24	case	_	_
 21	the	the	DET	RD	Definite=Def|PronType=Art	22	det	_	_
-22	King	king	NOUN	S	Number=Sing	24	nmod	_	SpaceAfter=No
+22-23	King's	_	_	_	_	_	_	_	_
+22	King	king	NOUN	S	Number=Sing	24	nmod	_	_
 23	's	's	PART	PART	_	22	case	_	_
 24	Men	man	NOUN	S	Number=Plur	19	nmod	_	SpaceAfter=No
 25	.	.	PUNCT	FS	_	6	punct	_	_
@@ -3072,7 +3099,8 @@
 # sent_id = en_partut-ud-2035
 # text = In Shakespeare's day, English grammar, spelling and pronunciation were less standardised than they are now, and his use of language helped shape modern English.
 1	In	in	ADP	E	_	4	case	_	_
-2	Shakespeare	Shakespeare	PROPN	SP	_	4	nmod	_	SpaceAfter=No
+2-3	Shakespeare's	_	_	_	_	_	_	_	_
+2	Shakespeare	Shakespeare	PROPN	SP	_	4	nmod	_	_
 3	's	's	PART	PART	_	2	case	_	_
 4	day	day	NOUN	S	Number=Sing	14	obl	_	SpaceAfter=No
 5	,	,	PUNCT	FF	_	4	punct	_	_
