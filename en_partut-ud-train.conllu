@@ -306,13 +306,13 @@
 14	and	and	CCONJ	CC	_	15	cc	_	_
 15	perform	perform	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	2	conj	_	_
 16	publicly	publicly	ADV	B	_	15	advmod	_	_
-17	by	by	ADP	E	_	23	case	_	_
-18	means	means	NOUN	S	Number=Sing	17	fixed	_	_
-19	of	of	ADP	E	_	17	fixed	_	_
+17	by	by	ADP	E	_	18	case	_	_
+18	means	means	NOUN	S	Number=Ptan	15	obl	_	_
+19	of	of	ADP	E	_	23	case	_	_
 20	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	23	det	_	_
 21	digital	digital	ADJ	A	Degree=Pos	23	amod	_	_
 22	audio	audio	NOUN	S	Number=Sing	23	nmod	_	_
-23	transmission	transmission	NOUN	S	Number=Sing	15	obl	_	_
+23	transmission	transmission	NOUN	S	Number=Sing	18	nmod	_	_
 24	the	the	DET	RD	Definite=Def|PronType=Art	25	det	_	_
 25	Work	work	NOUN	S	Number=Sing	15	obj	_	_
 26	including	include	VERB	V	Number=Sing|Tense=Pres|VerbForm=Part	25	acl	_	_
@@ -341,13 +341,13 @@
 14	and	and	CCONJ	CC	_	15	cc	_	_
 15	perform	perform	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	2	conj	_	_
 16	publicly	publicly	ADV	B	_	15	advmod	_	_
-17	by	by	ADP	E	_	23	case	_	_
-18	means	means	NOUN	S	Number=Sing	17	fixed	_	_
-19	of	of	ADP	E	_	17	fixed	_	_
+17	by	by	ADP	E	_	18	case	_	_
+18	means	means	NOUN	S	Number=Ptan	15	obl	_	_
+19	of	of	ADP	E	_	23	case	_	_
 20	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	23	det	_	_
 21	digital	digital	ADJ	A	Degree=Pos	23	amod	_	_
 22	audio	audio	NOUN	S	Number=Sing	23	nmod	_	_
-23	transmission	transmission	NOUN	S	Number=Sing	15	obl	_	_
+23	transmission	transmission	NOUN	S	Number=Sing	18	obl	_	_
 24	Derivative	derivative	ADJ	A	Degree=Pos	25	amod	_	_
 25	Works	work	NOUN	S	Number=Plur	2	obj	_	SpaceAfter=No
 26	.	.	PUNCT	FS	_	2	punct	_	_
@@ -8853,13 +8853,13 @@
 58	have	have	AUX	VA	VerbForm=Inf	60	aux	_	_
 59	been	be	AUX	VA	Tense=Past|VerbForm=Part	60	aux:pass	_	_
 60	compensated	compensate	VERB	V	Tense=Past|VerbForm=Part	42	advcl	_	_
-61	by	by	ADP	E	_	67	case	_	_
-62	means	means	NOUN	S	Number=Sing	61	fixed	_	_
-63	of	of	ADP	E	_	61	fixed	_	_
+61	by	by	ADP	E	_	62	case	_	_
+62	means	means	NOUN	S	Number=Sing	60	obl	_	_
+63	of	of	ADP	E	_	67	case	_	_
 64	these	this	DET	DD	Number=Plur|PronType=Dem	67	det	_	_
 65	more	more	ADV	B	Degree=Cmp	66	advmod	_	_
 66	substantial	substantial	ADJ	A	Degree=Pos	67	amod	_	_
-67	sums	sum	NOUN	S	Number=Plur	60	obl	_	SpaceAfter=No
+67	sums	sum	NOUN	S	Number=Plur	62	nmod	_	SpaceAfter=No
 68	.	.	PUNCT	FS	_	12	punct	_	_
 
 # sent_id = en_partut-ud-324
