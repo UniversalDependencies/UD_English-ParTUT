@@ -1961,8 +1961,8 @@
 14	letter	letter	NOUN	S	Number=Sing	12	obj	_	_
 15	to	to	ADP	E	_	19	case	_	_
 16	the	the	DET	RD	Definite=Def|PronType=Art	19	det	_	_
-17	Sri	Sri	NOUN	S	_	19	nmod	_	_
-18	Lankan	Lankan	ADJ	A	_	17	fixed	_	_
+17	Sri	Sri	ADJ	A	_	19	amod	_	_
+18	Lankan	Lankan	ADJ	A	_	17	flat	_	_
 19	President	president	NOUN	S	Number=Sing	12	obl	_	_
 20	expressing	express	VERB	V	Number=Sing|Tense=Pres|VerbForm=Part	12	advcl	_	_
 21-22	Parliament's	_	_	_	_	_	_	_	_
