@@ -1006,8 +1006,8 @@
 11	without	without	ADP	E	_	13	case	_	_
 12	any	any	DET	DI	PronType=Ind	13	det	_	_
 13	limitation	limitation	NOUN	S	Number=Sing	9	nmod	_	_
-14	due	due	ADP	E	_	16	case	_	_
-15	to	to	SCONJ	CS	_	14	fixed	_	_
+14	due	due	ADJ	A	Degree=Pos|ExtPos=ADP	16	case	_	_
+15	to	to	ADP	E	_	14	fixed	_	_
 16	race	race	NOUN	S	Number=Sing	13	nmod	_	SpaceAfter=No
 17	,	,	PUNCT	FF	_	18	punct	_	_
 18	nationality	nationality	NOUN	S	Number=Sing	16	conj	_	_

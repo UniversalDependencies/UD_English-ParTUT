@@ -18666,8 +18666,8 @@
 9	start	start	NOUN	S	Number=Sing	6	xcomp	_	SpaceAfter=No
 10	,	,	PUNCT	FF	_	6	punct	_	_
 11	mainly	mainly	ADV	B	_	15	advmod	_	_
-12	due	due	ADP	E	_	15	case	_	_
-13	to	to	SCONJ	CS	_	12	fixed	_	_
+12	due	due	ADJ	A	Degree=Pos|ExtPos=ADP	15	case	_	_
+13	to	to	ADP	E	_	12	fixed	_	_
 14	its	its	DET	AP	Number=Sing|Poss=Yes|PronType=Prs	15	nmod:poss	_	_
 15	adoption	adoption	NOUN	S	Number=Sing	6	obl	_	_
 16	in	in	ADP	E	_	17	case	_	_
@@ -36050,8 +36050,8 @@
 
 # sent_id = en_partut-ud-1540
 # text = Due to his keen observation of detail and unfiltered representation of society, Balzac is regarded as one of the founders of realism in European literature.
-1	Due	due	ADP	E	_	5	case	_	_
-2	to	to	SCONJ	CS	_	1	fixed	_	_
+1	Due	due	ADJ	A	Degree=Pos|ExtPos=ADP	5	case	_	_
+2	to	to	ADP	E	_	1	fixed	_	_
 3	his	his	DET	AP	Poss=Yes|PronType=Prs	5	nmod:poss	_	_
 4	keen	keen	ADJ	A	Degree=Pos	5	amod	_	_
 5	observation	observation	NOUN	S	Number=Sing	16	obl	_	_
@@ -36332,8 +36332,8 @@
 8	life	life	NOUN	S	Number=Sing	2	obl	_	SpaceAfter=No
 9	,	,	PUNCT	FF	_	2	punct	_	_
 10	possibly	possibly	ADV	B	_	16	advmod	_	_
-11	due	due	ADP	E	_	16	case	_	_
-12	to	to	SCONJ	CS	_	11	fixed	_	_
+11	due	due	ADJ	A	Degree=Pos|ExtPos=ADP	16	case	_	_
+12	to	to	ADP	E	_	11	fixed	_	_
 13	his	his	DET	AP	Poss=Yes|PronType=Prs	16	nmod:poss	_	_
 14	intense	intense	ADJ	A	Degree=Pos	16	amod	_	_
 15	writing	writing	NOUN	S	Number=Sing	16	nmod	_	_
