@@ -1118,7 +1118,7 @@
 34	DAMAGES	damage	NOUN	S	Number=Plur	16	obl	_	_
 35	ARISING	arise	VERB	V	Number=Sing|Tense=Pres|VerbForm=Part	34	acl	_	_
 36	OUT	out	ADP	E	_	39	case	_	_
-37	OF	of	ADP	E	_	36	fixed	_	_
+37	OF	of	ADP	E	_	39	case	_	_
 38	THIS	this	DET	DD	Number=Sing|PronType=Dem	39	det	_	_
 39	LICENSE	license	NOUN	S	Number=Sing	35	obl	_	_
 40	OR	or	CCONJ	CC	_	42	cc	_	_
@@ -10396,7 +10396,7 @@
 32	maximum	maximum	ADJ	A	Degree=Pos	33	amod	_	_
 33	potential	potential	NOUN	S	Number=Sing	30	obj	_	_
 34	out	out	ADP	E	_	38	case	_	_
-35	of	of	ADP	E	_	34	fixed	_	_
+35	of	of	ADP	E	_	38	case	_	_
 36	our	us	DET	AP	Poss=Yes|PronType=Prs	38	nmod:poss	_	_
 37	new	new	ADJ	A	Degree=Pos	38	amod	_	_
 38	fields	field	NOUN	S	Number=Plur	30	obl	_	_
@@ -22992,7 +22992,7 @@
 28	the	the	DET	RD	Definite=Def|PronType=Art	29	det	_	_
 29	DNA	DNA	NOUN	S	Number=Sing	27	obj	_	_
 30	out	out	ADP	E	_	34	case	_	_
-31	of	of	ADP	E	_	30	fixed	_	_
+31	of	of	ADP	E	_	34	case	_	_
 32	whale	whale	NOUN	S	Number=Sing	33	nmod	_	_
 33	meat	meat	NOUN	S	Number=Sing	34	nmod	_	_
 34	samples	sample	NOUN	S	Number=Plur	27	obl	_	_
@@ -23385,7 +23385,7 @@
 4	have	have	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	aux	_	_
 5	run	run	VERB	V	Tense=Past|VerbForm=Part	0	root	_	_
 6	out	out	ADP	E	_	10	case	_	_
-7	of	of	ADP	E	_	6	fixed	_	_
+7	of	of	ADP	E	_	10	case	_	_
 8	heterodox	heterodox	ADJ	A	Degree=Pos	9	amod	_	_
 9	policy	policy	NOUN	S	Number=Sing	10	nmod	_	_
 10	tricks	trick	NOUN	S	Number=Plur	5	obl	_	SpaceAfter=No
@@ -25559,7 +25559,7 @@
 9	and	and	CCONJ	CC	_	10	cc	_	_
 10	economists	economist	NOUN	S	Number=Plur	8	conj	_	_
 11	out	out	ADP	E	_	14	case	_	_
-12	of	of	ADP	E	_	11	fixed	_	_
+12	of	of	ADP	E	_	14	case	_	_
 13	real	real	ADJ	A	Degree=Pos	14	amod	_	_
 14	businesses	business	NOUN	S	Number=Plur	7	obl	_	_
 15	is	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	cop	_	_
@@ -27121,7 +27121,7 @@
 6	be	be	AUX	VA	VerbForm=Inf	7	aux:pass	_	_
 7	dismissed	dismiss	VERB	V	Tense=Past|VerbForm=Part	17	advcl	_	_
 8	out	out	ADP	E	_	10	case	_	_
-9	of	of	ADP	E	_	8	fixed	_	_
+9	of	of	ADP	E	_	10	case	_	_
 10	hand	hand	NOUN	S	Number=Sing	7	obl	_	SpaceAfter=No
 11	,	,	PUNCT	FF	_	7	punct	_	_
 12	none	none	NOUN	S	Number=Sing	17	nsubj	_	_
@@ -27264,7 +27264,7 @@
 15	,	,	PUNCT	FF	_	14	punct	_	_
 16	whether	whether	SCONJ	CS	_	19	case	_	_
 17	out	out	ADP	E	_	19	case	_	_
-18	of	of	ADP	E	_	17	fixed	_	_
+18	of	of	ADP	E	_	19	case	_	_
 19	need	need	NOUN	S	Number=Sing	23	obl	_	_
 20	or	or	CCONJ	CC	_	21	cc	_	_
 21	convenience	convenience	NOUN	S	Number=Sing	19	conj	_	SpaceAfter=No
@@ -34453,7 +34453,7 @@
 8	constitution	constitution	NOUN	S	Number=Sing	9	nsubj	_	_
 9	emerged	emerge	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	4	acl:relcl	_	_
 10	out	out	ADP	E	_	13	case	_	_
-11	of	of	ADP	E	_	10	fixed	_	_
+11	of	of	ADP	E	_	13	case	_	_
 12	peace	peace	NOUN	S	Number=Sing	13	nmod	_	_
 13	talks	talk	NOUN	S	Number=Plur	9	obl	_	_
 14	that	that	PRON	PR	PronType=Rel	15	nsubj	_	_
@@ -40797,7 +40797,7 @@
 10	in	in	ADP	E	_	17	case	_	_
 11	and	and	CCONJ	CC	_	12	cc	_	_
 12	out	out	ADP	E	_	10	conj	_	_
-13	of	of	ADP	E	_	12	fixed	_	_
+13	of	of	ADP	E	_	17	case	_	_
 14	the	the	DET	RD	Definite=Def|PronType=Art	15	det	_	_
 15-16	Comédie's	_	_	_	_	_	_	_	_
 15	Comédie	Comédie	PROPN	SP	_	17	nmod	_	_
@@ -40828,7 +40828,7 @@
 14	not	not	PART	PART	Polarity=Neg	15	advmod	_	_
 15	step	step	VERB	V	VerbForm=Inf	0	root	_	_
 16	out	out	ADP	E	_	18	case	_	_
-17	of	of	ADP	E	_	16	fixed	_	_
+17	of	of	ADP	E	_	18	case	_	_
 18	nowhere	nowhere	ADV	B	_	15	advmod	_	SpaceAfter=No
 19	;	;	PUNCT	FC	_	15	punct	_	_
 
