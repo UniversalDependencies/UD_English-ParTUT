@@ -2488,7 +2488,7 @@
 3	shall	shall	AUX	VM	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
 4	be	be	AUX	VA	VerbForm=Inf	5	aux:pass	_	_
 5	adopted	adopt	VERB	V	Tense=Past|VerbForm=Part	0	root	_	_
-6	according	accord	VERB	V	VerbForm=Ger	10	case	_	_
+6	according	accord	VERB	V	ExtPos=ADP|VerbForm=Ger	10	case	_	_
 7	to	to	ADP	E	_	6	fixed	_	_
 8	the	the	DET	RD	Definite=Def|PronType=Art	10	det	_	_
 9	voting	voting	NOUN	S	Number=Sing	10	nmod	_	_
