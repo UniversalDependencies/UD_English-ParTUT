@@ -5399,8 +5399,8 @@
 31	July	July	PROPN	SP	_	21	obl	_	_
 32	2001	2001	NUM	N	NumType=Card	31	nummod	_	SpaceAfter=No
 33	,	,	PUNCT	FF	_	31	punct	_	_
-34	that	that	PRON	PR	PronType=Rel	37	obl	_	_
-35	is	is	VERB	V	Mood=Ind|Tense=Pres|VerbForm=Fin	34	fixed	_	_
+34	that	that	PRON	PR	Number=Sing|PronType=Dem	37	nsubj	_	_
+35	is	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	37	cop	_	_
 36	to	to	PART	PART	_	37	mark	_	_
 37	say	say	VERB	V	VerbForm=Inf	21	acl	_	_
 38	in	in	ADP	E	_	42	case	_	_
@@ -6769,8 +6769,8 @@
 73	the	the	DET	RD	Definite=Def|PronType=Art	74	det	_	_
 74	CEN	CEN	PROPN	SP	_	64	obl	_	SpaceAfter=No
 75	,	,	PUNCT	FF	_	80	punct	_	_
-76	that	that	PRON	PR	PronType=Rel	80	advmod	_	_
-77	is	is	VERB	V	Mood=Ind|Tense=Pres|VerbForm=Fin	76	fixed	_	_
+76	that	that	PRON	PR	ExtPos=ADV|Number=Sing|PronType=Dem	80	advmod	_	_
+77	is	be	AUX	V	Mood=Ind|Tense=Pres|VerbForm=Fin	76	fixed	_	_
 78	the	the	DET	RD	Definite=Def|PronType=Art	80	det	_	_
 79	European	European	ADJ	A	Degree=Pos	80	amod	_	_
 80	committee	committee	NOUN	S	Number=Sing	74	conj	_	_
@@ -8379,7 +8379,7 @@
 # sent_id = en_partut-ud-309
 # text = That is why I want to highlight some of the issues that I believe the Commission must have at the forefront.
 1	That	that	PRON	PR	PronType=Rel	2	nsubj	_	_
-2	is	is	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	is	be	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	why	why	ADV	B	_	5	advmod	_	_
 4	I	I	PRON	PE	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_
 5	want	want	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	ccomp	_	_
@@ -9884,8 +9884,8 @@
 34	of	of	ADP	E	_	35	case	_	_
 35	employment	employment	NOUN	S	Number=Sing	33	nmod	_	SpaceAfter=No
 36	,	,	PUNCT	FF	_	31	punct	_	_
-37	that	that	PRON	PR	PronType=Rel	40	nmod	_	_
-38	is	is	VERB	V	Mood=Ind|Tense=Pres|VerbForm=Fin	37	fixed	_	SpaceAfter=No
+37	that	that	PRON	PR	ExtPos=ADV|Number=Sing|PronType=Dem	40	nmod	_	_
+38	is	be	AUX	V	Mood=Ind|Tense=Pres|VerbForm=Fin	37	fixed	_	SpaceAfter=No
 39	,	,	PUNCT	FF	_	37	punct	_	_
 40	businesspeople	businesspeople	NOUN	S	Number=Sing	31	obl	_	SpaceAfter=No
 41	,	,	PUNCT	FF	_	40	punct	_	_
@@ -24841,8 +24841,8 @@
 3	deepening	deepening	NOUN	S	Number=Sing	0	root	_	_
 4	worldwide	worldwide	ADV	B	_	3	advmod	_	_
 5	(	(	PUNCT	FB	_	10	punct	_	SpaceAfter=No
-6	that	that	PRON	P	PronType=Rel	10	nmod	_	_
-7	is	is	VERB	V	Mood=Ind|Tense=Pres|VerbForm=Fin	6	fixed	_	SpaceAfter=No
+6	that	that	PRON	PR	ExtPos=ADV|Number=Sing|PronType=Dem	10	nmod	_	_
+7	is	be	AUX	V	Mood=Ind|Tense=Pres|VerbForm=Fin	6	fixed	_	SpaceAfter=No
 8	,	,	PUNCT	FF	_	6	punct	_	_
 9	faster	faster	ADJ	A	Degree=Cmp	10	amod	_	_
 10	growth	growth	NOUN	S	Number=Sing	3	appos	_	_
@@ -33225,8 +33225,8 @@
 28	of	of	ADP	E	_	29	case	_	_
 29	exploitation	exploitation	NOUN	S	Number=Sing	27	nmod	_	_
 30	–	–	PUNCT	FF	_	27	punct	_	_
-31	that	that	PRON	PR	PronType=Rel	37	nmod	_	_
-32	is	is	VERB	V	Mood=Ind|Tense=Pres|VerbForm=Fin	31	fixed	_	SpaceAfter=No
+31	that	that	PRON	PR	ExtPos=ADV|Number=Sing|PronType=Dem	37	advmod	_	_
+32	is	be	AUX	V	Mood=Ind|Tense=Pres|VerbForm=Fin	31	fixed	_	SpaceAfter=No
 33	,	,	PUNCT	FF	_	31	punct	_	_
 34	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	37	det	_	_
 35	smaller	smaller	ADJ	A	Degree=Cmp	36	amod	_	_
