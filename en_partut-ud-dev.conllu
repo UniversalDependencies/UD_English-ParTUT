@@ -904,7 +904,7 @@
 12	,	,	PUNCT	FF	_	11	punct	_	_
 13	this	this	PRON	PD	Number=Sing|PronType=Dem	14	nsubj	_	_
 14	is	be	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	parataxis	_	_
-15	where	where	ADV	B	PronType=Rel	17	advmod	_	_
+15	where	where	ADV	B	PronType=Int	17	advmod	_	_
 16	we	we	PRON	PE	Number=Plur|Person=1|PronType=Prs	17	nsubj	_	_
 17	go	go	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	14	ccomp	_	_
 18	to	to	ADP	E	_	19	case	_	_
