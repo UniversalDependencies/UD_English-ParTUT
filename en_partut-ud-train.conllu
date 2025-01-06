@@ -4482,7 +4482,7 @@
 34	Tauern	Tauern	PROPN	SP	_	35	nmod	_	_
 35	Tunnel	tunnel	NOUN	S	Number=Sing	25	obl	_	SpaceAfter=No
 36	,	,	PUNCT	FF	_	35	punct	_	_
-37	where	where	ADV	B	PronType=Int	54	advmod	_	_
+37	where	where	ADV	B	PronType=Rel	54	advmod	_	_
 38	subsequent	subsequent	ADJ	A	Degree=Pos	39	amod	_	_
 39	work	work	NOUN	S	Number=Sing	54	nsubj	_	_
 40	to	to	PART	PART	_	41	mark	_	_
@@ -4707,7 +4707,7 @@
 20	fact	fact	NOUN	S	Number=Sing	15	nmod	_	_
 21	that	that	SCONJ	CS	_	32	mark	_	SpaceAfter=No
 22	,	,	PUNCT	FF	_	32	punct	_	_
-23	where	where	ADV	B	PronType=Rel	29	advmod	_	_
+23	where	where	ADV	B	PronType=Int	29	advmod	_	_
 24	transport	transport	NOUN	S	Number=Sing	25	nmod	_	_
 25	safety	safety	NOUN	S	Number=Sing	29	nsubj	_	_
 26	in	in	ADP	E	_	27	case	_	_
@@ -5834,7 +5834,7 @@
 7	in	in	ADP	E	_	9	case	_	_
 8	many	many	ADJ	A	Degree=Pos	9	amod	_	_
 9	cases	case	NOUN	S	Number=Plur	17	obl	_	_
-10	where	where	ADV	B	PronType=Int	13	advmod	_	_
+10	where	where	ADV	B	PronType=Rel	13	advmod	_	_
 11	transport	transport	NOUN	S	Number=Sing	13	nsubj	_	_
 12	is	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	_
 13	concerned	concerned	ADJ	A	Degree=Pos	9	acl:relcl	_	_
@@ -7638,7 +7638,7 @@
 2	is	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
 3	also	also	ADV	B	_	4	advmod	_	_
 4	important	important	ADJ	A	Degree=Pos	0	root	_	_
-5	where	where	ADV	B	PronType=Rel	13	advmod	_	_
+5	where	where	ADV	B	PronType=Int	13	advmod	_	_
 6	the	the	DET	RD	Definite=Def|PronType=Art	7	det	_	_
 7	prerequisites	prerequisite	NOUN	S	Number=Plur	13	nsubj	_	_
 8	for	for	ADP	E	_	11	case	_	_
@@ -9027,7 +9027,7 @@
 10	to	to	ADP	E	_	12	case	_	_
 11	an	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	12	det	_	_
 12	area	area	NOUN	S	Number=Sing	8	obl	_	_
-13	where	where	ADV	B	PronType=Int	17	advmod	_	_
+13	where	where	ADV	B	PronType=Rel	17	advmod	_	_
 14	coordination	coordination	NOUN	S	Number=Sing	17	nsubj	_	_
 15	is	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	aux	_	_
 16	sorely	sorely	ADV	B	_	17	advmod	_	_
@@ -15789,7 +15789,7 @@
 16	by	by	ADP	E	_	18	case	_	_
 17	the	the	DET	RD	Definite=Def|PronType=Art	18	det	_	_
 18	industry	industry	NOUN	S	Number=Sing	15	nmod	_	_
-19	where	where	ADV	B	PronType=Rel	23	advmod	_	_
+19	where	where	ADV	B	PronType=Int	23	advmod	_	_
 20	such	such	DET	DD	PronType=Dem	21	det	_	_
 21	action	action	NOUN	S	Number=Sing	23	nsubj	_	_
 22	is	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	23	cop	_	_
@@ -15818,7 +15818,7 @@
 3	may	may	AUX	VM	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
 4	be	be	AUX	VA	VerbForm=Inf	5	aux:pass	_	_
 5	needed	need	VERB	V	Tense=Past|VerbForm=Part	0	root	_	_
-6	where	where	ADV	B	PronType=Rel	9	advmod	_	_
+6	where	where	ADV	B	PronType=Int	9	advmod	_	_
 7	market	market	NOUN	S	Number=Plur	8	nmod	_	_
 8	forces	force	NOUN	S	Number=Plur	9	nsubj	_	_
 9	fail	fail	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	5	advcl	_	_
@@ -28232,7 +28232,7 @@
 2	have	have	AUX	VA	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	4	aux	_	_
 3	already	already	ADV	B	_	4	advmod	_	_
 4	seen	see	VERB	V	Tense=Past|VerbForm=Part	0	root	_	_
-5	where	where	ADV	B	PronType=Rel	14	advmod	_	_
+5	where	where	ADV	B	PronType=Int	14	advmod	_	_
 6	poor	poor	ADJ	A	Degree=Pos	7	amod	_	_
 7	Regulation	regulation	NOUN	S	Number=Sing	14	nsubj	_	_
 8	of	of	ADP	E	_	12	case	_	_
@@ -46313,7 +46313,7 @@
 
 # sent_id = en_partut-ud-1962
 # text = Where several versions of a play survive, each differs from the other.
-1	Where	where	ADV	B	_	7	advmod	_	_
+1	Where	where	ADV	B	PronType=Int	7	advmod	_	_
 2	several	several	ADJ	A	Degree=Pos	3	amod	_	_
 3	versions	version	NOUN	S	Number=Plur	7	nsubj	_	_
 4	of	of	ADP	E	_	6	case	_	_
