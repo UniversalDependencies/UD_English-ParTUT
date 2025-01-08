@@ -904,7 +904,7 @@
 12	,	,	PUNCT	FF	_	11	punct	_	_
 13	this	this	PRON	PD	Number=Sing|PronType=Dem	14	nsubj	_	_
 14	is	be	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	parataxis	_	_
-15	where	where	SCONJ	CS	_	17	mark	_	_
+15	where	where	ADV	B	PronType=Int	17	advmod	_	_
 16	we	we	PRON	PE	Number=Plur|Person=1|PronType=Prs	17	nsubj	_	_
 17	go	go	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	14	ccomp	_	_
 18	to	to	ADP	E	_	19	case	_	_
@@ -2256,7 +2256,7 @@
 15	-	-	PUNCT	FF	_	16	punct	_	SpaceAfter=No
 16	growing	grow	VERB	V	Number=Sing|Tense=Pres|VerbForm=Part	17	acl	_	_
 17	economies	economy	NOUN	S	Number=Plur	7	obl	_	_
-18	where	where	ADV	B	_	31	advmod	_	_
+18	where	where	ADV	B	PronType=Rel	31	advmod	_	_
 19	existing	existing	ADJ	A	Degree=Pos	22	amod	_	_
 20	public	public	ADJ	A	Degree=Pos	21	amod	_	_
 21	pension	pension	NOUN	S	Number=Sing	22	nmod	_	_
