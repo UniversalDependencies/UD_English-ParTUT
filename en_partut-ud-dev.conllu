@@ -139,10 +139,10 @@
 
 # sent_id = en_partut-ud-118
 # text = Mr Berenguer Fuster, we shall check all this.
-1	Mr	mister	NOUN	S	Number=Sing	7	vocative	_	_
-2	Berenguer	Berenguer	PROPN	SP	_	1	flat	_	_
-3	Fuster	Fuster	PROPN	SP	_	1	flat	_	SpaceAfter=No
-4	,	,	PUNCT	FF	_	1	punct	_	_
+1	Mr	mister	NOUN	S	Number=Sing	2	nmod:desc	_	_
+2	Berenguer	Berenguer	PROPN	SP	_	7	vocative	_	_
+3	Fuster	Fuster	PROPN	SP	_	2	flat	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	2	punct	_	_
 5	we	we	PRON	PE	Number=Plur|Person=1|PronType=Prs	7	nsubj	_	_
 6	shall	shall	AUX	VM	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	_
 7	check	check	VERB	V	VerbForm=Inf	0	root	_	_
@@ -251,8 +251,8 @@
 # text = The reason Mr Koch produced his sound report was because the work in the CEN and within the United Nations Economic Commission was proceeding none too expeditiously.
 1	The	the	DET	RD	Definite=Def|PronType=Art	2	det	_	_
 2	reason	reason	NOUN	S	Number=Sing	9	nsubj	_	_
-3	Mr	mister	NOUN	S	Number=Sing	5	nsubj	_	_
-4	Koch	Koch	PROPN	SP	_	3	flat	_	_
+3	Mr	mister	NOUN	S	Number=Sing	4	nmod:desc	_	_
+4	Koch	Koch	PROPN	SP	_	5	nsubj	_	_
 5	produced	produce	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	2	acl	_	_
 6	his	his	DET	AP	Poss=Yes|PronType=Prs	8	nmod:poss	_	_
 7	sound	sound	ADJ	A	Degree=Pos	8	amod	_	_
@@ -280,9 +280,9 @@
 
 # sent_id = en_partut-ud-294
 # text = Mr President, I would once again like to congratulate Mr Koch on his magnificent work on this other report, which in a way supplements the debate which we held in October on rail transport.
-1	Mr	mister	NOUN	S	Number=Sing	8	vocative	_	_
-2	President	president	NOUN	S	Number=Sing	1	compound	_	SpaceAfter=No
-3	,	,	PUNCT	FF	_	1	punct	_	_
+1	Mr	mister	NOUN	S	Number=Sing	2	nmod:desc	_	_
+2	President	president	NOUN	S	Number=Sing	8	vocative	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	2	punct	_	_
 4	I	I	PRON	PE	Number=Sing|Person=1|PronType=Prs	8	nsubj	_	_
 5	would	will	AUX	VM	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	8	aux	_	_
 6	once	once	ADV	B	_	8	advmod	_	_
@@ -290,8 +290,8 @@
 8	like	like	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	0	root	_	_
 9	to	to	PART	PART	_	10	mark	_	_
 10	congratulate	congratulate	VERB	V	VerbForm=Inf	8	xcomp	_	_
-11	Mr	mister	NOUN	S	Number=Sing	10	obj	_	_
-12	Koch	Koch	PROPN	SP	_	11	flat	_	_
+11	Mr	mister	NOUN	S	Number=Sing	12	nmod:desc	_	_
+12	Koch	Koch	PROPN	SP	_	10	obj	_	_
 13	on	on	ADP	E	_	16	case	_	_
 14	his	his	DET	AP	Poss=Yes|PronType=Prs	16	nmod:poss	_	_
 15	magnificent	magnificent	ADJ	A	Degree=Pos	16	amod	_	_
@@ -2681,10 +2681,10 @@
 8	the	the	DET	RD	Definite=Def|PronType=Art	10	det	_	_
 9	Romantic	Romantic	PROPN	SP	_	10	nmod	_	_
 10	style	style	NOUN	S	Number=Sing	5	obl	_	_
-11	of	of	ADP	E	_	13	case	_	_
+11	of	of	ADP	E	_	14	case	_	_
 12	Scottish	scottish	ADJ	A	Degree=Pos	13	amod	_	_
-13	novelist	novelist	NOUN	S	Number=Sing	10	nmod	_	_
-14	Walter	Walter	PROPN	SP	_	13	nmod	_	_
+13	novelist	novelist	NOUN	S	Number=Sing	14	nmod:desc	_	_
+14	Walter	Walter	PROPN	SP	_	10	nmod	_	_
 15	Scott	Scott	PROPN	SP	_	14	flat	_	SpaceAfter=No
 16	,	,	PUNCT	FF	_	5	punct	_	_
 17	Balzac	Balzac	PROPN	SP	_	5	nsubj	_	_
@@ -3018,9 +3018,9 @@
 1	In	in	ADP	E	_	2	case	_	_
 2	1613	1613	NUM	N	NumType=Card	7	obl	_	SpaceAfter=No
 3	,	,	PUNCT	FF	_	2	punct	_	_
-4	Sir	Sir	PROPN	SP	_	7	nsubj	_	_
-5	Henry	Henry	PROPN	SP	_	4	flat	_	_
-6	Wotton	Wotton	PROPN	SP	_	4	flat	_	_
+4	Sir	Sir	PROPN	SP	_	5	nmod:desc	_	_
+5	Henry	Henry	PROPN	SP	_	7	nsubj	_	_
+6	Wotton	Wotton	PROPN	SP	_	5	flat	_	_
 7	recorded	record	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 8	that	that	SCONJ	CS	_	13	mark	_	_
 9	Henry	Henry	PROPN	SP	_	13	nsubj:pass	_	_
