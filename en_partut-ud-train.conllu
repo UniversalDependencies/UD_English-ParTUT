@@ -1915,7 +1915,7 @@
 
 # sent_id = en_partut-ud-78
 # text = One of the people assassinated very recently in Sri Lanka was Mr Kumar Ponnambalam, who had visited the European Parliament just a few months ago.
-1	One	one	NUM	N	NumType=Card	12	nsubj	_	_
+1	One	one	NUM	N	NumType=Card	13	nsubj	_	_
 2	of	of	ADP	E	_	4	case	_	_
 3	the	the	DET	RD	Definite=Def|PronType=Art	4	det	_	_
 4	people	people	NOUN	S	Number=Plur	1	nmod	_	_
@@ -1925,7 +1925,7 @@
 8	in	in	ADP	E	_	9	case	_	_
 9	Sri	Sri	PROPN	SP	_	5	obl	_	_
 10	Lanka	Lanka	PROPN	SP	_	9	flat	_	_
-11	was	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	12	cop	_	_
+11	was	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	13	cop	_	_
 12	Mr	mister	NOUN	S	Number=Sing	13	nmod:desc	_	_
 13	Kumar	Kumar	PROPN	SP	_	0	root	_	_
 14	Ponnambalam	Ponnambalam	PROPN	SP	_	13	flat	_	SpaceAfter=No
@@ -3259,7 +3259,7 @@
 44	also	also	ADV	B	_	45	advmod	_	_
 45	explicitly	explicitly	ADV	B	_	46	advmod	_	_
 46	accepted	accept	VERB	V	Tense=Past|VerbForm=Part	33	conj	_	_
-47	by	by	ADP	E	_	48	case	_	_
+47	by	by	ADP	E	_	49	case	_	_
 48	President	president	NOUN	S	Number=Sing	49	nmod:desc	_	_
 49	Prodi	Prodi	PROPN	SP	_	46	obl	_	SpaceAfter=No
 50	,	,	PUNCT	FF	_	49	punct	_	_
@@ -3337,7 +3337,7 @@
 17	express	express	VERB	V	VerbForm=Inf	15	advcl	_	_
 18	its	its	DET	AP	Number=Sing|Poss=Yes|PronType=Prs	19	nmod:poss	_	_
 19	confidence	confidence	NOUN	S	Number=Sing	17	obj	_	_
-20	in	in	ADP	E	_	21	case	_	_
+20	in	in	ADP	E	_	22	case	_	_
 21	President	president	NOUN	S	Number=Sing	22	nmod:desc	_	_
 22	Prodi	Prodi	PROPN	SP	_	19	nmod	_	_
 23	during	during	ADP	E	_	26	case	_	_
@@ -4245,7 +4245,7 @@
 # text = Mr Cox, Mr Hänsch, would this be acceptable to you?
 1	Mr	mister	NOUN	S	Number=Sing	2	nmod:desc	_	_
 2	Cox	Cox	PROPN	SP	_	10	vocative	_	SpaceAfter=No
-3	,	,	PUNCT	FF	_	4	punct	_	_
+3	,	,	PUNCT	FF	_	5	punct	_	_
 4	Mr	mister	NOUN	S	Number=Sing	5	nmod:desc	_	_
 5	Hänsch	Hänsch	PROPN	SP	_	2	conj	_	SpaceAfter=No
 6	,	,	PUNCT	FF	_	2	punct	_	_
@@ -5932,7 +5932,7 @@
 2	you	you	PRON	PE	Person=2|PronType=Prs	3	nsubj	_	_
 3	know	know	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	10	advcl	_	SpaceAfter=No
 4	,	,	PUNCT	FF	_	3	punct	_	_
-5	like	like	ADP	E	_	6	case	_	_
+5	like	like	ADP	E	_	7	case	_	_
 6	Mr	mister	NOUN	S	Number=Sing	7	nmod:desc	_	_
 7	Rack	Rack	PROPN	SP	_	10	obl	_	SpaceAfter=No
 8	,	,	PUNCT	FF	_	7	punct	_	_
@@ -6618,7 +6618,7 @@
 9	/	/	PUNCT	FF	_	8	punct	_	SpaceAfter=No
 10	1999	1999	NUM	N	NumType=Card	8	nummod	_	SpaceAfter=No
 11	)	)	PUNCT	FB	_	8	punct	_	_
-12	by	by	ADP	E	_	13	case	_	_
+12	by	by	ADP	E	_	14	case	_	_
 13	Mr	mister	NOUN	S	Number=Sing	14	nmod:desc	_	_
 14	Koch	Koch	PROPN	SP	_	6	nmod	_	SpaceAfter=No
 15	,	,	PUNCT	FF	_	6	punct	_	_
@@ -7829,7 +7829,7 @@
 7	to	to	PART	PART	_	8	mark	_	_
 8	thank	thank	VERB	V	VerbForm=Inf	6	xcomp	_	_
 9	not	not	PART	PART	Polarity=Neg	10	advmod	_	_
-10	only	only	ADV	B	_	11	advmod	_	_
+10	only	only	ADV	B	_	12	advmod	_	_
 11	Mr	mister	NOUN	S	Number=Sing	12	nmod:desc	_	_
 12	Koch	Koch	PROPN	SP	_	8	obj	_	SpaceAfter=No
 13	,	,	PUNCT	FF	_	19	punct	_	_
@@ -8181,7 +8181,7 @@
 9	/	/	PUNCT	FF	_	8	punct	_	SpaceAfter=No
 10	1999	1999	NUM	N	NumType=Card	8	nummod	_	SpaceAfter=No
 11	)	)	PUNCT	FB	_	8	punct	_	_
-12	by	by	ADP	E	_	13	case	_	_
+12	by	by	ADP	E	_	14	case	_	_
 13	Mrs	mrs	NOUN	S	Number=Sing	14	nmod:desc	_	_
 14	Schroedter	Schroedter	PROPN	SP	_	6	nmod	_	SpaceAfter=No
 15	,	,	PUNCT	FF	_	14	punct	_	_
@@ -10148,7 +10148,7 @@
 34	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	36	det	_	_
 35	stern	stern	ADJ	A	Degree=Pos	36	amod	_	_
 36	letter	letter	NOUN	S	Number=Sing	32	obl	_	_
-37	from	from	ADP	E	_	38	case	_	_
+37	from	from	ADP	E	_	39	case	_	_
 38	Commissioner	commissioner	NOUN	S	Number=Sing	39	nmod:desc	_	_
 39	Wulf	Wulf	PROPN	SP	_	36	nmod	_	SpaceAfter=No
 40	-	-	PUNCT	FF	_	39	punct	_	SpaceAfter=No
@@ -11618,7 +11618,7 @@
 31	,	,	PUNCT	FF	_	30	punct	_	_
 32	as	as	SCONJ	CS	_	46	mark	_	_
 33	we	we	PRON	PE	Number=Plur|Person=1|PronType=Prs	46	nsubj	_	_
-34	and	and	CCONJ	CC	_	35	cc	_	_
+34	and	and	CCONJ	CC	_	36	cc	_	_
 35	Mrs	mrs	NOUN	S	Number=Sing	36	nmod:desc	_	_
 36	Mccarthy	Mccarthy	PROPN	SP	_	33	conj	_	SpaceAfter=No
 37	,	,	PUNCT	FF	_	33	punct	_	_
@@ -26727,7 +26727,7 @@
 4	must	must	AUX	VM	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
 5	reach	reach	VERB	V	VerbForm=Inf	0	root	_	_
 6	out	out	ADP	E	_	5	compound:prt	_	_
-7	to	to	ADP	E	_	8	case	_	_
+7	to	to	ADP	E	_	9	case	_	_
 8	President	president	NOUN	S	Number=Sing	9	nmod:desc	_	_
 9	Vladimir	Vladimir	PROPN	SP	_	5	obl	_	_
 10	Putin	Putin	PROPN	SP	_	9	flat	_	_
@@ -29742,7 +29742,7 @@
 7	presentation	presentation	NOUN	S	Number=Sing	3	nmod	_	SpaceAfter=No
 8	,	,	PUNCT	FF	_	7	punct	_	_
 9	delivered	deliver	VERB	V	Tense=Past|VerbForm=Part	7	acl	_	_
-10	by	by	ADP	E	_	12	case	_	_
+10	by	by	ADP	E	_	13	case	_	_
 11	GTC	GTC	PROPN	SP	_	12	nmod	_	_
 12	fellow	fellow	NOUN	S	Number=Sing	13	nmod:desc	_	_
 13	Stephen	Stephen	PROPN	SP	_	9	obl	_	_
@@ -34096,7 +34096,7 @@
 6	recent	recent	ADJ	A	Degree=Pos	8	amod	_	_
 7	phone	phone	NOUN	S	Number=Sing	8	nmod	_	_
 8	call	call	NOUN	S	Number=Sing	43	nsubj	_	_
-9	to	to	ADP	E	_	11	case	_	_
+9	to	to	ADP	E	_	12	case	_	_
 10	US	US	PROPN	SP	_	11	nmod	_	_
 11	President	president	NOUN	S	Number=Sing	12	nmod:desc	_	_
 12	Barack	Barack	PROPN	SP	_	8	nmod	_	_
@@ -38876,7 +38876,7 @@
 1	Le	Le	X	SW	Foreign=Yes	14	nsubj	_	_
 2	Père	Père	X	SW	Foreign=Yes	1	flat:foreign	_	_
 3	Goriot	Goriot	X	SW	Foreign=Yes	1	flat:foreign	_	_
-4	(	(	PUNCT	FB	_	6	punct	_	SpaceAfter=No
+4	(	(	PUNCT	FB	_	7	punct	_	SpaceAfter=No
 5	Old	old	ADJ	A	Degree=Pos	6	amod	_	_
 6	Father	father	NOUN	S	Number=Sing	7	nmod:desc	_	_
 7	Goriot	Goriot	PROPN	SP	_	1	appos	_	SpaceAfter=No
@@ -38894,7 +38894,7 @@
 19	transposes	transpose	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	acl:relcl	_	_
 20	the	the	DET	RD	Definite=Def|PronType=Art	21	det	_	_
 21	story	story	NOUN	S	Number=Sing	19	obj	_	_
-22	of	of	ADP	E	_	23	case	_	_
+22	of	of	ADP	E	_	24	case	_	_
 23	King	King	PROPN	SP	_	24	nmod:desc	_	_
 24	Lear	Lear	PROPN	SP	_	21	nmod	_	_
 25	to	to	ADP	E	_	28	case	_	_
@@ -40742,7 +40742,7 @@
 3	reality	reality	NOUN	S	Number=Sing	5	nsubj:pass	_	_
 4	was	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	aux:pass	_	_
 5	noted	note	VERB	V	Tense=Past|VerbForm=Part	0	root	_	_
-6	by	by	ADP	E	_	7	case	_	_
+6	by	by	ADP	E	_	8	case	_	_
 7	playwright	playwright	NOUN	S	Number=Sing	8	nmod:desc	_	_
 8	Oscar	Oscar	PROPN	SP	_	5	obl	_	_
 9	Wilde	Wilde	PROPN	SP	_	8	flat	_	SpaceAfter=No
@@ -41022,12 +41022,12 @@
 8	model	model	NOUN	S	Number=Sing	5	obj	_	_
 9	used	use	VERB	V	Tense=Past|VerbForm=Part	8	acl	_	_
 10	later	later	ADV	B	Degree=Cmp	9	advmod	_	_
-11	by	by	ADP	E	_	13	case	_	_
+11	by	by	ADP	E	_	14	case	_	_
 12	English	English	ADJ	A	Degree=Pos	13	amod	_	_
 13	novelist	novelist	NOUN	S	Number=Sing	14	nmod:desc	_	_
 14	Charles	Charles	PROPN	SP	_	9	obl	_	_
 15	Dickens	Dickens	PROPN	SP	_	14	flat	_	_
-16	and	and	CCONJ	CC	_	18	cc	_	_
+16	and	and	CCONJ	CC	_	19	cc	_	_
 17	Russian	Russian	ADJ	A	Degree=Pos	18	amod	_	_
 18	author	author	NOUN	S	Number=Sing	19	nmod:desc	_	_
 19	Fyodor	Fyodor	PROPN	SP	_	14	conj	_	_
@@ -42306,7 +42306,7 @@
 9	,	,	PUNCT	FF	_	8	punct	_	_
 10	including	include	VERB	V	Number=Sing|Tense=Pres|VerbForm=Part	5	acl	_	_
 11	Hamlet	Hamlet	PROPN	SP	_	10	obj	_	SpaceAfter=No
-12	,	,	PUNCT	FF	_	13	punct	_	_
+12	,	,	PUNCT	FF	_	14	punct	_	_
 13	King	King	PROPN	SP	_	14	nmod:desc	_	_
 14	Lear	Lear	PROPN	SP	_	11	conj	_	SpaceAfter=No
 15	,	,	PUNCT	FF	_	16	punct	_	_
@@ -43521,7 +43521,7 @@
 1	After	after	ADP	E	_	3	case	_	_
 2	the	the	DET	RD	Definite=Def|PronType=Art	3	det	_	_
 3	death	death	NOUN	S	Number=Sing	13	obl	_	_
-4	of	of	ADP	E	_	5	case	_	_
+4	of	of	ADP	E	_	6	case	_	_
 5	Queen	Queen	PROPN	SP	_	6	nmod:desc	_	_
 6	Elizabeth	Elizabeth	PROPN	SP	_	3	nmod	_	_
 7	in	in	ADP	E	_	8	case	_	_
@@ -44037,7 +44037,7 @@
 36	at	at	ADP	E	_	38	case	_	_
 37	the	the	DET	RD	Definite=Def|PronType=Art	38	det	_	_
 38	Court	court	NOUN	S	Number=Sing	33	nmod	_	_
-39	of	of	ADP	E	_	40	case	_	_
+39	of	of	ADP	E	_	41	case	_	_
 40	King	King	PROPN	SP	_	41	nmod:desc	_	_
 41	James	James	PROPN	SP	_	38	nmod	_	SpaceAfter=No
 42	'	'	PUNCT	FB	_	33	punct	_	SpaceAfter=No
@@ -45148,7 +45148,7 @@
 
 # sent_id = en_partut-ud-1922
 # text = According to Shakespearean scholar James Shapiro, in Julius Caesar "the various strands of politics, character, inwardness, contemporary events, even Shakespeare's own reflections on the act of writing, began to infuse each other".
-1	According	accord	VERB	V	ExtPos=ADP|VerbForm=Ger	4	case	_	_
+1	According	accord	VERB	V	ExtPos=ADP|VerbForm=Ger	5	case	_	_
 2	to	to	ADP	E	_	1	fixed	_	_
 3	Shakespearean	Shakespearean	ADJ	A	Degree=Pos	4	amod	_	_
 4	scholar	scholar	NOUN	S	Number=Sing	5	nmod:desc	_	_
@@ -45320,7 +45320,7 @@
 18	followed	follow	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	16	acl:relcl	_	SpaceAfter=No
 19	,	,	PUNCT	FF	_	16	punct	_	_
 20	Othello	Othello	PROPN	SP	_	16	nmod	_	_
-21	and	and	CCONJ	CC	_	22	cc	_	_
+21	and	and	CCONJ	CC	_	23	cc	_	_
 22	King	King	PROPN	SP	_	23	nmod:desc	_	_
 23	Lear	Lear	PROPN	SP	_	20	conj	_	SpaceAfter=No
 24	,	,	PUNCT	FF	_	13	punct	_	_
@@ -45394,7 +45394,7 @@
 
 # sent_id = en_partut-ud-1930
 # text = In King Lear, the old king commits the tragic error of giving up his powers, initiating the events which lead to the torture and blinding of the Earl of Gloucester and the murder of Lear's youngest daughter Cordelia.
-1	In	in	ADP	E	_	2	case	_	_
+1	In	in	ADP	E	_	3	case	_	_
 2	King	King	PROPN	SP	_	3	nmod:desc	_	_
 3	Lear	Lear	PROPN	SP	_	8	obl	_	SpaceAfter=No
 4	,	,	PUNCT	FF	_	3	punct	_	_
@@ -45896,7 +45896,7 @@
 15	Hamlet	Hamlet	PROPN	SP	_	14	obj	_	SpaceAfter=No
 16	,	,	PUNCT	FF	_	17	punct	_	_
 17	Othello	Othello	PROPN	SP	_	15	conj	_	_
-18	and	and	CCONJ	CC	_	19	cc	_	_
+18	and	and	CCONJ	CC	_	20	cc	_	_
 19	King	King	PROPN	SP	_	20	nmod:desc	_	_
 20	Lear	Lear	PROPN	SP	_	15	conj	_	SpaceAfter=No
 21	.	.	PUNCT	FS	_	9	punct	_	_
@@ -46074,8 +46074,8 @@
 21	Hamlet	Hamlet	PROPN	SP	_	18	conj	_	SpaceAfter=No
 22	,	,	PUNCT	FF	_	23	punct	_	_
 23	Othello	Othello	PROPN	SP	_	18	conj	_	SpaceAfter=No
-24	,	,	PUNCT	FF	_	26	punct	_	_
-25	and	and	CCONJ	CC	_	26	cc	_	_
+24	,	,	PUNCT	FF	_	27	punct	_	_
+25	and	and	CCONJ	CC	_	27	cc	_	_
 26	King	King	PROPN	SP	_	27	nmod:desc	_	_
 27	Lear	Lear	PROPN	SP	_	18	conj	_	SpaceAfter=No
 28	.	.	PUNCT	FS	_	2	punct	_	_
@@ -46140,7 +46140,7 @@
 27	and	and	CCONJ	CC	_	29	cc	_	_
 28	the	the	DET	RD	Definite=Def|PronType=Art	29	det	_	_
 29	fool	fool	NOUN	S	Number=Sing	17	conj	_	_
-30	in	in	ADP	E	_	31	case	_	_
+30	in	in	ADP	E	_	32	case	_	_
 31	King	King	NOUN	S	Number=Sing	32	nmod:desc	_	_
 32	Lear	Lear	PROPN	SP	_	29	orphan	_	SpaceAfter=No
 33	.	.	PUNCT	FS	_	3	punct	_	_
@@ -46392,7 +46392,7 @@
 1	In	in	ADP	E	_	3	case	_	_
 2	the	the	DET	RD	Definite=Def|PronType=Art	3	det	_	_
 3	case	case	NOUN	S	Number=Sing	24	obl	_	_
-4	of	of	ADP	E	_	5	case	_	_
+4	of	of	ADP	E	_	6	case	_	_
 5	King	King	PROPN	SP	_	6	nmod:desc	_	_
 6	Lear	Lear	PROPN	SP	_	3	nmod	_	SpaceAfter=No
 7	,	,	PUNCT	FF	_	3	punct	_	_
@@ -47886,7 +47886,7 @@
 12	hero	hero	NOUN	S	Number=Sing	0	root	_	SpaceAfter=No
 13	,	,	PUNCT	FF	_	12	punct	_	_
 14	inspired	inspire	VERB	V	Tense=Past|VerbForm=Part	12	acl	_	_
-15	by	by	ADP	E	_	16	case	_	_
+15	by	by	ADP	E	_	17	case	_	_
 16	King	King	PROPN	SP	_	17	nmod:desc	_	_
 17	Lear	Lear	PROPN	SP	_	14	obl	_	SpaceAfter=No
 18	.	.	PUNCT	FS	_	12	punct	_	_
