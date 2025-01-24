@@ -1876,9 +1876,9 @@
 
 # sent_id = en_partut-ud-76
 # text = Madam President, on a point of order.
-1	Madam	madam	NOUN	S	Number=Sing	6	vocative	_	_
-2	President	president	NOUN	S	Number=Sing	1	compound	_	SpaceAfter=No
-3	,	,	PUNCT	FF	_	1	punct	_	_
+1	Madam	madam	NOUN	S	Number=Sing	2	nmod:desc	_	_
+2	President	president	NOUN	S	Number=Sing	6	vocative	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	2	punct	_	_
 4	on	on	ADP	E	_	6	case	_	_
 5	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	6	det	_	_
 6	point	point	NOUN	S	Number=Sing	0	root	_	_
@@ -1915,7 +1915,7 @@
 
 # sent_id = en_partut-ud-78
 # text = One of the people assassinated very recently in Sri Lanka was Mr Kumar Ponnambalam, who had visited the European Parliament just a few months ago.
-1	One	one	NUM	N	NumType=Card	12	nsubj	_	_
+1	One	one	NUM	N	NumType=Card	13	nsubj	_	_
 2	of	of	ADP	E	_	4	case	_	_
 3	the	the	DET	RD	Definite=Def|PronType=Art	4	det	_	_
 4	people	people	NOUN	S	Number=Plur	1	nmod	_	_
@@ -1925,14 +1925,14 @@
 8	in	in	ADP	E	_	9	case	_	_
 9	Sri	Sri	PROPN	SP	_	5	obl	_	_
 10	Lanka	Lanka	PROPN	SP	_	9	flat	_	_
-11	was	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	12	cop	_	_
-12	Mr	mister	NOUN	S	Number=Sing	0	root	_	_
-13	Kumar	Kumar	PROPN	SP	_	12	flat	_	_
-14	Ponnambalam	Ponnambalam	PROPN	SP	_	12	flat	_	SpaceAfter=No
+11	was	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	13	cop	_	_
+12	Mr	mister	NOUN	S	Number=Sing	13	nmod:desc	_	_
+13	Kumar	Kumar	PROPN	SP	_	0	root	_	_
+14	Ponnambalam	Ponnambalam	PROPN	SP	_	13	flat	_	SpaceAfter=No
 15	,	,	PUNCT	FF	_	18	punct	_	_
 16	who	who	PRON	PR	PronType=Rel	18	nsubj	_	_
 17	had	have	AUX	VA	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	18	aux	_	_
-18	visited	visit	VERB	V	Tense=Past|VerbForm=Part	12	acl:relcl	_	_
+18	visited	visit	VERB	V	Tense=Past|VerbForm=Part	13	acl:relcl	_	_
 19	the	the	DET	RD	Definite=Def|PronType=Art	21	det	_	_
 20	European	European	ADJ	A	Degree=Pos	21	amod	_	_
 21	Parliament	parliament	NOUN	S	Number=Sing	18	obj	_	_
@@ -1941,7 +1941,7 @@
 24	few	few	ADJ	A	Degree=Pos	25	amod	_	_
 25	months	month	NOUN	S	Number=Plur	26	obl	_	_
 26	ago	ago	ADV	B	_	18	advmod	_	SpaceAfter=No
-27	.	.	PUNCT	FS	_	12	punct	_	_
+27	.	.	PUNCT	FS	_	13	punct	_	_
 
 # sent_id = en_partut-ud-79
 # text = Would it be appropriate for you, Madam President, to write a letter to the Sri Lankan President expressing Parliament's regret at his and the other violent deaths in Sri Lanka and urging her to do everything she possibly can to seek a peaceful reconciliation to a very difficult situation?
@@ -1952,8 +1952,8 @@
 5	for	for	ADP	E	_	6	case	_	_
 6	you	you	PRON	PE	Person=2|PronType=Prs	4	obl	_	SpaceAfter=No
 7	,	,	PUNCT	FF	_	6	punct	_	_
-8	Madam	madam	NOUN	S	Number=Sing	6	vocative	_	_
-9	President	president	NOUN	S	Number=Sing	8	compound	_	SpaceAfter=No
+8	Madam	madam	NOUN	S	Number=Sing	9	nmod:desc	_	_
+9	President	president	NOUN	S	Number=Sing	6	vocative	_	SpaceAfter=No
 10	,	,	PUNCT	FF	_	4	punct	_	_
 11	to	to	PART	PART	_	12	mark	_	_
 12	write	write	VERB	V	VerbForm=Inf	4	csubj	_	_
@@ -2011,17 +2011,17 @@
 7	shall	shall	AUX	VM	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	_
 8	do	do	VERB	V	VerbForm=Inf	0	root	_	_
 9	as	as	SCONJ	CS	_	13	mark	_	_
-10	Mr	mister	NOUN	S	Number=Sing	13	nsubj	_	_
-11	Evans	Evans	PROPN	SP	_	10	flat	_	_
+10	Mr	mister	NOUN	S	Number=Sing	11	nmod:desc	_	_
+11	Evans	Evans	PROPN	SP	_	13	nsubj	_	_
 12	has	have	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	aux	_	_
 13	suggested	suggest	VERB	V	Tense=Past|VerbForm=Part	8	advcl	_	SpaceAfter=No
 14	.	.	PUNCT	FS	_	8	punct	_	_
 
 # sent_id = en_partut-ud-82
 # text = Madam President, on a point of order.
-1	Madam	madam	NOUN	S	Number=Sing	6	vocative	_	_
-2	President	president	NOUN	S	Number=Sing	1	compound	_	SpaceAfter=No
-3	,	,	PUNCT	FF	_	1	punct	_	_
+1	Madam	madam	NOUN	S	Number=Sing	2	nmod:desc	_	_
+2	President	president	NOUN	S	Number=Sing	6	vocative	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	2	punct	_	_
 4	on	on	ADP	E	_	6	case	_	_
 5	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	6	det	_	_
 6	point	point	NOUN	S	Number=Sing	0	root	_	_
@@ -2173,9 +2173,9 @@
 
 # sent_id = en_partut-ud-89
 # text = Madam President, coinciding with this year's first part-session of the European Parliament, a date has been set, unfortunately for next Thursday, in Texas in America, for the execution of a young 34 year-old man who has been sentenced to death.
-1	Madam	madam	NOUN	S	Number=Sing	22	vocative	_	_
-2	President	president	NOUN	S	Number=Sing	1	compound	_	SpaceAfter=No
-3	,	,	PUNCT	FF	_	1	punct	_	_
+1	Madam	madam	NOUN	S	Number=Sing	2	nmod:desc	_	_
+2	President	president	NOUN	S	Number=Sing	22	vocative	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	2	punct	_	_
 4	coinciding	coincide	VERB	V	VerbForm=Ger	22	advcl	_	_
 5	with	with	ADP	E	_	12	case	_	_
 6	this	this	DET	DD	Number=Sing|PronType=Dem	7	det	_	_
@@ -2285,9 +2285,9 @@
 55	of	of	ADP	E	_	56	case	_	_
 56	Texas	Texas	PROPN	SP	_	54	nmod	_	SpaceAfter=No
 57	,	,	PUNCT	FF	_	54	punct	_	_
-58	Mr	mister	NOUN	S	Number=Sing	54	appos	_	_
-59	Bush	Bush	PROPN	SP	_	58	flat	_	SpaceAfter=No
-60	,	,	PUNCT	FF	_	58	punct	_	_
+58	Mr	mister	NOUN	S	Number=Sing	59	nmod:desc	_	_
+59	Bush	Bush	PROPN	SP	_	54	appos	_	SpaceAfter=No
+60	,	,	PUNCT	FF	_	59	punct	_	_
 61	who	who	PRON	PR	PronType=Rel	62	nsubj	_	_
 62	has	have	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	54	acl:relcl	_	_
 63	the	the	DET	RD	Definite=Def|PronType=Art	64	det	_	_
@@ -2328,8 +2328,8 @@
 1	Thank	thank	VERB	V	Mood=Ind|VerbForm=Fin	0	root	_	_
 2	you	you	PRON	PE	PronType=Prs	1	obj	_	SpaceAfter=No
 3	,	,	PUNCT	FF	_	1	punct	_	_
-4	Mr	mister	NOUN	S	Number=Sing	1	vocative	_	_
-5	Segni	Segni	PROPN	SP	_	4	flat	_	SpaceAfter=No
+4	Mr	mister	NOUN	S	Number=Sing	5	nmod:desc	_	_
+5	Segni	Segni	PROPN	SP	_	1	vocative	_	SpaceAfter=No
 6	,	,	PUNCT	FF	_	9	punct	_	_
 7	I	I	PRON	PE	Number=Sing|Person=1|PronType=Prs	9	nsubj	_	_
 8	shall	shall	AUX	VM	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	9	aux	_	_
@@ -2359,9 +2359,9 @@
 
 # sent_id = en_partut-ud-94
 # text = Madam President, I should like to draw your attention to a case in which this Parliament has consistently shown an interest.
-1	Madam	madam	NOUN	S	Number=Sing	6	vocative	_	_
-2	President	president	NOUN	S	Number=Sing	1	compound	_	SpaceAfter=No
-3	,	,	PUNCT	FF	_	1	punct	_	_
+1	Madam	madam	NOUN	S	Number=Sing	2	nmod:desc	_	_
+2	President	president	NOUN	S	Number=Sing	6	vocative	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	2	punct	_	_
 4	I	I	PRON	PE	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
 5	should	shall	AUX	VM	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	6	aux	_	_
 6	like	like	VERB	V	VerbForm=Inf	0	root	_	_
@@ -2573,9 +2573,9 @@
 # text = Yes, Mrs Schroedter, I shall be pleased to look into the facts of this case when I have received your letter.
 1	Yes	yes	INTJ	_	_	9	discourse	_	SpaceAfter=No
 2	,	,	PUNCT	FF	_	1	punct	_	_
-3	Mrs	mrs	NOUN	S	Number=Sing	9	vocative	_	_
-4	Schroedter	Schroedter	PROPN	SP	_	3	flat	_	SpaceAfter=No
-5	,	,	PUNCT	FF	_	3	punct	_	_
+3	Mrs	mrs	NOUN	S	Number=Sing	4	nmod:desc	_	_
+4	Schroedter	Schroedter	PROPN	SP	_	9	vocative	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	4	punct	_	_
 6	I	I	PRON	PE	Number=Sing|Person=1|PronType=Prs	9	nsubj	_	_
 7	shall	shall	AUX	VM	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	9	aux	_	_
 8	be	be	AUX	V	VerbForm=Inf	9	cop	_	_
@@ -2598,9 +2598,9 @@
 
 # sent_id = en_partut-ud-100
 # text = Madam President, I would firstly like to compliment you on the fact that you have kept your word and that, during this first part-session of the new year, the number of television channels in our offices has indeed increased considerably.
-1	Madam	madam	NOUN	S	Number=Sing	7	vocative	_	_
-2	President	president	NOUN	S	Number=Sing	1	compound	_	SpaceAfter=No
-3	,	,	PUNCT	FF	_	1	punct	_	_
+1	Madam	madam	NOUN	S	Number=Sing	2	nmod:desc	_	_
+2	President	president	NOUN	S	Number=Sing	7	vocative	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	2	punct	_	_
 4	I	I	PRON	PE	Number=Sing|Person=1|PronType=Prs	7	nsubj	_	_
 5	would	will	AUX	VM	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	7	aux	_	_
 6	firstly	firstly	ADV	B	_	7	advmod	_	_
@@ -2649,9 +2649,9 @@
 # text = But, Madam President, my personal request has not been met.
 1	But	but	CCONJ	CC	_	12	cc	_	SpaceAfter=No
 2	,	,	PUNCT	FF	_	12	punct	_	_
-3	Madam	madam	NOUN	S	Number=Sing	12	vocative	_	_
-4	President	president	NOUN	S	Number=Sing	3	compound	_	SpaceAfter=No
-5	,	,	PUNCT	FF	_	3	punct	_	_
+3	Madam	madam	NOUN	S	Number=Sing	4	nmod:desc	_	_
+4	President	president	NOUN	S	Number=Sing	12	vocative	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	4	punct	_	_
 6	my	my	DET	AP	Number=Sing|Poss=Yes|PronType=Prs	8	nmod:poss	_	_
 7	personal	personal	ADJ	A	Degree=Pos	8	amod	_	_
 8	request	request	NOUN	S	Number=Sing	12	nsubj:pass	_	_
@@ -2684,12 +2684,12 @@
 
 # sent_id = en_partut-ud-103
 # text = Mrs Plooij-Van Gorsel, I can tell you that this matter is on the agenda for the Quaestors' meeting on Wednesday.
-1	Mrs	mrs	NOUN	S	Number=Sing	9	vocative	_	_
-2	Plooij	Plooij	PROPN	SP	_	1	flat	_	SpaceAfter=No
-3	-	-	PUNCT	FF	_	1	punct	_	SpaceAfter=No
-4	Van	Van	PROPN	SP	_	1	flat	_	_
-5	Gorsel	Gorsel	PROPN	SP	_	1	flat	_	SpaceAfter=No
-6	,	,	PUNCT	FF	_	1	punct	_	_
+1	Mrs	mrs	NOUN	S	Number=Sing	2	nmod:desc	_	_
+2	Plooij	Plooij	PROPN	SP	_	9	vocative	_	SpaceAfter=No
+3	-	-	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+4	Van	Van	PROPN	SP	_	2	flat	_	_
+5	Gorsel	Gorsel	PROPN	SP	_	2	flat	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	2	punct	_	_
 7	I	I	PRON	PE	Number=Sing|Person=1|PronType=Prs	9	nsubj	_	_
 8	can	can	AUX	VM	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	9	aux	_	_
 9	tell	tell	VERB	V	VerbForm=Inf	0	root	_	_
@@ -2729,9 +2729,9 @@
 
 # sent_id = en_partut-ud-105
 # text = Madam President, can you tell me why this Parliament does not adhere to the health and safety legislation that it actually passes?
-1	Madam	madam	NOUN	S	Number=Sing	6	vocative	_	_
-2	President	president	NOUN	S	Number=Sing	1	compound	_	SpaceAfter=No
-3	,	,	PUNCT	FF	_	1	punct	_	_
+1	Madam	madam	NOUN	S	Number=Sing	2	nmod:desc	_	_
+2	President	president	NOUN	S	Number=Sing	6	vocative	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	2	punct	_	_
 4	can	can	AUX	VM	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	_
 5	you	you	PRON	PE	Person=2|PronType=Prs	6	nsubj	_	_
 6	tell	tell	VERB	V	VerbForm=Inf	0	root	_	_
@@ -2851,9 +2851,9 @@
 
 # sent_id = en_partut-ud-112
 # text = Mrs Lynne, you are quite right and I shall check whether this has actually not been done.
-1	Mrs	mrs	NOUN	S	Number=Sing	7	vocative	_	_
-2	Lynne	Lynne	PROPN	SP	_	1	flat	_	SpaceAfter=No
-3	,	,	PUNCT	FF	_	1	punct	_	_
+1	Mrs	mrs	NOUN	S	Number=Sing	2	nmod:desc	_	_
+2	Lynne	Lynne	PROPN	SP	_	7	vocative	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	2	punct	_	_
 4	you	you	PRON	PE	Person=2|PronType=Prs	7	nsubj	_	_
 5	are	be	AUX	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	7	cop	_	_
 6	quite	quite	ADV	B	_	7	advmod	_	_
@@ -2910,14 +2910,14 @@
 
 # sent_id = en_partut-ud-114
 # text = Madam President, Mrs Díez González and I had tabled questions on certain opinions of the Vice-President, Mrs De Palacio, which appeared in a Spanish newspaper.
-1	Madam	madam	NOUN	S	Number=Sing	10	vocative	_	_
-2	President	president	NOUN	S	Number=Sing	1	compound	_	SpaceAfter=No
-3	,	,	PUNCT	FF	_	1	punct	_	_
-4	Mrs	mrs	NOUN	S	Number=Sing	10	nsubj	_	_
-5	Díez	Díez	PROPN	SP	_	4	flat	_	_
-6	González	González	PROPN	SP	_	4	flat	_	_
+1	Madam	madam	NOUN	S	Number=Sing	2	nmod:desc	_	_
+2	President	president	NOUN	S	Number=Sing	10	vocative	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	2	punct	_	_
+4	Mrs	mrs	NOUN	S	Number=Sing	5	nmod:desc	_	_
+5	Díez	Díez	PROPN	SP	_	10	nsubj	_	_
+6	González	González	PROPN	SP	_	5	flat	_	_
 7	and	and	CCONJ	CC	_	8	cc	_	_
-8	I	I	PRON	PE	Number=Sing|Person=1|PronType=Prs	4	conj	_	_
+8	I	I	PRON	PE	Number=Sing|Person=1|PronType=Prs	5	conj	_	_
 9	had	have	AUX	VA	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	10	aux	_	_
 10	tabled	table	VERB	V	Tense=Past|VerbForm=Part	0	root	_	_
 11	questions	question	NOUN	S	Number=Plur	10	obj	_	_
@@ -2930,10 +2930,10 @@
 18	-	-	PUNCT	FF	_	19	punct	_	SpaceAfter=No
 19	President	president	NOUN	S	Number=Sing	14	nmod	_	SpaceAfter=No
 20	,	,	PUNCT	FF	_	19	punct	_	_
-21	Mrs	mrs	NOUN	S	Number=Sing	19	appos	_	_
-22	De	De	PROPN	SP	_	21	flat	_	_
-23	Palacio	Palacio	PROPN	SP	_	21	flat	_	SpaceAfter=No
-24	,	,	PUNCT	FF	_	21	punct	_	_
+21	Mrs	mrs	NOUN	S	Number=Sing	22	nmod:desc	_	_
+22	De	De	PROPN	SP	_	19	appos	_	_
+23	Palacio	Palacio	PROPN	SP	_	22	flat	_	SpaceAfter=No
+24	,	,	PUNCT	FF	_	22	punct	_	_
 25	which	which	PRON	PR	PronType=Rel	26	nsubj	_	_
 26	appeared	appear	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	19	acl:relcl	_	_
 27	in	in	ADP	E	_	30	case	_	_
@@ -2978,11 +2978,11 @@
 4	previously	previously	ADV	B	_	3	advmod	_	_
 5	referred	refer	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 6	to	to	ADP	E	_	11	case	_	_
-7	Mrs	mrs	NOUN	S	Number=Sing	11	nmod	_	_
-8	De	De	PROPN	SP	_	7	flat	_	_
+7	Mrs	mrs	NOUN	S	Number=Sing	8	nmod:desc	_	_
+8	De	De	PROPN	SP	_	11	nmod	_	_
 9-10	Palacio's	_	_	_	_	_	_	_	_
-9	Palacio	Palacio	PROPN	SP	_	7	flat	_	_
-10	's	's	PART	PART	_	7	case	_	_
+9	Palacio	Palacio	PROPN	SP	_	8	flat	_	_
+10	's	's	PART	PART	_	8	case	_	_
 11	intervention	intervention	NOUN	S	Number=Sing	5	obl	_	SpaceAfter=No
 12	,	,	PUNCT	FF	_	11	punct	_	_
 13	on	on	ADP	E	_	15	case	_	_
@@ -3045,9 +3045,9 @@
 
 # sent_id = en_partut-ud-121
 # text = Madam President, I should like to know if there will be a clear message going out from Parliament this week about our discontent over today's decision refusing to renew the arms embargo on Indonesia, considering that the vast majority in this Parliament have endorsed the arms embargo in Indonesia in the past?
-1	Madam	madam	NOUN	S	Number=Sing	6	vocative	_	_
-2	President	president	NOUN	S	Number=Sing	1	compound	_	SpaceAfter=No
-3	,	,	PUNCT	FF	_	1	punct	_	_
+1	Madam	madam	NOUN	S	Number=Sing	2	nmod:desc	_	_
+2	President	president	NOUN	S	Number=Sing	6	vocative	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	2	punct	_	_
 4	I	I	PRON	PE	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
 5	should	shall	AUX	VM	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	6	aux	_	_
 6	like	like	VERB	V	VerbForm=Inf	0	root	_	_
@@ -3212,9 +3212,9 @@
 
 # sent_id = en_partut-ud-128
 # text = Madam President, the presentation of the Prodi Commission's political programme for the whole legislature was initially a proposal by the Group of the Party of European Socialists which was unanimously approved by the Conference of Presidents in September and which was also explicitly accepted by President Prodi, who reiterated his commitment in his inaugural speech.
-1	Madam	madam	NOUN	S	Number=Sing	20	vocative	_	_
-2	President	president	NOUN	S	Number=Sing	1	compound	_	SpaceAfter=No
-3	,	,	PUNCT	FF	_	1	punct	_	_
+1	Madam	madam	NOUN	S	Number=Sing	2	nmod:desc	_	_
+2	President	president	NOUN	S	Number=Sing	20	vocative	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	2	punct	_	_
 4	the	the	DET	RD	Definite=Def|PronType=Art	5	det	_	_
 5	presentation	presentation	NOUN	S	Number=Sing	20	nsubj	_	_
 6	of	of	ADP	E	_	12	case	_	_
@@ -3259,12 +3259,12 @@
 44	also	also	ADV	B	_	45	advmod	_	_
 45	explicitly	explicitly	ADV	B	_	46	advmod	_	_
 46	accepted	accept	VERB	V	Tense=Past|VerbForm=Part	33	conj	_	_
-47	by	by	ADP	E	_	48	case	_	_
-48	President	president	NOUN	S	Number=Sing	46	obl	_	_
-49	Prodi	Prodi	PROPN	SP	_	48	flat	_	SpaceAfter=No
-50	,	,	PUNCT	FF	_	48	punct	_	_
+47	by	by	ADP	E	_	49	case	_	_
+48	President	president	NOUN	S	Number=Sing	49	nmod:desc	_	_
+49	Prodi	Prodi	PROPN	SP	_	46	obl	_	SpaceAfter=No
+50	,	,	PUNCT	FF	_	49	punct	_	_
 51	who	who	PRON	PR	PronType=Rel	52	nsubj	_	_
-52	reiterated	reiterate	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	48	acl:relcl	_	_
+52	reiterated	reiterate	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	49	acl:relcl	_	_
 53	his	his	DET	AP	Poss=Yes|PronType=Prs	54	nmod:poss	_	_
 54	commitment	commitment	NOUN	S	Number=Sing	52	obj	_	_
 55	in	in	ADP	E	_	58	case	_	_
@@ -3326,8 +3326,8 @@
 6	point	point	VERB	V	VerbForm=Inf	4	xcomp	_	_
 7	out	out	ADP	E	_	6	compound:prt	_	SpaceAfter=No
 8	,	,	PUNCT	FF	_	6	punct	_	_
-9	Madam	madam	NOUN	S	Number=Sing	6	vocative	_	_
-10	President	president	NOUN	S	Number=Sing	9	compound	_	SpaceAfter=No
+9	Madam	madam	NOUN	S	Number=Sing	10	nmod:desc	_	_
+10	President	president	NOUN	S	Number=Sing	6	vocative	_	SpaceAfter=No
 11	,	,	PUNCT	FF	_	6	punct	_	_
 12	that	that	SCONJ	CS	_	15	mark	_	_
 13	this	this	DET	DD	Number=Sing|PronType=Dem	14	det	_	_
@@ -3337,9 +3337,9 @@
 17	express	express	VERB	V	VerbForm=Inf	15	advcl	_	_
 18	its	its	DET	AP	Number=Sing|Poss=Yes|PronType=Prs	19	nmod:poss	_	_
 19	confidence	confidence	NOUN	S	Number=Sing	17	obj	_	_
-20	in	in	ADP	E	_	21	case	_	_
-21	President	president	NOUN	S	Number=Sing	19	nmod	_	_
-22	Prodi	Prodi	PROPN	SP	_	21	flat	_	_
+20	in	in	ADP	E	_	22	case	_	_
+21	President	president	NOUN	S	Number=Sing	22	nmod:desc	_	_
+22	Prodi	Prodi	PROPN	SP	_	19	nmod	_	_
 23	during	during	ADP	E	_	26	case	_	_
 24	the	the	DET	RD	Definite=Def|PronType=Art	26	det	_	_
 25	previous	previous	ADJ	A	Degree=Pos	26	amod	_	_
@@ -3628,9 +3628,9 @@
 # text = Therefore, Madam President, I would ask you to request that the Commission express its opinion on this issue and that we then proceed to the vote.
 1	Therefore	therefore	ADV	B	_	8	advmod	_	SpaceAfter=No
 2	,	,	PUNCT	FF	_	1	punct	_	_
-3	Madam	madam	NOUN	S	Number=Sing	8	vocative	_	_
-4	President	president	NOUN	S	Number=Sing	3	compound	_	SpaceAfter=No
-5	,	,	PUNCT	FF	_	3	punct	_	_
+3	Madam	madam	NOUN	S	Number=Sing	4	nmod:desc	_	_
+4	President	president	NOUN	S	Number=Sing	8	vocative	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	4	punct	_	_
 6	I	I	PRON	PE	Number=Sing|Person=1|PronType=Prs	8	nsubj	_	_
 7	would	will	AUX	VM	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	8	aux	_	_
 8	ask	ask	VERB	V	VerbForm=Inf	0	root	_	_
@@ -3800,8 +3800,8 @@
 1	Thank	thank	VERB	V	Mood=Ind|VerbForm=Fin	0	root	_	_
 2	you	you	PRON	PE	PronType=Prs	1	obj	_	SpaceAfter=No
 3	,	,	PUNCT	FF	_	1	punct	_	_
-4	Mr	mister	NOUN	S	Number=Sing	1	vocative	_	_
-5	Poettering	Poettering	PROPN	SP	_	4	flat	_	SpaceAfter=No
+4	Mr	mister	NOUN	S	Number=Sing	5	nmod:desc	_	_
+5	Poettering	Poettering	PROPN	SP	_	1	vocative	_	SpaceAfter=No
 6	.	.	PUNCT	FS	_	1	punct	_	_
 
 # sent_id = en_partut-ud-145
@@ -3810,8 +3810,8 @@
 2	shall	shall	AUX	VM	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
 3	now	now	ADV	B	_	4	advmod	_	_
 4	hear	hear	VERB	V	VerbForm=Inf	0	root	_	_
-5	Mr	mister	NOUN	S	Number=Sing	4	obj	_	_
-6	Wurtz	Wurtz	PROPN	SP	_	5	flat	_	_
+5	Mr	mister	NOUN	S	Number=Sing	6	nmod:desc	_	_
+6	Wurtz	Wurtz	PROPN	SP	_	4	obj	_	_
 7	speaking	speak	VERB	V	VerbForm=Ger	4	advcl	_	_
 8	against	against	ADP	E	_	10	case	_	_
 9	this	this	DET	DD	Number=Sing|PronType=Dem	10	det	_	_
@@ -3820,9 +3820,9 @@
 
 # sent_id = en_partut-ud-146
 # text = Madam President, I would firstly like to point out Mr Poettering's lack of logic.
-1	Madam	madam	NOUN	S	Number=Sing	7	vocative	_	_
-2	President	president	NOUN	S	Number=Sing	1	compound	_	SpaceAfter=No
-3	,	,	PUNCT	FF	_	1	punct	_	_
+1	Madam	madam	NOUN	S	Number=Sing	2	nmod:desc	_	_
+2	President	president	NOUN	S	Number=Sing	7	vocative	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	2	punct	_	_
 4	I	I	PRON	PE	Number=Sing|Person=1|PronType=Prs	7	nsubj	_	_
 5	would	will	AUX	VM	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	7	aux	_	_
 6	firstly	firstly	ADV	B	_	7	advmod	_	_
@@ -3830,9 +3830,9 @@
 8	to	to	PART	PART	_	9	mark	_	_
 9	point	point	VERB	V	VerbForm=Inf	7	xcomp	_	_
 10	out	out	ADP	E	_	9	compound:prt	_	_
-11	Mr	mister	NOUN	S	Number=Sing	14	nmod	_	_
+11	Mr	mister	NOUN	S	Number=Sing	12	nmod:desc	_	_
 12-13	Poettering's	_	_	_	_	_	_	_	_
-12	Poettering	Poettering	PROPN	SP	_	11	flat	_	_
+12	Poettering	Poettering	PROPN	SP	_	14	nmod	_	_
 13	's	's	PART	PART	_	12	case	_	_
 14	lack	lack	NOUN	S	Number=Sing	9	obj	_	_
 15	of	of	ADP	E	_	16	case	_	_
@@ -3905,16 +3905,16 @@
 
 # sent_id = en_partut-ud-150
 # text = Madam President, I would like to thank Mr Poettering for advertising this debate.
-1	Madam	madam	NOUN	S	Number=Sing	6	vocative	_	_
-2	President	president	NOUN	S	Number=Sing	1	compound	_	SpaceAfter=No
-3	,	,	PUNCT	FF	_	1	punct	_	_
+1	Madam	madam	NOUN	S	Number=Sing	2	nmod:desc	_	_
+2	President	president	NOUN	S	Number=Sing	6	vocative	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	2	punct	_	_
 4	I	I	PRON	PE	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
 5	would	will	AUX	VM	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	6	aux	_	_
 6	like	like	VERB	V	VerbForm=Inf	0	root	_	_
 7	to	to	PART	PART	_	8	mark	_	_
 8	thank	thank	VERB	V	VerbForm=Inf	6	xcomp	_	_
-9	Mr	mister	NOUN	S	Number=Sing	8	obj	_	_
-10	Poettering	Poettering	PROPN	SP	_	9	flat	_	_
+9	Mr	mister	NOUN	S	Number=Sing	10	nmod:desc	_	_
+10	Poettering	Poettering	PROPN	SP	_	8	obj	_	_
 11	for	for	ADP	E	_	12	mark	_	_
 12	advertising	advertize	VERB	V	VerbForm=Ger	8	advcl	_	_
 13	this	this	DET	DD	Number=Sing|PronType=Dem	14	det	_	_
@@ -3942,9 +3942,9 @@
 
 # sent_id = en_partut-ud-153
 # text = Madam President, the Presidency has already declared the result of the vote.
-1	Madam	madam	NOUN	S	Number=Sing	8	vocative	_	_
-2	President	president	NOUN	S	Number=Sing	1	compound	_	SpaceAfter=No
-3	,	,	PUNCT	FF	_	1	punct	_	_
+1	Madam	madam	NOUN	S	Number=Sing	2	nmod:desc	_	_
+2	President	president	NOUN	S	Number=Sing	8	vocative	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	2	punct	_	_
 4	the	the	DET	RD	Definite=Def|PronType=Art	5	det	_	_
 5	Presidency	presidency	NOUN	S	Number=Sing	8	nsubj	_	_
 6	has	have	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	_
@@ -3969,9 +3969,9 @@
 
 # sent_id = en_partut-ud-155
 # text = Madam President, in the earlier vote - and I will abide by your ruling on this matter - on the question of the strategic plan of the Commission I indicated that I would like to speak in advance of the vote on behalf of my Group.
-1	Madam	madam	NOUN	S	Number=Sing	31	vocative	_	_
-2	President	president	NOUN	S	Number=Sing	1	compound	_	SpaceAfter=No
-3	,	,	PUNCT	FF	_	1	punct	_	_
+1	Madam	madam	NOUN	S	Number=Sing	2	nmod:desc	_	_
+2	President	president	NOUN	S	Number=Sing	31	vocative	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	2	punct	_	_
 4	in	in	ADP	E	_	7	case	_	_
 5	the	the	DET	RD	Definite=Def|PronType=Art	7	det	_	_
 6	earlier	earlier	ADJ	A	Degree=Cmp	7	amod	_	_
@@ -4063,9 +4063,9 @@
 
 # sent_id = en_partut-ud-158
 # text = Madam President, I do not wish to reopen the debate, but I had also asked for the floor, to comment on Mr Barón Crespo's motion.
-1	Madam	madam	NOUN	S	Number=Sing	7	vocative	_	_
-2	President	president	NOUN	S	Number=Sing	1	compound	_	SpaceAfter=No
-3	,	,	PUNCT	FF	_	1	punct	_	_
+1	Madam	madam	NOUN	S	Number=Sing	2	nmod:desc	_	_
+2	President	president	NOUN	S	Number=Sing	7	vocative	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	2	punct	_	_
 4	I	I	PRON	PE	Number=Sing|Person=1|PronType=Prs	7	nsubj	_	_
 5	do	do	AUX	VM	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	7	aux	_	_
 6	not	not	PART	PART	Polarity=Neg	7	advmod	_	_
@@ -4087,11 +4087,11 @@
 22	to	to	PART	PART	_	23	mark	_	_
 23	comment	comment	VERB	V	VerbForm=Inf	20	acl	_	_
 24	on	on	ADP	E	_	29	case	_	_
-25	Mr	mister	NOUN	S	Number=Sing	29	nmod	_	_
-26	Barón	Barón	PROPN	SP	_	25	flat	_	_
+25	Mr	mister	NOUN	S	Number=Sing	26	nmod:desc	_	_
+26	Barón	Barón	PROPN	SP	_	29	nmod	_	_
 27-28	Crespo's	_	_	_	_	_	_	_	_
-27	Crespo	Crespo	PROPN	SP	_	25	flat	_	_
-28	's	's	PART	PART	_	25	case	_	_
+27	Crespo	Crespo	PROPN	SP	_	26	flat	_	_
+28	's	's	PART	PART	_	26	case	_	_
 29	motion	motion	NOUN	S	Number=Sing	23	obl	_	SpaceAfter=No
 30	.	.	PUNCT	FS	_	7	punct	_	_
 
@@ -4243,12 +4243,12 @@
 
 # sent_id = en_partut-ud-166
 # text = Mr Cox, Mr Hänsch, would this be acceptable to you?
-1	Mr	mister	NOUN	S	Number=Sing	10	vocative	_	_
-2	Cox	Cox	PROPN	SP	_	1	flat	_	SpaceAfter=No
-3	,	,	PUNCT	FF	_	4	punct	_	_
-4	Mr	mister	NOUN	S	Number=Sing	1	conj	_	_
-5	Hänsch	Hänsch	PROPN	SP	_	4	flat	_	SpaceAfter=No
-6	,	,	PUNCT	FF	_	1	punct	_	_
+1	Mr	mister	NOUN	S	Number=Sing	2	nmod:desc	_	_
+2	Cox	Cox	PROPN	SP	_	10	vocative	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	5	punct	_	_
+4	Mr	mister	NOUN	S	Number=Sing	5	nmod:desc	_	_
+5	Hänsch	Hänsch	PROPN	SP	_	2	conj	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	2	punct	_	_
 7	would	will	AUX	VM	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	10	aux	_	_
 8	this	this	PRON	PD	Number=Sing|PronType=Dem	10	nsubj	_	_
 9	be	be	AUX	V	VerbForm=Inf	10	cop	_	_
@@ -4259,9 +4259,9 @@
 
 # sent_id = en_partut-ud-167
 # text = Madam President, if the vote records correctly how my Group voted I shall not, and cannot, object to that.
-1	Madam	madam	NOUN	S	Number=Sing	21	vocative	_	_
-2	President	president	NOUN	S	Number=Sing	1	compound	_	SpaceAfter=No
-3	,	,	PUNCT	FF	_	1	punct	_	_
+1	Madam	madam	NOUN	S	Number=Sing	2	nmod:desc	_	_
+2	President	president	NOUN	S	Number=Sing	21	vocative	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	2	punct	_	_
 4	if	if	SCONJ	CS	_	7	mark	_	_
 5	the	the	DET	RD	Definite=Def|PronType=Art	6	det	_	_
 6	vote	vote	NOUN	S	Number=Sing	7	nsubj	_	_
@@ -4349,9 +4349,9 @@
 
 # sent_id = en_partut-ud-171
 # text = Madam President, we cannot and must not accept the fact that we hear ever more frequently of accidents causing major damage on our roads, but also on our railways and waterways, not solely but at least partly because those involved do not take the transport of dangerous goods seriously enough or because - as a result of ignorance or a lack of training on the part of the drivers or others responsible for the various vehicles - a minor accident has all too often become a major disaster.
-1	Madam	madam	NOUN	S	Number=Sing	10	vocative	_	_
-2	President	president	NOUN	S	Number=Sing	1	compound	_	SpaceAfter=No
-3	,	,	PUNCT	FF	_	1	punct	_	_
+1	Madam	madam	NOUN	S	Number=Sing	2	nmod:desc	_	_
+2	President	president	NOUN	S	Number=Sing	10	vocative	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	2	punct	_	_
 4	we	we	PRON	PE	Number=Plur|Person=1|PronType=Prs	10	nsubj	_	_
 5-6	cannot	_	_	_	_	_	_	_	_
 5	can	can	AUX	VM	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	10	aux	_	_
@@ -4799,9 +4799,9 @@
 
 # sent_id = en_partut-ud-182
 # text = Madam President, first of all I should like to thank Mr Koch for his report which has, at its heart, the issue of transport safety.
-1	Madam	madam	NOUN	S	Number=Sing	9	vocative	_	_
-2	President	president	NOUN	S	Number=Sing	1	compound	_	SpaceAfter=No
-3	,	,	PUNCT	FF	_	1	punct	_	_
+1	Madam	madam	NOUN	S	Number=Sing	2	nmod:desc	_	_
+2	President	president	NOUN	S	Number=Sing	9	vocative	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	2	punct	_	_
 4	first	first	ADJ	NO	Degree=Pos|NumType=Ord	9	amod	_	_
 5	of	of	ADP	E	_	6	case	_	_
 6	all	all	DET	T	PronType=Tot	4	obl	_	_
@@ -4810,8 +4810,8 @@
 9	like	like	VERB	V	VerbForm=Inf	0	root	_	_
 10	to	to	PART	PART	_	11	mark	_	_
 11	thank	thank	VERB	V	VerbForm=Inf	9	xcomp	_	_
-12	Mr	mister	NOUN	S	Number=Sing	11	obj	_	_
-13	Koch	Koch	PROPN	SP	_	12	flat	_	_
+12	Mr	mister	NOUN	S	Number=Sing	13	nmod:desc	_	_
+13	Koch	Koch	PROPN	SP	_	11	obj	_	_
 14	for	for	ADP	E	_	16	case	_	_
 15	his	his	DET	AP	Poss=Yes|PronType=Prs	16	nmod:poss	_	_
 16	report	report	NOUN	S	Number=Sing	11	obl	_	_
@@ -5040,9 +5040,9 @@
 
 # sent_id = en_partut-ud-190
 # text = Madam President, I would like to make a few comments.
-1	Madam	madam	NOUN	S	Number=Sing	6	vocative	_	_
-2	President	president	NOUN	S	Number=Sing	1	compound	_	SpaceAfter=No
-3	,	,	PUNCT	FF	_	1	punct	_	_
+1	Madam	madam	NOUN	S	Number=Sing	2	nmod:desc	_	_
+2	President	president	NOUN	S	Number=Sing	6	vocative	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	2	punct	_	_
 4	I	I	PRON	PE	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
 5	would	will	AUX	VM	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	6	aux	_	_
 6	like	like	VERB	V	VerbForm=Inf	0	root	_	_
@@ -5479,9 +5479,9 @@
 
 # sent_id = en_partut-ud-207
 # text = Madam President, the importance of transport safety is highlighted on a regular basis in this Parliament and rightly so.
-1	Madam	madam	NOUN	S	Number=Sing	10	vocative	_	_
-2	President	president	NOUN	S	Number=Sing	1	compound	_	SpaceAfter=No
-3	,	,	PUNCT	FF	_	1	punct	_	_
+1	Madam	madam	NOUN	S	Number=Sing	2	nmod:desc	_	_
+2	President	president	NOUN	S	Number=Sing	10	vocative	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	2	punct	_	_
 4	the	the	DET	RD	Definite=Def|PronType=Art	5	det	_	_
 5	importance	importance	NOUN	S	Number=Sing	10	nsubj:pass	_	_
 6	of	of	ADP	E	_	8	case	_	_
@@ -5676,9 +5676,9 @@
 
 # sent_id = en_partut-ud-214
 # text = Mr President, Commissioner, I should first like to congratulate Mr Koch on his reports which, though technical, are nonetheless of very great significance for safety.
-1	Mr	mister	NOUN	S	Number=Sing	9	vocative	_	_
-2	President	president	NOUN	S	Number=Sing	1	compound	_	SpaceAfter=No
-3	,	,	PUNCT	FF	_	1	punct	_	_
+1	Mr	mister	NOUN	S	Number=Sing	2	nmod:desc	_	_
+2	President	president	NOUN	S	Number=Sing	9	vocative	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	2	punct	_	_
 4	Commissioner	commissioner	NOUN	S	Number=Sing	9	vocative	_	SpaceAfter=No
 5	,	,	PUNCT	FF	_	4	punct	_	_
 6	I	I	PRON	PE	Number=Sing|Person=1|PronType=Prs	9	nsubj	_	_
@@ -5687,8 +5687,8 @@
 9	like	like	VERB	V	VerbForm=Inf	0	root	_	_
 10	to	to	PART	PART	_	11	mark	_	_
 11	congratulate	congratulate	VERB	V	VerbForm=Inf	9	xcomp	_	_
-12	Mr	mister	NOUN	S	Number=Sing	11	obj	_	_
-13	Koch	Koch	PROPN	SP	_	12	flat	_	_
+12	Mr	mister	NOUN	S	Number=Sing	13	nmod:desc	_	_
+13	Koch	Koch	PROPN	SP	_	11	obj	_	_
 14	on	on	ADP	E	_	16	case	_	_
 15	his	his	DET	AP	Poss=Yes|PronType=Prs	16	nmod:poss	_	_
 16	reports	report	NOUN	S	Number=Plur	11	obl	_	_
@@ -5932,10 +5932,10 @@
 2	you	you	PRON	PE	Person=2|PronType=Prs	3	nsubj	_	_
 3	know	know	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	10	advcl	_	SpaceAfter=No
 4	,	,	PUNCT	FF	_	3	punct	_	_
-5	like	like	ADP	E	_	6	case	_	_
-6	Mr	mister	NOUN	S	Number=Sing	10	obl	_	_
-7	Rack	Rack	PROPN	SP	_	6	flat	_	SpaceAfter=No
-8	,	,	PUNCT	FF	_	6	punct	_	_
+5	like	like	ADP	E	_	7	case	_	_
+6	Mr	mister	NOUN	S	Number=Sing	7	nmod:desc	_	_
+7	Rack	Rack	PROPN	SP	_	10	obl	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	7	punct	_	_
 9	I	I	PRON	PE	Number=Sing|Person=1|PronType=Prs	10	nsubj	_	_
 10	come	come	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 11	from	from	ADP	E	_	14	case	_	_
@@ -5986,9 +5986,9 @@
 
 # sent_id = en_partut-ud-228
 # text = Mr President, I would firstly like to congratulate the rapporteur, Mr Koch, on his magnificent work and his positive cooperation with the Commission with regard to improving the texts and presenting this report and this proposal;
-1	Mr	mister	NOUN	S	Number=Sing	7	vocative	_	_
-2	President	president	NOUN	S	Number=Sing	1	compound	_	SpaceAfter=No
-3	,	,	PUNCT	FF	_	1	punct	_	_
+1	Mr	mister	NOUN	S	Number=Sing	2	nmod:desc	_	_
+2	President	president	NOUN	S	Number=Sing	7	vocative	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	2	punct	_	_
 4	I	I	PRON	PE	Number=Sing|Person=1|PronType=Prs	7	nsubj	_	_
 5	would	will	AUX	VM	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	7	aux	_	_
 6	firstly	firstly	ADV	B	_	7	advmod	_	_
@@ -5998,9 +5998,9 @@
 10	the	the	DET	RD	Definite=Def|PronType=Art	11	det	_	_
 11	rapporteur	rapporteur	NOUN	S	Number=Sing	9	obj	_	SpaceAfter=No
 12	,	,	PUNCT	FF	_	11	punct	_	_
-13	Mr	mister	NOUN	S	Number=Sing	11	appos	_	_
-14	Koch	Koch	PROPN	SP	_	13	flat	_	SpaceAfter=No
-15	,	,	PUNCT	FF	_	13	punct	_	_
+13	Mr	mister	NOUN	S	Number=Sing	14	nmod:desc	_	_
+14	Koch	Koch	PROPN	SP	_	11	appos	_	SpaceAfter=No
+15	,	,	PUNCT	FF	_	14	punct	_	_
 16	on	on	ADP	E	_	19	case	_	_
 17	his	his	DET	AP	Poss=Yes|PronType=Prs	19	nmod:poss	_	_
 18	magnificent	magnificent	ADJ	A	Degree=Pos	19	amod	_	_
@@ -6215,8 +6215,8 @@
 # sent_id = en_partut-ud-233
 # text = As Mr Simpson has said very correctly, this is a process which we can never take for granted or regard as having come to an end.
 1	As	as	SCONJ	CS	_	5	mark	_	_
-2	Mr	mister	NOUN	S	Number=Sing	5	nsubj	_	_
-3	Simpson	Simpson	PROPN	SP	_	2	flat	_	_
+2	Mr	mister	NOUN	S	Number=Sing	3	nmod:desc	_	_
+3	Simpson	Simpson	PROPN	SP	_	5	nsubj	_	_
 4	has	have	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
 5	said	say	VERB	V	Tense=Past|VerbForm=Part	12	advcl	_	_
 6	very	very	ADV	B	_	7	advmod	_	_
@@ -6290,8 +6290,8 @@
 18	tunnels	tunnel	NOUN	S	Number=Plur	15	nmod	_	SpaceAfter=No
 19	,	,	PUNCT	FF	_	15	punct	_	_
 20	which	which	PRON	PR	PronType=Rel	26	obj	_	_
-21	Messrs	messrs	NOUN	S	Number=Plur	26	nsubj	_	_
-22	Rack	Rack	PROPN	SP	_	21	nmod	_	_
+21	Messrs	messrs	NOUN	S	Number=Plur	22	nmod:desc	_	_
+22	Rack	Rack	PROPN	SP	_	26	nsubj	_	_
 23	and	and	CCONJ	CC	_	24	cc	_	_
 24	Swoboda	Swoboda	PROPN	SP	_	22	conj	_	_
 25	have	have	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	26	aux	_	_
@@ -6570,8 +6570,8 @@
 15	the	the	DET	RD	Definite=Def|PronType=Art	16	det	_	_
 16	rapporteur	rapporteur	NOUN	S	Number=Sing	11	conj	_	SpaceAfter=No
 17	,	,	PUNCT	FF	_	16	punct	_	_
-18	Mr	mister	NOUN	S	Number=Sing	16	appos	_	_
-19	Koch	Koch	PROPN	SP	_	18	flat	_	SpaceAfter=No
+18	Mr	mister	NOUN	S	Number=Sing	19	nmod:desc	_	_
+19	Koch	Koch	PROPN	SP	_	16	appos	_	SpaceAfter=No
 20	.	.	PUNCT	FS	_	3	punct	_	_
 
 # sent_id = en_partut-ud-244
@@ -6618,9 +6618,9 @@
 9	/	/	PUNCT	FF	_	8	punct	_	SpaceAfter=No
 10	1999	1999	NUM	N	NumType=Card	8	nummod	_	SpaceAfter=No
 11	)	)	PUNCT	FB	_	8	punct	_	_
-12	by	by	ADP	E	_	13	case	_	_
-13	Mr	mister	NOUN	S	Number=Sing	6	nmod	_	_
-14	Koch	Koch	PROPN	SP	_	13	flat	_	SpaceAfter=No
+12	by	by	ADP	E	_	14	case	_	_
+13	Mr	mister	NOUN	S	Number=Sing	14	nmod:desc	_	_
+14	Koch	Koch	PROPN	SP	_	6	nmod	_	SpaceAfter=No
 15	,	,	PUNCT	FF	_	6	punct	_	_
 16	on	on	ADP	E	_	17	case	_	_
 17	behalf	behalf	NOUN	S	Number=Sing	6	nmod	_	_
@@ -6694,9 +6694,9 @@
 
 # sent_id = en_partut-ud-248
 # text = Mr President, Commissioner, ladies and gentlemen, the Directive on the approximation of the laws of the member states with regard to the transport of dangerous goods by road, which entered into force on 1 January 1997, contains a number of transitional provisions which are only valid for a limited period of time, the term of validity being linked to the completion of specific standardisation work by the CEN, that is the European committee for standardisation.
-1	Mr	mister	NOUN	S	Number=Sing	42	vocative	_	_
-2	President	president	NOUN	S	Number=Sing	1	compound	_	SpaceAfter=No
-3	,	,	PUNCT	FF	_	1	punct	_	_
+1	Mr	mister	NOUN	S	Number=Sing	2	nmod:desc	_	_
+2	President	president	NOUN	S	Number=Sing	42	vocative	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	2	punct	_	_
 4	Commissioner	commissioner	NOUN	S	Number=Sing	42	vocative	_	SpaceAfter=No
 5	,	,	PUNCT	FF	_	4	punct	_	_
 6	ladies	lady	NOUN	S	Number=Plur	42	vocative	_	_
@@ -7225,9 +7225,9 @@
 
 # sent_id = en_partut-ud-265
 # text = Mr President, colleagues, a happy new year and millennium to you all.
-1	Mr	mister	NOUN	S	Number=Sing	9	vocative	_	_
-2	President	president	NOUN	S	Number=Sing	1	compound	_	SpaceAfter=No
-3	,	,	PUNCT	FF	_	1	punct	_	_
+1	Mr	mister	NOUN	S	Number=Sing	2	nmod:desc	_	_
+2	President	president	NOUN	S	Number=Sing	9	vocative	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	2	punct	_	_
 4	colleagues	colleague	NOUN	S	Number=Plur	9	vocative	_	SpaceAfter=No
 5	,	,	PUNCT	FF	_	4	punct	_	_
 6	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	9	det	_	_
@@ -7446,9 +7446,9 @@
 
 # sent_id = en_partut-ud-276
 # text = Mr President, with your permission I should like to begin by expressing my admiration for the way in which you executed the quick changeover of the chairmanship just now during the debate.
-1	Mr	mister	NOUN	S	Number=Sing	9	vocative	_	_
-2	President	president	NOUN	S	Number=Sing	1	compound	_	SpaceAfter=No
-3	,	,	PUNCT	FF	_	1	punct	_	_
+1	Mr	mister	NOUN	S	Number=Sing	2	nmod:desc	_	_
+2	President	president	NOUN	S	Number=Sing	9	vocative	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	2	punct	_	_
 4	with	with	ADP	E	_	6	case	_	_
 5	your	you	DET	AP	Poss=Yes|PronType=Prs	6	nmod:poss	_	_
 6	permission	permission	NOUN	S	Number=Sing	9	obl	_	_
@@ -7572,9 +7572,9 @@
 1	The	the	DET	RD	Definite=Def|PronType=Art	2	det	_	_
 2	rapporteur	rapporteur	NOUN	S	Number=Sing	25	nsubj	_	SpaceAfter=No
 3	,	,	PUNCT	FF	_	2	punct	_	_
-4	Mr	mister	NOUN	S	Number=Sing	2	appos	_	_
-5	Koch	Koch	PROPN	SP	_	4	flat	_	SpaceAfter=No
-6	,	,	PUNCT	FF	_	4	punct	_	_
+4	Mr	mister	NOUN	S	Number=Sing	5	nmod:desc	_	_
+5	Koch	Koch	PROPN	SP	_	2	appos	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	5	punct	_	_
 7	to	to	ADP	E	_	8	case	_	_
 8	whom	who	PRON	PR	PronType=Rel	10	obl	_	_
 9	we	we	PRON	PE	Number=Plur|Person=1|PronType=Prs	10	nsubj	_	_
@@ -7721,9 +7721,9 @@
 24	of	of	ADP	E	_	25	case	_	_
 25	Parliament	parliament	NOUN	S	Number=Sing	23	nmod	_	SpaceAfter=No
 26	,	,	PUNCT	FF	_	23	punct	_	_
-27	Mr	mister	NOUN	S	Number=Sing	23	appos	_	_
-28	Ari	Ari	PROPN	SP	_	27	flat	_	_
-29	Vatanen	Vatanen	PROPN	SP	_	27	flat	_	SpaceAfter=No
+27	Mr	mister	NOUN	S	Number=Sing	28	nmod:desc	_	_
+28	Ari	Ari	PROPN	SP	_	23	appos	_	_
+29	Vatanen	Vatanen	PROPN	SP	_	28	flat	_	SpaceAfter=No
 30	.	.	PUNCT	FS	_	3	punct	_	_
 
 # sent_id = en_partut-ud-286
@@ -7820,25 +7820,25 @@
 
 # sent_id = en_partut-ud-290
 # text = Mr President, I would like to thank not only Mr Koch, but also the Vice-President of the Commission for the clear and unambiguous way in which they have declared their support for safety in the transport sector and acknowledged it as a priority.
-1	Mr	mister	NOUN	S	Number=Sing	6	vocative	_	_
-2	President	president	NOUN	S	Number=Sing	1	compound	_	SpaceAfter=No
-3	,	,	PUNCT	FF	_	1	punct	_	_
+1	Mr	mister	NOUN	S	Number=Sing	2	nmod:desc	_	_
+2	President	president	NOUN	S	Number=Sing	6	vocative	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	2	punct	_	_
 4	I	I	PRON	PE	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
 5	would	will	AUX	VM	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	6	aux	_	_
 6	like	like	VERB	V	VerbForm=Inf	0	root	_	_
 7	to	to	PART	PART	_	8	mark	_	_
 8	thank	thank	VERB	V	VerbForm=Inf	6	xcomp	_	_
 9	not	not	PART	PART	Polarity=Neg	10	advmod	_	_
-10	only	only	ADV	B	_	11	advmod	_	_
-11	Mr	mister	NOUN	S	Number=Sing	8	obj	_	_
-12	Koch	Koch	PROPN	SP	_	11	flat	_	SpaceAfter=No
+10	only	only	ADV	B	_	12	advmod	_	_
+11	Mr	mister	NOUN	S	Number=Sing	12	nmod:desc	_	_
+12	Koch	Koch	PROPN	SP	_	8	obj	_	SpaceAfter=No
 13	,	,	PUNCT	FF	_	19	punct	_	_
 14	but	but	CCONJ	CC	_	19	cc	_	_
 15	also	also	ADV	B	_	19	advmod	_	_
 16	the	the	DET	RD	Definite=Def|PronType=Art	19	det	_	_
 17	Vice	vice	NOUN	S	Number=Sing	19	compound	_	SpaceAfter=No
 18	-	-	PUNCT	FF	_	19	punct	_	SpaceAfter=No
-19	President	president	NOUN	S	Number=Sing	11	conj	_	_
+19	President	president	NOUN	S	Number=Sing	12	conj	_	_
 20	of	of	ADP	E	_	22	case	_	_
 21	the	the	DET	RD	Definite=Def|PronType=Art	22	det	_	_
 22	Commission	commission	NOUN	S	Number=Sing	19	nmod	_	_
@@ -7957,8 +7957,8 @@
 2	moment	moment	NOUN	S	Number=Sing	3	obl	_	_
 3	ago	ago	ADV	B	_	7	advmod	_	SpaceAfter=No
 4	,	,	PUNCT	FF	_	3	punct	_	_
-5	Mr	mister	NOUN	S	Number=Sing	7	nsubj	_	_
-6	Vatanen	Vatanen	PROPN	SP	_	5	flat	_	_
+5	Mr	mister	NOUN	S	Number=Sing	6	nmod:desc	_	_
+6	Vatanen	Vatanen	PROPN	SP	_	7	nsubj	_	_
 7	spoke	speak	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 8	to	to	ADP	E	_	9	case	_	_
 9	us	us	PRON	PE	Number=Plur|Person=1|PronType=Prs	7	obl	_	_
@@ -8050,10 +8050,10 @@
 7	with	with	ADP	E	_	8	case	_	_
 8	regard	regard	NOUN	S	Number=Sing	5	obl	_	_
 9	to	to	ADP	E	_	13	case	_	_
-10	Mr	mister	NOUN	S	Number=Sing	13	nmod	_	_
+10	Mr	mister	NOUN	S	Number=Sing	11	nmod:desc	_	_
 11-12	Swoboda's	_	_	_	_	_	_	_	_
-11	Swoboda	Swoboda	PROPN	SP	_	10	flat	_	_
-12	's	's	PART	PART	_	10	case	_	_
+11	Swoboda	Swoboda	PROPN	SP	_	13	nmod	_	_
+12	's	's	PART	PART	_	11	case	_	_
 13	comments	comment	NOUN	S	Number=Plur	8	nmod	_	_
 14	on	on	ADP	E	_	16	case	_	_
 15	the	the	DET	RD	Definite=Def|PronType=Art	16	det	_	_
@@ -8129,9 +8129,9 @@
 13	the	the	DET	RD	Definite=Def|PronType=Art	14	det	_	_
 14	rapporteur	rapporteur	NOUN	S	Number=Sing	11	conj	_	SpaceAfter=No
 15	,	,	PUNCT	FF	_	14	punct	_	_
-16	Mr	mister	NOUN	S	Number=Sing	14	appos	_	_
-17	Koch	Koch	PROPN	SP	_	16	flat	_	SpaceAfter=No
-18	,	,	PUNCT	FF	_	16	punct	_	_
+16	Mr	mister	NOUN	S	Number=Sing	17	nmod:desc	_	_
+17	Koch	Koch	PROPN	SP	_	14	appos	_	SpaceAfter=No
+18	,	,	PUNCT	FF	_	17	punct	_	_
 19	which	which	PRON	PR	PronType=Rel	21	nsubj	_	_
 20	are	be	AUX	VA	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	21	aux	_	_
 21	contained	contain	VERB	V	Tense=Past|VerbForm=Part	7	acl:relcl	_	_
@@ -8181,10 +8181,10 @@
 9	/	/	PUNCT	FF	_	8	punct	_	SpaceAfter=No
 10	1999	1999	NUM	N	NumType=Card	8	nummod	_	SpaceAfter=No
 11	)	)	PUNCT	FB	_	8	punct	_	_
-12	by	by	ADP	E	_	13	case	_	_
-13	Mrs	mrs	NOUN	S	Number=Sing	6	nmod	_	_
-14	Schroedter	Schroedter	PROPN	SP	_	13	flat	_	SpaceAfter=No
-15	,	,	PUNCT	FF	_	13	punct	_	_
+12	by	by	ADP	E	_	14	case	_	_
+13	Mrs	mrs	NOUN	S	Number=Sing	14	nmod:desc	_	_
+14	Schroedter	Schroedter	PROPN	SP	_	6	nmod	_	SpaceAfter=No
+15	,	,	PUNCT	FF	_	14	punct	_	_
 16	on	on	ADP	E	_	17	case	_	_
 17	behalf	behalf	NOUN	S	Number=Sing	6	nmod	_	_
 18	of	of	ADP	E	_	20	case	_	_
@@ -8222,9 +8222,9 @@
 
 # sent_id = en_partut-ud-304
 # text = Mr President, it is particularly pleasing for me to make my first speech in the European Parliament on what is regarded as the most important issue within that part of the United Kingdom that I represent in this Parliament, namely Wales.
-1	Mr	mister	NOUN	S	Number=Sing	7	vocative	_	_
-2	President	president	NOUN	S	Number=Sing	1	compound	_	SpaceAfter=No
-3	,	,	PUNCT	FF	_	1	punct	_	_
+1	Mr	mister	NOUN	S	Number=Sing	2	nmod:desc	_	_
+2	President	president	NOUN	S	Number=Sing	7	vocative	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	2	punct	_	_
 4	it	it	PRON	PE	Number=Sing|Person=3|PronType=Prs	7	expl	_	_
 5	is	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
 6	particularly	particularly	ADV	B	_	7	advmod	_	_
@@ -8565,9 +8565,9 @@
 
 # sent_id = en_partut-ud-317
 # text = Mr President, our committee views these issues very differently and, to start, I will speak from the point of view of research.
-1	Mr	mister	NOUN	S	Number=Sing	6	vocative	_	_
-2	President	president	NOUN	S	Number=Sing	1	compound	_	SpaceAfter=No
-3	,	,	PUNCT	FF	_	1	punct	_	_
+1	Mr	mister	NOUN	S	Number=Sing	2	nmod:desc	_	_
+2	President	president	NOUN	S	Number=Sing	6	vocative	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	2	punct	_	_
 4	our	us	DET	AP	Poss=Yes|PronType=Prs	5	nmod:poss	_	_
 5	committee	committee	NOUN	S	Number=Sing	6	nsubj	_	_
 6	views	view	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
@@ -9019,8 +9019,8 @@
 2	her	her	DET	AP	Poss=Yes|PronType=Prs	3	nmod:poss	_	_
 3	report	report	NOUN	S	Number=Sing	8	obl	_	SpaceAfter=No
 4	,	,	PUNCT	FF	_	3	punct	_	_
-5	Mrs	mrs	NOUN	S	Number=Sing	8	nsubj	_	_
-6	Flautre	Flautre	PROPN	SP	_	5	flat	_	_
+5	Mrs	mrs	NOUN	S	Number=Sing	6	nmod:desc	_	_
+6	Flautre	Flautre	PROPN	SP	_	8	nsubj	_	_
 7	also	also	ADV	B	_	8	advmod	_	_
 8	drew	draw	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 9	attention	attention	NOUN	S	Number=Sing	8	obj	_	_
@@ -9145,9 +9145,9 @@
 
 # sent_id = en_partut-ud-334
 # text = Mr President, Commissioner, the proposal presented by the Commission, in accordance with its mandate, is a reasonable starting point for the Committee on Agriculture and Rural Development.
-1	Mr	mister	NOUN	S	Number=Sing	23	vocative	_	_
-2	President	president	NOUN	S	Number=Sing	1	compound	_	SpaceAfter=No
-3	,	,	PUNCT	FF	_	1	punct	_	_
+1	Mr	mister	NOUN	S	Number=Sing	2	nmod:desc	_	_
+2	President	president	NOUN	S	Number=Sing	23	vocative	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	2	punct	_	_
 4	Commissioner	commissioner	NOUN	S	Number=Sing	23	vocative	_	SpaceAfter=No
 5	,	,	PUNCT	FF	_	4	punct	_	_
 6	the	the	DET	RD	Definite=Def|PronType=Art	7	det	_	_
@@ -9625,9 +9625,9 @@
 
 # sent_id = en_partut-ud-348
 # text = Mr President, Commissioner, I would like to begin by thanking Mrs Schroedter, the rapporteur, for her work.
-1	Mr	mister	NOUN	S	Number=Sing	8	vocative	_	_
-2	President	president	NOUN	S	Number=Sing	1	compound	_	SpaceAfter=No
-3	,	,	PUNCT	FF	_	1	punct	_	_
+1	Mr	mister	NOUN	S	Number=Sing	2	nmod:desc	_	_
+2	President	president	NOUN	S	Number=Sing	8	vocative	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	2	punct	_	_
 4	Commissioner	commissioner	NOUN	S	Number=Sing	8	vocative	_	SpaceAfter=No
 5	,	,	PUNCT	FF	_	4	punct	_	_
 6	I	I	PRON	PE	Number=Sing|Person=1|PronType=Prs	8	nsubj	_	_
@@ -9637,11 +9637,11 @@
 10	begin	begin	VERB	V	VerbForm=Inf	8	xcomp	_	_
 11	by	by	ADP	E	_	12	mark	_	_
 12	thanking	thank	VERB	V	VerbForm=Ger	10	advcl	_	_
-13	Mrs	mrs	NOUN	S	Number=Sing	12	obj	_	_
-14	Schroedter	Schroedter	PROPN	SP	_	13	flat	_	SpaceAfter=No
-15	,	,	PUNCT	FF	_	13	punct	_	_
+13	Mrs	mrs	NOUN	S	Number=Sing	14	nmod:desc	_	_
+14	Schroedter	Schroedter	PROPN	SP	_	12	obj	_	SpaceAfter=No
+15	,	,	PUNCT	FF	_	14	punct	_	_
 16	the	the	DET	RD	Definite=Def|PronType=Art	17	det	_	_
-17	rapporteur	rapporteur	NOUN	S	Number=Sing	13	appos	_	SpaceAfter=No
+17	rapporteur	rapporteur	NOUN	S	Number=Sing	14	appos	_	SpaceAfter=No
 18	,	,	PUNCT	FF	_	17	punct	_	_
 19	for	for	ADP	E	_	21	case	_	_
 20	her	her	DET	AP	Poss=Yes|PronType=Prs	21	nmod:poss	_	_
@@ -10068,9 +10068,9 @@
 
 # sent_id = en_partut-ud-358
 # text = Mr President, it is incumbent upon me to remind my colleague, Mr Evans, of why Wales actually achieved Objective 1 status.
-1	Mr	mister	NOUN	S	Number=Sing	6	vocative	_	_
-2	President	president	NOUN	S	Number=Sing	1	compound	_	SpaceAfter=No
-3	,	,	PUNCT	FF	_	1	punct	_	_
+1	Mr	mister	NOUN	S	Number=Sing	2	nmod:desc	_	_
+2	President	president	NOUN	S	Number=Sing	6	vocative	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	2	punct	_	_
 4	it	it	PRON	PE	Number=Sing|Person=3|PronType=Prs	6	expl	_	_
 5	is	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
 6	incumbent	incumbent	ADJ	A	Degree=Pos	0	root	_	_
@@ -10081,9 +10081,9 @@
 11	my	my	DET	AP	Number=Sing|Poss=Yes|PronType=Prs	12	nmod:poss	_	_
 12	colleague	colleague	NOUN	S	Number=Sing	10	iobj	_	SpaceAfter=No
 13	,	,	PUNCT	FF	_	12	punct	_	_
-14	Mr	mister	NOUN	S	Number=Sing	12	appos	_	_
-15	Evans	Evans	PROPN	SP	_	14	flat	_	SpaceAfter=No
-16	,	,	PUNCT	FF	_	14	punct	_	_
+14	Mr	mister	NOUN	S	Number=Sing	15	nmod:desc	_	_
+15	Evans	Evans	PROPN	SP	_	12	appos	_	SpaceAfter=No
+16	,	,	PUNCT	FF	_	15	punct	_	_
 17	of	of	ADP	E	_	21	case	_	_
 18	why	why	SCONJ	CS	_	21	mark	_	_
 19	Wales	Wales	PROPN	SP	_	21	nsubj	_	_
@@ -10123,9 +10123,9 @@
 9	party	party	NOUN	S	Number=Sing	10	nmod	_	_
 10	leader	leader	NOUN	S	Number=Sing	16	nsubj	_	SpaceAfter=No
 11	,	,	PUNCT	FF	_	10	punct	_	_
-12	Mr	mister	NOUN	S	Number=Sing	10	appos	_	_
-13	Hague	Hague	PROPN	SP	_	12	flat	_	SpaceAfter=No
-14	,	,	PUNCT	FF	_	12	punct	_	_
+12	Mr	mister	NOUN	S	Number=Sing	13	nmod:desc	_	_
+13	Hague	Hague	PROPN	SP	_	10	appos	_	SpaceAfter=No
+14	,	,	PUNCT	FF	_	13	punct	_	_
 15	was	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	16	cop	_	_
 16	Secretary	secretary	NOUN	S	Number=Sing	23	advcl	_	_
 17	of	of	ADP	E	_	18	case	_	_
@@ -10148,9 +10148,9 @@
 34	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	36	det	_	_
 35	stern	stern	ADJ	A	Degree=Pos	36	amod	_	_
 36	letter	letter	NOUN	S	Number=Sing	32	obl	_	_
-37	from	from	ADP	E	_	38	case	_	_
-38	Commissioner	commissioner	NOUN	S	Number=Sing	36	nmod	_	_
-39	Wulf	Wulf	PROPN	SP	_	38	nmod	_	SpaceAfter=No
+37	from	from	ADP	E	_	39	case	_	_
+38	Commissioner	commissioner	NOUN	S	Number=Sing	39	nmod:desc	_	_
+39	Wulf	Wulf	PROPN	SP	_	36	nmod	_	SpaceAfter=No
 40	-	-	PUNCT	FF	_	39	punct	_	SpaceAfter=No
 41	Mathies	Mathies	PROPN	SP	_	39	flat	_	_
 42	regarding	regard	VERB	V	Number=Sing|Tense=Pres|VerbForm=Part	36	acl	_	_
@@ -10184,8 +10184,8 @@
 # text = I suggest Mr Evans goes back and reads the Regulation.
 1	I	I	PRON	PE	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
 2	suggest	suggest	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
-3	Mr	mister	NOUN	S	Number=Sing	5	nsubj	_	_
-4	Evans	Evans	PROPN	SP	_	3	flat	_	_
+3	Mr	mister	NOUN	S	Number=Sing	4	nmod:desc	_	_
+4	Evans	Evans	PROPN	SP	_	5	nsubj	_	_
 5	goes	go	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ccomp	_	_
 6	back	back	ADV	B	_	5	advmod	_	_
 7	and	and	CCONJ	CC	_	8	cc	_	_
@@ -10724,9 +10724,9 @@
 
 # sent_id = en_partut-ud-389
 # text = Mr President, Commissioner, as proof that this Parliament has not yet overcome its role as a consultative and subordinate institution, the excellent report by a fellow member of my Group, Elisabeth Schroedter, has not been able to reach plenary sitting because the plans for regional development for the period 2000-2006 for Objective 1 regions have been sitting in the Commission's offices for several months.
-1	Mr	mister	NOUN	S	Number=Sing	41	vocative	_	_
-2	President	president	NOUN	S	Number=Sing	1	compound	_	SpaceAfter=No
-3	,	,	PUNCT	FF	_	1	punct	_	_
+1	Mr	mister	NOUN	S	Number=Sing	2	nmod:desc	_	_
+2	President	president	NOUN	S	Number=Sing	41	vocative	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	2	punct	_	_
 4	Commissioner	commissioner	NOUN	S	Number=Sing	41	vocative	_	SpaceAfter=No
 5	,	,	PUNCT	FF	_	4	punct	_	_
 6	as	as	ADP	E	_	7	case	_	_
@@ -10856,9 +10856,9 @@
 
 # sent_id = en_partut-ud-391
 # text = Mr President, we should not forget that the main, strategic objective of the Structural and Cohesion Funds and of their coordination is to achieve economic and social cohesion.
-1	Mr	mister	NOUN	S	Number=Sing	7	vocative	_	_
-2	President	president	NOUN	S	Number=Sing	1	compound	_	SpaceAfter=No
-3	,	,	PUNCT	FF	_	1	punct	_	_
+1	Mr	mister	NOUN	S	Number=Sing	2	nmod:desc	_	_
+2	President	president	NOUN	S	Number=Sing	7	vocative	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	2	punct	_	_
 4	we	we	PRON	PE	Number=Plur|Person=1|PronType=Prs	7	nsubj	_	_
 5	should	shall	AUX	VM	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	7	aux	_	_
 6	not	not	PART	PART	Polarity=Neg	7	advmod	_	_
@@ -11325,9 +11325,9 @@
 
 # sent_id = en_partut-ud-407
 # text = Mr President, I support the main proposals of the report concerning the administration of the Structural Funds and the Cohesion Fund for the period 2000-2006 and the main recommendations of the report which include the following:
-1	Mr	mister	NOUN	S	Number=Sing	5	vocative	_	_
-2	President	president	NOUN	S	Number=Sing	1	compound	_	SpaceAfter=No
-3	,	,	PUNCT	FF	_	1	punct	_	_
+1	Mr	mister	NOUN	S	Number=Sing	2	nmod:desc	_	_
+2	President	president	NOUN	S	Number=Sing	5	vocative	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	2	punct	_	_
 4	I	I	PRON	PE	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_
 5	support	support	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 6	the	the	DET	RD	Definite=Def|PronType=Art	8	det	_	_
@@ -11559,9 +11559,9 @@
 
 # sent_id = en_partut-ud-414
 # text = Mr President, on numerous occasions in the past I have disagreed with the rapporteur on her approach to regional policy issues.
-1	Mr	mister	NOUN	S	Number=Sing	12	vocative	_	_
-2	President	president	NOUN	S	Number=Sing	1	compound	_	SpaceAfter=No
-3	,	,	PUNCT	FF	_	1	punct	_	_
+1	Mr	mister	NOUN	S	Number=Sing	2	nmod:desc	_	_
+2	President	president	NOUN	S	Number=Sing	12	vocative	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	2	punct	_	_
 4	on	on	ADP	E	_	6	case	_	_
 5	numerous	numerous	DET	DI	PronType=Ind	6	det	_	_
 6	occasions	occasion	NOUN	S	Number=Plur	12	obl	_	_
@@ -11618,9 +11618,9 @@
 31	,	,	PUNCT	FF	_	30	punct	_	_
 32	as	as	SCONJ	CS	_	46	mark	_	_
 33	we	we	PRON	PE	Number=Plur|Person=1|PronType=Prs	46	nsubj	_	_
-34	and	and	CCONJ	CC	_	35	cc	_	_
-35	Mrs	mrs	NOUN	S	Number=Sing	33	conj	_	_
-36	Mccarthy	Mccarthy	PROPN	SP	_	35	flat	_	SpaceAfter=No
+34	and	and	CCONJ	CC	_	36	cc	_	_
+35	Mrs	mrs	NOUN	S	Number=Sing	36	nmod:desc	_	_
+36	Mccarthy	Mccarthy	PROPN	SP	_	33	conj	_	SpaceAfter=No
 37	,	,	PUNCT	FF	_	33	punct	_	_
 38	as	as	ADP	E	_	39	case	_	_
 39	rapporteurs	rapporteur	NOUN	S	Number=Plur	33	nmod	_	_
@@ -11874,9 +11874,9 @@
 
 # sent_id = en_partut-ud-426
 # text = Mr President, Commissioner, in this minute and a half I should like, first of all, to congratulate Mrs Schroedter.
-1	Mr	mister	NOUN	S	Number=Sing	14	vocative	_	_
-2	President	president	NOUN	S	Number=Sing	1	compound	_	SpaceAfter=No
-3	,	,	PUNCT	FF	_	1	punct	_	_
+1	Mr	mister	NOUN	S	Number=Sing	2	nmod:desc	_	_
+2	President	president	NOUN	S	Number=Sing	14	vocative	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	2	punct	_	_
 4	Commissioner	commissioner	NOUN	S	Number=Sing	14	vocative	_	SpaceAfter=No
 5	,	,	PUNCT	FF	_	4	punct	_	_
 6	in	in	ADP	E	_	8	case	_	_
@@ -11895,8 +11895,8 @@
 19	,	,	PUNCT	FF	_	14	punct	_	_
 20	to	to	PART	PART	_	21	mark	_	_
 21	congratulate	congratulate	VERB	V	VerbForm=Inf	14	xcomp	_	_
-22	Mrs	mrs	NOUN	S	Number=Sing	21	obj	_	_
-23	Schroedter	Schroedter	PROPN	SP	_	22	flat	_	SpaceAfter=No
+22	Mrs	mrs	NOUN	S	Number=Sing	23	nmod:desc	_	_
+23	Schroedter	Schroedter	PROPN	SP	_	21	obj	_	SpaceAfter=No
 24	.	.	PUNCT	FS	_	14	punct	_	_
 
 # sent_id = en_partut-ud-427
@@ -12320,9 +12320,9 @@
 
 # sent_id = en_partut-ud-443
 # text = Mr President, the priority given to financial and monetary criteria reinforces the increase in inequalities of every shape and form.
-1	Mr	mister	NOUN	S	Number=Sing	12	vocative	_	_
-2	President	president	NOUN	S	Number=Sing	1	compound	_	SpaceAfter=No
-3	,	,	PUNCT	FF	_	1	punct	_	_
+1	Mr	mister	NOUN	S	Number=Sing	2	nmod:desc	_	_
+2	President	president	NOUN	S	Number=Sing	12	vocative	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	2	punct	_	_
 4	the	the	DET	RD	Definite=Def|PronType=Art	5	det	_	_
 5	priority	priority	NOUN	S	Number=Sing	12	nsubj	_	_
 6	given	give	VERB	V	Tense=Past|VerbForm=Part	5	acl	_	_
@@ -23995,9 +23995,9 @@
 12	address	address	NOUN	S	Number=Sing	18	obl	_	SpaceAfter=No
 13	,	,	PUNCT	FF	_	12	punct	_	_
 14	US	US	PROPN	SP	_	15	nmod	_	_
-15	President	president	NOUN	S	Number=Sing	18	nsubj	_	_
-16	Barack	Barack	PROPN	SP	_	15	flat	_	_
-17	Obama	Obama	PROPN	SP	_	15	flat	_	_
+15	President	president	NOUN	S	Number=Sing	16	nmod:desc	_	_
+16	Barack	Barack	PROPN	SP	_	18	nsubj	_	_
+17	Obama	Obama	PROPN	SP	_	16	flat	_	_
 18	reiterated	reiterate	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 19	his	his	DET	AP	Poss=Yes|PronType=Prs	20	nmod:poss	_	_
 20	ambition	ambition	NOUN	S	Number=Sing	18	obj	_	_
@@ -24132,8 +24132,8 @@
 1	As	as	SCONJ	CS	_	7	mark	_	_
 2	Indian	Indian	ADJ	A	Degree=Pos	4	amod	_	_
 3	Commerce	commerce	NOUN	S	Number=Sing	4	nmod	_	_
-4	Minister	minister	NOUN	S	Number=Sing	7	nsubj	_	_
-5	Anand	Anand	PROPN	SP	_	4	nmod	_	_
+4	Minister	minister	NOUN	S	Number=Sing	5	nmod:desc	_	_
+5	Anand	Anand	PROPN	SP	_	7	nsubj	_	_
 6	Sharma	Sharma	PROPN	SP	_	5	flat	_	_
 7	put	put	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	15	advcl	_	_
 8	it	it	PRON	PE	Number=Sing|Person=3|PronType=Prs	7	obj	_	SpaceAfter=No
@@ -24787,8 +24787,8 @@
 3	Bank	Bank	PROPN	SP	_	6	nmod	_	_
 4	of	of	ADP	E	_	5	case	_	_
 5	England	England	PROPN	SP	_	3	nmod	_	_
-6	Governor	governor	NOUN	S	Number=Sing	9	nsubj	_	_
-7	Mark	Mark	PROPN	SP	_	6	nmod	_	_
+6	Governor	governor	NOUN	S	Number=Sing	7	nmod:desc	_	_
+7	Mark	Mark	PROPN	SP	_	9	nsubj	_	_
 8	Carney	Carney	PROPN	SP	_	7	flat	_	_
 9	surprised	surprise	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 10	his	his	DET	AP	Poss=Yes|PronType=Prs	11	nmod:poss	_	_
@@ -26721,16 +26721,16 @@
 
 # sent_id = en_partut-ud-1169
 # text = Chancellor Angela Merkel must reach out to President Vladimir Putin to ensure that Russia is a partner, not an opponent, in the Ukrainian renaissance.
-1	Chancellor	chancellor	NOUN	S	Number=Sing	5	nsubj	_	_
-2	Angela	Angela	PROPN	SP	_	1	nmod	_	_
+1	Chancellor	chancellor	NOUN	S	Number=Sing	2	nmod:desc	_	_
+2	Angela	Angela	PROPN	SP	_	5	nsubj	_	_
 3	Merkel	Merkel	PROPN	SP	_	2	flat	_	_
 4	must	must	AUX	VM	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
 5	reach	reach	VERB	V	VerbForm=Inf	0	root	_	_
 6	out	out	ADP	E	_	5	compound:prt	_	_
-7	to	to	ADP	E	_	8	case	_	_
-8	President	president	NOUN	S	Number=Sing	5	obl	_	_
-9	Vladimir	Vladimir	PROPN	SP	_	8	flat	_	_
-10	Putin	Putin	PROPN	SP	_	8	flat	_	_
+7	to	to	ADP	E	_	9	case	_	_
+8	President	president	NOUN	S	Number=Sing	9	nmod:desc	_	_
+9	Vladimir	Vladimir	PROPN	SP	_	5	obl	_	_
+10	Putin	Putin	PROPN	SP	_	9	flat	_	_
 11	to	to	PART	PART	_	12	mark	_	_
 12	ensure	ensure	VERB	V	VerbForm=Inf	5	advcl	_	_
 13	that	that	SCONJ	CS	_	17	mark	_	_
@@ -28751,11 +28751,11 @@
 1	In	in	ADP	E	_	2	case	_	_
 2	1987	1987	NUM	N	NumType=Card	19	obl	_	SpaceAfter=No
 3	,	,	PUNCT	FF	_	2	punct	_	_
-4	economist	economist	NOUN	S	Number=Sing	19	nsubj	_	_
-5	Robert	Robert	PROPN	SP	_	4	nmod	_	_
+4	economist	economist	NOUN	S	Number=Sing	5	nmod:desc	_	_
+5	Robert	Robert	PROPN	SP	_	19	nsubj	_	_
 6	Solow	Solow	PROPN	SP	_	5	flat	_	_
 7	–	–	PUNCT	FB	_	8	punct	_	_
-8	awarded	award	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	4	acl	_	_
+8	awarded	award	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	5	acl	_	_
 9	the	the	DET	RD	Definite=Def|PronType=Art	11	det	_	_
 10	Nobel	Nobel	PROPN	SP	_	11	nmod	_	_
 11	Prize	prize	NOUN	S	Number=Sing	8	obj	_	_
@@ -29742,10 +29742,10 @@
 7	presentation	presentation	NOUN	S	Number=Sing	3	nmod	_	SpaceAfter=No
 8	,	,	PUNCT	FF	_	7	punct	_	_
 9	delivered	deliver	VERB	V	Tense=Past|VerbForm=Part	7	acl	_	_
-10	by	by	ADP	E	_	12	case	_	_
+10	by	by	ADP	E	_	13	case	_	_
 11	GTC	GTC	PROPN	SP	_	12	nmod	_	_
-12	fellow	fellow	NOUN	S	Number=Sing	9	obl	_	_
-13	Stephen	Stephen	PROPN	SP	_	12	nmod	_	_
+12	fellow	fellow	NOUN	S	Number=Sing	13	nmod:desc	_	_
+13	Stephen	Stephen	PROPN	SP	_	9	obl	_	_
 14	Kennedy	Kennedy	PROPN	SP	_	13	flat	_	SpaceAfter=No
 15	,	,	PUNCT	FF	_	3	punct	_	_
 16	was	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	18	cop	_	_
@@ -31479,10 +31479,10 @@
 # text = Japanese Prime Minister Shinzo Abe, too, has identified increased female labor-force participation as critical to efforts to revive his country's long-dormant economy.
 1	Japanese	japanese	NOUN	S	Number=Sing	3	nmod	_	_
 2	Prime	prime	ADJ	A	Degree=Pos	3	amod	_	_
-3	Minister	Minister	PROPN	SP	_	10	nsubj	_	_
-4	Shinzo	Shinzo	PROPN	SP	_	3	flat	_	_
-5	Abe	Abe	PROPN	SP	_	3	flat	_	SpaceAfter=No
-6	,	,	PUNCT	FF	_	3	punct	_	_
+3	Minister	Minister	PROPN	SP	_	4	nmod:desc	_	_
+4	Shinzo	Shinzo	PROPN	SP	_	10	nsubj	_	_
+5	Abe	Abe	PROPN	SP	_	4	flat	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	4	punct	_	_
 7	too	too	ADV	B	_	10	advmod	_	SpaceAfter=No
 8	,	,	PUNCT	FF	_	7	punct	_	_
 9	has	have	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	aux	_	_
@@ -32542,10 +32542,10 @@
 17	then	then	ADV	B	_	19	advmod	_	SpaceAfter=No
 18	-	-	PUNCT	FF	_	17	punct	_	SpaceAfter=No
 19	Managing	manage	VERB	V	Number=Sing|Tense=Pres|VerbForm=Part	20	acl	_	_
-20	Director	Director	PROPN	SP	_	25	nsubj:pass	_	_
-21	Dominique	Dominique	PROPN	SP	_	20	nmod	_	_
-22	Strauss	Strauss	PROPN	SP	_	20	flat	_	_
-23	Kahn	Kahn	PROPN	SP	_	20	flat	_	_
+20	Director	Director	PROPN	SP	_	21	nmod:desc	_	_
+21	Dominique	Dominique	PROPN	SP	_	25	nsubj:pass	_	_
+22	Strauss	Strauss	PROPN	SP	_	21	flat	_	_
+23	Kahn	Kahn	PROPN	SP	_	21	flat	_	_
 24	was	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	25	aux:pass	_	_
 25	forced	force	VERB	V	Tense=Past|VerbForm=Part	3	csubj	_	_
 26	out	out	ADP	E	_	25	compound:prt	_	_
@@ -32958,11 +32958,11 @@
 2	whatever	whatever	DET	DI	PronType=Ind	3	det	_	_
 3	reason	reason	NOUN	S	Number=Sing	12	obl	_	SpaceAfter=No
 4	,	,	PUNCT	FF	_	3	punct	_	_
-5	President	president	NOUN	S	Number=Sing	9	nmod	_	_
-6	Barack	Barack	PROPN	SP	_	5	flat	_	_
+5	President	president	NOUN	S	Number=Sing	6	nmod:desc	_	_
+6	Barack	Barack	PROPN	SP	_	9	nmod	_	_
 7-8	Obama's	_	_	_	_	_	_	_	_
-7	Obama	Obama	PROPN	SP	_	5	flat	_	_
-8	's	's	PART	PART	_	5	case	_	_
+7	Obama	Obama	PROPN	SP	_	6	flat	_	_
+8	's	's	PART	PART	_	6	case	_	_
 9	administration	administration	NOUN	S	Number=Sing	12	nsubj	_	_
 10	did	do	AUX	VM	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	12	aux	_	_
 11	not	not	PART	PART	Polarity=Neg	12	advmod	_	_
@@ -34088,19 +34088,19 @@
 # sent_id = en_partut-ud-1462
 # text = Russian President Vladimir Putin's recent phone call to US President Barack Obama to seek renewed diplomatic talks, followed by a Russian white paper on how to resolve a crisis of the Kremlin's making, is in fact a peace offensive that is offensive to peace.
 1	Russian	russian	ADJ	A	Degree=Pos	2	amod	_	_
-2	President	president	NOUN	S	Number=Sing	8	nmod	_	_
-3	Vladimir	Vladimir	PROPN	SP	_	2	flat	_	_
+2	President	president	NOUN	S	Number=Sing	3	nmod:desc	_	_
+3	Vladimir	Vladimir	PROPN	SP	_	8	nmod	_	_
 4-5	Putin's	_	_	_	_	_	_	_	_
-4	Putin	Putin	PROPN	SP	_	2	flat	_	_
-5	's	's	PART	PART	_	2	case	_	_
+4	Putin	Putin	PROPN	SP	_	3	flat	_	_
+5	's	's	PART	PART	_	3	case	_	_
 6	recent	recent	ADJ	A	Degree=Pos	8	amod	_	_
 7	phone	phone	NOUN	S	Number=Sing	8	nmod	_	_
 8	call	call	NOUN	S	Number=Sing	43	nsubj	_	_
-9	to	to	ADP	E	_	11	case	_	_
+9	to	to	ADP	E	_	12	case	_	_
 10	US	US	PROPN	SP	_	11	nmod	_	_
-11	President	president	NOUN	S	Number=Sing	8	nmod	_	_
-12	Barack	Barack	PROPN	SP	_	11	flat	_	_
-13	Obama	Obama	PROPN	SP	_	11	flat	_	_
+11	President	president	NOUN	S	Number=Sing	12	nmod:desc	_	_
+12	Barack	Barack	PROPN	SP	_	8	nmod	_	_
+13	Obama	Obama	PROPN	SP	_	12	flat	_	_
 14	to	to	PART	PART	_	15	mark	_	_
 15	seek	seek	VERB	V	VerbForm=Inf	8	acl	_	_
 16	renewed	renew	VERB	V	Tense=Past|VerbForm=Part	18	acl	_	_
@@ -35561,8 +35561,8 @@
 2	–	–	PUNCT	FF	_	1	punct	_	_
 3	German	German	ADJ	A	Degree=Pos	5	amod	_	_
 4	Finance	finance	NOUN	S	Number=Sing	5	nmod	_	_
-5	Minister	Minister	PROPN	SP	_	9	nsubj	_	_
-6	Wolfgang	Wolfgang	PROPN	SP	_	5	nmod	_	_
+5	Minister	Minister	PROPN	SP	_	6	nmod:desc	_	_
+6	Wolfgang	Wolfgang	PROPN	SP	_	9	nsubj	_	_
 7	Schäuble	Schäuble	PROPN	SP	_	6	flat	_	_
 8	recently	recently	ADV	B	_	9	advmod	_	_
 9	declared	declare	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
@@ -36742,8 +36742,8 @@
 1	(	(	PUNCT	FB	_	31	punct	_	SpaceAfter=No
 2	Although	although	SCONJ	CS	_	13	mark	_	_
 3	Genevan	genevan	ADJ	A	Degree=Pos	4	amod	_	_
-4	philosopher	philosopher	NOUN	S	Number=Sing	11	nmod	_	_
-5	Jean	Jean	PROPN	SP	_	4	nmod	_	SpaceAfter=No
+4	philosopher	philosopher	NOUN	S	Number=Sing	5	nmod:desc	_	_
+5	Jean	Jean	PROPN	SP	_	11	nmod	_	SpaceAfter=No
 6	-	-	PUNCT	FF	_	5	punct	_	SpaceAfter=No
 7	Jacques	Jacques	PROPN	SP	_	5	flat	_	_
 8-9	Rousseau's	_	_	_	_	_	_	_	_
@@ -36826,8 +36826,8 @@
 11	cruel	cruel	ADJ	A	Degree=Pos	12	amod	_	_
 12	governess	governess	NOUN	S	Number=Sing	9	obj	_	_
 13	named	name	VERB	V	Tense=Past|VerbForm=Part	12	acl	_	_
-14	Miss	Miss	PROPN	SP	_	13	xcomp	_	_
-15	Caroline	Caroline	PROPN	SP	_	14	flat	_	SpaceAfter=No
+14	Miss	Miss	PROPN	SP	_	15	nmod:desc	_	_
+15	Caroline	Caroline	PROPN	SP	_	13	xcomp	_	SpaceAfter=No
 16	,	,	PUNCT	FF	_	12	punct	_	_
 17	modeled	modeled	VERB	V	Tense=Past|VerbForm=Part	12	acl	_	_
 18	after	after	ADP	E	_	21	case	_	_
@@ -37556,8 +37556,8 @@
 15	-	-	PUNCT	FB	_	21	punct	_	_
 16	as	as	SCONJ	CS	_	21	mark	_	_
 17	English	English	ADJ	A	Degree=Pos	18	amod	_	_
-18	critic	critic	NOUN	S	Number=Sing	21	nsubj	_	_
-19	George	George	PROPN	SP	_	18	nmod	_	_
+18	critic	critic	NOUN	S	Number=Sing	19	nmod:desc	_	_
+19	George	George	PROPN	SP	_	21	nsubj	_	_
 20	Saintsbury	Saintsbury	PROPN	SP	_	19	flat	_	_
 21	describes	describe	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	advcl	_	_
 22	it	it	PRON	PE	Number=Sing|Person=3|PronType=Prs	21	obj	_	_
@@ -37627,10 +37627,10 @@
 15	,	,	PUNCT	FF	_	11	punct	_	_
 16	based	based	VERB	V	Tense=Past|VerbForm=Part	11	acl	_	_
 17	on	on	ADP	E	_	22	case	_	_
-18	Lord	Lord	PROPN	SP	_	22	nmod	_	_
+18	Lord	Lord	PROPN	SP	_	19	nmod:desc	_	_
 19-20	Byron's	_	_	_	_	_	_	_	_
-19	Byron	Byron	PROPN	SP	_	18	flat	_	_
-20	's	's	PART	PART	_	18	case	_	_
+19	Byron	Byron	PROPN	SP	_	22	nmod	_	_
+20	's	's	PART	PART	_	19	case	_	_
 21	The	the	DET	RD	Definite=Def|PronType=Art	22	det	_	_
 22	Corsair	corsair	NOUN	S	Number=Sing	16	obl	_	SpaceAfter=No
 23	.	.	PUNCT	FS	_	7	punct	_	_
@@ -38876,13 +38876,13 @@
 1	Le	Le	X	SW	Foreign=Yes	14	nsubj	_	_
 2	Père	Père	X	SW	Foreign=Yes	1	flat:foreign	_	_
 3	Goriot	Goriot	X	SW	Foreign=Yes	1	flat:foreign	_	_
-4	(	(	PUNCT	FB	_	6	punct	_	SpaceAfter=No
+4	(	(	PUNCT	FB	_	7	punct	_	SpaceAfter=No
 5	Old	old	ADJ	A	Degree=Pos	6	amod	_	_
-6	Father	father	NOUN	S	Number=Sing	1	appos	_	_
-7	Goriot	Goriot	PROPN	SP	_	6	flat	_	SpaceAfter=No
-8	,	,	PUNCT	FF	_	6	punct	_	_
-9	1835	1835	NUM	N	NumType=Card	6	nummod	_	SpaceAfter=No
-10	)	)	PUNCT	FB	_	6	punct	_	_
+6	Father	father	NOUN	S	Number=Sing	7	nmod:desc	_	_
+7	Goriot	Goriot	PROPN	SP	_	1	appos	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	7	punct	_	_
+9	1835	1835	NUM	N	NumType=Card	7	nummod	_	SpaceAfter=No
+10	)	)	PUNCT	FB	_	7	punct	_	_
 11	was	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	14	cop	_	_
 12	his	his	DET	AP	Poss=Yes|PronType=Prs	14	nmod:poss	_	_
 13	next	next	ADJ	A	Degree=Pos	14	amod	_	_
@@ -38894,9 +38894,9 @@
 19	transposes	transpose	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	acl:relcl	_	_
 20	the	the	DET	RD	Definite=Def|PronType=Art	21	det	_	_
 21	story	story	NOUN	S	Number=Sing	19	obj	_	_
-22	of	of	ADP	E	_	23	case	_	_
-23	King	King	PROPN	SP	_	21	nmod	_	_
-24	Lear	Lear	PROPN	SP	_	23	flat	_	_
+22	of	of	ADP	E	_	24	case	_	_
+23	King	King	PROPN	SP	_	24	nmod:desc	_	_
+24	Lear	Lear	PROPN	SP	_	21	nmod	_	_
 25	to	to	ADP	E	_	28	case	_	_
 26-27	1820's	_	_	_	_	_	_	_	_
 26	1820	1820	NUM	N	NumType=Card	28	nummod	_	_
@@ -40611,8 +40611,8 @@
 # sent_id = en_partut-ud-1739
 # text = French novelist Émile Zola declared Balzac the father of the naturalist novel.
 1	French	French	PROPN	SP	_	2	nmod	_	_
-2	novelist	novelist	NOUN	S	Number=Sing	5	nsubj	_	_
-3	Émile	Émile	PROPN	SP	_	2	nmod	_	_
+2	novelist	novelist	NOUN	S	Number=Sing	3	nmod:desc	_	_
+3	Émile	Émile	PROPN	SP	_	5	nsubj	_	_
 4	Zola	Zola	PROPN	SP	_	3	flat	_	_
 5	declared	declare	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 6	Balzac	Balzac	PROPN	SP	_	5	obj	_	_
@@ -40742,9 +40742,9 @@
 3	reality	reality	NOUN	S	Number=Sing	5	nsubj:pass	_	_
 4	was	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	aux:pass	_	_
 5	noted	note	VERB	V	Tense=Past|VerbForm=Part	0	root	_	_
-6	by	by	ADP	E	_	7	case	_	_
-7	playwright	playwright	NOUN	S	Number=Sing	5	obl	_	_
-8	Oscar	Oscar	PROPN	SP	_	7	nmod	_	_
+6	by	by	ADP	E	_	8	case	_	_
+7	playwright	playwright	NOUN	S	Number=Sing	8	nmod:desc	_	_
+8	Oscar	Oscar	PROPN	SP	_	5	obl	_	_
 9	Wilde	Wilde	PROPN	SP	_	8	flat	_	SpaceAfter=No
 10	,	,	PUNCT	FF	_	8	punct	_	_
 11	who	who	PRON	PR	PronType=Rel	12	nsubj	_	_
@@ -40869,8 +40869,8 @@
 7	technique	technique	NOUN	S	Number=Sing	4	obj	_	_
 8	which	which	PRON	PR	PronType=Rel	14	obj	_	_
 9	French	French	ADJ	A	Degree=Pos	10	amod	_	_
-10	novelist	novelist	NOUN	S	Number=Sing	14	nsubj	_	_
-11	Marcel	Marcel	PROPN	SP	_	10	nmod	_	_
+10	novelist	novelist	NOUN	S	Number=Sing	11	nmod:desc	_	_
+11	Marcel	Marcel	PROPN	SP	_	14	nsubj	_	_
 12	Proust	Proust	PROPN	SP	_	11	flat	_	_
 13	later	later	ADV	B	Degree=Cmp	14	advmod	_	_
 14	named	name	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	7	acl:relcl	_	_
@@ -41022,15 +41022,15 @@
 8	model	model	NOUN	S	Number=Sing	5	obj	_	_
 9	used	use	VERB	V	Tense=Past|VerbForm=Part	8	acl	_	_
 10	later	later	ADV	B	Degree=Cmp	9	advmod	_	_
-11	by	by	ADP	E	_	13	case	_	_
+11	by	by	ADP	E	_	14	case	_	_
 12	English	English	ADJ	A	Degree=Pos	13	amod	_	_
-13	novelist	novelist	NOUN	S	Number=Sing	9	obl	_	_
-14	Charles	Charles	PROPN	SP	_	13	nmod	_	_
+13	novelist	novelist	NOUN	S	Number=Sing	14	nmod:desc	_	_
+14	Charles	Charles	PROPN	SP	_	9	obl	_	_
 15	Dickens	Dickens	PROPN	SP	_	14	flat	_	_
-16	and	and	CCONJ	CC	_	18	cc	_	_
+16	and	and	CCONJ	CC	_	19	cc	_	_
 17	Russian	Russian	ADJ	A	Degree=Pos	18	amod	_	_
-18	author	author	NOUN	S	Number=Sing	13	conj	_	_
-19	Fyodor	Fyodor	PROPN	SP	_	18	nmod	_	_
+18	author	author	NOUN	S	Number=Sing	19	nmod:desc	_	_
+19	Fyodor	Fyodor	PROPN	SP	_	14	conj	_	_
 20	Dostoevsky	Dostoevsky	PROPN	SP	_	19	flat	_	SpaceAfter=No
 21	.	.	PUNCT	FS	_	5	punct	_	_
 
@@ -41068,8 +41068,8 @@
 8	"	"	PUNCT	FB	_	4	punct	_	SpaceAfter=No
 9	,	,	PUNCT	FF	_	4	punct	_	_
 10	notes	note	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	parataxis	_	_
-11	critic	critic	NOUN	S	Number=Sing	10	nsubj	_	_
-12	Peter	Peter	PROPN	SP	_	11	nmod	_	_
+11	critic	critic	NOUN	S	Number=Sing	12	nmod:desc	_	_
+12	Peter	Peter	PROPN	SP	_	10	nsubj	_	_
 13	Brooks	Brooks	PROPN	SP	_	12	flat	_	SpaceAfter=No
 14	;	;	PUNCT	FC	_	4	punct	_	_
 
@@ -41396,8 +41396,8 @@
 
 # sent_id = en_partut-ud-1776
 # text = Critic W. H. Helm calls one "the French Dickens" and the other "the English Balzac".
-1	Critic	critic	NOUN	S	Number=Sing	5	nsubj	_	_
-2	W.	W.	PROPN	SP	_	1	nmod	_	_
+1	Critic	critic	NOUN	S	Number=Sing	2	nmod:desc	_	_
+2	W.	W.	PROPN	SP	_	5	nsubj	_	_
 3	H.	H.	PROPN	SP	_	2	flat	_	_
 4	Helm	Helm	PROPN	SP	_	2	flat	_	_
 5	calls	call	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
@@ -41419,8 +41419,8 @@
 
 # sent_id = en_partut-ud-1777
 # text = Critic Richard Lehan says that "Balzac was the bridge between the comic realism of Dickens and the naturalism of Zola."
-1	Critic	critic	NOUN	S	Number=Sing	4	nsubj	_	_
-2	Richard	Richard	PROPN	SP	_	1	nmod	_	_
+1	Critic	critic	NOUN	S	Number=Sing	2	nmod:desc	_	_
+2	Richard	Richard	PROPN	SP	_	4	nsubj	_	_
 3	Lehan	Lehan	PROPN	SP	_	2	flat	_	_
 4	says	say	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 5	that	that	SCONJ	CS	_	10	mark	_	_
@@ -41693,8 +41693,8 @@
 9	was	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	cop	_	_
 10	American	American	ADJ	A	Degree=Pos	12	amod	_	_
 11	expatriate	expatriate	ADJ	A	Degree=Pos	12	amod	_	_
-12	novelist	novelist	NOUN	S	Number=Sing	4	nsubj	_	_
-13	Henry	Henry	PROPN	SP	_	12	nmod	_	_
+12	novelist	novelist	NOUN	S	Number=Sing	13	nmod:desc	_	_
+13	Henry	Henry	PROPN	SP	_	4	nsubj	_	_
 14	James	James	PROPN	SP	_	13	flat	_	SpaceAfter=No
 15	.	.	PUNCT	FS	_	4	punct	_	_
 
@@ -42306,9 +42306,9 @@
 9	,	,	PUNCT	FF	_	8	punct	_	_
 10	including	include	VERB	V	Number=Sing|Tense=Pres|VerbForm=Part	5	acl	_	_
 11	Hamlet	Hamlet	PROPN	SP	_	10	obj	_	SpaceAfter=No
-12	,	,	PUNCT	FF	_	13	punct	_	_
-13	King	King	PROPN	SP	_	11	conj	_	_
-14	Lear	Lear	PROPN	SP	_	13	flat	_	SpaceAfter=No
+12	,	,	PUNCT	FF	_	14	punct	_	_
+13	King	King	PROPN	SP	_	14	nmod:desc	_	_
+14	Lear	Lear	PROPN	SP	_	11	conj	_	SpaceAfter=No
 15	,	,	PUNCT	FF	_	16	punct	_	_
 16	Othello	Othello	PROPN	SP	_	11	conj	_	SpaceAfter=No
 17	,	,	PUNCT	FF	_	19	punct	_	_
@@ -43521,9 +43521,9 @@
 1	After	after	ADP	E	_	3	case	_	_
 2	the	the	DET	RD	Definite=Def|PronType=Art	3	det	_	_
 3	death	death	NOUN	S	Number=Sing	13	obl	_	_
-4	of	of	ADP	E	_	5	case	_	_
-5	Queen	Queen	PROPN	SP	_	3	nmod	_	_
-6	Elizabeth	Elizabeth	PROPN	SP	_	5	flat	_	_
+4	of	of	ADP	E	_	6	case	_	_
+5	Queen	Queen	PROPN	SP	_	6	nmod:desc	_	_
+6	Elizabeth	Elizabeth	PROPN	SP	_	3	nmod	_	_
 7	in	in	ADP	E	_	8	case	_	_
 8	1603	1603	NUM	N	NumType=Card	13	obl	_	SpaceAfter=No
 9	,	,	PUNCT	FF	_	8	punct	_	_
@@ -44037,9 +44037,9 @@
 36	at	at	ADP	E	_	38	case	_	_
 37	the	the	DET	RD	Definite=Def|PronType=Art	38	det	_	_
 38	Court	court	NOUN	S	Number=Sing	33	nmod	_	_
-39	of	of	ADP	E	_	40	case	_	_
-40	King	King	PROPN	SP	_	38	nmod	_	_
-41	James	James	PROPN	SP	_	40	flat	_	SpaceAfter=No
+39	of	of	ADP	E	_	41	case	_	_
+40	King	King	PROPN	SP	_	41	nmod:desc	_	_
+41	James	James	PROPN	SP	_	38	nmod	_	SpaceAfter=No
 42	'	'	PUNCT	FB	_	33	punct	_	SpaceAfter=No
 43	)	)	PUNCT	FB	_	33	punct	_	SpaceAfter=No
 44	.	.	PUNCT	FS	_	21	punct	_	_
@@ -45148,13 +45148,13 @@
 
 # sent_id = en_partut-ud-1922
 # text = According to Shakespearean scholar James Shapiro, in Julius Caesar "the various strands of politics, character, inwardness, contemporary events, even Shakespeare's own reflections on the act of writing, began to infuse each other".
-1	According	accord	VERB	V	ExtPos=ADP|VerbForm=Ger	4	case	_	_
+1	According	accord	VERB	V	ExtPos=ADP|VerbForm=Ger	5	case	_	_
 2	to	to	ADP	E	_	1	fixed	_	_
 3	Shakespearean	Shakespearean	ADJ	A	Degree=Pos	4	amod	_	_
-4	scholar	scholar	NOUN	S	Number=Sing	36	obl	_	_
-5	James	James	PROPN	SP	_	4	nmod	_	_
+4	scholar	scholar	NOUN	S	Number=Sing	5	nmod:desc	_	_
+5	James	James	PROPN	SP	_	36	obl	_	_
 6	Shapiro	Shapiro	PROPN	SP	_	5	flat	_	SpaceAfter=No
-7	,	,	PUNCT	FF	_	4	punct	_	_
+7	,	,	PUNCT	FF	_	5	punct	_	_
 8	in	in	ADP	E	_	9	case	_	_
 9	Julius	Julius	PROPN	SP	_	36	obl	_	_
 10	Caesar	Caesar	PROPN	SP	_	9	flat	_	_
@@ -45320,9 +45320,9 @@
 18	followed	follow	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	16	acl:relcl	_	SpaceAfter=No
 19	,	,	PUNCT	FF	_	16	punct	_	_
 20	Othello	Othello	PROPN	SP	_	16	nmod	_	_
-21	and	and	CCONJ	CC	_	22	cc	_	_
-22	King	King	PROPN	SP	_	20	conj	_	_
-23	Lear	Lear	PROPN	SP	_	22	flat	_	SpaceAfter=No
+21	and	and	CCONJ	CC	_	23	cc	_	_
+22	King	King	PROPN	SP	_	23	nmod:desc	_	_
+23	Lear	Lear	PROPN	SP	_	20	conj	_	SpaceAfter=No
 24	,	,	PUNCT	FF	_	13	punct	_	_
 25	are	be	AUX	VA	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	26	aux:pass	_	_
 26	undone	undo	VERB	V	Tense=Past|VerbForm=Part	0	root	_	_
@@ -45394,10 +45394,10 @@
 
 # sent_id = en_partut-ud-1930
 # text = In King Lear, the old king commits the tragic error of giving up his powers, initiating the events which lead to the torture and blinding of the Earl of Gloucester and the murder of Lear's youngest daughter Cordelia.
-1	In	in	ADP	E	_	2	case	_	_
-2	King	King	PROPN	SP	_	8	obl	_	_
-3	Lear	Lear	PROPN	SP	_	2	flat	_	SpaceAfter=No
-4	,	,	PUNCT	FF	_	2	punct	_	_
+1	In	in	ADP	E	_	3	case	_	_
+2	King	King	PROPN	SP	_	3	nmod:desc	_	_
+3	Lear	Lear	PROPN	SP	_	8	obl	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	3	punct	_	_
 5	the	the	DET	RD	Definite=Def|PronType=Art	7	det	_	_
 6	old	old	ADJ	A	Degree=Pos	7	amod	_	_
 7	king	king	NOUN	S	Number=Sing	8	nsubj	_	_
@@ -45491,9 +45491,9 @@
 19	his	his	DET	AP	Poss=Yes|PronType=Prs	20	nmod:poss	_	_
 20	wife	wife	NOUN	S	Number=Sing	17	conj	_	SpaceAfter=No
 21	,	,	PUNCT	FF	_	20	punct	_	_
-22	Lady	Lady	PROPN	SP	_	20	appos	_	_
-23	Macbeth	Macbeth	PROPN	SP	_	22	nmod	_	SpaceAfter=No
-24	,	,	PUNCT	FF	_	22	punct	_	_
+22	Lady	Lady	PROPN	SP	_	23	nmod:desc	_	_
+23	Macbeth	Macbeth	PROPN	SP	_	20	appos	_	SpaceAfter=No
+24	,	,	PUNCT	FF	_	23	punct	_	_
 25	to	to	PART	PART	_	26	mark	_	_
 26	murder	murder	VERB	V	VerbForm=Inf	16	xcomp	_	_
 27	the	the	DET	RD	Definite=Def|PronType=Art	29	det	_	_
@@ -45896,9 +45896,9 @@
 15	Hamlet	Hamlet	PROPN	SP	_	14	obj	_	SpaceAfter=No
 16	,	,	PUNCT	FF	_	17	punct	_	_
 17	Othello	Othello	PROPN	SP	_	15	conj	_	_
-18	and	and	CCONJ	CC	_	19	cc	_	_
-19	King	King	PROPN	SP	_	15	conj	_	_
-20	Lear	Lear	PROPN	SP	_	19	flat	_	SpaceAfter=No
+18	and	and	CCONJ	CC	_	20	cc	_	_
+19	King	King	PROPN	SP	_	20	nmod:desc	_	_
+20	Lear	Lear	PROPN	SP	_	15	conj	_	SpaceAfter=No
 21	.	.	PUNCT	FS	_	9	punct	_	_
 
 # sent_id = en_partut-ud-1947
@@ -46074,10 +46074,10 @@
 21	Hamlet	Hamlet	PROPN	SP	_	18	conj	_	SpaceAfter=No
 22	,	,	PUNCT	FF	_	23	punct	_	_
 23	Othello	Othello	PROPN	SP	_	18	conj	_	SpaceAfter=No
-24	,	,	PUNCT	FF	_	26	punct	_	_
-25	and	and	CCONJ	CC	_	26	cc	_	_
-26	King	King	PROPN	SP	_	18	conj	_	_
-27	Lear	Lear	PROPN	SP	_	26	flat	_	SpaceAfter=No
+24	,	,	PUNCT	FF	_	27	punct	_	_
+25	and	and	CCONJ	CC	_	27	cc	_	_
+26	King	King	PROPN	SP	_	27	nmod:desc	_	_
+27	Lear	Lear	PROPN	SP	_	18	conj	_	SpaceAfter=No
 28	.	.	PUNCT	FS	_	2	punct	_	_
 
 # sent_id = en_partut-ud-1953
@@ -46140,9 +46140,9 @@
 27	and	and	CCONJ	CC	_	29	cc	_	_
 28	the	the	DET	RD	Definite=Def|PronType=Art	29	det	_	_
 29	fool	fool	NOUN	S	Number=Sing	17	conj	_	_
-30	in	in	ADP	E	_	31	case	_	_
-31	King	King	NOUN	S	Number=Sing	29	orphan	_	_
-32	Lear	Lear	PROPN	SP	_	31	flat	_	SpaceAfter=No
+30	in	in	ADP	E	_	32	case	_	_
+31	King	King	NOUN	S	Number=Sing	32	nmod:desc	_	_
+32	Lear	Lear	PROPN	SP	_	29	orphan	_	SpaceAfter=No
 33	.	.	PUNCT	FS	_	3	punct	_	_
 
 # sent_id = en_partut-ud-1956
@@ -46392,9 +46392,9 @@
 1	In	in	ADP	E	_	3	case	_	_
 2	the	the	DET	RD	Definite=Def|PronType=Art	3	det	_	_
 3	case	case	NOUN	S	Number=Sing	24	obl	_	_
-4	of	of	ADP	E	_	5	case	_	_
-5	King	King	PROPN	SP	_	3	nmod	_	_
-6	Lear	Lear	PROPN	SP	_	5	flat	_	SpaceAfter=No
+4	of	of	ADP	E	_	6	case	_	_
+5	King	King	PROPN	SP	_	6	nmod:desc	_	_
+6	Lear	Lear	PROPN	SP	_	3	nmod	_	SpaceAfter=No
 7	,	,	PUNCT	FF	_	3	punct	_	_
 8	however	however	ADV	B	_	24	advmod	_	SpaceAfter=No
 9	,	,	PUNCT	FF	_	8	punct	_	_
@@ -47814,8 +47814,8 @@
 
 # sent_id = en_partut-ud-2026
 # text = Critic George Steiner described all English verse dramas from Coleridge to Tennyson as "feeble variations on Shakespearean themes.
-1	Critic	critic	NOUN	S	Number=Sing	4	nsubj	_	_
-2	George	George	PROPN	SP	_	1	nmod	_	_
+1	Critic	critic	NOUN	S	Number=Sing	2	nmod:desc	_	_
+2	George	George	PROPN	SP	_	4	nsubj	_	_
 3	Steiner	Steiner	PROPN	SP	_	2	flat	_	_
 4	described	describe	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 5	all	all	DET	T	PronType=Tot	8	det	_	_
@@ -47873,10 +47873,10 @@
 # sent_id = en_partut-ud-2029
 # text = his Captain Ahab in Moby-Dick is a classic tragic hero, inspired by King Lear.
 1	his	his	DET	AP	Poss=Yes|PronType=Prs	2	nmod:poss	_	_
-2	Captain	Captain	PROPN	SP	_	12	nsubj	_	_
-3	Ahab	Ahab	PROPN	SP	_	2	nmod	_	_
+2	Captain	Captain	PROPN	SP	_	3	nmod:desc	_	_
+3	Ahab	Ahab	PROPN	SP	_	12	nsubj	_	_
 4	in	in	ADP	E	_	5	case	_	_
-5	Moby	Moby	PROPN	SP	_	2	nmod	_	SpaceAfter=No
+5	Moby	Moby	PROPN	SP	_	3	nmod	_	SpaceAfter=No
 6	-	-	PUNCT	FF	_	5	punct	_	SpaceAfter=No
 7	Dick	dick	NOUN	S	Number=Sing	5	flat	_	_
 8	is	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	_
@@ -47886,9 +47886,9 @@
 12	hero	hero	NOUN	S	Number=Sing	0	root	_	SpaceAfter=No
 13	,	,	PUNCT	FF	_	12	punct	_	_
 14	inspired	inspire	VERB	V	Tense=Past|VerbForm=Part	12	acl	_	_
-15	by	by	ADP	E	_	16	case	_	_
-16	King	King	PROPN	SP	_	14	obl	_	_
-17	Lear	Lear	PROPN	SP	_	16	flat	_	SpaceAfter=No
+15	by	by	ADP	E	_	17	case	_	_
+16	King	King	PROPN	SP	_	17	nmod:desc	_	_
+17	Lear	Lear	PROPN	SP	_	14	obl	_	SpaceAfter=No
 18	.	.	PUNCT	FS	_	12	punct	_	_
 
 # sent_id = en_partut-ud-2030
@@ -48230,10 +48230,10 @@
 # text = Nevertheless, poet and critic John Dryden rated Shakespeare highly, saying of Jonson, "I admire him, but I love Shakespeare".
 1	Nevertheless	nevertheless	ADV	B	_	8	advmod	_	SpaceAfter=No
 2	,	,	PUNCT	FF	_	1	punct	_	_
-3	poet	poet	NOUN	S	Number=Sing	8	nsubj	_	_
+3	poet	poet	NOUN	S	Number=Sing	6	nmod:desc	_	_
 4	and	and	CCONJ	CC	_	5	cc	_	_
 5	critic	critic	NOUN	S	Number=Sing	3	conj	_	_
-6	John	John	PROPN	SP	_	5	nmod	_	_
+6	John	John	PROPN	SP	_	8	nsubj	_	_
 7	Dryden	Dryden	PROPN	SP	_	6	flat	_	_
 8	rated	rate	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 9	Shakespeare	Shakespeare	PROPN	SP	_	8	obj	_	_
@@ -48429,8 +48429,8 @@
 # text = "That King Shakespeare", the essayist Thomas Carlyle wrote in 1840, "does not he shine, in crowned sovereignty, over us all, as the noblest, gentlest, yet strongest of rallying signs;
 1	"	"	PUNCT	FB	_	2	punct	_	SpaceAfter=No
 2	That	that	DET	DD	PronType=Dem	19	dislocated	_	_
-3	King	King	PROPN	SP	_	2	nmod	_	_
-4	Shakespeare	Shakespeare	PROPN	SP	_	3	flat	_	SpaceAfter=No
+3	King	King	PROPN	SP	_	4	nmod:desc	_	_
+4	Shakespeare	Shakespeare	PROPN	SP	_	2	nmod	_	SpaceAfter=No
 5	"	"	PUNCT	FB	_	2	punct	_	SpaceAfter=No
 6	,	,	PUNCT	FF	_	2	punct	_	_
 7	the	the	DET	RD	Definite=Def|PronType=Art	8	det	_	_
@@ -48583,10 +48583,10 @@
 # sent_id = en_partut-ud-2062
 # text = Marxist playwright and director Bertolt Brecht devised an epic theatre under the influence of Shakespeare.
 1	Marxist	marxist	ADJ	A	Degree=Pos	2	amod	_	_
-2	playwright	playwright	NOUN	S	Number=Sing	7	nsubj	_	_
+2	playwright	playwright	NOUN	S	Number=Sing	5	nmod:desc	_	_
 3	and	and	CCONJ	CC	_	4	cc	_	_
 4	director	director	NOUN	S	Number=Sing	2	conj	_	_
-5	Bertolt	Bertolt	PROPN	SP	_	4	nmod	_	_
+5	Bertolt	Bertolt	PROPN	SP	_	7	nsubj	_	_
 6	Brecht	Brecht	PROPN	SP	_	5	flat	_	_
 7	devised	devise	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 8	an	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	10	det	_	_
