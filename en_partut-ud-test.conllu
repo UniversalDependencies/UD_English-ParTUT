@@ -942,8 +942,8 @@
 8	further	further	ADJ	A	Degree=Pos	9	amod	_	_
 9	4	4	NUM	N	NumType=Card	10	nummod	_	_
 10	years	year	NOUN	S	Number=Plur	5	obl	_	_
-11	at	at	ADV	B	_	16	advmod	_	_
-12	least	least	ADV	B	Degree=Sup	11	fixed	_	_
+11	at	at	ADP	E	_	12	case	_	_
+12	least	least	ADJ	A	Degree=Sup	16	nmod	_	_
 13	with	with	ADP	E	_	16	case	_	_
 14	the	the	DET	RD	Definite=Def|PronType=Art	16	det	_	_
 15	same	same	ADJ	A	Degree=Pos	16	amod	_	_
@@ -3002,8 +3002,8 @@
 5	have	have	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	0	root	_	_
 6	solutions	solution	NOUN	S	Number=Plur	5	obj	_	SpaceAfter=No
 7	,	,	PUNCT	FF	_	5	punct	_	_
-8	at	at	ADP	E	_	15	advmod	_	_
-9	least	least	ADV	B	Degree=Sup	8	fixed	_	_
+8	at	at	ADP	E	_	9	case	_	_
+9	least	least	ADJ	A	Degree=Sup	15	nmod	_	_
 10	in	in	ADP	E	_	15	case	_	_
 11	the	the	DET	RD	Definite=Def|PronType=Art	15	det	_	_
 12	short	short	ADJ	A	Degree=Pos	15	amod	_	_
