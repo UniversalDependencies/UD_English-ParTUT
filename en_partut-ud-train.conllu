@@ -10842,11 +10842,11 @@
 39	Parliament	parliament	NOUN	S	Number=Sing	34	obl	_	SpaceAfter=No
 40	,	,	PUNCT	FF	_	34	punct	_	_
 41	specifically	specifically	ADV	B	_	46	advmod	_	_
-42	in	in	ADP	E	_	46	case	_	_
-43	light	light	NOUN	S	Number=Sing	42	fixed	_	_
-44	of	of	ADP	E	_	42	fixed	_	_
+42	in	in	ADP	E	_	43	case	_	_
+43	light	light	NOUN	S	Number=Sing	34	obl	_	_
+44	of	of	ADP	E	_	46	case	_	_
 45	the	the	DET	RD	Definite=Def|PronType=Art	46	det	_	_
-46	guidelines	guideline	NOUN	S	Number=Plur	34	obl	_	_
+46	guidelines	guideline	NOUN	S	Number=Plur	43	nmod	_	_
 47	that	that	PRON	PR	PronType=Rel	50	obj	_	_
 48	we	we	PRON	PE	Number=Plur|Person=1|PronType=Prs	50	nsubj	_	_
 49	have	have	AUX	VA	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	50	aux	_	_
