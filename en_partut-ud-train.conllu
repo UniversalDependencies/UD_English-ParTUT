@@ -10682,8 +10682,8 @@
 15	's	's	PART	PART	_	14	case	_	_
 16	regional	regional	ADJ	A	Degree=Pos	17	amod	_	_
 17	policy	policy	NOUN	S	Number=Sing	12	obj	_	_
-18	in	in	ADP	E	_	12	advmod	_	_
-19	general	full	ADJ	A	Degree=Pos	18	fixed	_	SpaceAfter=No
+18	in	in	ADP	E	_	19	case	_	_
+19	general	full	ADJ	A	Degree=Pos	12	obl	_	SpaceAfter=No
 20	.	.	PUNCT	FS	_	10	punct	_	_
 
 # sent_id = en_partut-ud-387
