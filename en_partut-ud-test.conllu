@@ -741,7 +741,7 @@
 9	of	of	ADP	E	_	11	case	_	_
 10	redistribution	redistribution	NOUN	S	Number=Sing	11	nmod	_	_
 11	instruments	instrument	NOUN	S	Number=Plur	8	nmod	_	_
-12	such	such	ADJ	A	Degree=Pos	16	amod	_	_
+12	such	such	ADJ	A	Degree=Pos|ExtPos=ADP	16	case	_	_
 13	as	as	ADP	E	_	12	fixed	_	_
 14	the	the	DET	RD	Definite=Def|PronType=Art	16	det	_	_
 15	Structural	structural	ADJ	A	Degree=Pos	16	amod	_	_
