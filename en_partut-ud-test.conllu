@@ -32,7 +32,7 @@
 1	UNLESS	unless	SCONJ	CS	_	3	mark	_	_
 2	OTHERWISE	otherwise	ADV	B	_	3	advmod	_	_
 3	AGREED	agree	VERB	V	Tense=Past|VerbForm=Part	12	advcl	_	_
-4	TO	to	ADP	E	_	3	fixed	_	_
+4	TO	to	ADP	E	_	3	obl	_	_
 5	BY	by	ADP	E	_	7	case	_	_
 6	THE	the	DET	RD	Definite=Def|PronType=Art	7	det	_	_
 7	PARTIES	party	NOUN	S	Number=Plur	3	obl	_	_
