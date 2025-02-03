@@ -2116,7 +2116,7 @@
 12	the	the	DET	RD	Definite=Def|PronType=Art	13	det	_	_
 13	Commission	commission	NOUN	S	Number=Sing	10	obl	_	_
 14	as	as	ADP	E	_	17	case	_	_
-15	from	from	ADP	E	_	14	fixed	_	_
+15	from	from	ADP	E	_	17	case	_	_
 16	the	the	DET	RD	Definite=Def|PronType=Art	17	det	_	_
 17	date	date	NOUN	S	Number=Sing	10	obl	_	_
 18	of	of	ADP	E	_	19	case	_	_
@@ -2373,7 +2373,7 @@
 14	of	of	ADP	E	_	15	case	_	_
 15	Auditors	auditor	NOUN	S	Number=Plur	13	nmod	_	_
 16	as	as	ADP	E	_	19	case	_	_
-17	from	from	ADP	E	_	16	fixed	_	_
+17	from	from	ADP	E	_	19	case	_	_
 18	the	the	DET	RD	Definite=Def|PronType=Art	19	det	_	_
 19	date	date	NOUN	S	Number=Sing	10	obl	_	_
 20	of	of	ADP	E	_	21	case	_	_
@@ -2522,7 +2522,7 @@
 10	be	be	AUX	VA	VerbForm=Inf	11	aux:pass	_	_
 11	applied	apply	VERB	V	Tense=Past|VerbForm=Part	0	root	_	_
 12	as	as	ADP	E	_	15	case	_	_
-13	from	from	ADP	E	_	12	fixed	_	_
+13	from	from	ADP	E	_	15	case	_	_
 14	the	the	DET	RD	Definite=Def|PronType=Art	15	det	_	_
 15	date	date	NOUN	S	Number=Sing	11	obl	_	_
 16	of	of	ADP	E	_	17	case	_	_
@@ -2543,7 +2543,7 @@
 10	be	be	AUX	VA	VerbForm=Inf	11	aux	_	_
 11	applied	apply	VERB	V	Tense=Past|VerbForm=Part	0	root	_	_
 12	as	as	ADP	E	_	15	case	_	_
-13	from	from	ADP	E	_	12	fixed	_	_
+13	from	from	ADP	E	_	15	case	_	_
 14	the	the	DET	RD	Definite=Def|PronType=Art	15	det	_	_
 15	date	date	NOUN	S	Number=Sing	11	obl	_	_
 16	of	of	ADP	E	_	17	case	_	_

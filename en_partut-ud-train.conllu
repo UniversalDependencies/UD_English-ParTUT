@@ -5254,7 +5254,7 @@
 26	in	in	ADP	E	_	27	case	_	_
 27	companies	company	NOUN	S	Number=Plur	22	obl	_	_
 28	as	as	ADP	E	_	30	case	_	_
-29	from	from	ADP	E	_	28	fixed	_	_
+29	from	from	ADP	E	_	30	case	_	_
 30	1	1	NUM	N	NumType=Card	20	obl	_	_
 31	January	January	PROPN	SP	_	30	flat	_	_
 32	of	of	ADP	E	_	34	case	_	_
