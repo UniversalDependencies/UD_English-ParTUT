@@ -9314,7 +9314,7 @@
 16	finding	finding	VERB	V	VerbForm=Ger	8	conj	_	_
 17	work	work	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	16	ccomp	_	_
 18	outside	outside	ADP	E	_	22	case	_	_
-19	of	of	ADP	E	_	18	fixed	_	_
+19	of	of	ADP	E	_	22	case	_	_
 20	the	the	DET	RD	Definite=Def|PronType=Art	22	det	_	_
 21	rural	rural	ADJ	A	Degree=Pos	22	amod	_	_
 22	areas	area	NOUN	S	Number=Plur	16	obl	_	SpaceAfter=No
@@ -9422,7 +9422,7 @@
 31	areas	area	NOUN	S	Number=Plur	26	obl	_	SpaceAfter=No
 32	,	,	PUNCT	FF	_	26	punct	_	_
 33	outside	outside	ADP	E	_	37	case	_	_
-34	of	of	ADP	E	_	33	fixed	_	_
+34	of	of	ADP	E	_	37	case	_	_
 35	the	the	DET	RD	Definite=Def|PronType=Art	37	det	_	_
 36	agricultural	agricultural	ADJ	A	Degree=Pos	37	amod	_	_
 37	sector	sector	NOUN	S	Number=Sing	26	obl	_	SpaceAfter=No
