@@ -4202,8 +4202,8 @@
 
 # sent_id = en_partut-ud-164
 # text = Of course, the Minutes for tomorrow's sitting will take into account any additional explanations.
-1	Of	of	ADV	B	_	11	advmod	_	_
-2	course	course	ADV	B	_	1	fixed	_	SpaceAfter=No
+1	Of	of	ADP	E	ExtPos=ADV	11	advmod	_	_
+2	course	course	NOUN	S	Number=Sing	1	fixed	_	SpaceAfter=No
 3	,	,	PUNCT	FF	_	1	punct	_	_
 4	the	the	DET	RD	Definite=Def|PronType=Art	5	det	_	_
 5	Minutes	minute	NOUN	S	Number=Plur	11	nsubj	_	_
@@ -5128,8 +5128,8 @@
 10	there	there	PRON	_	_	11	expl	_	_
 11	are	be	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	6	conj	_	SpaceAfter=No
 12	,	,	PUNCT	FF	_	11	punct	_	_
-13	of	of	ADV	B	_	11	advmod	_	_
-14	course	course	ADV	B	_	13	fixed	_	SpaceAfter=No
+13	of	of	ADP	E	ExtPos=ADV	11	advmod	_	_
+14	course	course	NOUN	S	Number=Sing	13	fixed	_	SpaceAfter=No
 15	,	,	PUNCT	FF	_	11	punct	_	_
 16	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	17	det	_	_
 17	number	number	NOUN	S	Number=Sing	11	nsubj	_	_
@@ -5254,7 +5254,7 @@
 26	in	in	ADP	E	_	27	case	_	_
 27	companies	company	NOUN	S	Number=Plur	22	obl	_	_
 28	as	as	ADP	E	_	30	case	_	_
-29	from	from	ADP	E	_	28	fixed	_	_
+29	from	from	ADP	E	_	30	case	_	_
 30	1	1	NUM	N	NumType=Card	20	obl	_	_
 31	January	January	PROPN	SP	_	30	flat	_	_
 32	of	of	ADP	E	_	34	case	_	_
@@ -5975,7 +5975,7 @@
 18	them	they	PRON	PE	Number=Plur|Person=3|PronType=Prs	17	obj	_	_
 19	for	for	ADP	E	_	20	case	_	_
 20	countries	country	NOUN	S	Number=Plur	17	obl	_	_
-21	such	such	ADJ	A	Degree=Pos	23	amod	_	_
+21	such	such	ADJ	A	Degree=Pos|ExtPos=ADP	23	case	_	_
 22	as	as	ADP	E	_	21	fixed	_	_
 23	Austria	Austria	PROPN	SP	_	20	nmod	_	_
 24	or	or	CCONJ	CC	_	27	cc	_	_
@@ -7983,8 +7983,8 @@
 
 # sent_id = en_partut-ud-298
 # text = Of course, we accept that amendment - it is absolutely right - and I believe that we should incorporate specific circumstances which demonstrate the climatic diversity of the European Union, which sometimes take the form of specifics and of concrete requirements for the establishment of standards and characterisations of a technical nature.
-1	Of	of	ADV	B	_	5	advmod	_	_
-2	course	course	ADV	B	_	1	fixed	_	SpaceAfter=No
+1	Of	of	ADP	E	ExtPos=ADV	5	advmod	_	_
+2	course	course	NOUN	S	Number=Sing	1	fixed	_	SpaceAfter=No
 3	,	,	PUNCT	FF	_	1	punct	_	_
 4	we	we	PRON	PE	Number=Plur|Person=1|PronType=Prs	5	nsubj	_	_
 5	accept	accept	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	0	root	_	_
@@ -9314,7 +9314,7 @@
 16	finding	finding	VERB	V	VerbForm=Ger	8	conj	_	_
 17	work	work	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	16	ccomp	_	_
 18	outside	outside	ADP	E	_	22	case	_	_
-19	of	of	ADP	E	_	18	fixed	_	_
+19	of	of	ADP	E	_	22	case	_	_
 20	the	the	DET	RD	Definite=Def|PronType=Art	22	det	_	_
 21	rural	rural	ADJ	A	Degree=Pos	22	amod	_	_
 22	areas	area	NOUN	S	Number=Plur	16	obl	_	SpaceAfter=No
@@ -9422,14 +9422,14 @@
 31	areas	area	NOUN	S	Number=Plur	26	obl	_	SpaceAfter=No
 32	,	,	PUNCT	FF	_	26	punct	_	_
 33	outside	outside	ADP	E	_	37	case	_	_
-34	of	of	ADP	E	_	33	fixed	_	_
+34	of	of	ADP	E	_	37	case	_	_
 35	the	the	DET	RD	Definite=Def|PronType=Art	37	det	_	_
 36	agricultural	agricultural	ADJ	A	Degree=Pos	37	amod	_	_
 37	sector	sector	NOUN	S	Number=Sing	26	obl	_	SpaceAfter=No
 38	,	,	PUNCT	FF	_	26	punct	_	_
 39	in	in	ADP	E	_	40	case	_	_
 40	sectors	sector	NOUN	S	Number=Plur	26	obl	_	_
-41	such	such	ADJ	A	Degree=Pos	44	amod	_	_
+41	such	such	ADJ	A	Degree=Pos|ExtPos=ADP	44	case	_	_
 42	as	as	ADP	E	_	41	fixed	_	_
 43	rural	rural	ADJ	A	Degree=Pos	44	amod	_	_
 44	tourism	tourism	NOUN	S	Number=Sing	40	nmod	_	SpaceAfter=No
@@ -10682,8 +10682,8 @@
 15	's	's	PART	PART	_	14	case	_	_
 16	regional	regional	ADJ	A	Degree=Pos	17	amod	_	_
 17	policy	policy	NOUN	S	Number=Sing	12	obj	_	_
-18	in	in	ADP	E	_	12	advmod	_	_
-19	general	full	ADJ	A	Degree=Pos	18	fixed	_	SpaceAfter=No
+18	in	in	ADP	E	_	19	case	_	_
+19	general	full	ADJ	A	Degree=Pos	12	obl	_	SpaceAfter=No
 20	.	.	PUNCT	FS	_	10	punct	_	_
 
 # sent_id = en_partut-ud-387
@@ -10842,11 +10842,11 @@
 39	Parliament	parliament	NOUN	S	Number=Sing	34	obl	_	SpaceAfter=No
 40	,	,	PUNCT	FF	_	34	punct	_	_
 41	specifically	specifically	ADV	B	_	46	advmod	_	_
-42	in	in	ADP	E	_	46	case	_	_
-43	light	light	NOUN	S	Number=Sing	42	fixed	_	_
-44	of	of	ADP	E	_	42	fixed	_	_
+42	in	in	ADP	E	_	43	case	_	_
+43	light	light	NOUN	S	Number=Sing	34	obl	_	_
+44	of	of	ADP	E	_	46	case	_	_
 45	the	the	DET	RD	Definite=Def|PronType=Art	46	det	_	_
-46	guidelines	guideline	NOUN	S	Number=Plur	34	obl	_	_
+46	guidelines	guideline	NOUN	S	Number=Plur	43	nmod	_	_
 47	that	that	PRON	PR	PronType=Rel	50	obj	_	_
 48	we	we	PRON	PE	Number=Plur|Person=1|PronType=Prs	50	nsubj	_	_
 49	have	have	AUX	VA	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	50	aux	_	_
@@ -12118,8 +12118,8 @@
 8	which	which	PRON	PR	PronType=Rel	14	nsubj	_	_
 9	will	will	AUX	VM	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	14	aux	_	SpaceAfter=No
 10	,	,	PUNCT	FF	_	11	punct	_	_
-11	of	of	ADV	B	_	14	advmod	_	_
-12	course	course	ADV	B	_	11	fixed	_	SpaceAfter=No
+11	of	of	ADP	E	ExtPos=ADV	14	advmod	_	_
+12	course	course	NOUN	S	Number=Sing	11	fixed	_	SpaceAfter=No
 13	,	,	PUNCT	FF	_	11	punct	_	_
 14	have	have	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	7	acl:relcl	_	_
 15	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	17	det	_	_
@@ -15783,7 +15783,7 @@
 10	courses	course	NOUN	S	Number=Plur	7	obl	_	_
 11	of	of	ADP	E	_	15	case	_	_
 12	action	action	NOUN	S	Number=Sing	10	nmod	_	_
-13	such	such	ADJ	A	Degree=Pos	15	amod	_	_
+13	such	such	ADJ	A	Degree=Pos|ExtPos=ADP	15	case	_	_
 14	as	as	ADP	E	_	13	fixed	_	_
 15	self-regulation	self-regulation	NOUN	S	Number=Sing	10	nmod	_	_
 16	by	by	ADP	E	_	18	case	_	_
@@ -16068,7 +16068,7 @@
 28	product	product	NOUN	S	Number=Sing	29	nmod	_	_
 29	group	group	NOUN	S	Number=Sing	25	obl	_	SpaceAfter=No
 30	,	,	PUNCT	FF	_	24	punct	_	_
-31	such	such	ADJ	A	Degree=Pos	33	amod	_	_
+31	such	such	ADJ	A	Degree=Pos|ExtPos=ADP	33	case	_	_
 32	as	as	ADP	E	_	31	fixed	_	_
 33	industry	industry	NOUN	S	Number=Sing	24	nmod	_	SpaceAfter=No
 34	,	,	PUNCT	FF	_	33	punct	_	_
@@ -16668,7 +16668,7 @@
 19	relevant	relevant	ADJ	A	Degree=Pos	21	amod	_	_
 20	international	international	ADJ	A	Degree=Pos	21	amod	_	_
 21	standards	standard	NOUN	S	Number=Plur	17	obl	_	_
-22	such	such	ADJ	A	Degree=Pos	24	amod	_	_
+22	such	such	ADJ	A	Degree=Pos|ExtPos=ADP	24	case	_	_
 23	as	as	ADP	E	_	22	fixed	_	_
 24	ISO	ISO	PROPN	SP	_	21	nmod	_	_
 25	14040	14040	NUM	N	NumType=Card	24	nummod	_	_
@@ -16784,7 +16784,7 @@
 9	existing	existing	ADJ	A	Degree=Pos	11	amod	_	_
 10	Community	community	NOUN	S	Number=Sing	11	nmod	_	_
 11	instruments	instrument	NOUN	S	Number=Plur	7	obl	_	_
-12	such	such	ADJ	A	Degree=Pos	15	amod	_	_
+12	such	such	ADJ	A	Degree=Pos|ExtPos=ADP	15	case	_	_
 13	as	as	ADP	E	_	12	fixed	_	_
 14	Council	Council	NOUN	S	Number=Sing	15	nmod	_	_
 15	Directive	Directive	NOUN	S	Number=Sing	11	nmod	_	_
@@ -19671,7 +19671,7 @@
 18	Community	community	NOUN	S	Number=Sing	19	nmod	_	_
 19	programmes	programme	NOUN	S	Number=Plur	14	obl	_	SpaceAfter=No
 20	,	,	PUNCT	FF	_	19	punct	_	_
-21	such	such	ADJ	A	Degree=Pos	23	amod	_	_
+21	such	such	ADJ	A	Degree=Pos|ExtPos=ADP	23	case	_	_
 22	as	as	ADP	E	_	21	fixed	_	_
 23	TAIEX	Taiex	PROPN	SP	_	19	nmod	_	_
 24	and	and	CCONJ	CC	_	25	cc	_	_
@@ -20600,7 +20600,7 @@
 19	any	any	DET	DI	PronType=Ind	20	det	_	_
 20	kind	kind	NOUN	S	Number=Sing	17	nmod	_	SpaceAfter=No
 21	,	,	PUNCT	FF	_	20	punct	_	_
-22	such	such	ADJ	A	Degree=Pos	24	amod	_	_
+22	such	such	ADJ	A	Degree=Pos|ExtPos=ADP	24	case	_	_
 23	as	as	ADP	E	_	22	fixed	_	_
 24	race	race	NOUN	S	Number=Sing	20	nmod	_	SpaceAfter=No
 25	,	,	PUNCT	FF	_	26	punct	_	_
@@ -26944,8 +26944,8 @@
 # text = And, of course, China's outsize backstop of $3.8 trillion in foreign-exchange reserves provides ample insurance in the event of intensified financial contagion.
 1	And	and	CCONJ	CC	_	19	cc	_	SpaceAfter=No
 2	,	,	PUNCT	FF	_	19	punct	_	_
-3	of	of	ADV	B	_	19	advmod	_	_
-4	course	course	ADV	B	_	3	fixed	_	SpaceAfter=No
+3	of	of	ADP	E	ExtPos=ADV	19	advmod	_	_
+4	course	course	NOUN	S	Number=Sing	3	fixed	_	SpaceAfter=No
 5	,	,	PUNCT	FF	_	3	punct	_	_
 6-7	China's	_	_	_	_	_	_	_	_
 6	China	China	PROPN	SP	_	9	nmod	_	_
@@ -28416,7 +28416,7 @@
 32	for	for	ADP	E	_	33	case	_	_
 33	society	society	NOUN	S	Number=Sing	31	nmod	_	SpaceAfter=No
 34	,	,	PUNCT	FF	_	31	punct	_	_
-35	such	such	ADJ	A	Degree=Pos	41	amod	_	_
+35	such	such	ADJ	A	Degree=Pos|ExtPos=ADP	41	case	_	_
 36	as	as	ADP	E	_	35	fixed	_	_
 37	higher	higher	ADJ	A	Degree=Cmp	41	amod	_	_
 38	health	health	NOUN	S	Number=Sing	40	nmod	_	SpaceAfter=No
@@ -28560,7 +28560,7 @@
 5	public	public	ADJ	A	Degree=Pos	6	amod	_	_
 6	goods	good	NOUN	S	Number=Plur	3	obl	_	_
 7	–	–	PUNCT	FB	_	6	punct	_	_
-8	such	such	ADJ	A	Degree=Pos	10	amod	_	_
+8	such	such	ADJ	A	Degree=Pos|ExtPos=ADP	10	case	_	_
 9	as	as	ADP	E	_	8	fixed	_	_
 10	education	education	NOUN	S	Number=Sing	6	nmod	_	SpaceAfter=No
 11	,	,	PUNCT	FF	_	13	punct	_	_
@@ -29247,7 +29247,7 @@
 4	an	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	5	det	_	_
 5	innovation	innovation	NOUN	S	Number=Sing	13	nsubj	_	SpaceAfter=No
 6	,	,	PUNCT	FF	_	5	punct	_	_
-7	such	such	ADP	E	_	9	case	_	_
+7	such	such	ADJ	A	Degree=Pos|ExtPos=ADP	9	case	_	_
 8	as	as	ADP	E	_	7	fixed	_	_
 9	ATMs	ATM	NOUN	S	Number=Plur	5	nmod	_	_
 10	in	in	ADP	E	_	11	case	_	_
@@ -29622,8 +29622,8 @@
 
 # sent_id = en_partut-ud-1284
 # text = Of course, there are grounds for a sigh of relief.
-1	Of	of	ADV	B	_	5	advmod	_	_
-2	course	course	ADV	B	_	1	fixed	_	SpaceAfter=No
+1	Of	of	ADP	E	ExtPos=ADV	5	advmod	_	_
+2	course	course	NOUN	S	Number=Sing	1	fixed	_	SpaceAfter=No
 3	,	,	PUNCT	FF	_	1	punct	_	_
 4	there	there	PRON	_	_	5	expl	_	_
 5	are	be	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	0	root	_	_
@@ -29817,8 +29817,8 @@
 
 # sent_id = en_partut-ud-1293
 # text = Of course, this is not a groundbreaking insight.
-1	Of	of	ADV	B	_	9	advmod	_	_
-2	course	course	ADV	B	_	1	fixed	_	SpaceAfter=No
+1	Of	of	ADP	E	ExtPos=ADV	9	advmod	_	_
+2	course	course	NOUN	S	Number=Sing	1	fixed	_	SpaceAfter=No
 3	,	,	PUNCT	FF	_	1	punct	_	_
 4	this	this	PRON	PD	Number=Sing|PronType=Dem	9	nsubj	_	_
 5	is	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
@@ -31286,7 +31286,7 @@
 12	service	service	NOUN	S	Number=Sing	13	nmod	_	_
 13	industries	industry	NOUN	S	Number=Plur	5	obl	_	SpaceAfter=No
 14	,	,	PUNCT	FF	_	13	punct	_	_
-15	such	such	ADJ	A	Degree=Pos	17	amod	_	_
+15	such	such	ADJ	A	Degree=Pos|ExtPos=ADP	17	case	_	_
 16	as	as	ADP	E	_	15	fixed	_	_
 17	wholesale	wholesale	NOUN	S	Number=Sing	13	nmod	_	SpaceAfter=No
 18	,	,	PUNCT	FF	_	20	punct	_	_
@@ -31452,8 +31452,8 @@
 
 # sent_id = en_partut-ud-1354
 # text = Of course, the potential of educated, empowered women to drive sustained economic growth is not limited to South Korea.
-1	Of	of	ADV	B	_	18	advmod	_	_
-2	course	course	ADV	B	_	1	fixed	_	SpaceAfter=No
+1	Of	of	ADP	E	ExtPos=ADV	18	advmod	_	_
+2	course	course	NOUN	S	Number=Sing	1	fixed	_	SpaceAfter=No
 3	,	,	PUNCT	FF	_	1	punct	_	_
 4	the	the	DET	RD	Definite=Def|PronType=Art	5	det	_	_
 5	potential	potential	NOUN	S	Number=Sing	18	nsubj	_	_
@@ -32647,15 +32647,15 @@
 
 # sent_id = en_partut-ud-1399
 # text = Of course, in countries receiving assistance – such as Greece in the last few years – the IMF excites great passion.
-1	Of	of	ADV	B	_	20	advmod	_	_
-2	course	course	ADV	B	_	1	fixed	_	SpaceAfter=No
+1	Of	of	ADP	E	ExtPos=ADV	20	advmod	_	_
+2	course	course	NOUN	S	Number=Sing	1	fixed	_	SpaceAfter=No
 3	,	,	PUNCT	FF	_	1	punct	_	_
 4	in	in	ADP	E	_	5	case	_	_
 5	countries	country	NOUN	S	Number=Plur	20	obl	_	_
 6	receiving	receive	VERB	V	Number=Sing|Tense=Pres|VerbForm=Part	5	acl	_	_
 7	assistance	assistance	NOUN	S	Number=Sing	6	obj	_	_
 8	–	–	PUNCT	FB	_	5	punct	_	_
-9	such	such	ADJ	A	Degree=Pos	11	amod	_	_
+9	such	such	ADJ	A	Degree=Pos|ExtPos=ADP	11	case	_	_
 10	as	as	ADP	E	_	9	fixed	_	_
 11	Greece	Greece	PROPN	SP	_	5	nmod	_	_
 12	in	in	ADP	E	_	16	case	_	_
@@ -34232,8 +34232,8 @@
 
 # sent_id = en_partut-ud-1465
 # text = Of course, federalism sounds like a good thing.
-1	Of	of	ADV	B	_	5	advmod	_	_
-2	course	course	ADV	B	_	1	fixed	_	SpaceAfter=No
+1	Of	of	ADP	E	ExtPos=ADV	5	advmod	_	_
+2	course	course	NOUN	S	Number=Sing	1	fixed	_	SpaceAfter=No
 3	,	,	PUNCT	FF	_	1	punct	_	_
 4	federalism	federalism	NOUN	S	Number=Sing	5	nsubj	_	_
 5	sounds	sound	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
@@ -36086,7 +36086,7 @@
 4	many	many	ADJ	A	Degree=Pos	6	amod	_	_
 5	subsequent	subsequent	ADJ	A	Degree=Pos	6	amod	_	_
 6	novelists	novelist	NOUN	S	Number=Plur	3	obj	_	_
-7	such	such	ADP	E	_	9	case	_	_
+7	such	such	ADJ	A	Degree=Pos|ExtPos=ADP	9	case	_	_
 8	as	as	ADP	E	_	7	fixed	_	_
 9	Marcel	Marcel	PROPN	SP	_	6	nmod	_	_
 10	Proust	Proust	PROPN	SP	_	9	flat	_	SpaceAfter=No
@@ -39521,7 +39521,7 @@
 13	of	of	ADP	E	_	14	case	_	_
 14	those	that	PRON	PD	Number=Plur|PronType=Dem	12	nmod	_	_
 15	-	-	PUNCT	FB	_	19	punct	_	_
-16	such	such	ADP	E	_	19	case	_	_
+16	such	such	ADJ	A	Degree=Pos|ExtPos=ADP	19	case	_	_
 17	as	as	ADP	E	_	16	fixed	_	_
 18	Les	Les	DET	RD	Definite=Def|Number=Plur|PronType=Art	19	det	_	_
 19	employés	employés	NOUN	S	Number=Plur	14	nmod	_	_
@@ -41105,7 +41105,7 @@
 27	's	's	PART	PART	_	26	case	_	_
 28	works	work	NOUN	S	Number=Plur	23	obl	_	SpaceAfter=No
 29	,	,	PUNCT	FF	_	28	punct	_	_
-30	such	such	ADJ	A	Degree=Pos	32	amod	_	_
+30	such	such	ADJ	A	Degree=Pos|ExtPos=ADP	32	case	_	_
 31	as	as	ADP	E	_	30	fixed	_	_
 32	Illusions	Illusions	X	SW	Foreign=Yes	28	nmod	_	_
 33	Perdues	Perdues	X	SW	Foreign=Yes	32	flat:foreign	_	SpaceAfter=No
@@ -43323,7 +43323,7 @@
 29	-	-	PUNCT	FF	_	30	punct	_	SpaceAfter=No
 30	educated	educated	ADJ	A	Degree=Pos	31	amod	_	_
 31	writers	writer	NOUN	S	Number=Plur	27	obj	_	_
-32	such	such	ADJ	A	Degree=Pos	34	amod	_	_
+32	such	such	ADJ	A	Degree=Pos|ExtPos=ADP	34	case	_	_
 33	as	as	ADP	E	_	32	fixed	_	_
 34	Christopher	Christopher	PROPN	SP	_	31	nmod	_	_
 35	Marlowe	Marlowe	PROPN	SP	_	34	flat	_	SpaceAfter=No
@@ -44627,7 +44627,7 @@
 1	Some	some	DET	DI	PronType=Ind	2	det	_	_
 2	attributions	attribution	NOUN	S	Number=Plur	14	nsubj	_	SpaceAfter=No
 3	,	,	PUNCT	FF	_	2	punct	_	_
-4	such	such	ADP	E	_	6	case	_	_
+4	such	such	ADJ	A	Degree=Pos|ExtPos=ADP	6	case	_	_
 5	as	as	ADP	E	_	4	fixed	_	_
 6	Titus	Titus	PROPN	SP	_	2	nmod	_	_
 7	Andronicus	Andronicus	PROPN	SP	_	6	flat	_	_
@@ -46129,7 +46129,7 @@
 16	who	who	PRON	PR	PronType=Rel	17	nsubj	_	_
 17	played	play	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	13	acl:relcl	_	_
 18	roles	role	NOUN	S	Number=Plur	17	obj	_	_
-19	such	such	ADJ	A	Degree=Pos	21	amod	_	_
+19	such	such	ADJ	A	Degree=Pos|ExtPos=ADP	21	case	_	_
 20	as	as	ADP	E	_	19	fixed	_	_
 21	Touchstone	Touchstone	PROPN	SP	_	18	nmod	_	_
 22	in	in	ADP	E	_	25	case	_	_
@@ -47363,7 +47363,7 @@
 11	poetry	poetry	NOUN	S	Number=Sing	6	nmod	_	_
 12	in	in	ADP	E	_	13	case	_	_
 13	plays	play	NOUN	S	Number=Plur	3	obl	_	_
-14	such	such	ADJ	A	Degree=Pos	16	amod	_	_
+14	such	such	ADJ	A	Degree=Pos|ExtPos=ADP	16	case	_	_
 15	as	as	ADP	E	_	14	fixed	_	_
 16	Julius	Julius	PROPN	SP	_	13	nmod	_	_
 17	Caesar	Caesar	PROPN	SP	_	16	flat	_	_
@@ -47588,7 +47588,7 @@
 10	stories	story	NOUN	S	Number=Plur	9	obj	_	_
 11	from	from	ADP	E	_	12	case	_	_
 12	sources	source	NOUN	S	Number=Plur	9	obl	_	_
-13	such	such	ADJ	A	Degree=Pos	15	amod	_	_
+13	such	such	ADJ	A	Degree=Pos|ExtPos=ADP	15	case	_	_
 14	as	as	ADP	E	_	13	fixed	_	_
 15	Plutarch	Plutarch	PROPN	SP	_	12	nmod	_	_
 16	and	and	CCONJ	CC	_	17	cc	_	_
@@ -47841,7 +47841,7 @@
 2	Shakespeare	Shakespeare	PROPN	SP	_	3	nsubj	_	_
 3	influenced	influence	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 4	novelists	novelist	NOUN	S	Number=Plur	3	obj	_	_
-5	such	such	ADP	E	_	7	case	_	_
+5	such	such	ADJ	A	Degree=Pos|ExtPos=ADP	7	case	_	_
 6	as	as	ADP	E	_	5	fixed	_	_
 7	Thomas	Thomas	PROPN	SP	_	3	obl	_	_
 8	Hardy	Hardy	PROPN	SP	_	7	flat	_	SpaceAfter=No
@@ -48007,7 +48007,7 @@
 # sent_id = en_partut-ud-2037
 # text = Expressions such as "with bated breath" (Merchant of Venice) and "a foregone conclusion" (Othello) have found their way into everyday English speech.
 1	Expressions	expression	NOUN	S	Number=Plur	24	nsubj	_	_
-2	such	such	ADJ	A	Degree=Pos	1	amod	_	_
+2	such	such	ADJ	A	Degree=Pos|ExtPos=ADP	1	case	_	_
 3	as	as	ADP	E	_	2	fixed	_	_
 4	"	"	PUNCT	FB	_	7	punct	_	SpaceAfter=No
 5	with	with	ADP	E	_	7	case	_	_
@@ -48669,7 +48669,7 @@
 9	open	open	ADJ	A	Degree=Pos	0	root	_	_
 10	to	to	ADP	E	_	11	case	_	_
 11	movements	movement	NOUN	S	Number=Plur	9	obl	_	_
-12	such	such	ADJ	A	Degree=Pos	14	amod	_	_
+12	such	such	ADJ	A	Degree=Pos|ExtPos=ADP	14	case	_	_
 13	as	as	ADP	E	_	12	fixed	_	_
 14	structuralism	structuralism	NOUN	S	Number=Sing	11	nmod	_	SpaceAfter=No
 15	,	,	PUNCT	FF	_	16	punct	_	_
