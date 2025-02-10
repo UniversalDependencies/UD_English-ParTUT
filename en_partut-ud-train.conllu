@@ -7352,14 +7352,15 @@
 4-5	Commission's	_	_	_	_	_	_	_	_
 4	Commission	commission	NOUN	S	Number=Sing	6	nmod	_	_
 5	's	's	PART	PART	_	4	case	_	_
-6	proposal	proposal	NOUN	S	Number=Sing	12	obl	_	_
-7	-20º	-	NUM	N	NumType=Card	12	nsubj	_	_
-8	C	Celsius	PROPN	SP	_	7	nmod	_	_
-9	would	will	AUX	VM	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	12	aux	_	_
-10	have	have	AUX	VA	VerbForm=Inf	12	aux	_	_
-11	been	be	AUX	V	Tense=Past|VerbForm=Part	12	cop	_	_
-12	sufficient	sufficient	ADJ	A	Degree=Pos	0	root	_	SpaceAfter=No
-13	.	.	PUNCT	FS	_	12	punct	_	_
+6	proposal	proposal	NOUN	S	Number=Sing	13	obl	_	_
+7	-20	-20	NUM	N	NumType=Card	8	nummod	_	SpaceAfter=No
+8	º	º	NOUN	S	Number=Plur	13	nsubj	_	_
+9	C	C	PROPN	SP	_	8	nmod:unmarked	_	_
+10	would	will	AUX	VM	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	13	aux	_	_
+11	have	have	AUX	VA	VerbForm=Inf	13	aux	_	_
+12	been	be	AUX	V	Tense=Past|VerbForm=Part	13	cop	_	_
+13	sufficient	sufficient	ADJ	A	Degree=Pos	0	root	_	SpaceAfter=No
+14	.	.	PUNCT	FS	_	13	punct	_	_
 
 # sent_id = en_partut-ud-271
 # text = On the shores of the Mediterranean, it is hard to imagine that in Lapland temperatures can fall considerably lower than that.
@@ -7419,9 +7420,10 @@
 9	be	be	AUX	VA	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	10	aux:pass	_	_
 10	lowered	lower	VERB	V	Tense=Past|VerbForm=Part	4	ccomp	_	_
 11	to	to	ADP	E	_	13	case	_	_
-12	-40°	-40°	NUM	N	NumType=Card	13	nummod	_	_
-13	C	C	PROPN	SP	_	10	obl	_	SpaceAfter=No
-14	.	.	PUNCT	FS	_	4	punct	_	_
+12	-40	-40	NUM	N	NumType=Card	13	nummod	_	SpaceAfter=No
+13	°	°	NOUN	S	Number=Plur	10	obl	_	_
+14	C	C	PROPN	SP	_	13	nmod:unmarked	_	SpaceAfter=No
+15	.	.	PUNCT	FS	_	4	punct	_	_
 
 # sent_id = en_partut-ud-274
 # text = This would be necessary to keep safety standards at the level they were in northern regions previously.
