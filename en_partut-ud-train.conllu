@@ -14783,7 +14783,7 @@
 32	for	for	ADP	E	_	33	case	_	_
 33	society	society	NOUN	S	Number=Sing	30	conj	_	_
 34	as	as	ADP	E	_	36	case	_	_
-35	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	36	det	_	_
+35	a	a	DET	RI	Definite=Ind|PronType=Art	36	det	_	_
 36	whole	whole	NOUN	S	Number=Sing	33	nmod	_	SpaceAfter=No
 37	.	.	PUNCT	FS	_	22	punct	_	_
 
@@ -23742,9 +23742,9 @@
 16	benefited	benefited	VERB	V	Tense=Past|VerbForm=Part	0	root	_	_
 17	the	the	DET	RD	Definite=Def|PronType=Art	18	det	_	_
 18	world	world	NOUN	S	Number=Sing	16	obj	_	_
-19	as	as	ADP	E	_	18	advmod	_	_
-20	a	a	DET	RI	Definite=Ind|PronType=Art	19	fixed	_	_
-21	whole	whole	NOUN	S	Number=Sing	19	fixed	_	_
+19	as	as	ADP	E	_	21	case	_	_
+20	a	a	DET	RI	Definite=Ind|PronType=Art	21	det	_	_
+21	whole	whole	NOUN	S	Number=Sing	18	obl	_	_
 22	by	by	ADP	E	_	23	mark	_	_
 23	propping	prop	VERB	V	VerbForm=Ger	16	advcl	_	_
 24	up	up	ADP	E	_	23	compound:prt	_	_
@@ -25297,9 +25297,9 @@
 16	the	the	DET	RD	Definite=Def|PronType=Art	18	det	_	_
 17	financial	financial	ADJ	A	Degree=Pos	18	amod	_	_
 18	system	system	NOUN	S	Number=Sing	13	obl	_	_
-19	as	as	ADP	E	_	18	advmod	_	_
-20	a	a	DET	RI	Definite=Ind|PronType=Art	19	fixed	_	_
-21	whole	whole	NOUN	S	Number=Sing	19	fixed	_	_
+19	as	as	ADP	E	_	21	case	_	_
+20	a	a	DET	RI	Definite=Ind|PronType=Art	21	det	_	_
+21	whole	whole	NOUN	S	Number=Sing	18	nmod	_	_
 22	and	and	CCONJ	CC	_	23	cc	_	_
 23	imposed	impose	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	13	conj	_	_
 24	severe	severe	ADJ	A	Degree=Pos	26	amod	_	_
@@ -26349,9 +26349,9 @@
 10	across	across	ADP	E	_	12	case	_	_
 11	the	the	DET	RD	Definite=Def|PronType=Art	12	det	_	_
 12	economy	economy	NOUN	S	Number=Sing	6	obl	_	_
-13	as	as	ADP	E	_	12	advmod	_	_
-14	a	a	DET	RI	Definite=Ind|PronType=Art	13	fixed	_	_
-15	whole	whole	NOUN	S	Number=Sing	13	fixed	_	_
+13	as	as	ADP	E	_	15	case	_	_
+14	a	a	DET	RI	Definite=Ind|PronType=Art	15	det	_	_
+15	whole	whole	NOUN	S	Number=Sing	12	nmod	_	_
 16	and	and	CCONJ	CC	_	19	cc	_	_
 17	within	within	ADP	E	_	19	case	_	_
 18	individual	individual	ADJ	A	Degree=Pos	19	amod	_	_
@@ -29234,8 +29234,8 @@
 8	economic	economic	ADJ	A	Degree=Pos	9	amod	_	_
 9	growth	growth	NOUN	S	Number=Sing	6	nmod	_	_
 10	may	may	AUX	VM	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	15	aux	_	_
-11	in	in	ADP	E	_	15	advmod	_	_
-12	fact	fact	NOUN	S	Number=Sing	11	fixed	_	_
+11	in	in	ADP	E	_	12	case	_	_
+12	fact	fact	NOUN	S	Number=Sing	15	obl	_	_
 13	be	be	AUX	V	VerbForm=Inf	15	cop	_	_
 14	relatively	relatively	ADV	B	_	15	advmod	_	_
 15	small	small	ADJ	A	Degree=Pos	0	root	_	SpaceAfter=No
@@ -35643,8 +35643,8 @@
 9	it	it	PRON	PE	Number=Sing|Person=3|PronType=Prs	17	nsubj	_	_
 10	is	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	cop	_	SpaceAfter=No
 11	,	,	PUNCT	FF	_	10	punct	_	_
-12	at	at	ADV	B	_	17	advmod	_	_
-13	best	best	ADV	B	_	12	fixed	_	SpaceAfter=No
+12	at	at	ADP	E	_	13	case	_	_
+13	best	best	ADJ	A	Degree=Sup	17	obl	_	SpaceAfter=No
 14	,	,	PUNCT	FF	_	12	punct	_	_
 15	the	the	DET	RD	Definite=Def|PronType=Art	17	det	_	_
 16	symbolic	symbolic	ADJ	A	Degree=Pos	17	amod	_	_
@@ -48620,8 +48620,8 @@
 14	"	"	PUNCT	FB	_	15	punct	_	SpaceAfter=No
 15	primitiveness	primitiveness	NOUN	S	Number=Sing	19	nsubj	_	SpaceAfter=No
 16	"	"	PUNCT	FB	_	15	punct	_	_
-17	in	in	ADP	E	_	19	advmod	_	_
-18	fact	fact	NOUN	S	Number=Sing	17	fixed	_	_
+17	in	in	ADP	E	_	18	case	_	_
+18	fact	fact	NOUN	S	Number=Sing	19	obl	_	_
 19	made	make	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	8	ccomp	_	_
 20	him	he	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	19	obj	_	_
 21	truly	truly	ADV	B	_	22	advmod	_	_
