@@ -1048,8 +1048,8 @@
 32	in	in	ADP	E	_	34	case	_	_
 33	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	34	det	_	_
 34	manner	manner	NOUN	S	Number=Sing	30	conj	_	_
-35	at	at	ADV	B	_	38	advmod	_	_
-36	least	least	ADV	B	Degree=Sup	35	fixed	_	_
+35	at	at	ADP	E	_	36	case	_	_
+36	least	least	ADJ	A	Degree=Sup	38	obl	_	_
 37	as	as	ADV	B	_	38	advmod	_	_
 38	prominent	prominent	ADJ	A	Degree=Pos	34	amod	_	_
 39	as	as	ADP	E	_	44	case	_	_
@@ -4388,8 +4388,8 @@
 36	not	not	PART	PART	Polarity=Neg	37	advmod	_	_
 37	solely	solely	ADV	B	_	47	advmod	_	_
 38	but	but	CCONJ	CC	_	41	cc	_	_
-39	at	at	ADV	B	_	41	advmod	_	_
-40	least	least	ADV	B	Degree=Sup	39	fixed	_	_
+39	at	at	ADP	E	_	40	case	_	_
+40	least	least	ADJ	A	Degree=Sup	41	obl	_	_
 41	partly	partly	ADV	B	_	37	conj	_	_
 42	because	because	SCONJ	CS	_	47	mark	_	_
 43	those	that	PRON	PD	Number=Plur|Person=3|PronType=Dem	47	nsubj	_	_
@@ -9735,8 +9735,8 @@
 17	this	this	DET	DD	Number=Sing|PronType=Dem	18	det	_	_
 18	Parliament	parliament	NOUN	S	Number=Sing	15	obl	_	SpaceAfter=No
 19	,	,	PUNCT	FF	_	15	punct	_	_
-20	at	at	ADV	B	_	23	advmod	_	_
-21	least	least	ADV	B	Degree=Sup	20	fixed	_	_
+20	at	at	ADP	E	_	21	case	_	_
+21	least	least	ADJ	A	Degree=Sup	23	nmod	_	_
 22	in	in	ADP	E	_	23	case	_	_
 23	spirit	spirit	NOUN	S	Number=Sing	15	obl	_	SpaceAfter=No
 24	,	,	PUNCT	FF	_	15	punct	_	_
@@ -11230,8 +11230,8 @@
 15	that	that	PRON	PR	PronType=Rel	26	nsubj	_	_
 16	is	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	26	cop	_	SpaceAfter=No
 17	,	,	PUNCT	FF	_	16	punct	_	_
-18	at	at	ADV	B	_	22	advmod	_	_
-19	least	least	ADV	B	Degree=Sup	18	fixed	_	_
+18	at	at	ADP	E	_	19	case	_	_
+19	least	least	ADJ	A	Degree=Sup	22	nmod	_	_
 20	on	on	ADP	E	_	22	case	_	_
 21	the	the	DET	RD	Definite=Def|PronType=Art	22	det	_	_
 22	face	face	NOUN	S	Number=Sing	26	obl	_	_
@@ -11705,8 +11705,8 @@
 1	Personally	personally	ADV	B	_	9	advmod	_	SpaceAfter=No
 2	,	,	PUNCT	FF	_	1	punct	_	_
 3	I	I	PRON	PE	Number=Sing|Person=1|PronType=Prs	9	nsubj	_	_
-4	at	at	ADV	B	_	9	advmod	_	_
-5	least	least	ADV	B	Degree=Sup	4	fixed	_	_
+4	at	at	ADP	E	_	5	case	_	_
+5	least	least	ADJ	A	Degree=Sup	9	obl	_	_
 6	am	be	AUX	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	9	cop	_	_
 7	totally	totally	ADV	B	_	9	advmod	_	_
 8	in	in	ADP	E	_	9	case	_	_
@@ -13257,8 +13257,8 @@
 9	that	that	SCONJ	CS	_	15	mark	_	_
 10	it	it	PRON	PE	Number=Sing|Person=3|PronType=Prs	15	nsubj	_	_
 11	is	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	cop	_	_
-12	at	at	ADV	B	_	15	advmod	_	_
-13	least	least	ADV	B	Degree=Sup	12	fixed	_	_
+12	at	at	ADP	E	_	13	case	_	_
+13	least	least	ADJ	A	Degree=Sup	14	nmod	_	_
 14	6	6	NUM	N	NumType=Card	15	nummod	_	_
 15	characters	character	NOUN	S	Number=Plur	8	advcl	_	_
 16	in	in	ADP	E	_	17	case	_	_
@@ -15861,8 +15861,8 @@
 20	,	,	PUNCT	FF	_	6	punct	_	_
 21	information	information	NOUN	S	_	30	nsubj	_	_
 22	on	on	ADP	E	_	27	case	_	_
-23	at	at	ADV	B	_	27	advmod	_	_
-24	least	least	ADV	B	Degree=Sup	23	fixed	_	_
+23	at	at	ADP	E	_	24	case	_	_
+24	least	least	ADJ	A	Degree=Sup	27	nmod	_	_
 25	the	the	DET	RD	Definite=Def|PronType=Art	27	det	_	_
 26	following	following	ADJ	A	Degree=Pos	27	amod	_	_
 27	issues	issue	NOUN	S	Number=Plur	21	nmod	_	_
@@ -21767,8 +21767,8 @@
 3	be	be	AUX	V	VerbForm=Inf	4	cop	_	_
 4	free	free	ADJ	A	Degree=Pos	0	root	_	SpaceAfter=No
 5	,	,	PUNCT	FF	_	4	punct	_	_
-6	at	at	ADV	B	_	13	advmod	_	_
-7	least	least	ADV	B	Degree=Sup	6	fixed	_	_
+6	at	at	ADP	E	_	7	case	_	_
+7	least	least	ADJ	A	Degree=Sup	13	nmod	_	_
 8	in	in	ADP	E	_	13	case	_	_
 9	the	the	DET	RD	Definite=Def|PronType=Art	13	det	_	_
 10	elementary	elementary	ADJ	A	Degree=Pos	13	amod	_	_
@@ -28545,8 +28545,8 @@
 12	private	private	ADJ	A	Degree=Pos	13	amod	_	_
 13	goods	good	NOUN	S	Number=Plur	10	nmod	_	SpaceAfter=No
 14	,	,	PUNCT	FF	_	8	punct	_	_
-15	at	at	ADP	E	_	20	advmod	_	_
-16	least	least	ADV	B	Degree=Sup	15	fixed	_	_
+15	at	at	ADP	E	_	16	case	_	_
+16	least	least	ADJ	A	Degree=Sup	20	nmod	_	_
 17	over	over	ADP	E	_	20	case	_	_
 18	the	the	DET	RD	Definite=Def|PronType=Art	20	det	_	_
 19	long	long	ADJ	A	Degree=Pos	20	amod	_	_
@@ -28918,8 +28918,8 @@
 26	getting	get	VERB	V	VerbForm=Ger	23	advcl	_	_
 27	caught	catch	VERB	V	Tense=Past|VerbForm=Part	26	ccomp	_	_
 28	(	(	PUNCT	FB	_	34	punct	_	SpaceAfter=No
-29	at	at	ADP	E	_	34	advmod	_	_
-30	least	least	ADV	B	Degree=Sup	29	fixed	_	_
+29	at	at	ADP	E	_	30	case	_	_
+30	least	least	ADJ	A	Degree=Sup	34	nmod	_	_
 31	for	for	ADP	E	_	34	case	_	_
 32	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	34	det	_	_
 33	long	long	ADJ	A	Degree=Pos	34	amod	_	_
@@ -29051,8 +29051,8 @@
 
 # sent_id = en_partut-ud-1265
 # text = At least this era left a legacy of efficient search engines and a fiber-optic infrastructure.
-1	At	at	ADV	B	_	5	advmod	_	_
-2	least	least	ADV	B	Degree=Sup	1	fixed	_	_
+1	At	at	ADP	E	_	2	case	_	_
+2	least	least	ADJ	A	Degree=Sup	5	obl	_	_
 3	this	this	DET	DD	Number=Sing|PronType=Dem	4	det	_	_
 4	era	era	NOUN	S	Number=Sing	5	nsubj	_	_
 5	left	leave	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
@@ -29655,8 +29655,8 @@
 14	our	us	DET	AP	Poss=Yes|PronType=Prs	15	nmod:poss	_	_
 15	wellbeing	wellbeing	NOUN	S	Number=Sing	12	obl	_	SpaceAfter=No
 16	,	,	PUNCT	FF	_	5	punct	_	_
-17	at	at	ADV	B	_	20	advmod	_	_
-18	least	least	ADV	B	Degree=Sup	17	fixed	_	_
+17	at	at	ADP	E	_	18	case	_	_
+18	least	least	ADJ	A	Degree=Sup	20	obl	_	_
 19	we	we	PRON	PE	Number=Plur|Person=1|PronType=Prs	20	nsubj	_	_
 20	know	know	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	0	root	_	_
 21	that	that	SCONJ	CS	_	41	mark	_	SpaceAfter=No
@@ -31790,8 +31790,8 @@
 8	gender	gender	NOUN	S	Number=Sing	9	nmod	_	_
 9	gap	gap	NOUN	S	Number=Sing	5	nmod	_	_
 10	since	since	ADP	E	_	13	case	_	_
-11	at	at	ADV	B	_	13	advmod	_	_
-12	least	least	ADV	B	Degree=Sup	11	fixed	_	_
+11	at	at	ADP	E	_	12	case	_	_
+12	least	least	ADJ	A	Degree=Sup	13	nmod	_	_
 13	2011	2011	NUM	N	NumType=Card	4	obl	_	SpaceAfter=No
 14	,	,	PUNCT	FF	_	18	punct	_	_
 15	but	but	CCONJ	CC	_	18	cc	_	_

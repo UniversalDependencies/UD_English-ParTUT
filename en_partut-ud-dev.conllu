@@ -1809,8 +1809,8 @@
 
 # sent_id = en_partut-ud-938
 # text = at least in my own mind.
-1	at	at	ADP	E	_	6	advmod	_	_
-2	least	least	ADV	B	Degree=Sup	1	fixed	_	_
+1	at	at	ADP	E	_	2	case	_	_
+2	least	least	ADJ	A	Degree=Sup	6	nmod	_	_
 3	in	in	ADP	E	_	6	case	_	_
 4	my	my	DET	AP	Number=Sing|Poss=Yes|PronType=Prs	6	nmod:poss	_	_
 5	own	own	ADJ	A	Degree=Pos	6	amod	_	_
