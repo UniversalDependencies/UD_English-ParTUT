@@ -4608,7 +4608,7 @@
 26	being	be	AUX	V	VerbForm=Ger	27	cop	_	_
 27	available	available	ADJ	A	Degree=Pos	25	acl	_	SpaceAfter=No
 28	,	,	PUNCT	FF	_	19	punct	_	_
-29	so	so	ADV	B	_	35	mark	_	_
+29	so	so	SCONJ	CS	ExtPos=SCONJ	35	mark	_	_
 30	that	that	SCONJ	CS	_	29	fixed	_	_
 31	the	the	DET	RD	Definite=Def|PronType=Art	33	det	_	_
 32	right	right	ADJ	A	Degree=Pos	33	amod	_	_
@@ -4778,7 +4778,7 @@
 49	the	the	DET	RD	Definite=Def|PronType=Art	50	det	_	_
 50	future	future	NOUN	S	Number=Sing	46	obl	_	SpaceAfter=No
 51	,	,	PUNCT	FF	_	46	punct	_	_
-52	so	so	ADV	B	_	59	mark	_	_
+52	so	so	SCONJ	CS	ExtPos=SCONJ	59	mark	_	_
 53	that	that	SCONJ	CS	_	52	fixed	_	_
 54	we	we	PRON	PE	Number=Plur|Person=1|PronType=Prs	59	nsubj	_	_
 55	in	in	ADP	E	_	56	case	_	_
@@ -5625,7 +5625,7 @@
 34	been	be	AUX	VA	Tense=Past|VerbForm=Part	35	aux:pass	_	_
 35	established	establish	VERB	V	Tense=Past|VerbForm=Part	24	ccomp	_	SpaceAfter=No
 36	,	,	PUNCT	FF	_	35	punct	_	_
-37	so	so	ADV	B	_	44	mark	_	_
+37	so	so	SCONJ	CS	ExtPos=SCONJ	44	mark	_	_
 38	that	that	SCONJ	CS	_	37	fixed	_	_
 39	certificates	certificate	NOUN	S	Number=Plur	44	nsubj	_	_
 40	would	will	AUX	VM	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	44	aux	_	_
@@ -8841,7 +8841,7 @@
 44	use	use	NOUN	S	Number=Sing	42	obj	_	_
 45	of	of	ADP	E	_	46	case	_	_
 46	renewables	renewable	NOUN	S	Number=Plur	44	nmod	_	_
-47	so	so	ADV	B	_	60	mark	_	_
+47	so	so	SCONJ	CS	ExtPos=SCONJ	60	mark	_	_
 48	that	that	SCONJ	CS	_	47	fixed	_	_
 49	the	the	DET	RD	Definite=Def|PronType=Art	52	det	_	_
 50	scant	scant	ADJ	A	Degree=Pos	51	amod	_	_
@@ -9796,7 +9796,7 @@
 25	Community	community	NOUN	S	Number=Sing	26	nmod	_	_
 26	initiatives	initiative	NOUN	S	Number=Plur	19	conj	_	SpaceAfter=No
 27	,	,	PUNCT	FF	_	15	punct	_	_
-28	so	so	ADV	B	_	34	mark	_	_
+28	so	so	SCONJ	CS	ExtPos=SCONJ	34	mark	_	_
 29	that	that	SCONJ	CS	_	28	fixed	_	_
 30	their	their	DET	AP	Poss=Yes|PronType=Prs	31	nmod:poss	_	_
 31	application	application	NOUN	S	Number=Sing	34	nsubj:pass	_	_
@@ -12702,7 +12702,7 @@
 31	making	making	NOUN	S	Number=Sing	17	obl	_	SpaceAfter=No
 32	,	,	PUNCT	FF	_	17	punct	_	_
 33	precisely	precisely	ADV	B	_	41	advmod	_	_
-34	so	so	ADV	B	_	41	mark	_	_
+34	so	so	SCONJ	CS	ExtPos=SCONJ	41	mark	_	_
 35	that	that	SCONJ	CS	_	34	fixed	_	_
 36	imbalances	imbalance	NOUN	S	Number=Plur	41	nsubj:pass	_	_
 37	and	and	CCONJ	CC	_	38	cc	_	_
@@ -27021,7 +27021,7 @@
 10	growth	growth	NOUN	S	Number=Sing	4	nmod	_	_
 11	persists	persist	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 12	,	,	PUNCT	FF	_	11	punct	_	_
-13	so	so	ADV	B	_	30	mark	_	_
+13	so	so	SCONJ	CS	ExtPos=SCONJ	30	mark	_	_
 14	that	that	SCONJ	CS	_	13	fixed	_	_
 15	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	18	det	_	_
 16	25	25	NUM	N	NumType=Card	17	nummod	_	SpaceAfter=No
@@ -32181,7 +32181,7 @@
 7	childcare	childcare	NOUN	S	Number=Sing	8	nmod	_	_
 8	centers	center	NOUN	S	Number=Plur	5	obj	_	SpaceAfter=No
 9	,	,	PUNCT	FF	_	4	punct	_	_
-10	so	so	ADV	B	_	14	mark	_	_
+10	so	so	SCONJ	CS	ExtPos=SCONJ	14	mark	_	_
 11	that	that	SCONJ	CS	_	10	fixed	_	_
 12	women	women	ADJ	A	Degree=Pos	13	amod	_	_
 13	farmers	farmer	NOUN	S	Number=Plur	14	nsubj	_	_
