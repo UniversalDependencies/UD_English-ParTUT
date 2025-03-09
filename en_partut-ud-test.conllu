@@ -1593,7 +1593,7 @@
 11	may	may	AUX	VM	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	13	aux	_	_
 12	be	be	AUX	VA	VerbForm=Inf	13	aux:pass	_	_
 13	committed	commit	VERB	V	Tense=Past|VerbForm=Part	0	root	_	_
-14	up	up	ADV	B	_	17	case	_	_
+14	up	up	ADP	E	ExtPos=ADV	16	advmod	_	_
 15	to	to	ADP	E	_	14	fixed	_	_
 16	five	five	NUM	N	NumType=Card	17	nummod	_	_
 17	years	year	NOUN	S	Number=Plur	13	obl	_	_

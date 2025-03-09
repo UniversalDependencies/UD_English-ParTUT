@@ -22467,8 +22467,8 @@
 11	the	the	DET	RD	Definite=Def|PronType=Art	13	det	_	_
 12	very	very	ADJ	A	Degree=Pos	13	amod	_	_
 13	base	base	NOUN	S	Number=Sing	3	nmod	_	_
-14	up	up	ADV	B	_	18	case	_	_
-15	to	to	ADP	E	_	14	fixed	_	_
+14	up	up	ADP	E	_	18	case	_	_
+15	to	to	ADP	E	_	18	case	_	_
 16	the	the	DET	RD	Definite=Def|PronType=Art	18	det	_	_
 17	very	very	ADJ	A	Degree=Pos	18	amod	_	_
 18	top	top	ADJ	A	Degree=Pos	13	nmod	_	SpaceAfter=No
