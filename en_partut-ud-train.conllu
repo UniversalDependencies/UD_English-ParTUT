@@ -28876,7 +28876,7 @@
 10	and	and	CCONJ	CC	_	11	cc	_	_
 11	brightest	brightest	ADJ	A	Degree=Sup	9	conj	_	_
 12	from	from	ADP	E	_	15	case	_	_
-13	around	around	ADP	E	_	12	fixed	_	_
+13	around	around	ADP	E	_	15	case	_	_
 14	the	the	DET	RD	Definite=Def|PronType=Art	15	det	_	_
 15	world	world	NOUN	S	Number=Sing	7	obl	_	SpaceAfter=No
 16	,	,	PUNCT	FF	_	1	punct	_	_
@@ -30403,7 +30403,7 @@
 16	upon	upon	ADP	E	_	17	case	_	_
 17	lessons	lesson	NOUN	S	Number=Plur	15	obl	_	_
 18	from	from	ADP	E	_	21	case	_	_
-19	around	around	ADV	B	_	18	fixed	_	_
+19	around	around	ADV	B	_	21	case	_	_
 20	the	the	DET	RD	Definite=Def|PronType=Art	21	det	_	_
 21	world	world	NOUN	S	Number=Sing	17	nmod	_	SpaceAfter=No
 22	.	.	PUNCT	FS	_	8	punct	_	_
