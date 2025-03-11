@@ -3051,7 +3051,7 @@
 19	sector	sector	NOUN	S	Number=Sing	20	nmod	_	_
 20	figures	figure	NOUN	S	Number=Plur	11	appos	_	_
 21	from	from	ADP	E	_	24	case	_	_
-22	around	around	ADP	E	_	21	fixed	_	_
+22	around	around	ADP	E	_	24	case	_	_
 23	the	the	DET	RD	Definite=Def|PronType=Art	24	det	_	_
 24	world	world	NOUN	S	Number=Sing	20	nmod	_	_
 25	–	–	PUNCT	FF	_	20	punct	_	_
