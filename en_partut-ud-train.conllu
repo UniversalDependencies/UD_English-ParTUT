@@ -19073,7 +19073,7 @@
 
 # sent_id = en_partut-ud-699
 # text = As of 2003, a greater involvement of judiciary authorities is observed, while as of 2004 and 2005, there is a more pronounced participation of the financial sector (public sector financial intermediaries, National Central Banks, commercial banking and other financial institutions).
-1	As	as	ADP	E	_	3	case	_	_
+1	As	as	ADP	E	ExtPos=ADP	3	case	_	_
 2	of	of	ADP	E	_	1	fixed	_	_
 3	2003	2003	NUM	N	NumType=Card	12	obl	_	SpaceAfter=No
 4	,	,	PUNCT	FF	_	3	punct	_	_
@@ -19087,7 +19087,7 @@
 12	observed	observe	VERB	V	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
 13	,	,	PUNCT	FF	_	12	punct	_	_
 14	while	while	SCONJ	CS	_	22	mark	_	_
-15	as	as	ADP	E	_	17	case	_	_
+15	as	as	ADP	E	ExtPos=ADP	17	case	_	_
 16	of	of	ADP	E	_	15	fixed	_	_
 17	2004	2004	NUM	N	NumType=Card	22	obl	_	_
 18	and	and	CCONJ	CC	_	19	cc	_	_
@@ -19253,7 +19253,7 @@
 
 # sent_id = en_partut-ud-705
 # text = As of 2005, the new Member States became active in organising Pericles actions.
-1	As	as	ADP	E	_	3	case	_	_
+1	As	as	ADP	E	ExtPos=ADP	3	case	_	_
 2	of	of	ADP	E	_	1	fixed	_	_
 3	2005	2005	NUM	N	NumType=Card	9	obl	_	SpaceAfter=No
 4	,	,	PUNCT	FF	_	3	punct	_	_
@@ -38131,7 +38131,7 @@
 
 # sent_id = en_partut-ud-1629
 # text = As of April 1828 Balzac owed 50,000 francs to his mother.
-1	As	as	ADP	E	_	3	case	_	_
+1	As	as	ADP	E	ExtPos=ADP	3	case	_	_
 2	of	of	ADP	E	_	1	fixed	_	_
 3	April	April	PROPN	SP	_	6	obl	_	_
 4	1828	1828	NUM	N	NumType=Card	3	flat	_	_
