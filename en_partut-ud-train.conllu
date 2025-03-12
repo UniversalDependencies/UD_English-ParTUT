@@ -4435,8 +4435,8 @@
 83	minor	minor	ADJ	A	Degree=Pos	84	amod	_	_
 84	accident	accident	NOUN	S	Number=Sing	89	nsubj	_	_
 85	has	have	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	89	aux	_	_
-86	all	all	DET	T	PronType=Tot	88	obl	_	_
-87	too	too	ADV	B	_	86	fixed	_	_
+86	all	all	ADV	B	_	88	advmod	_	_
+87	too	too	ADV	B	_	88	advmod	_	_
 88	often	often	ADV	B	_	89	advmod	_	_
 89	become	become	VERB	V	Tense=Past|VerbForm=Part	47	conj	_	_
 90	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	92	det	_	_
@@ -10608,7 +10608,7 @@
 12	watered	water	VERB	V	Tense=Past|VerbForm=Part	9	xcomp	_	_
 13	down	down	ADV	B	_	12	compound:prt	_	_
 14	all	all	ADV	B	_	16	advmod	_	_
-15	too	too	ADV	B	_	14	fixed	_	_
+15	too	too	ADV	B	_	16	advmod	_	_
 16	often	often	ADV	B	_	12	advmod	_	_
 17	by	by	ADP	E	_	20	case	_	_
 18	slow	slow	ADJ	A	Degree=Pos	20	amod	_	_
