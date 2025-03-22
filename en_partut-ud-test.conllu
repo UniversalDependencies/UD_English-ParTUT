@@ -230,8 +230,8 @@
 37	,	,	PUNCT	FF	_	36	punct	_	_
 38	therefore	therefore	ADV	B	_	36	advmod	_	SpaceAfter=No
 39	,	,	PUNCT	FF	_	44	punct	_	_
-40	as	as	ADV	B	_	44	cc	_	_
-41	well	well	ADV	B	_	40	fixed	_	_
+40	as	as	ADV	B	ExtPos=CCONJ	44	cc	_	_
+41	well	well	ADV	B	Degree=Pos	40	fixed	_	_
 42	as	as	ADP	E	_	40	fixed	_	_
 43	the	the	DET	RD	Definite=Def|PronType=Art	44	det	_	_
 44	requirements	requirement	NOUN	S	Number=Plur	29	conj	_	_
@@ -3127,8 +3127,8 @@
 23	market	market	NOUN	S	Number=Sing	24	nmod	_	_
 24	reforms	reform	NOUN	S	Number=Plur	19	conj	_	SpaceAfter=No
 25	,	,	PUNCT	FF	_	30	punct	_	_
-26	as	as	ADV	B	_	30	cc	_	_
-27	well	well	ADV	B	_	26	fixed	_	_
+26	as	as	ADV	B	ExtPos=CCONJ	30	cc	_	_
+27	well	well	ADV	B	Degree=Pos	26	fixed	_	_
 28	as	as	ADP	E	_	26	fixed	_	_
 29	structural	structural	ADJ	A	Degree=Pos	30	amod	_	_
 30	change	change	NOUN	S	Number=Sing	19	conj	_	SpaceAfter=No
