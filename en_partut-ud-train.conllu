@@ -9850,9 +9850,9 @@
 
 # sent_id = en_partut-ud-353
 # text = In order to achieve a more rapid and efficient boost for attaining these objectives, we think that those who generate employment, the real entrepreneurs and those who really guarantee new sources of employment, that is, businesspeople, must participate in this initiative.
-1	In	in	ADP	E	_	4	mark	_	_
+1	In	in	ADP	E	ExtPos=SCONJ	4	mark	_	_
 2	order	order	NOUN	S	Number=Sing	1	fixed	_	_
-3	to	to	ADP	E	_	1	fixed	_	_
+3	to	to	PART	PART	_	4	mark	_	_
 4	achieve	achieve	VERB	V	VerbForm=Inf	17	advcl	_	_
 5	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	10	det	_	_
 6	more	more	ADV	B	Degree=Cmp	7	advmod	_	_
@@ -9969,9 +9969,9 @@
 # text = Also, in order to attain our objectives, to overcome the disparities between regions and to seek out sources of employment, it is crucial to give our complete support to new technologies, to transport and communications networks and to renewable energies.
 1	Also	also	ADV	B	_	26	advmod	_	SpaceAfter=No
 2	,	,	PUNCT	FF	_	1	punct	_	_
-3	in	in	ADP	E	_	6	mark	_	_
+3	in	in	ADP	E	ExtPos=SCONJ	6	mark	_	_
 4	order	order	NOUN	S	Number=Sing	3	fixed	_	_
-5	to	to	ADP	E	_	3	fixed	_	_
+5	to	to	PART	PART	_	6	mark	_	_
 6	attain	attain	VERB	V	VerbForm=Inf	26	advcl	_	_
 7	our	us	DET	AP	Poss=Yes|PronType=Prs	8	nmod:poss	_	_
 8	objectives	objective	NOUN	S	Number=Plur	6	obj	_	SpaceAfter=No
@@ -12818,9 +12818,9 @@
 
 # sent_id = en_partut-ud-467
 # text = In order to be eligible to sign up for Facebook, people must be 13 years of age or older.
-1	In	in	ADP	E	_	5	mark	_	_
+1	In	in	ADP	E	ExtPos=SCONJ	5	mark	_	_
 2	order	order	NOUN	S	Number=Sing	1	fixed	_	_
-3	to	to	ADP	E	_	1	fixed	_	_
+3	to	to	PART	PART	_	5	mark	_	_
 4	be	be	AUX	V	VerbForm=Inf	5	cop	_	_
 5	eligible	eligible	ADJ	A	Degree=Pos	16	advcl	_	_
 6	to	to	PART	PART	_	7	mark	_	_
@@ -15280,9 +15280,9 @@
 1	(	(	PUNCT	FB	_	2	punct	_	SpaceAfter=No
 2	10	10	NUM	N	NumType=Card	7	nummod	_	SpaceAfter=No
 3	)	)	PUNCT	FB	_	2	punct	_	_
-4	In	in	ADP	E	_	7	mark	_	_
+4	In	in	ADP	E	ExtPos=SCONJ	7	mark	_	_
 5	order	order	NOUN	S	Number=Sing	4	fixed	_	_
-6	to	to	SCONJ	CS	_	4	fixed	_	_
+6	to	to	PART	PART	_	7	mark	_	_
 7	maximise	maximise	VERB	V	VerbForm=Inf	17	advcl	_	_
 8	the	the	DET	RD	Definite=Def|PronType=Art	10	det	_	_
 9	environmental	environmental	ADJ	A	Degree=Pos	10	amod	_	_
@@ -15495,9 +15495,9 @@
 20	environmental	environmental	ADJ	A	Degree=Pos	21	amod	_	_
 21	aspects	aspect	NOUN	S	Number=Plur	18	conj	_	_
 22	thereof	thereof	ADV	B	_	21	advmod	_	_
-23	in	in	ADP	E	_	26	mark	_	_
+23	in	in	ADP	E	ExtPos=SCONJ	26	mark	_	_
 24	order	order	NOUN	S	Number=Sing	23	fixed	_	_
-25	to	to	ADP	E	_	23	fixed	_	_
+25	to	to	PART	PART	_	26	mark	_	_
 26	ensure	ensure	VERB	V	VerbForm=Inf	11	advcl	_	_
 27	that	that	SCONJ	CS	_	32	mark	_	_
 28	their	their	DET	AP	Poss=Yes|PronType=Prs	30	nmod:poss	_	_
@@ -18071,9 +18071,9 @@
 2	vigilance	vigilance	NOUN	S	Number=Sing	4	nsubj:pass	_	_
 3	is	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux:pass	_	_
 4	needed	need	VERB	V	Tense=Past|VerbForm=Part	0	root	_	_
-5	in	in	ADP	E	_	8	mark	_	_
+5	in	in	ADP	E	ExtPos=SCONJ	8	mark	_	_
 6	order	order	NOUN	S	Number=Sing	5	fixed	_	_
-7	to	to	ADP	E	_	5	fixed	_	_
+7	to	to	PART	PART	_	8	mark	_	_
 8	maintain	maintain	VERB	V	VerbForm=Inf	4	advcl	_	_
 9	and	and	CCONJ	CC	_	10	cc	_	_
 10	build	build	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	8	conj	_	_
@@ -20041,9 +20041,9 @@
 1	-	-	PUNCT	FF	_	2	punct	_	_
 2	continue	continue	VERB	V	VerbForm=Inf	0	root	_	_
 3	vigilance	vigilance	NOUN	S	Number=Sing	2	obj	_	_
-4	in	in	ADP	E	_	7	mark	_	_
+4	in	in	ADP	E	ExtPos=SCONJ	7	mark	_	_
 5	order	order	NOUN	S	Number=Sing	4	fixed	_	_
-6	to	to	ADP	E	_	4	fixed	_	_
+6	to	to	PART	PART	_	7	mark	_	_
 7	maintain	maintain	VERB	V	VerbForm=Inf	2	advcl	_	_
 8	or	or	CCONJ	CC	_	9	cc	_	_
 9	reduce	reduce	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	7	conj	_	_
@@ -24537,9 +24537,9 @@
 18	by	by	ADP	E	_	20	case	_	_
 19	international	international	ADJ	A	Degree=Pos	20	amod	_	_
 20	firms	firm	NOUN	S	Number=Plur	17	obl	_	_
-21	in	in	ADP	E	_	24	mark	_	_
+21	in	in	ADP	E	ExtPos=SCONJ	24	mark	_	_
 22	order	order	NOUN	S	Number=Sing	21	fixed	_	_
-23	to	to	ADP	E	_	21	fixed	_	_
+23	to	to	PART	PART	_	24	mark	_	_
 24	make	make	VERB	V	VerbForm=Inf	17	advcl	_	_
 25	way	way	NOUN	S	Number=Sing	24	obj	_	_
 26	for	for	ADP	E	_	28	case	_	_
@@ -30676,9 +30676,9 @@
 
 # sent_id = en_partut-ud-1326
 # text = In order to improve its prospects, South Korea must pursue economic reform and restructuring, with an emphasis on maximizing its human-capital resources – especially women.
-1	In	in	ADP	E	_	4	mark	_	_
+1	In	in	ADP	E	ExtPos=SCONJ	4	mark	_	_
 2	order	order	NOUN	S	Number=Sing	1	fixed	_	_
-3	to	to	ADP	E	_	1	fixed	_	_
+3	to	to	PART	PART	_	4	mark	_	_
 4	improve	improve	VERB	V	VerbForm=Inf	11	advcl	_	_
 5	its	its	DET	AP	Number=Sing|Poss=Yes|PronType=Prs	6	nmod:poss	_	_
 6	prospects	prospect	NOUN	S	Number=Plur	4	obj	_	SpaceAfter=No
@@ -33992,9 +33992,9 @@
 15	pay	pay	VERB	V	VerbForm=Inf	13	xcomp	_	_
 16	the	the	DET	RD	Definite=Def|PronType=Art	17	det	_	_
 17	price	price	NOUN	S	Number=Sing	15	obj	_	_
-18	in	in	ADP	E	_	21	mark	_	_
+18	in	in	ADP	E	ExtPos=SCONJ	21	mark	_	_
 19	order	order	NOUN	S	Number=Sing	18	fixed	_	_
-20	to	to	ADP	E	_	18	fixed	_	_
+20	to	to	PART	PART	_	21	mark	_	_
 21	preserve	preserve	VERB	V	VerbForm=Inf	15	advcl	_	_
 22	our	us	DET	AP	Poss=Yes|PronType=Prs	23	nmod:poss	_	_
 23	independence	independence	NOUN	S	Number=Sing	21	obj	_	SpaceAfter=No
@@ -35326,9 +35326,9 @@
 
 # sent_id = en_partut-ud-1513
 # text = In order to determine the appropriate level of oversight, government bodies would presumably conduct a science-based risk analysis.
-1	In	in	ADP	E	_	4	mark	_	_
+1	In	in	ADP	E	ExtPos=SCONJ	4	mark	_	_
 2	order	order	NOUN	S	Number=Sing	1	fixed	_	_
-3	to	to	ADP	E	_	1	fixed	_	_
+3	to	to	PART	PART	_	4	mark	_	_
 4	determine	determine	VERB	V	VerbForm=Inf	15	advcl	_	_
 5	the	the	DET	RD	Definite=Def|PronType=Art	7	det	_	_
 6	appropriate	appropriate	ADJ	A	Degree=Pos	7	amod	_	_
@@ -38904,9 +38904,9 @@
 26	1820	1820	NUM	N	NumType=Card	28	nummod	_	_
 27	's	's	PART	PART	_	26	case	_	_
 28	Paris	Paris	PROPN	SP	_	19	obl	_	_
-29	in	in	ADP	E	_	32	mark	_	_
+29	in	in	ADP	E	ExtPos=SCONJ	32	mark	_	_
 30	order	order	NOUN	S	Number=Sing	29	fixed	_	_
-31	to	to	ADP	E	_	29	fixed	_	_
+31	to	to	PART	PART	_	32	mark	_	_
 32	rage	rage	VERB	V	VerbForm=Inf	19	advcl	_	_
 33	at	at	ADP	E	_	35	case	_	_
 34	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	35	det	_	_

@@ -613,9 +613,9 @@
 26	associated	associated	ADJ	A	Degree=Pos	27	amod	_	_
 27	information	information	NOUN	S	_	24	conj	_	SpaceAfter=No
 28	,	,	PUNCT	FF	_	19	punct	_	_
-29	in	in	ADP	E	_	32	mark	_	_
+29	in	in	ADP	E	ExtPos=SCONJ	32	mark	_	_
 30	order	order	NOUN	S	Number=Sing	29	fixed	_	_
-31	to	to	ADP	E	_	29	fixed	_	_
+31	to	to	PART	PART	_	32	mark	_	_
 32	enable	enable	VERB	V	VerbForm=Inf	19	advcl	_	_
 33	them	they	PRON	PE	Number=Plur|Person=3|PronType=Prs	32	obj	_	_
 34	to	to	PART	PART	_	36	mark	_	_
