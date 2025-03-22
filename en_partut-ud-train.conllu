@@ -2494,7 +2494,7 @@
 50	activity	activity	NOUN	S	Number=Sing	47	obl	_	_
 51	and	and	CCONJ	CC	_	52	cc	_	_
 52	treason	treason	NOUN	S	Number=Sing	50	conj	_	_
-53	because	because	ADP	E	_	56	case	_	_
+53	because	because	ADP	E	ExtPos=ADP	56	case	_	_
 54	of	of	ADP	E	_	53	fixed	_	_
 55	our	us	DET	AP	Poss=Yes|PronType=Prs	56	nmod:poss	_	_
 56	involvement	involvement	NOUN	S	Number=Sing	47	obl	_	_
@@ -4542,7 +4542,7 @@
 5	to	to	PART	PART	_	7	mark	_	_
 6	be	be	AUX	VA	VerbForm=Inf	7	aux	_	_
 7	diverted	divert	VERB	V	Tense=Past|VerbForm=Part	4	xcomp	_	_
-8	because	because	ADP	E	_	10	case	_	_
+8	because	because	ADP	E	ExtPos=ADP	10	case	_	_
 9	of	of	ADP	E	_	8	fixed	_	_
 10	this	this	PRON	PD	Number=Sing|PronType=Dem	7	obl	_	_
 11	stretched	stretch	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
@@ -10100,7 +10100,7 @@
 # text = It was because of the discredited policies of his own Conservative Party.
 1	It	it	PRON	PE	Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
 2	was	be	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-3	because	because	ADP	E	_	7	case	_	_
+3	because	because	ADP	E	ExtPos=ADP	7	case	_	_
 4	of	of	ADP	E	_	3	fixed	_	_
 5	the	the	DET	RD	Definite=Def|PronType=Art	7	det	_	_
 6	discredited	discredited	ADJ	A	Degree=Pos	7	amod	_	_
@@ -12622,7 +12622,7 @@
 15	Funds	fund	NOUN	S	Number=Plur	12	obj	_	SpaceAfter=No
 16	,	,	PUNCT	FF	_	9	punct	_	_
 17	mainly	mainly	ADV	B	_	21	advmod	_	_
-18	because	because	ADP	E	_	21	case	_	_
+18	because	because	ADP	E	ExtPos=ADP	21	case	_	_
 19	of	of	ADP	E	_	18	fixed	_	_
 20	excessive	excessive	ADJ	A	Degree=Pos	21	amod	_	_
 21	bureaucracy	bureaucracy	NOUN	S	Number=Sing	9	obl	_	SpaceAfter=No
@@ -35673,7 +35673,7 @@
 16	–	–	PUNCT	FF	_	15	punct	_	_
 17	not	not	PART	PART	Polarity=Neg	18	advmod	_	_
 18	least	least	ADV	B	Degree=Sup	24	advmod	_	_
-19	because	because	ADP	E	_	24	case	_	_
+19	because	because	ADP	E	ExtPos=ADP	24	case	_	_
 20	of	of	ADP	E	_	19	fixed	_	_
 21-22	Germany's	_	_	_	_	_	_	_	_
 21	Germany	Germany	PROPN	SP	_	24	nmod	_	_
@@ -40285,7 +40285,7 @@
 15	people	people	NOUN	S	Number=Sing	13	obj	_	_
 16	in	in	ADP	E	_	17	case	_	_
 17	black	black	NOUN	S	Number=Sing	15	nmod	_	_
-18	because	because	ADP	E	_	21	case	_	_
+18	because	because	ADP	E	ExtPos=ADP	21	case	_	_
 19	of	of	ADP	E	_	18	fixed	_	_
 20	the	the	DET	RD	Definite=Def|PronType=Art	21	det	_	_
 21	death	death	NOUN	S	Number=Sing	13	obl	_	_
@@ -46292,7 +46292,7 @@
 8	bad	bad	ADJ	A	Degree=Pos	9	amod	_	_
 9	quartos	quartos	NOUN	S	Number=Plur	3	obl	_	SpaceAfter=No
 10	"	"	PUNCT	FB	_	9	punct	_	_
-11	because	because	ADP	E	_	19	case	_	_
+11	because	because	ADP	E	ExtPos=ADP	19	case	_	_
 12	of	of	ADP	E	_	11	fixed	_	_
 13	their	their	DET	AP	Poss=Yes|PronType=Prs	19	nmod:poss	_	_
 14	adapted	adapt	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	19	acl	_	SpaceAfter=No
@@ -46452,7 +46452,7 @@
 8	theatres	theatre	NOUN	S	Number=Plur	10	nsubj:pass	_	_
 9	were	be	AUX	VA	Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	10	aux:pass	_	_
 10	closed	close	VERB	V	Tense=Past|VerbForm=Part	16	advcl	_	_
-11	because	because	ADP	E	_	13	case	_	_
+11	because	because	ADP	E	ExtPos=ADP	13	case	_	_
 12	of	of	ADP	E	_	11	fixed	_	_
 13	plague	plague	NOUN	S	Number=Sing	10	obl	_	SpaceAfter=No
 14	,	,	PUNCT	FF	_	10	punct	_	_
