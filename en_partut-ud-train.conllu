@@ -1083,7 +1083,7 @@
 # sent_id = en_partut-ud-48
 # text = EXCEPT TO THE EXTENT REQUIRED BY APPLICABLE LAW, IN NO EVENT WILL LICENSOR BE LIABLE TO YOU ON ANY LEGAL THEORY FOR ANY SPECIAL, INCIDENTAL, CONSEQUENTIAL, PUNITIVE OR EXEMPLARY DAMAGES ARISING OUT OF THIS LICENSE OR THE USE OF THE WORK, EVEN IF LICENSOR HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
 1	EXCEPT	except	ADP	E	_	4	case	_	_
-2	TO	to	ADP	E	_	1	fixed	_	_
+2	TO	to	ADP	E	_	4	case	_	_
 3	THE	the	DET	RD	Definite=Def|PronType=Art	4	det	_	_
 4	EXTENT	extent	NOUN	S	Number=Sing	16	obl	_	_
 5	REQUIRED	require	VERB	V	Tense=Past|VerbForm=Part	4	acl	_	_
@@ -1644,7 +1644,7 @@
 # sent_id = en_partut-ud-67
 # text = Except for the limited purpose of indicating to the public that the Work is licensed under the CCPL, neither party will use the trademark "Creative Commons" or any related trademark or logo of Creative Commons without the prior written consent of Creative Commons.
 1	Except	except	ADP	E	_	5	case	_	_
-2	for	for	ADP	E	_	1	fixed	_	_
+2	for	for	ADP	E	_	5	case	_	_
 3	the	the	DET	RD	Definite=Def|PronType=Art	5	det	_	_
 4	limited	limited	ADJ	A	Degree=Pos	5	amod	_	_
 5	purpose	purpose	NOUN	S	Number=Sing	23	obl	_	_
@@ -28980,7 +28980,7 @@
 17	standards	standard	NOUN	S	Number=Plur	14	nmod	_	_
 18	(	(	PUNCT	FB	_	22	punct	_	SpaceAfter=No
 19	except	except	ADP	E	_	22	case	_	_
-20	for	for	ADP	E	_	19	fixed	_	_
+20	for	for	ADP	E	_	22	case	_	_
 21	the	the	DET	RD	Definite=Def|PronType=Art	22	det	_	_
 22	bankers	banker	NOUN	S	Number=Plur	11	obl	_	SpaceAfter=No
 23	)	)	PUNCT	FB	_	22	punct	_	SpaceAfter=No
