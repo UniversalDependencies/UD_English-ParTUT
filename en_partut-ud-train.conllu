@@ -2678,8 +2678,8 @@
 13	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	15	det	_	_
 14	Dutch	Dutch	ADJ	A	Degree=Pos	15	amod	_	_
 15	channel	channel	NOUN	S	Number=Sing	12	obj	_	_
-16	as	as	ADV	B	_	12	advmod	_	_
-17	well	well	ADV	B	_	16	fixed	_	SpaceAfter=No
+16	as	as	ADV	B	ExtPos=ADV	12	advmod	_	_
+17	well	well	ADV	B	Degree=Pos	16	fixed	_	SpaceAfter=No
 18	.	.	PUNCT	FS	_	6	punct	_	_
 
 # sent_id = en_partut-ud-103
@@ -23679,8 +23679,8 @@
 22	second	second	NOUN	S	Number=Sing	18	advcl	_	_
 23	and	and	CCONJ	CC	_	24	cc	_	_
 24	third	third	PRON	NO	NumType=Ord|PronType=Ind	22	conj	_	_
-25	as	as	ADV	B	_	24	advmod	_	_
-26	well	well	ADV	B	_	25	fixed	_	SpaceAfter=No
+25	as	as	ADV	B	ExtPos=ADV	22	advmod	_	_
+26	well	well	ADV	B	Degree=Pos	25	fixed	_	SpaceAfter=No
 27	)	)	PUNCT	FB	_	22	punct	_	SpaceAfter=No
 28	.	.	PUNCT	FS	_	14	punct	_	_
 
@@ -40382,8 +40382,8 @@
 7	his	his	DET	AP	Poss=Yes|PronType=Prs	9	nmod:poss	_	_
 8	smaller	smaller	ADJ	A	Degree=Cmp	9	amod	_	_
 9	sculptures	sculpture	NOUN	S	Number=Plur	5	obl	_	_
-10	as	as	ADV	B	_	5	advmod	_	_
-11	well	well	ADV	B	_	10	fixed	_	SpaceAfter=No
+10	as	as	ADV	B	ExtPos=ADV	5	advmod	_	_
+11	well	well	ADV	B	Degree=Pos	10	fixed	_	SpaceAfter=No
 12	.	.	PUNCT	FS	_	2	punct	_	_
 
 # sent_id = en_partut-ud-1729
@@ -43252,8 +43252,8 @@
 26	supposes	suppose	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	acl	_	_
 27	he	he	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	31	nsubj	_	_
 28	is	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	31	cop	_	_
-29	as	as	ADP	E	_	31	case	_	_
-30	well	well	ADV	B	_	29	fixed	_	_
+29	as	as	ADV	B	_	30	case	_	_
+30	well	well	ADV	B	Degree=Pos	31	advmod	_	_
 31	able	able	ADJ	A	Degree=Pos	26	ccomp	_	_
 32	to	to	PART	PART	_	33	mark	_	_
 33	bombast	bombast	VERB	V	VerbForm=Inf	31	xcomp	_	_
