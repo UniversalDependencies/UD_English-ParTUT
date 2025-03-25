@@ -18521,10 +18521,10 @@
 19	be	be	AUX	VA	VerbForm=Inf	21	aux:pass	_	_
 20	further	further	ADV	B	_	21	advmod	_	_
 21	developed	develop	VERB	V	Tense=Past|VerbForm=Part	0	root	_	_
-22	so	so	ADV	B	_	21	advmod	_	_
-23	as	as	ADP	E	_	25	mark	_	_
-24	to	to	ADP	E	_	23	fixed	_	_
-25	eliminate	eliminate	VERB	V	VerbForm=Inf	22	advcl	_	_
+22	so	so	SCONJ	CS	ExtPos=SCONJ	25	mark	_	_
+23	as	as	SCONJ	CS	_	22	fixed	_	_
+24	to	to	PART	PART	_	22	fixed	_	_
+25	eliminate	eliminate	VERB	V	VerbForm=Inf	21	advcl	_	_
 26	any	any	DET	DI	PronType=Ind	27	det	_	_
 27	overlapping	overlapping	NOUN	S	Number=Sing	25	obj	_	_
 28	between	between	ADP	E	_	30	case	_	_
