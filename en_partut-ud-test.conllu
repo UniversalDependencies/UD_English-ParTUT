@@ -272,9 +272,9 @@
 19	action	action	NOUN	S	Number=Sing	18	obj	_	_
 20	more	more	ADV	B	Degree=Cmp	21	advmod	_	_
 21	quickly	quickly	ADV	B	_	18	advmod	_	_
-22	so	so	ADV	B	_	25	mark	_	_
-23	as	as	ADP	E	_	22	fixed	_	_
-24	to	to	ADP	E	_	22	fixed	_	_
+22	so	so	SCONJ	CS	ExtPos=SCONJ	25	mark	_	_
+23	as	as	SCONJ	CS	_	22	fixed	_	_
+24	to	to	PART	PART	_	22	fixed	_	_
 25	achieve	achieve	VERB	V	VerbForm=Inf	18	advcl	_	_
 26	harmonisation	harmonization	NOUN	S	Number=Sing	25	obj	_	_
 27	in	in	ADP	E	_	29	case	_	_
