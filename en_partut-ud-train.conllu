@@ -2561,12 +2561,12 @@
 50	adopted	adopt	VERB	V	Tense=Past|VerbForm=Part	46	acl:relcl	_	SpaceAfter=No
 51	,	,	PUNCT	FF	_	37	punct	_	_
 52	clear	clear	ADJ	A	Degree=Pos	37	xcomp	_	_
-53	as	as	ADP	E	_	58	mark	_	_
-54	far	far	ADV	B	_	53	fixed	_	_
-55	as	as	ADP	E	_	53	fixed	_	_
+53	as	as	ADV	B	_	54	advmod	_	_
+54	far	far	ADV	B	Degree=Pos	37	advmod	_	_
+55	as	as	SCONJ	CS	_	58	mark	_	_
 56	Russia	Russia	PROPN	SP	_	58	nsubj	_	_
 57	is	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	58	cop	_	_
-58	concerned	concerned	ADJ	A	Degree=Pos	37	advcl	_	SpaceAfter=No
+58	concerned	concerned	ADJ	A	Degree=Pos	54	advcl	_	SpaceAfter=No
 59	.	.	PUNCT	FS	_	3	punct	_	_
 
 # sent_id = en_partut-ud-99
@@ -7684,10 +7684,10 @@
 29	should	shall	AUX	VM	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	37	aux	_	_
 30	also	also	ADV	B	_	37	advmod	_	SpaceAfter=No
 31	,	,	PUNCT	FF	_	30	punct	_	_
-32	as	as	ADP	E	_	35	case	_	_
-33	far	far	ADV	B	_	32	fixed	_	_
-34	as	as	ADP	E	_	32	fixed	_	_
-35	possible	possible	ADJ	A	Degree=Pos	37	obl	_	SpaceAfter=No
+32	as	as	ADV	B	_	33	advmod	_	_
+33	far	far	ADV	B	Degree=Pos	37	advmod	_	_
+34	as	as	SCONJ	CS	_	35	mark	_	_
+35	possible	possible	ADJ	A	Degree=Pos	33	advcl	_	SpaceAfter=No
 36	,	,	PUNCT	FF	_	35	punct	_	_
 37	apply	apply	VERB	V	VerbForm=Inf	23	conj	_	_
 38	to	to	ADP	E	_	40	case	_	_
@@ -33330,15 +33330,15 @@
 3	five	five	NUM	N	NumType=Card	5	nummod	_	_
 4	core	core	NOUN	S	Number=Sing	5	nmod	_	_
 5	competencies	competency	NOUN	S	Number=Plur	2	obj	_	_
-6	as	as	ADP	E	_	14	mark	_	_
-7	far	far	ADV	B	_	6	fixed	_	_
-8	as	as	ADP	E	_	6	fixed	_	_
+6	as	as	ADV	B	_	7	advmod	_	_
+7	far	far	ADV	B	Degree=Pos	5	advmod	_	_
+8	as	as	SCONJ	CS	_	14	mark	_	_
 9	the	the	DET	RD	Definite=Def|PronType=Art	10	det	_	_
 10	world	world	NOUN	S	Number=Sing	14	nsubj	_	_
 11	of	of	ADP	E	_	12	case	_	_
 12	work	work	NOUN	S	Number=Sing	10	nmod	_	_
 13	is	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	_
-14	concerned	concerned	ADJ	A	Degree=Pos	5	acl	_	SpaceAfter=No
+14	concerned	concerned	ADJ	A	Degree=Pos	7	acl	_	SpaceAfter=No
 15	:	:	PUNCT	FC	_	2	punct	_	_
 
 # sent_id = en_partut-ud-1433
