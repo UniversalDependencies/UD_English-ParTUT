@@ -11813,7 +11813,7 @@
 
 # sent_id = en_partut-ud-424
 # text = As for us in Parliament, I would like to remind you of the code of conduct between the Commission and Parliament which was signed in May.
-1	As	as	ADP	E	_	3	case	_	_
+1	As	as	ADP	E	ExtPos=ADP	3	case	_	_
 2	for	for	ADP	E	_	1	fixed	_	_
 3	us	us	PRON	PE	Number=Plur|Person=1|PronType=Prs	9	obl	_	_
 4	in	in	ADP	E	_	5	case	_	_
