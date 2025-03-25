@@ -42405,8 +42405,8 @@
 29	works	work	NOUN	S	Number=Plur	25	nmod	_	_
 30	that	that	PRON	PR	PronType=Rel	31	nsubj	_	_
 31	included	include	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	25	acl:relcl	_	_
-32	all	all	ADV	B	_	34	advmod	_	_
-33	but	but	ADV	B	_	32	fixed	_	_
+32	all	all	DET	T	ExtPos=ADV	34	advmod	_	_
+33	but	but	ADP	E	_	32	fixed	_	_
 34	two	two	NUM	N	NumType=Card	31	obj	_	_
 35	of	of	ADP	E	_	37	case	_	_
 36	the	the	DET	RD	Definite=Def|PronType=Art	37	det	_	_
