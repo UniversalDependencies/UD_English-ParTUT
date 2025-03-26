@@ -35645,7 +35645,7 @@
 11	,	,	PUNCT	FF	_	10	punct	_	_
 12	at	at	ADP	E	_	13	case	_	_
 13	best	best	ADJ	A	Degree=Sup	17	obl	_	SpaceAfter=No
-14	,	,	PUNCT	FF	_	12	punct	_	_
+14	,	,	PUNCT	FF	_	13	punct	_	_
 15	the	the	DET	RD	Definite=Def|PronType=Art	17	det	_	_
 16	symbolic	symbolic	ADJ	A	Degree=Pos	17	amod	_	_
 17	garb	garb	NOUN	S	Number=Sing	0	root	_	_

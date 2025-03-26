@@ -3101,15 +3101,15 @@
 
 # sent_id = en_partut-ud-1356
 # text = In South Korea, Japan, and elsewhere, developing and maximizing women's potential will require comprehensive education and labor-market reforms, as well as structural change, particularly on the services side of the economy.
-1	In	in	ADP	E	_	2	case	_	_
+1	In	in	ADP	E	_	3	case	_	_
 2	South	South	PROPN	SP	Number=Sing	3	compound	_	_
 3	Korea	Korea	PROPN	SP	Number=Sing	17	obl	_	SpaceAfter=No
 4	,	,	PUNCT	FF	_	5	punct	_	_
-5	Japan	Japan	PROPN	SP	_	2	conj	_	SpaceAfter=No
+5	Japan	Japan	PROPN	SP	_	3	conj	_	SpaceAfter=No
 6	,	,	PUNCT	FF	_	8	punct	_	_
 7	and	and	CCONJ	CC	_	8	cc	_	_
 8	elsewhere	elsewhere	ADV	B	_	2	conj	_	SpaceAfter=No
-9	,	,	PUNCT	FF	_	2	punct	_	_
+9	,	,	PUNCT	FF	_	3	punct	_	_
 10	developing	develop	VERB	V	VerbForm=Ger	17	csubj	_	_
 11	and	and	CCONJ	CC	_	12	cc	_	_
 12	maximizing	maximize	VERB	V	VerbForm=Ger	10	conj	_	_
