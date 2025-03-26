@@ -30712,7 +30712,7 @@
 1	South	South	PROPN	SP	Number=Sing	2	compound	_	_
 2-3	Korea's	_	_	_	_	_	_	_	_
 2	Korea	Korea	PROPN	SP	Number=Sing	4	nmod	_	_
-3	's	's	PART	PART	_	1	case	_	_
+3	's	's	PART	PART	_	2	case	_	_
 4	success	success	NOUN	S	Number=Sing	10	nsubj	_	_
 5	over	over	ADP	E	_	9	case	_	_
 6	the	the	DET	RD	Definite=Def|PronType=Art	9	det	_	_
@@ -30781,7 +30781,7 @@
 17	South	South	PROPN	SP	Number=Sing	18	compound	_	_
 18-19	Korea's	_	_	_	_	_	_	_	_
 18	Korea	Korea	PROPN	SP	Number=Sing	20	nmod	_	_
-19	's	's	PART	PART	_	17	case	_	_
+19	's	's	PART	PART	_	18	case	_	_
 20	abundance	abundance	NOUN	S	Number=Sing	27	nsubj	_	_
 21	of	of	ADP	E	_	25	case	_	_
 22	well	well	ADV	B	_	24	advmod	_	SpaceAfter=No
@@ -30954,7 +30954,7 @@
 1	South	South	PROPN	SP	Number=Sing	2	compound	_	_
 2-3	Korea's	_	_	_	_	_	_	_	_
 2	Korea	Korea	PROPN	SP	Number=Sing	7	nmod	_	_
-3	's	's	PART	PART	_	1	case	_	_
+3	's	's	PART	PART	_	2	case	_	_
 4	male	male	ADJ	A	Degree=Pos	5	amod	_	_
 5	labor	labor	NOUN	S	Number=Sing	7	nmod	_	SpaceAfter=No
 6	-	-	PUNCT	FF	_	5	punct	_	SpaceAfter=No
@@ -31027,7 +31027,7 @@
 5	South	South	PROPN	SP	Number=Sing	6	compound	_	_
 6-7	Korea's	_	_	_	_	_	_	_	_
 6	Korea	Korea	PROPN	SP	Number=Sing	14	nmod	_	_
-7	's	's	PART	PART	_	5	case	_	_
+7	's	's	PART	PART	_	6	case	_	_
 8	most	most	ADV	B	_	9	advmod	_	_
 9	highly	highly	ADV	B	_	10	advmod	_	_
 10	educated	educate	VERB	V	Tense=Past|VerbForm=Part	14	acl	_	_
@@ -31192,7 +31192,7 @@
 5	South	South	PROPN	SP	Number=Sing	6	compound	_	_
 6-7	Korea's	_	_	_	_	_	_	_	_
 6	Korea	Korea	PROPN	SP	Number=Sing	8	nmod	_	_
-7	's	's	PART	PART	_	5	case	_	_
+7	's	's	PART	PART	_	6	case	_	_
 8	workforce	workforce	NOUN	S	Number=Sing	10	nsubj	_	_
 9	already	already	ADV	B	_	10	advmod	_	_
 10	includes	include	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ccomp	_	_
@@ -31252,7 +31252,7 @@
 14	%	%	SYM	X	_	9	obl	_	_
 15	of	of	ADP	E	_	16	case	_	_
 16	employment	employment	NOUN	S	Number=Sing	14	nmod	_	_
-17	in	in	ADP	E	_	18	case	_	_
+17	in	in	ADP	E	_	19	case	_	_
 18	South	South	PROPN	SP	Number=Sing	19	compound	_	_
 19	Korea	Korea	PROPN	SP	Number=Sing	9	obl	_	SpaceAfter=No
 20	,	,	PUNCT	FF	_	9	punct	_	_
@@ -31472,7 +31472,7 @@
 16	is	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	cop	_	_
 17	not	not	PART	PART	Polarity=Neg	18	advmod	_	_
 18	limited	limit	VERB	V	Tense=Past|VerbForm=Part	0	root	_	_
-19	to	to	ADP	E	_	20	case	_	_
+19	to	to	ADP	E	_	21	case	_	_
 20	South	South	PROPN	SP	Number=Sing	21	compound	_	_
 21	Korea	Korea	PROPN	SP	Number=Sing	18	obl	_	SpaceAfter=No
 22	.	.	PUNCT	FS	_	18	punct	_	_
