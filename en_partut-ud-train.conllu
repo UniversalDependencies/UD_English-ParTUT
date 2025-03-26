@@ -11075,8 +11075,8 @@
 33	five	five	NUM	N	NumType=Card	34	compound	_	_
 34	times	time	NOUN	S	Number=Plur	35	obl	_	_
 35	lower	lower	ADJ	A	Degree=Cmp	30	acl:relcl	_	_
-36	than	than	ADP	E	_	42	case	_	_
-37	in	in	ADP	E	_	36	fixed	_	_
+36	than	than	ADP	E	_	42	mark	_	_
+37	in	in	ADP	E	_	42	case	_	_
 38	the	the	DET	RD	Definite=Def|PronType=Art	42	det	_	_
 39	25	25	NUM	N	NumType=Card	42	nummod	_	_
 40	least	least	ADV	B	Degree=Sup	41	advmod	_	_
@@ -29420,7 +29420,7 @@
 21	be	be	AUX	V	VerbForm=Inf	22	cop	_	_
 22	successful	successful	ADJ	A	Degree=Pos	19	xcomp	_	_
 23	now	now	ADV	B	_	22	advmod	_	_
-24	than	than	ADP	E	_	27	case	_	_
+24	than	than	ADP	E	_	27	mark	_	_
 25	in	in	ADP	E	_	27	case	_	_
 26	the	the	DET	RD	Definite=Def|PronType=Art	27	det	_	_
 27	past	past	NOUN	S	Number=Sing	23	obl	_	SpaceAfter=No
