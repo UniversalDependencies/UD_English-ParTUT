@@ -24082,7 +24082,7 @@
 32	be	be	AUX	VA	VerbForm=Inf	33	aux	_	_
 33	enforced	enforce	VERB	V	Tense=Past|VerbForm=Part	24	conj	_	_
 34	until	until	SCONJ	CS	_	37	mark	_	_
-35	after	after	ADP	E	_	34	fixed	_	_
+35	after	after	SCONJ	CS	_	37	mark	_	_
 36	countries	country	NOUN	S	Number=Plur	37	nsubj	_	_
 37	achieve	achieve	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	33	advcl	_	_
 38	high	high	ADJ	A	Degree=Pos	40	amod	_	SpaceAfter=No
