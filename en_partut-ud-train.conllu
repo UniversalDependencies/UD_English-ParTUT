@@ -32228,8 +32228,8 @@
 3	,	,	PUNCT	FF	_	2	punct	_	_
 4	leaders	leader	NOUN	S	Number=Plur	10	nsubj	_	_
 5	from	from	ADP	E	_	8	case	_	_
-6	all	all	DET	T	PronType=Tot	8	det	_	_
-7	over	over	ADV	B	_	6	fixed	_	_
+6	all	all	ADV	B	_	8	advmod	_	_
+7	over	over	ADP	E	_	8	case	_	_
 8	Africa	Africa	PROPN	SP	_	4	nmod	_	_
 9	will	will	AUX	VM	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	10	aux	_	_
 10	meet	meet	VERB	V	VerbForm=Inf	0	root	_	_
