@@ -36135,7 +36135,7 @@
 51	,	,	PUNCT	FF	_	53	punct	_	_
 52	and	and	CCONJ	CC	_	53	cc	_	_
 53	philosophers	philosopher	NOUN	S	Number=Plur	6	conj	_	_
-54	such	such	ADP	E	_	56	case	_	_
+54	such	such	ADJ	A	Degree=Pos|ExtPos=ADP	56	case	_	_
 55	as	as	ADP	E	_	54	fixed	_	_
 56	Friedrich	Friedrich	PROPN	SP	_	53	nmod	_	_
 57	Engels	Engels	PROPN	SP	_	56	flat	_	_
