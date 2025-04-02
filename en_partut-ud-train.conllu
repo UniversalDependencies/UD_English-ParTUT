@@ -28039,7 +28039,7 @@
 5	ill-defined	ill-defined	ADJ	A	Degree=Pos	18	advcl	_	SpaceAfter=No
 6	,	,	PUNCT	FF	_	5	punct	_	_
 7	as	as	ADP	E	_	10	case	_	_
-8	in	in	ADP	E	_	7	fixed	_	_
+8	in	in	ADP	E	_	10	case	_	_
 9	the	the	DET	RD	Definite=Def|PronType=Art	10	det	_	_
 10	case	case	NOUN	S	Number=Sing	5	obl	_	_
 11	of	of	ADP	E	_	12	case	_	_
