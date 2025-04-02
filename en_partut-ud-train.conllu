@@ -31719,7 +31719,7 @@
 5	and	and	CCONJ	CC	_	6	cc	_	_
 6	policymakers	policymakers	NOUN	S	Number=Plur	4	conj	_	_
 7	from	from	ADP	E	_	10	case	_	_
-8	across	across	ADP	E	_	7	fixed	_	_
+8	across	across	ADP	E	_	10	case	_	_
 9	the	the	DET	RD	Definite=Def|PronType=Art	10	det	_	_
 10	continent	continent	NOUN	S	Number=Sing	6	nmod	_	_
 11	have	have	AUX	VA	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	12	aux	_	_
