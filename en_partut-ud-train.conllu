@@ -30063,11 +30063,11 @@
 12	way	way	NOUN	S	Number=Sing	8	obl	_	_
 13	worldwide	worldwide	ADV	B	_	8	advmod	_	SpaceAfter=No
 14	,	,	PUNCT	FF	_	8	punct	_	_
-15	as	as	ADP	E	_	19	mark	_	_
-16	long	long	ADV	B	_	15	fixed	_	_
-17	as	as	ADP	E	_	15	fixed	_	_
+15	as	as	ADV	B	_	16	advmod	_	_
+16	long	long	ADV	B	Degree=Pos	8	advmod	_	_
+17	as	as	SCONJ	CS	_	19	mark	_	_
 18	they	they	PRON	PE	Number=Plur|Person=3|PronType=Prs	19	nsubj	_	_
-19	receive	receive	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	8	advcl	_	_
+19	receive	receive	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	16	advcl	_	_
 20	the	the	DET	RD	Definite=Def|PronType=Art	22	det	_	_
 21	same	same	ADJ	A	Degree=Pos	22	amod	_	_
 22	care	care	NOUN	S	Number=Sing	19	obj	_	_
