@@ -35686,12 +35686,12 @@
 # text = Likewise, so long as member countries maintain fiscal sovereignty, a new mechanism to facilitate finger-wagging at countries that defy European budget rules will change nothing.
 1	Likewise	likewise	ADV	B	_	28	advmod	_	SpaceAfter=No
 2	,	,	PUNCT	FF	_	1	punct	_	_
-3	so	so	ADV	B	_	8	mark	_	_
-4	long	long	ADJ	A	Degree=Pos	3	fixed	_	_
-5	as	as	ADP	E	_	3	fixed	_	_
+3	so	so	ADV	B	_	4	advmod	_	_
+4	long	long	ADV	B	Degree=Pos	28	advmod	_	_
+5	as	as	ADP	E	_	8	mark	_	_
 6	member	member	NOUN	S	Number=Sing	7	nmod	_	_
 7	countries	country	NOUN	S	Number=Plur	8	nsubj	_	_
-8	maintain	maintain	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	28	advcl	_	_
+8	maintain	maintain	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	4	advcl	_	_
 9	fiscal	fiscal	ADJ	A	Degree=Pos	10	amod	_	_
 10	sovereignty	sovereignty	NOUN	S	Number=Sing	8	obj	_	SpaceAfter=No
 11	,	,	PUNCT	FF	_	8	punct	_	_
