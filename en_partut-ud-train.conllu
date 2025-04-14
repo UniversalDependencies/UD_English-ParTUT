@@ -26677,8 +26677,8 @@
 16	,	,	PUNCT	FF	_	22	punct	_	_
 17	and	and	CCONJ	CC	_	22	cc	_	_
 18	most	most	ADV	B	_	22	advmod	_	_
-19	of	of	ADP	E	_	18	fixed	_	_
-20	all	all	PRON	PI	PronType=Ind	18	fixed	_	_
+19	of	of	ADP	E	_	20	case	_	_
+20	all	all	PRON	PI	PronType=Ind	18	nmod	_	_
 21	to	to	ADP	E	_	22	case	_	_
 22	Ukraine	Ukraine	PROPN	SP	_	13	conj	_	SpaceAfter=No
 23	,	,	PUNCT	FF	_	22	punct	_	_
