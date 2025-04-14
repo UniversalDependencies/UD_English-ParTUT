@@ -21178,7 +21178,7 @@
 4	to	to	ADP	E	_	6	case	_	_
 5	equal	equal	ADJ	A	Degree=Pos	6	amod	_	_
 6	rights	right	NOUN	S	Number=Plur	3	obl	_	_
-7	as	as	ADP	E	_	9	case	_	_
+7	as	as	ADP	E	ExtPos=ADP	9	case	_	_
 8	to	to	ADP	E	_	7	fixed	_	_
 9	marriage	marriage	NOUN	S	Number=Sing	3	obl	_	SpaceAfter=No
 10	,	,	PUNCT	FF	_	12	punct	_	_
@@ -48843,7 +48843,7 @@
 9	and	and	CCONJ	CC	_	11	cc	_	_
 10	scholars	scholar	NOUN	S	Number=Plur	11	nsubj	_	_
 11	differ	differ	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	5	conj	_	_
-12	as	as	ADP	E	_	15	case	_	_
+12	as	as	ADP	E	ExtPos=ADP	15	case	_	_
 13	to	to	ADP	E	_	12	fixed	_	_
 14	its	its	DET	AP	Number=Sing|Poss=Yes|PronType=Prs	15	nmod:poss	_	_
 15	authenticity	authenticity	NOUN	S	Number=Sing	11	obl	_	SpaceAfter=No
