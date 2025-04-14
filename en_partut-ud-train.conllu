@@ -10276,7 +10276,7 @@
 22	in	in	ADP	E	_	26	case	_	_
 23	the	the	DET	RD	Definite=Def|PronType=Art	26	det	_	_
 24	hi-tech	hi-tech	ADJ	A	Degree=Pos	25	amod	_	_
-25	growth	growth	NOUN	S	Number=Sing	26	nmod	_	_
+25	growth	growth	NOUN	S	Number=Sing	26	compound	_	_
 26	industries	industry	NOUN	S	Number=Plur	17	obl	_	_
 27	of	of	ADP	E	_	29	case	_	_
 28	the	the	DET	RD	Definite=Def|PronType=Art	29	det	_	_
@@ -17361,7 +17361,7 @@
 18	of	of	ADP	E	_	21	case	_	_
 19	the	the	DET	RD	Definite=Def|PronType=Art	21	det	_	_
 20	Pericles	Pericles	PROPN	SP	_	21	nmod	_	_
-21	programme	programme	NOUN	S	Number=Sing	17	nmod	_	_
+21	programme	programme	NOUN	S	Number=Sing	13	nmod	_	_
 22	for	for	ADP	E	_	24	case	_	_
 23	the	the	DET	RD	Definite=Def|PronType=Art	24	det	_	_
 24	protection	protection	NOUN	S	Number=Sing	21	nmod	_	_
@@ -19475,7 +19475,7 @@
 6	transnationality	transnationality	NOUN	S	Number=Sing	19	nsubj:pass	_	_
 7	and	and	CCONJ	CC	_	8	cc	_	_
 8	multidisciplinarity	multidisciplinarity	NOUN	S	Number=Sing	6	conj	_	_
-9	required	require	VERB	V	Tense=Past|VerbForm=Part	8	acl	_	_
+9	required	require	VERB	V	Tense=Past|VerbForm=Part	6	acl	_	_
 10	under	under	ADP	E	_	11	case	_	_
 11	Article	article	NOUN	S	Number=Sing	9	obl	_	_
 12	3	3	NUM	N	NumType=Card	11	nummod	_	_
@@ -19850,7 +19850,7 @@
 30	and	and	CCONJ	CC	_	31	cc	_	_
 31	continuation	continuation	NOUN	S	Number=Sing	29	conj	_	_
 32	of	of	ADP	E	_	33	case	_	_
-33	Pericles	Pericles	PROPN	SP	_	31	nmod	_	SpaceAfter=No
+33	Pericles	Pericles	PROPN	SP	_	29	nmod	_	SpaceAfter=No
 34	.	.	PUNCT	FS	_	23	punct	_	_
 
 # sent_id = en_partut-ud-726
@@ -30072,14 +30072,14 @@
 21	same	same	ADJ	A	Degree=Pos	22	amod	_	_
 22	care	care	NOUN	S	Number=Sing	19	obj	_	_
 23	and	and	CCONJ	CC	_	26	cc	_	_
-24	are	be	AUX	VA	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	26	aux	_	_
+24	are	be	AUX	VA	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	26	aux:pass	_	_
 25	not	not	PART	PART	Polarity=Neg	26	advmod	_	_
 26	constrained	constrain	VERB	V	Tense=Past|VerbForm=Part	19	conj	_	_
 27	by	by	ADP	E	_	29	case	_	_
 28	environmental	environmental	ADJ	A	Degree=Pos	29	amod	_	_
 29	factors	factor	NOUN	S	Number=Plur	26	obl	_	_
 30	–	–	PUNCT	FF	_	26	punct	_	_
-31	evidence	evidence	NOUN	S	Number=Sing	26	obl	_	_
+31	evidence	evidence	NOUN	S	Number=Sing	5	appos	_	_
 32	that	that	PRON	PR	PronType=Rel	33	nsubj	_	_
 33	challenged	challenge	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	31	acl:relcl	_	_
 34	the	the	DET	RD	Definite=Def|PronType=Art	37	det	_	_
