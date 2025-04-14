@@ -2668,7 +2668,7 @@
 11	insofar	insofar	ADV	B	_	9	advmod	_	_
 12	as	as	SCONJ	CS	_	14	mark	_	_
 13	it	it	PRON	PE	Number=Sing|Person=3|PronType=Prs	14	nsubj	_	_
-14	applies	apply	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	advcl	_	_
+14	applies	apply	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	advcl	_	_
 15	provisionally	provisionally	ADV	B	_	14	advmod	_	SpaceAfter=No
 16	.	.	PUNCT	FS	_	9	punct	_	_
 
