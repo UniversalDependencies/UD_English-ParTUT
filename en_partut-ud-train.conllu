@@ -10208,7 +10208,7 @@
 8	both	both	DET	DI	PronType=Ind	9	det	_	_
 9	reports	report	NOUN	S	Number=Plur	4	obl	_	_
 10	up	up	ADP	E	_	12	case	_	_
-11	for	for	ADP	E	_	10	fixed	_	_
+11	for	for	ADP	E	_	12	case	_	_
 12	debate	debate	NOUN	S	Number=Sing	4	obl	_	_
 13	today	today	ADV	B	_	4	advmod	_	SpaceAfter=No
 14	.	.	PUNCT	FS	_	4	punct	_	_
