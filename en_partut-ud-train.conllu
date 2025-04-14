@@ -35396,9 +35396,9 @@
 # text = This is all the more problematic in the case of mosquito control, given the urgency of the problem.
 1	This	this	PRON	PD	Number=Sing|PronType=Dem	6	nsubj	_	_
 2	is	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
-3	all	all	DET	T	PronType=Tot	6	advmod	_	_
-4	the	the	DET	RD	Definite=Def|PronType=Art	3	fixed	_	_
-5	more	more	ADV	B	Degree=Cmp	3	fixed	_	_
+3	all	all	ADV	B	_	5	advmod	_	_
+4	the	the	DET	RD	Definite=Def|PronType=Art	5	det	_	_
+5	more	more	ADV	B	Degree=Cmp	6	advmod	_	_
 6	problematic	problematic	ADJ	A	Degree=Pos	0	root	_	_
 7	in	in	ADP	E	_	9	case	_	_
 8	the	the	DET	RD	Definite=Def|PronType=Art	9	det	_	_
