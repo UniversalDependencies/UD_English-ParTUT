@@ -585,10 +585,10 @@
 19	the	the	DET	RD	Definite=Def|PronType=Art	21	det	_	_
 20	Collective	Collective	PROPN	SP	_	21	nmod	_	_
 21	Work	work	NOUN	S	Number=Sing	18	obj	_	_
-22	apart	apart	ADV	B	_	25	advmod	_	_
+22	apart	apart	ADV	B	_	18	advmod	_	_
 23	from	from	ADP	E	_	25	case	_	_
 24	the	the	DET	RD	Definite=Def|PronType=Art	25	det	_	_
-25	Work	work	NOUN	S	Number=Sing	18	obl	_	_
+25	Work	work	NOUN	S	Number=Sing	22	obl	_	_
 26	itself	it	PRON	PE	Number=Sing|Person=3|PronType=Prs	25	nmod	_	_
 27	to	to	PART	PART	_	29	mark	_	_
 28	be	be	AUX	VA	VerbForm=Inf	29	aux:pass	_	_
@@ -24943,12 +24943,12 @@
 # sent_id = en_partut-ud-1096
 # text = Quite apart from the potential bailout costs, some argue that financial hypertrophy harms the real economy by syphoning off talent and resources that could better be deployed elsewhere.
 1	Quite	quite	ADV	B	_	7	advmod	_	_
-2	apart	apart	ADP	E	_	7	case	_	_
-3	from	from	ADP	E	_	2	fixed	_	_
+2	apart	apart	ADV	B	_	10	advmod	_	_
+3	from	from	ADP	E	_	7	case	_	_
 4	the	the	DET	RD	Definite=Def|PronType=Art	7	det	_	_
 5	potential	potential	ADJ	A	Degree=Pos	7	amod	_	_
 6	bailout	bailout	NOUN	S	Number=Sing	7	nmod	_	_
-7	costs	cost	NOUN	S	Number=Plur	10	obl	_	SpaceAfter=No
+7	costs	cost	NOUN	S	Number=Plur	2	obl	_	SpaceAfter=No
 8	,	,	PUNCT	FF	_	7	punct	_	_
 9	some	some	PRON	PI	PronType=Ind	10	nsubj	_	_
 10	argue	argue	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	0	root	_	_
