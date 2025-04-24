@@ -34932,7 +34932,7 @@
 19	many	many	ADJ	A	Degree=Pos	18	fixed	_	_
 20	as	as	ADP	E	_	18	fixed	_	_
 21	100	100	NUM	N	NumType=Card	22	compound	_	_
-22	million	million	NUM	N	NumType=Card	19	obl	_	_
+22	million	million	NUM	N	NumType=Card	23	nummod	_	_
 23	people	people	NOUN	S	Number=Plur	6	obl	_	_
 24	infected	infect	VERB	V	Tense=Past|VerbForm=Part	23	acl	_	_
 25	each	each	DET	DI	Number=Sing|PronType=Ind	26	det	_	_
