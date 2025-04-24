@@ -3477,7 +3477,7 @@
 
 # sent_id = en_partut-ud-135
 # text = According to its President, it is in a position to do so.
-1	According	accord	VERB	V	ExtPos=ADP|VerbForm=Ger	4	case	_	_
+1	According	accord	VERB	V	ExtPos=ADP|Tense=Pres|VerbForm=Part	4	case	_	_
 2	to	to	ADP	E	_	1	fixed	_	_
 3	its	its	DET	AP	Number=Sing|Poss=Yes|PronType=Prs	4	nmod:poss	_	_
 4	President	president	NOUN	S	Number=Sing	10	nmod	_	SpaceAfter=No
@@ -7346,7 +7346,7 @@
 
 # sent_id = en_partut-ud-270
 # text = According to the Commission's proposal -20º C would have been sufficient.
-1	According	accord	VERB	V	ExtPos=ADP|VerbForm=Ger	6	case	_	_
+1	According	accord	VERB	V	ExtPos=ADP|VerbForm=ExtPos=ADP|Tense=Pres|VerbForm=Part	6	case	_	_
 2	to	to	ADP	E	_	1	fixed	_	_
 3	the	the	DET	RD	Definite=Def|PronType=Art	4	det	_	_
 4-5	Commission's	_	_	_	_	_	_	_	_
@@ -20923,7 +20923,7 @@
 17	until	until	SCONJ	CS	_	18	mark	_	_
 18	proved	prove	VERB	V	Tense=Past|VerbForm=Part	15	advcl	_	_
 19	guilty	guilty	ADJ	A	Degree=Pos	18	xcomp	_	_
-20	according	accord	VERB	V	ExtPos=ADP|VerbForm=Ger	22	case	_	_
+20	according	accord	VERB	V	ExtPos=ADP|Tense=Pres|VerbForm=Part	22	case	_	_
 21	to	to	ADP	E	_	20	fixed	_	_
 22	law	law	NOUN	S	Number=Sing	18	obl	_	_
 23	in	in	ADP	E	_	26	case	_	_
@@ -24312,7 +24312,7 @@
 
 # sent_id = en_partut-ud-1070
 # text = According to a new study by the economists Robert Shapiro and Aparna Mathur, if India achieved Chinese levels of IP protection, its annual FDI inflows would increase by 33% annually.
-1	According	accord	VERB	V	ExtPos=ADP|VerbForm=Ger	5	case	_	_
+1	According	accord	VERB	V	ExtPos=ADP|Tense=Pres|VerbForm=Part	5	case	_	_
 2	to	to	ADP	E	_	1	fixed	_	_
 3	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	5	det	_	_
 4	new	new	ADJ	A	Degree=Pos	5	amod	_	_
@@ -30914,7 +30914,7 @@
 
 # sent_id = en_partut-ud-1335
 # text = According to OECD data, only 55% of South Korean women aged 15-64 are in the labor force, compared to an average of 65% in the advanced economies.
-1	According	accord	VERB	V	ExtPos=ADP|VerbForm=Ger	4	case	_	_
+1	According	accord	VERB	V	ExtPos=ADP|Tense=Pres|VerbForm=Part	4	case	_	_
 2	to	to	ADP	E	_	1	fixed	_	_
 3	OECD	OECD	PROPN	SP	_	4	nmod	_	_
 4	data	datum	NOUN	S	Number=Plur	21	nmod	_	SpaceAfter=No
@@ -45150,7 +45150,7 @@
 
 # sent_id = en_partut-ud-1922
 # text = According to Shakespearean scholar James Shapiro, in Julius Caesar "the various strands of politics, character, inwardness, contemporary events, even Shakespeare's own reflections on the act of writing, began to infuse each other".
-1	According	accord	VERB	V	ExtPos=ADP|VerbForm=Ger	5	case	_	_
+1	According	accord	VERB	V	ExtPos=ADP|Tense=Pres|VerbForm=Part	5	case	_	_
 2	to	to	ADP	E	_	1	fixed	_	_
 3	Shakespearean	Shakespearean	ADJ	A	Degree=Pos	4	amod	_	_
 4	scholar	scholar	NOUN	S	Number=Sing	5	nmod:desc	_	_
@@ -45442,7 +45442,7 @@
 
 # sent_id = en_partut-ud-1931
 # text = According to the critic Frank Kermode, "the play-offers neither its good characters nor its audience any relief from its cruelty".
-1	According	accord	VERB	V	ExtPos=ADP|VerbForm=Ger	4	case	_	_
+1	According	accord	VERB	V	ExtPos=ADP|Tense=Pres|VerbForm=Part	4	case	_	_
 2	to	to	ADP	E	_	1	fixed	_	_
 3	the	the	DET	RD	Definite=Def|PronType=Art	4	det	_	_
 4	critic	critic	NOUN	S	Number=Sing	12	obl	_	_
@@ -49174,7 +49174,7 @@
 15	,	,	PUNCT	FF	_	7	punct	_	_
 16	listed	list	VERB	V	Tense=Past|VerbForm=Part	7	acl	_	_
 17	below	below	ADV	B	_	16	advmod	_	_
-18	according	accord	VERB	V	ExtPos=ADP|VerbForm=Ger	22	case	_	_
+18	according	accord	VERB	V	ExtPos=ADP|Tense=Pres|VerbForm=Part	22	case	_	_
 19	to	to	ADP	E	_	18	fixed	_	_
 20	their	their	DET	AP	Poss=Yes|PronType=Prs	22	nmod:poss	_	_
 21	Folio	Folio	NOUN	S	Number=Sing	22	nmod	_	_
