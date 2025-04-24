@@ -26036,7 +26036,7 @@
 22	and	and	CCONJ	CC	_	23	cc	_	_
 23	debtor	debtor	NOUN	S	Number=Sing	21	conj	_	_
 24	countries	country	NOUN	S	Number=Plur	20	obj	_	_
-25	against	against	ADP	E	_	27	case	_	_
+25	against	against	ADP	E	_	26	case	_	_
 26	one	one	PRON	PE	ExtPos=PRON|PronType=Rcp	20	obl	_	_
 27	another	another	DET	RI	PronType=Ind	26	fixed	_	SpaceAfter=No
 28	.	.	PUNCT	FS	_	3	punct	_	_
@@ -27274,7 +27274,7 @@
 23	draw	draw	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	11	acl	_	_
 24	unhealthy	unhealthy	ADJ	A	Degree=Pos	25	amod	_	_
 25	support	support	NOUN	S	Number=Sing	23	obj	_	_
-26	from	from	ADP	E	_	28	case	_	_
+26	from	from	ADP	E	_	27	case	_	_
 27	each	each	DET	DI	ExtPos=PRON|PronType=Rcp	25	nmod	_	_
 28	other	other	ADJ	A	Degree=Pos	27	fixed	_	SpaceAfter=No
 29	.	.	PUNCT	FS	_	5	punct	_	_
@@ -29566,7 +29566,7 @@
 3	being	be	AUX	V	Number=Sing|Tense=Pres|VerbForm=Part	5	cop	_	_
 4	better	better	ADV	B	_	5	advmod	_	_
 5	connected	connect	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	16	csubj	_	_
-6	with	with	ADP	E	_	8	case	_	_
+6	with	with	ADP	E	_	7	case	_	_
 7	each	each	DET	DI	ExtPos=PRON|PronType=Rcp	5	obl	_	_
 8	other	other	ADJ	A	Degree=Pos	7	fixed	_	SpaceAfter=No
 9	,	,	PUNCT	FF	_	5	punct	_	_
