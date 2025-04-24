@@ -23698,11 +23698,11 @@
 10	common	common	ADJ	A	Degree=Pos	11	amod	_	_
 11	interests	interest	NOUN	S	Number=Plur	6	obl	_	SpaceAfter=No
 12	,	,	PUNCT	FF	_	6	punct	_	_
-13	let	let	VERB	V	Tense=Past|VerbForm=Part	6	advcl	_	_
-14	alone	alone	ADJ	A	Degree=Pos	13	xcomp	_	_
+13	let	let	VERB	V	ExtPos=CCONJ|VerbForm=Inf	16	cc	_	_
+14	alone	alone	ADJ	A	Degree=Pos	13	fixed	_	_
 15	the	the	DET	RD	Definite=Def|PronType=Art	16	det	_	_
 16-17	world's	_	_	_	_	_	_	_	SpaceAfter=No
-16	world	world	NOUN	S	Number=Sing	13	obj	_	_
+16	world	world	NOUN	S	Number=Sing	11	conj	_	_
 17	's	's	PART	PART	_	16	case	_	_
 18	.	.	PUNCT	FS	_	6	punct	_	_
 
@@ -32731,9 +32731,9 @@
 13	Congressional	congressional	ADJ	A	Degree=Pos	14	amod	_	_
 14	approval	approval	NOUN	S	Number=Sing	12	obj	_	SpaceAfter=No
 15	,	,	PUNCT	FF	_	14	punct	_	_
-16	let	let	VERB	V	Tense=Past|VerbForm=Part	14	acl	_	_
-17	alone	alone	ADJ	A	Degree=Pos	16	amod	_	_
-18	spending	spending	NOUN	S	Number=Sing	16	obj	_	_
+16	let	let	VERB	V	ExtPos=CCONJ|VerbForm=Inf	18	cc	_	_
+17	alone	alone	ADJ	A	Degree=Pos	16	fixed	_	_
+18	spending	spending	NOUN	S	Number=Sing	14	conj	_	_
 19	from	from	ADP	E	_	22	case	_	_
 20	the	the	DET	RD	Definite=Def|PronType=Art	22	det	_	_
 21	US	US	PROPN	SP	_	22	nmod	_	_
