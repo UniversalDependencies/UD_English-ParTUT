@@ -41749,21 +41749,21 @@
 
 # sent_id = en_partut-ud-1791
 # text = "Large as Balzac is, he is all of one piece and he hangs perfectly together.
-1	"	"	PUNCT	FB	_	9	punct	_	SpaceAfter=No
-2	Large	large	ADJ	A	Degree=Pos	9	amod	_	_
+1	"	"	PUNCT	FB	_	12	punct	_	SpaceAfter=No
+2	Large	large	ADJ	A	Degree=Pos	12	amod	_	_
 3	as	as	SCONJ	CS	_	5	mark	_	_
 4	Balzac	Balzac	PROPN	SP	_	5	nsubj	_	_
 5	is	be	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	advcl	_	SpaceAfter=No
 6	,	,	PUNCT	FF	_	2	punct	_	_
-7	he	he	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	_
-8	is	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
-9	all	all	PRON	PI	PronType=Ind	0	root	_	_
-10	of	of	ADP	E	_	12	case	_	_
+7	he	he	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	_
+8	is	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	_
+9	all	all	DET	T	ExtPos=ADV|PronType=Tot	12	advmod	_	_
+10	of	of	ADP	E	_	9	fixed	_	_
 11	one	one	NUM	N	NumType=Card	12	nummod	_	_
-12	piece	piece	NOUN	S	Number=Sing	9	nmod	_	_
+12	piece	piece	NOUN	S	Number=Sing	0	root	_	_
 13	and	and	CCONJ	CC	_	15	cc	_	_
 14	he	he	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	15	nsubj	_	_
-15	hangs	hang	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	conj	_	_
+15	hangs	hang	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	conj	_	_
 16	perfectly	perfectly	ADV	B	_	17	advmod	_	_
 17	together	together	ADV	B	_	15	advmod	_	SpaceAfter=No
 18	.	.	PUNCT	FS	_	9	punct	_	_
