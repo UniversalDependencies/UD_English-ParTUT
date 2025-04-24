@@ -41766,7 +41766,7 @@
 15	hangs	hang	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	conj	_	_
 16	perfectly	perfectly	ADV	B	_	17	advmod	_	_
 17	together	together	ADV	B	_	15	advmod	_	SpaceAfter=No
-18	.	.	PUNCT	FS	_	9	punct	_	_
+18	.	.	PUNCT	FS	_	12	punct	_	_
 
 # sent_id = en_partut-ud-1792
 # text = "He wrote with admiration of Balzac's attempt to portray in writing "a beast with a hundred claws.
