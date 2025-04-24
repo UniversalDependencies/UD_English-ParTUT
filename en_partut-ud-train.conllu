@@ -20570,8 +20570,8 @@
 9	should	shall	AUX	VM	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	10	aux	_	_
 10	act	act	VERB	V	VerbForm=Inf	3	conj	_	_
 11	towards	towards	ADP	E	_	12	case	_	_
-12	one	one	NUM	N	NumType=Card	10	nummod	_	_
-13	another	another	DET	RI	Definite=Ind|Number=Sing|PronType=Art	10	obj	_	_
+12	one	one	PRON	PE	ExtPos=PRON|PronType=Rcp	10	obj	_	_
+13	another	another	DET	RI	PronType=Ind	12	fixed	_	_
 14	in	in	ADP	E	_	16	case	_	_
 15	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	16	det	_	_
 16	spirit	spirit	NOUN	S	Number=Sing	10	obl	_	_
@@ -26037,8 +26037,8 @@
 23	debtor	debtor	NOUN	S	Number=Sing	21	conj	_	_
 24	countries	country	NOUN	S	Number=Plur	20	obj	_	_
 25	against	against	ADP	E	_	27	case	_	_
-26	one	one	PRON	P	PronType=Prs	27	nmod	_	_
-27	another	another	DET	RI	Definite=Ind|Number=Sing|PronType=Art	20	obl	_	SpaceAfter=No
+26	one	one	PRON	PE	ExtPos=PRON|PronType=Rcp	20	obl	_	_
+27	another	another	DET	RI	PronType=Ind	26	fixed	_	SpaceAfter=No
 28	.	.	PUNCT	FS	_	3	punct	_	_
 
 # sent_id = en_partut-ud-1143
@@ -47535,8 +47535,8 @@
 27	are	be	AUX	VA	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	28	aux:pass	_	_
 28	set	set	VERB	V	Tense=Past|VerbForm=Part	20	acl:relcl	_	_
 29	against	against	ADP	E	_	30	case	_	_
-30	one	one	NOUN	S	Number=Sing	28	obl	_	_
-31	another	another	DET	RI	Definite=Ind|Number=Sing|PronType=Art	30	nmod	_	SpaceAfter=No
+30	one	one	PRON	PE	ExtPos=PRON|PronType=Rcp	28	obl	_	_
+31	another	another	DET	RI	PronType=Rcp	30	fixed	_	SpaceAfter=No
 32	,	,	PUNCT	FF	_	35	punct	_	_
 33	clauses	clause	NOUN	S	Number=Plur	35	nsubj:pass	_	_
 34	are	be	AUX	VA	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	35	aux:pass	_	_
