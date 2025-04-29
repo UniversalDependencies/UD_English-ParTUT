@@ -7346,7 +7346,7 @@
 
 # sent_id = en_partut-ud-270
 # text = According to the Commission's proposal -20º C would have been sufficient.
-1	According	accord	VERB	V	ExtPos=ADP|VerbForm=ExtPos=ADP|Tense=Pres|VerbForm=Part	6	case	_	_
+1	According	accord	VERB	V	ExtPos=ADP|Tense=Pres|VerbForm=Part	6	case	_	_
 2	to	to	ADP	E	_	1	fixed	_	_
 3	the	the	DET	RD	Definite=Def|PronType=Art	4	det	_	_
 4-5	Commission's	_	_	_	_	_	_	_	_
