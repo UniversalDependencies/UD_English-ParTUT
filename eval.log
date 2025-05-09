@@ -1,13 +1,13 @@
 Running the following version of UD tools:
-commit c1984d97df0ecdcc1b50fbeaa8c96419c6321432
+commit ecbbdff44b15c9b6de4a691e3499c1286459ab2e
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sun Nov 10 10:33:45 2024 +0100
+Date:   Fri May 9 21:07:42 2025 +0200
 Evaluating the following revision of UD_English-ParTUT:
-commit 7361c53cabaf6296227ccdbbb3353b870bd5bdc0
-Merge: a6d8379 5fe6cf2
+commit c99e060f91813e85469680b4a789aa161098d73a
+Merge: fea1c76 a098ff0
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Size: counted 49632 of 49632 words (nodes).
-Size: min(0, log((N/1000)**2)) = 7.80927157398826.
+Size: counted 49634 of 49634 words (nodes).
+Size: min(0, log((N/1000)**2)) = 7.80935216553019.
 Size: maximum value 13.815511 is for 1000000 words or more.
 Split: Found more than 10000 training words.
 Split: Did not find at least 10000 development words.
@@ -15,15 +15,15 @@ Split: Did not find at least 10000 test words.
 Lemmas: source of annotation (from README) factor is 0.9.
 Universal POS tags: 17 out of 17 found in the corpus.
 Universal POS tags: source of annotation (from README) factor is 0.9.
-Features: 30253 out of 49632 total words have one or more features.
+Features: 30436 out of 49634 total words have one or more features.
 Features: source of annotation (from README) factor is 0.9.
 Universal relations: 33 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 0.9.
 Udapi:
-               TOTAL         64
-Udapi: found 64 bugs.
-Udapi: worst expected case (threshold) is one bug per 10 words. There are 49632 words.
-Genres: found 3 out of 17 known.
+               TOTAL         66
+Udapi: found 66 bugs.
+Udapi: worst expected case (threshold) is one bug per 10 words. There are 49634 words.
+Genres: found 3 out of 18 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang en --max-err=10 UD_English-ParTUT/en_partut-ud-dev.conllu
 *** PASSED ***
 /net/work/people/zeman/unidep/tools/validate.py --lang en --max-err=10 UD_English-ParTUT/en_partut-ud-test.conllu
@@ -32,13 +32,13 @@ Genres: found 3 out of 17 known.
 *** PASSED ***
 Validity: 1
 (weight=0.0769230769230769) * (score{features}=0.9) = 0.0692307692307692
-(weight=0.0769230769230769) * (score{genres}=0.176470588235294) = 0.0135746606334842
+(weight=0.0769230769230769) * (score{genres}=0.166666666666667) = 0.0128205128205128
 (weight=0.0769230769230769) * (score{lemmas}=0.9) = 0.0692307692307692
-(weight=0.256410256410256) * (score{size}=0.565253925377837) = 0.144936903943035
+(weight=0.256410256410256) * (score{size}=0.565259758788162) = 0.144938399689272
 (weight=0.0512820512820513) * (score{split}=0.34) = 0.0174358974358974
 (weight=0.0769230769230769) * (score{tags}=0.9) = 0.0692307692307692
-(weight=0.307692307692308) * (score{udapi}=0.987105093488072) = 0.303724644150176
+(weight=0.307692307692308) * (score{udapi}=0.986702663496797) = 0.303600819537476
 (weight=0.0769230769230769) * (score{udeprels}=0.802702702702703) = 0.0617463617463617
-(TOTAL score=0.749110775601262) * (availability=1) * (validity=1) = 0.749110775601262
+(TOTAL score=0.748234298921828) * (availability=1) * (validity=1) = 0.748234298921828
 STARS = 3.5
-UD_English-ParTUT	0.749110775601262	3.5
+UD_English-ParTUT	0.748234298921828	3.5
