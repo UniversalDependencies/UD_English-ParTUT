@@ -26598,9 +26598,9 @@
 20	reconstruct	reconstruct	VERB	V	VerbForm=Inf	18	xcomp	_	_
 21	Europe	Europe	PROPN	SP	_	20	obj	_	_
 22	after	after	ADP	E	_	24	case	_	_
-23	World	world	NOUN	S	Number=Sing	24	nmod	_	_
-24	War	war	NOUN	S	Number=Sing	20	obl	_	_
-25	II	second	ADJ	NO	Degree=Pos|NumType=Ord	24	amod	_	SpaceAfter=No
+23	World	World	PROPN	SP	Number=Sing	24	compound	_	_
+24	War	War	PROPN	SP	Number=Sing	20	obl	_	_
+25	II	II	NUM	N	NumForm=Roman|NumType=Card	24	flat	_	SpaceAfter=No
 26	.	.	PUNCT	FS	_	4	punct	_	_
 
 # sent_id = en_partut-ud-1162
@@ -32838,9 +32838,9 @@
 9	rebuild	rebuild	VERB	V	VerbForm=Inf	7	ccomp	_	_
 10	Europe	Europe	PROPN	SP	_	9	obj	_	_
 11	after	after	ADP	E	_	13	case	_	_
-12	World	world	NOUN	S	Number=Sing	13	nmod	_	_
-13	War	war	NOUN	S	Number=Sing	9	obl	_	_
-14	II	second	ADJ	NO	Degree=Pos|NumType=Ord	13	amod	_	SpaceAfter=No
+12	World	World	PROPN	SP	Number=Sing	13	compound	_	_
+13	War	War	PROPN	SP	Number=Sing	9	obl	_	_
+14	II	II	NUM	N	NumForm=Roman|NumType=Card	13	flat	_	SpaceAfter=No
 15	,	,	PUNCT	FF	_	1	punct	_	_
 16	European	European	ADJ	A	Degree=Pos	17	amod	_	_
 17	countries	country	NOUN	S	Number=Plur	22	nsubj	_	_
@@ -35604,9 +35604,9 @@
 43	any	any	DET	DI	PronType=Ind	44	det	_	_
 44	time	time	NOUN	S	Number=Sing	40	obl	_	_
 45	since	since	ADP	E	_	47	case	_	_
-46	World	world	NOUN	S	Number=Sing	47	nmod	_	_
-47	War	war	NOUN	S	Number=Sing	44	nmod	_	_
-48	II	second	ADJ	NO	Degree=Pos|NumType=Ord	47	amod	_	SpaceAfter=No
+46	World	World	PROPN	SP	Number=Sing	47	compound	_	_
+47	War	War	PROPN	SP	Number=Sing	44	nmod	_	_
+48	II	II	NUM	N	NumForm=Roman|NumType=Card	47	flat	_	SpaceAfter=No
 49	.	.	PUNCT	FS	_	9	punct	_	_
 
 # sent_id = en_partut-ud-1524
