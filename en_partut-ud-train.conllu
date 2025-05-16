@@ -37383,7 +37383,7 @@
 30	of	of	ADP	E	_	31	case	_	_
 31	heirs	heir	NOUN	S	Number=Plur	29	nmod	_	_
 32	over	over	ADP	E	_	33	case	_	_
-33	corpses	corps	NOUN	S	Number=Plur	29	nmod	_	_
+33	corpses	corpse	NOUN	S	Number=Plur	29	nmod	_	_
 34	not	not	PART	PART	Polarity=Neg	35	advmod	_	_
 35	yet	yet	ADV	B	_	36	advmod	_	_
 36	cold	cold	ADJ	A	Degree=Pos	33	amod	_	SpaceAfter=No
