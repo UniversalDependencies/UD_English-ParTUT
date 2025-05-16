@@ -357,7 +357,7 @@
 9	consideration	consideration	NOUN	S	Number=Sing	7	obl	_	_
 10	in	in	ADP	E	_	13	case	_	_
 11-12	tomorrow's	_	_	_	_	_	_	_	_
-11	tomorrow	tomorrow	NOUN	S	Number=Sing	13	nmod	_	_
+11	tomorrow	tomorrow	NOUN	S	Number=Sing	13	nmod:poss	_	_
 12	's	's	PART	PART	_	11	case	_	_
 13	vote	vote	NOUN	S	Number=Sing	7	obl	_	SpaceAfter=No
 14	.	.	PUNCT	FS	_	2	punct	_	_
@@ -784,7 +784,7 @@
 13	of	of	ADP	E	_	17	case	_	_
 14	the	the	DET	RD	Definite=Def|PronType=Art	15	det	_	_
 15-16	Commission's	_	_	_	_	_	_	_	_
-15	Commission	commission	NOUN	S	Number=Sing	17	nmod	_	_
+15	Commission	commission	NOUN	S	Number=Sing	17	nmod:poss	_	_
 16	's	's	PART	PART	_	15	case	_	_
 17	communication	communication	NOUN	S	Number=Sing	12	nmod	_	_
 18	to	to	PART	PART	_	19	mark	_	_
@@ -3037,7 +3037,7 @@
 6	of	of	ADP	E	_	11	case	_	_
 7	the	the	DET	RD	Definite=Def|PronType=Art	11	det	_	_
 8-9	symposium's	_	_	_	_	_	_	_	_
-8	symposium	symposium	NOUN	S	Number=Sing	11	nmod	_	_
+8	symposium	symposium	NOUN	S	Number=Sing	11	nmod:poss	_	_
 9	's	's	PART	PART	_	8	case	_	_
 10	47	47	NUM	N	NumType=Card	11	nummod	_	_
 11	participants	participant	NOUN	S	Number=Plur	5	nmod	_	_
@@ -3064,13 +3064,13 @@
 32	which	which	PRON	PR	PronType=Rel	37	obl	_	_
 33	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	34	det	_	_
 34-35	mother's	_	_	_	_	_	_	_	_
-34	mother	mother	NOUN	S	Number=Sing	36	nmod	_	_
+34	mother	mother	NOUN	S	Number=Sing	36	nmod:poss	_	_
 35	's	's	PART	PART	_	34	case	_	_
 36	nutrition	nutrition	NOUN	S	Number=Sing	37	nsubj	_	_
 37	affects	affect	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	30	acl:relcl	_	_
 38	her	her	DET	AP	Poss=Yes|PronType=Prs	39	nmod:poss	_	_
 39-40	offspring's	_	_	_	_	_	_	_	_
-39	offspring	offspring	NOUN	S	Number=Sing	41	nmod	_	_
+39	offspring	offspring	NOUN	S	Number=Sing	41	nmod:poss	_	_
 40	's	's	PART	PART	_	39	case	_	_
 41	wellbeing	wellbeing	NOUN	S	Number=Sing	37	obj	_	SpaceAfter=No
 42	.	.	PUNCT	FS	_	3	punct	_	_
@@ -3114,7 +3114,7 @@
 11	and	and	CCONJ	CC	_	12	cc	_	_
 12	maximizing	maximize	VERB	V	VerbForm=Ger	10	conj	_	_
 13-14	women's	_	_	_	_	_	_	_	_
-13	women	women	NOUN	S	Number=Sing	15	nmod	_	_
+13	women	women	NOUN	S	Number=Sing	15	nmod:poss	_	_
 14	's	's	PART	PART	_	13	case	_	_
 15	potential	potential	NOUN	S	Number=Sing	12	obj	_	_
 16	will	will	AUX	VM	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	17	aux	_	_
@@ -3198,8 +3198,8 @@
 # text = These countries' global economic and financial significance has grown rapidly, yet they have relatively little representation at the Fund.
 1	These	this	DET	DD	Number=Plur|PronType=Dem	2	det	_	_
 2-3	countries'	_	_	_	_	_	_	_	_
-2	countries	country	NOUN	S	Number=Plur	8	nmod	_	_
-3	'	'	PART	PART	_	2	case	_	_
+2	countries	country	NOUN	S	Number=Plur	8	nmod:poss	_	_
+3	'	's	PART	PART	_	2	case	_	_
 4	global	global	ADJ	A	Degree=Pos	8	amod	_	_
 5	economic	economic	ADJ	A	Degree=Pos	8	amod	_	_
 6	and	and	CCONJ	CC	_	7	cc	_	_
@@ -3297,7 +3297,7 @@
 9	our	us	DET	AP	Poss=Yes|PronType=Prs	10	nmod:poss	_	_
 10	country	country	NOUN	S	Number=Sing	8	obj	_	_
 11	after	after	ADP	E	_	16	case	_	_
-12	Viktor	Viktor	PROPN	SP	_	16	nmod	_	_
+12	Viktor	Viktor	PROPN	SP	_	16	nmod:poss	_	_
 13-14	Yanukovych's	_	_	_	_	_	_	_	_
 13	Yanukovych	Yanukovych	PROPN	SP	_	12	flat	_	_
 14	's	's	PART	PART	_	12	case	_	_
@@ -3355,7 +3355,7 @@
 17	change	change	VERB	V	VerbForm=Inf	15	acl	_	_
 18	the	the	DET	RD	Definite=Def|PronType=Art	19	det	_	_
 19-20	country's	_	_	_	_	_	_	_	_
-19	country	country	NOUN	S	Number=Sing	22	nmod	_	_
+19	country	country	NOUN	S	Number=Sing	22	nmod:poss	_	_
 20	's	's	PART	PART	_	19	case	_	_
 21	political	politic	ADJ	A	Degree=Pos	22	amod	_	_
 22	structure	structure	NOUN	S	Number=Sing	17	obj	_	SpaceAfter=No
@@ -3801,7 +3801,7 @@
 # text = In Shakespeare's late romances, he deliberately returned to a more artificial style, which emphasised the illusion of theatre.
 1	In	in	ADP	E	_	5	case	_	_
 2-3	Shakespeare's	_	_	_	_	_	_	_	_
-2	Shakespeare	Shakespeare	PROPN	SP	_	5	nmod	_	_
+2	Shakespeare	Shakespeare	PROPN	SP	_	5	nmod:poss	_	_
 3	's	's	PART	PART	_	2	case	_	_
 4	late	late	ADJ	A	Degree=Pos	5	amod	_	_
 5	romances	romance	NOUN	S	Number=Plur	9	obl	_	SpaceAfter=No

@@ -478,8 +478,8 @@
 21	or	or	CCONJ	CC	_	25	cc	_	_
 22	the	the	DET	RD	Definite=Def|PronType=Art	23	det	_	_
 23-24	recipients'	_	_	_	_	_	_	_	_
-23	recipients	recipient	NOUN	S	Number=Plur	25	nmod	_	_
-24	'	'	PART	PART	_	23	case	_	_
+23	recipients	recipient	NOUN	S	Number=Plur	25	nmod:poss	_	_
+24	'	's	PART	PART	_	23	case	_	_
 25	exercise	exercise	NOUN	S	Number=Sing	17	conj	_	_
 26	of	of	ADP	E	_	28	case	_	_
 27	the	the	DET	RD	Definite=Def|PronType=Art	28	det	_	_
@@ -777,8 +777,8 @@
 22	or	or	CCONJ	CC	_	26	cc	_	_
 23	the	the	DET	RD	Definite=Def|PronType=Art	24	det	_	_
 24-25	recipients'	_	_	_	_	_	_	_	_
-24	recipients	recipient	NOUN	S	Number=Plur	26	nmod	_	_
-25	'	'	PART	PART	_	24	case	_	_
+24	recipients	recipient	NOUN	S	Number=Plur	26	nmod:poss	_	_
+25	'	's	PART	PART	_	24	case	_	_
 26	exercise	exercise	NOUN	S	Number=Sing	18	conj	_	_
 27	of	of	ADP	E	_	29	case	_	_
 28	the	the	DET	RD	Definite=Def|PronType=Art	29	det	_	_
@@ -1701,10 +1701,10 @@
 6	in	in	ADP	E	_	7	case	_	_
 7	compliance	compliance	NOUN	S	Number=Sing	0	root	_	_
 8	with	with	ADP	E	_	17	case	_	_
-9	Creative	Creative	PROPN	SP	_	17	nmod	_	_
+9	Creative	Creative	PROPN	SP	_	17	nmod:poss	_	_
 10-11	Commons'	_	_	_	_	_	_	_	_
 10	Commons	Commons	PROPN	SP	_	9	flat	_	_
-11	'	'	PART	PART	_	9	case	_	_
+11	'	's	PART	PART	_	9	case	_	_
 12	then	then	ADV	B	_	14	advmod	_	SpaceAfter=No
 13	-	-	PUNCT	FF	_	12	punct	_	SpaceAfter=No
 14	current	current	ADJ	A	Degree=Pos	17	amod	_	_
@@ -2704,8 +2704,8 @@
 18	for	for	ADP	E	_	22	case	_	_
 19	the	the	DET	RD	Definite=Def|PronType=Art	20	det	_	_
 20-21	Quaestors'	_	_	_	_	_	_	_	_
-20	Quaestors	quaestor	NOUN	S	Number=Plur	22	nmod	_	_
-21	'	'	PART	PART	_	20	case	_	_
+20	Quaestors	quaestor	NOUN	S	Number=Plur	22	nmod:poss	_	_
+21	'	's	PART	PART	_	20	case	_	_
 22	meeting	meeting	NOUN	S	Number=Sing	17	nmod	_	_
 23	on	on	ADP	E	_	24	case	_	_
 24	Wednesday	Wednesday	NOUN	S	Number=Sing	22	nmod	_	SpaceAfter=No
@@ -3221,7 +3221,7 @@
 7	the	the	DET	RD	Definite=Def|PronType=Art	9	det	_	_
 8	Prodi	Prodi	PROPN	SP	_	9	nmod	_	_
 9-10	Commission's	_	_	_	_	_	_	_	_
-9	Commission	commission	NOUN	S	Number=Sing	12	nmod	_	_
+9	Commission	commission	NOUN	S	Number=Sing	12	nmod:poss	_	_
 10	's	's	PART	PART	_	9	case	_	_
 11	political	politic	ADJ	A	Degree=Pos	12	amod	_	_
 12	programme	programme	NOUN	S	Number=Sing	5	nmod	_	_
@@ -3303,7 +3303,7 @@
 26	dictates	dictate	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	conj	_	_
 27	this	this	DET	DD	Number=Sing|PronType=Dem	28	det	_	_
 28-29	Parliament's	_	_	_	_	_	_	_	_
-28	Parliament	parliament	NOUN	S	Number=Sing	33	nmod	_	_
+28	Parliament	parliament	NOUN	S	Number=Sing	33	nmod:poss	_	_
 29	's	's	PART	PART	_	28	case	_	_
 30	political	politic	ADJ	A	Degree=Pos	33	amod	_	_
 31	and	and	CCONJ	CC	_	32	cc	_	_
@@ -3832,7 +3832,7 @@
 10	out	out	ADP	E	_	9	compound:prt	_	_
 11	Mr	mister	NOUN	S	Number=Sing	12	nmod:desc	_	_
 12-13	Poettering's	_	_	_	_	_	_	_	_
-12	Poettering	Poettering	PROPN	SP	_	14	nmod	_	_
+12	Poettering	Poettering	PROPN	SP	_	14	nmod:poss	_	_
 13	's	's	PART	PART	_	12	case	_	_
 14	lack	lack	NOUN	S	Number=Sing	9	obj	_	_
 15	of	of	ADP	E	_	16	case	_	_
@@ -3863,7 +3863,7 @@
 9	-	-	PUNCT	FF	_	8	punct	_	SpaceAfter=No
 10	DE	DE	PROPN	SP	_	8	flat	_	_
 11-12	Group's	_	_	_	_	_	_	_	_
-11	Group	group	NOUN	S	Number=Sing	13	nmod	_	_
+11	Group	group	NOUN	S	Number=Sing	13	nmod:poss	_	_
 12	's	's	PART	PART	_	11	case	_	_
 13	request	request	NOUN	S	Number=Sing	5	obl	_	_
 14	that	that	SCONJ	CS	_	23	mark	_	_
@@ -4088,7 +4088,7 @@
 23	comment	comment	VERB	V	VerbForm=Inf	20	acl	_	_
 24	on	on	ADP	E	_	29	case	_	_
 25	Mr	mister	NOUN	S	Number=Sing	26	nmod:desc	_	_
-26	Barón	Barón	PROPN	SP	_	29	nmod	_	_
+26	Barón	Barón	PROPN	SP	_	29	nmod:poss	_	_
 27-28	Crespo's	_	_	_	_	_	_	_	_
 27	Crespo	Crespo	PROPN	SP	_	26	flat	_	_
 28	's	's	PART	PART	_	26	case	_	_
@@ -4209,7 +4209,7 @@
 5	Minutes	minute	NOUN	S	Number=Plur	11	nsubj	_	_
 6	for	for	ADP	E	_	9	case	_	_
 7-8	tomorrow's	_	_	_	_	_	_	_	_
-7	tomorrow	tomorrow	NOUN	S	Number=Sing	9	nmod	_	_
+7	tomorrow	tomorrow	NOUN	S	Number=Sing	9	nmod:poss	_	_
 8	's	's	PART	PART	_	7	case	_	_
 9	sitting	sitting	NOUN	S	Number=Sing	5	nmod	_	_
 10	will	will	AUX	VM	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	11	aux	_	_
@@ -4930,7 +4930,7 @@
 18	six	six	NUM	N	NumType=Card	17	obj	_	_
 19	of	of	ADP	E	_	23	case	_	_
 20-21	Parliament's	_	_	_	_	_	_	_	_
-20	Parliament	parliament	NOUN	S	Number=Sing	23	nmod	_	_
+20	Parliament	parliament	NOUN	S	Number=Sing	23	nmod:poss	_	_
 21	's	's	PART	PART	_	20	case	_	_
 22	ten	ten	NUM	N	NumType=Card	23	nummod	_	_
 23	amendments	amendment	NOUN	S	Number=Plur	18	nmod	_	_
@@ -4945,7 +4945,7 @@
 32	substance	substance	NOUN	S	Number=Sing	40	nsubj:pass	_	_
 33	of	of	ADP	E	_	37	case	_	_
 34-35	Parliament's	_	_	_	_	_	_	_	_
-34	Parliament	parliament	NOUN	S	Number=Sing	37	nmod	_	_
+34	Parliament	parliament	NOUN	S	Number=Sing	37	nmod:poss	_	_
 35	's	's	PART	PART	_	34	case	_	_
 36	other	other	ADJ	A	Degree=Pos	37	amod	_	_
 37	amendments	amendment	NOUN	S	Number=Plur	32	nmod	_	_
@@ -5406,8 +5406,8 @@
 38	in	in	ADP	E	_	42	case	_	_
 39	eighteen	eighteen	NUM	N	NumType=Card	40	nummod	_	_
 40-41	months'	_	_	_	_	_	_	_	_
-40	months	month	NOUN	S	Number=Plur	42	nmod	_	_
-41	'	'	PART	PART	_	40	case	_	_
+40	months	month	NOUN	S	Number=Plur	42	nmod:poss	_	_
+41	'	's	PART	PART	_	40	case	_	_
 42	time	time	NOUN	S	Number=Sing	37	obl	_	SpaceAfter=No
 43	.	.	PUNCT	FS	_	11	punct	_	_
 
@@ -6202,7 +6202,7 @@
 23	of	of	ADP	E	_	27	case	_	_
 24	the	the	DET	RD	Definite=Def|PronType=Art	25	det	_	_
 25-26	Commission's	_	_	_	_	_	_	_	_
-25	Commission	commission	NOUN	S	Number=Sing	27	nmod	_	_
+25	Commission	commission	NOUN	S	Number=Sing	27	nmod:poss	_	_
 26	's	's	PART	PART	_	25	case	_	_
 27	priorities	priority	NOUN	S	Number=Plur	22	nmod	_	_
 28	in	in	ADP	E	_	30	case	_	_
@@ -6784,7 +6784,7 @@
 2	in	in	ADP	E	_	6	case	_	_
 3	the	the	DET	RD	Definite=Def|PronType=Art	4	det	_	_
 4-5	CEN's	_	_	_	_	_	_	_	_
-4	CEN	CEN	PROPN	SP	_	6	nmod	_	_
+4	CEN	CEN	PROPN	SP	_	6	nmod:poss	_	_
 5	's	's	PART	PART	_	4	case	_	_
 6	work	work	NOUN	S	Number=Sing	1	nmod	_	_
 7	are	be	AUX	VA	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	9	aux	_	_
@@ -7252,7 +7252,7 @@
 7	on	on	ADP	E	_	11	case	_	_
 8	the	the	DET	RD	Definite=Def|PronType=Art	9	det	_	_
 9-10	Commission's	_	_	_	_	_	_	_	_
-9	Commission	commission	NOUN	S	Number=Sing	11	nmod	_	_
+9	Commission	commission	NOUN	S	Number=Sing	11	nmod:poss	_	_
 10	's	's	PART	PART	_	9	case	_	_
 11	proposal	proposal	NOUN	S	Number=Sing	6	obl	_	_
 12	to	to	PART	PART	_	13	mark	_	_
@@ -7350,7 +7350,7 @@
 2	to	to	ADP	E	_	1	fixed	_	_
 3	the	the	DET	RD	Definite=Def|PronType=Art	4	det	_	_
 4-5	Commission's	_	_	_	_	_	_	_	_
-4	Commission	commission	NOUN	S	Number=Sing	6	nmod	_	_
+4	Commission	commission	NOUN	S	Number=Sing	6	nmod:poss	_	_
 5	's	's	PART	PART	_	4	case	_	_
 6	proposal	proposal	NOUN	S	Number=Sing	13	obl	_	_
 7	-20	-20	NUM	N	NumType=Card	8	nummod	_	SpaceAfter=No
@@ -7529,7 +7529,7 @@
 31	transported	transport	VERB	V	Tense=Past|VerbForm=Part	22	acl:relcl	_	_
 32	on	on	ADP	E	_	35	case	_	_
 33-34	Europe's	_	_	_	_	_	_	_	_
-33	Europe	Europe	PROPN	SP	_	35	nmod	_	_
+33	Europe	Europe	PROPN	SP	_	35	nmod:poss	_	_
 34	's	's	PART	PART	_	33	case	_	_
 35	roads	road	NOUN	S	Number=Plur	31	obl	_	SpaceAfter=No
 36	,	,	PUNCT	FF	_	37	punct	_	_
@@ -8054,7 +8054,7 @@
 9	to	to	ADP	E	_	13	case	_	_
 10	Mr	mister	NOUN	S	Number=Sing	11	nmod:desc	_	_
 11-12	Swoboda's	_	_	_	_	_	_	_	_
-11	Swoboda	Swoboda	PROPN	SP	_	13	nmod	_	_
+11	Swoboda	Swoboda	PROPN	SP	_	13	nmod:poss	_	_
 12	's	's	PART	PART	_	11	case	_	_
 13	comments	comment	NOUN	S	Number=Plur	8	nmod	_	_
 14	on	on	ADP	E	_	16	case	_	_
@@ -8619,7 +8619,7 @@
 21	of	of	ADP	E	_	25	case	_	_
 22	our	us	DET	AP	Poss=Yes|PronType=Prs	23	nmod:poss	_	_
 23-24	committee's	_	_	_	_	_	_	_	_
-23	committee	committee	NOUN	S	Number=Sing	25	nmod	_	_
+23	committee	committee	NOUN	S	Number=Sing	25	nmod:poss	_	_
 24	's	's	PART	PART	_	23	case	_	_
 25	proposal	proposal	NOUN	S	Number=Sing	20	nmod	_	_
 26	that	that	SCONJ	CS	_	32	mark	_	_
@@ -8785,7 +8785,7 @@
 35	draw	draw	VERB	V	VerbForm=Inf	11	advcl	_	_
 36	the	the	DET	RD	Definite=Def|PronType=Art	37	det	_	_
 37-38	Commission's	_	_	_	_	_	_	_	_
-37	Commission	commission	NOUN	S	Number=Sing	39	nmod	_	_
+37	Commission	commission	NOUN	S	Number=Sing	39	nmod:poss	_	_
 38	's	's	PART	PART	_	37	case	_	_
 39	attention	attention	NOUN	S	Number=Sing	35	obj	_	_
 40	to	to	ADP	E	_	42	case	_	_
@@ -8872,7 +8872,7 @@
 4	to	to	PART	PART	_	5	mark	_	_
 5	draw	draw	VERB	V	VerbForm=Inf	3	xcomp	_	_
 6-7	people's	_	_	_	_	_	_	_	_
-6	people	people	NOUN	S	Number=Plur	8	nmod	_	_
+6	people	people	NOUN	S	Number=Plur	8	nmod:poss	_	_
 7	's	's	PART	PART	_	6	case	_	_
 8	attention	attention	NOUN	S	Number=Sing	5	obj	_	_
 9	to	to	ADP	E	_	11	case	_	_
@@ -8971,7 +8971,7 @@
 6	with	with	ADP	E	_	10	case	_	_
 7	this	this	DET	DD	Number=Sing|PronType=Dem	8	det	_	_
 8-9	Parliament's	_	_	_	_	_	_	_	_
-8	Parliament	parliament	NOUN	S	Number=Sing	10	nmod	_	_
+8	Parliament	parliament	NOUN	S	Number=Sing	10	nmod:poss	_	_
 9	's	's	PART	PART	_	8	case	_	_
 10	view	view	NOUN	S	Number=Sing	4	obl	_	_
 11	that	that	SCONJ	CS	_	17	mark	_	_
@@ -9112,8 +9112,8 @@
 42	the	the	DET	RD	Definite=Def|PronType=Art	48	det	_	_
 43	Member	member	NOUN	S	Number=Sing	44	compound	_	_
 44-45	States'	_	_	_	_	_	_	_	_
-44	States	state	NOUN	S	Number=Plur	48	nmod	_	_
-45	'	'	PART	PART	_	44	case	_	_
+44	States	state	NOUN	S	Number=Plur	48	nmod:poss	_	_
+45	'	's	PART	PART	_	44	case	_	_
 46	annual	annual	ADJ	A	Degree=Pos	48	amod	_	_
 47	national	national	ADJ	A	Degree=Pos	48	amod	_	_
 48	plans	plan	NOUN	S	Number=Plur	27	conj	_	_
@@ -9228,7 +9228,7 @@
 19	owing	owe	VERB	V	Number=Sing|Tense=Pres|VerbForm=Part	18	acl	_	_
 20	to	to	ADP	E	_	24	case	_	_
 21-22	agriculture's	_	_	_	_	_	_	_	_
-21	agriculture	agriculture	NOUN	S	Number=Sing	24	nmod	_	_
+21	agriculture	agriculture	NOUN	S	Number=Sing	24	nmod:poss	_	_
 22	's	's	PART	PART	_	21	case	_	_
 23	increasing	increasing	ADJ	A	Degree=Pos	24	amod	_	_
 24	lack	lack	NOUN	S	Number=Sing	19	obl	_	_
@@ -10680,7 +10680,7 @@
 12	discuss	discuss	VERB	V	VerbForm=Inf	10	csubj	_	_
 13	the	the	DET	RD	Definite=Def|PronType=Art	14	det	_	_
 14-15	Union's	_	_	_	_	_	_	_	_
-14	Union	union	NOUN	S	Number=Sing	17	nmod	_	_
+14	Union	union	NOUN	S	Number=Sing	17	nmod:poss	_	_
 15	's	's	PART	PART	_	14	case	_	_
 16	regional	regional	ADJ	A	Degree=Pos	17	amod	_	_
 17	policy	policy	NOUN	S	Number=Sing	12	obj	_	_
@@ -10793,7 +10793,7 @@
 65	in	in	ADP	E	_	69	case	_	_
 66	the	the	DET	RD	Definite=Def|PronType=Art	67	det	_	_
 67-68	Commission's	_	_	_	_	_	_	_	_
-67	Commission	commission	NOUN	S	Number=Sing	69	nmod	_	_
+67	Commission	commission	NOUN	S	Number=Sing	69	nmod:poss	_	_
 68	's	's	PART	PART	_	67	case	_	_
 69	offices	office	NOUN	S	Number=Plur	64	obl	_	_
 70	for	for	ADP	E	_	72	case	_	_
@@ -11052,14 +11052,14 @@
 12	presented	present	VERB	V	Tense=Past|VerbForm=Part	8	acl:relcl	_	_
 13	to	to	ADP	E	_	17	case	_	_
 14-15	Parliament's	_	_	_	_	_	_	_	_
-14	Parliament	parliament	NOUN	S	Number=Sing	17	nmod	_	_
+14	Parliament	parliament	NOUN	S	Number=Sing	17	nmod:poss	_	_
 15	's	's	PART	PART	_	14	case	_	_
 16	plenary	plenary	ADJ	A	Degree=Pos	17	amod	_	_
 17	sitting	sitting	NOUN	S	Number=Sing	12	obl	_	_
 18	today	today	ADV	B	_	12	advmod	_	_
 19	that	that	SCONJ	CS	_	26	mark	_	_
 20-21	Europe's	_	_	_	_	_	_	_	_
-20	Europe	Europe	PROPN	SP	_	25	nmod	_	_
+20	Europe	Europe	PROPN	SP	_	25	nmod:poss	_	_
 21	's	's	PART	PART	_	20	case	_	_
 22	25	25	NUM	N	NumType=Card	25	nummod	_	_
 23	most	most	ADV	B	_	24	advmod	_	_
@@ -11205,8 +11205,8 @@
 37	are	be	AUX	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	41	cop	_	_
 38	the	the	DET	RD	Definite=Def|PronType=Art	39	det	_	_
 39-40	citizens'	_	_	_	_	_	_	_	_
-39	citizens	citizen	NOUN	S	Number=Plur	41	nmod	_	_
-40	'	'	PART	PART	_	39	case	_	_
+39	citizens	citizen	NOUN	S	Number=Plur	41	nmod:poss	_	_
+40	'	's	PART	PART	_	39	case	_	_
 41	representatives	representative	NOUN	S	Number=Plur	34	acl	_	SpaceAfter=No
 42	.	.	PUNCT	FS	_	3	punct	_	_
 
@@ -11646,7 +11646,7 @@
 7	to	to	PART	PART	_	8	mark	_	_
 8	reiterate	reiterate	VERB	V	VerbForm=Inf	3	advcl	_	_
 9-10	Parliament's	_	_	_	_	_	_	_	_
-9	Parliament	parliament	NOUN	S	Number=Sing	11	nmod	_	_
+9	Parliament	parliament	NOUN	S	Number=Sing	11	nmod:poss	_	_
 10	's	's	PART	PART	_	9	case	_	_
 11	position	position	NOUN	S	Number=Sing	8	obj	_	SpaceAfter=No
 12	.	.	PUNCT	FS	_	3	punct	_	_
@@ -12662,7 +12662,7 @@
 14	draw	draw	VERB	V	VerbForm=Inf	12	xcomp	_	_
 15	the	the	DET	RD	Definite=Def|PronType=Art	16	det	_	_
 16-17	Commission's	_	_	_	_	_	_	_	_
-16	Commission	commission	NOUN	S	Number=Sing	18	nmod	_	_
+16	Commission	commission	NOUN	S	Number=Sing	18	nmod:poss	_	_
 17	's	's	PART	PART	_	16	case	_	_
 18	attention	attention	NOUN	S	Number=Sing	14	obj	_	SpaceAfter=No
 19	.	.	PUNCT	FS	_	2	punct	_	_
@@ -13932,7 +13932,7 @@
 2	results	result	NOUN	S	Number=Plur	10	nsubj	_	_
 3	from	from	ADP	E	_	8	case	_	_
 4-5	Storquest's	_	_	_	_	_	_	_	_
-4	Storquest	Storquest	PROPN	SP	_	8	nmod	_	_
+4	Storquest	Storquest	PROPN	SP	_	8	nmod:poss	_	_
 5	's	's	PART	PART	_	4	case	_	_
 6	Facebook	Facebook	PROPN	SP	_	8	nmod	_	_
 7	advert	advert	NOUN	S	Number=Sing	8	nmod	_	_
@@ -14206,7 +14206,7 @@
 6	button	button	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	1	ccomp	_	_
 7	on	on	ADP	E	_	10	case	_	_
 8-9	someone's	_	_	_	_	_	_	_	_
-8	someone	someone	PRON	PE	Number=Sing|Person=3|PronType=Prs	10	nmod	_	_
+8	someone	someone	PRON	PE	Number=Sing|Person=3|PronType=Prs	10	nmod:poss	_	_
 9	's	's	PART	PART	_	8	case	_	_
 10	Profile	profile	NOUN	S	Number=Sing	1	obl	_	_
 11	to	to	PART	PART	_	12	mark	_	_
@@ -14423,7 +14423,7 @@
 5	appear	appear	VERB	V	VerbForm=Inf	0	root	_	_
 6	in	in	ADP	E	_	10	case	_	_
 7-8	people's	_	_	_	_	_	_	_	_
-7	people	people	NOUN	S	Number=Plur	10	nmod	_	_
+7	people	people	NOUN	S	Number=Plur	10	nmod:poss	_	_
 8	's	's	PART	PART	_	7	case	_	_
 9	News	News	PROPN	SP	_	10	nmod	_	_
 10	Feeds	feed	NOUN	S	Number=Plur	5	obl	_	_
@@ -14955,7 +14955,7 @@
 22	during	during	ADP	E	_	27	case	_	_
 23	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	24	det	_	_
 24-25	product's	_	_	_	_	_	_	_	_
-24	product	product	NOUN	S	Number=Sing	27	nmod	_	_
+24	product	product	NOUN	S	Number=Sing	27	nmod:poss	_	_
 25	's	's	PART	PART	_	24	case	_	_
 26	life	life	NOUN	S	Number=Sing	27	nmod	_	_
 27	cycle	cycle	NOUN	S	Number=Sing	21	obl	_	_
@@ -15381,7 +15381,7 @@
 5	stage	stage	NOUN	S	_	1	obl	_	_
 6	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	7	det	_	_
 7-8	product's	_	_	_	_	_	_	_	_
-7	product	product	NOUN	S	Number=Sing	10	nmod	_	_
+7	product	product	NOUN	S	Number=Sing	10	nmod:poss	_	_
 8	's	's	PART	PART	_	7	case	_	_
 9	environmental	environmental	ADJ	A	Degree=Pos	10	amod	_	_
 10	impact	impact	NOUN	S	Number=Sing	1	obj	_	_
@@ -15915,7 +15915,7 @@
 5	of	of	ADP	E	_	10	case	_	_
 6	the	the	DET	RD	Definite=Def|PronType=Art	7	det	_	_
 7-8	Commission's	_	_	_	_	_	_	_	_
-7	Commission	commission	NOUN	S	Number=Sing	10	nmod	_	_
+7	Commission	commission	NOUN	S	Number=Sing	10	nmod:poss	_	_
 8	's	's	PART	PART	_	7	case	_	_
 9	"	"	PUNCT	FB	_	10	punct	_	SpaceAfter=No
 10	Communication	communication	NOUN	S	Number=Sing	3	nmod	_	_
@@ -16056,8 +16056,8 @@
 15	consult	consult	VERB	V	VerbForm=Inf	0	root	_	_
 16	Member	member	NOUN	S	Number=Sing	17	compound	_	_
 17-18	States'	_	_	_	_	_	_	_	_
-17	States	state	NOUN	S	Number=Plur	19	nmod	_	_
-18	'	'	PART	PART	_	17	case	_	_
+17	States	state	NOUN	S	Number=Plur	19	nmod:poss	_	_
+18	'	's	PART	PART	_	17	case	_	_
 19	representatives	representative	NOUN	S	Number=Plur	15	obj	_	_
 20	as	as	ADV	B	ExtPos=CCONJ	24	cc	_	_
 21	well	well	ADV	B	Degree=Pos	20	fixed	_	_
@@ -22288,7 +22288,7 @@
 8	at	at	ADP	E	_	13	case	_	_
 9	the	the	DET	RD	Definite=Def|PronType=Art	10	det	_	_
 10-11	Hopkin's	_	_	_	_	_	_	_	_
-10	Hopkin	Hopkin	PROPN	SP	_	13	nmod	_	_
+10	Hopkin	Hopkin	PROPN	SP	_	13	nmod:poss	_	_
 11	's	's	PART	PART	_	10	case	_	_
 12	Marine	marine	ADJ	A	Degree=Pos	13	amod	_	_
 13	Station	station	NOUN	S	Number=Sing	7	nmod	_	_
@@ -22793,7 +22793,7 @@
 # text = In mother's milk.
 1	In	in	ADP	E	_	4	case	_	_
 2-3	mother's	_	_	_	_	_	_	_	_
-2	mother	mother	NOUN	S	Number=Sing	4	nmod	_	_
+2	mother	mother	NOUN	S	Number=Sing	4	nmod:poss	_	_
 3	's	's	PART	PART	_	2	case	_	_
 4	milk	milk	NOUN	S	Number=Sing	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	FS	_	4	punct	_	_
@@ -23278,8 +23278,8 @@
 4	quickly	quickly	ADV	B	_	10	advmod	_	_
 5	emerging	emerge	VERB	V	Number=Sing|Tense=Pres|VerbForm=Part	6	acl	_	_
 6-7	markets'	_	_	_	_	_	_	_	_
-6	markets	market	NOUN	S	Number=Plur	8	nmod	_	_
-7	'	'	PART	PART	_	6	case	_	_
+6	markets	market	NOUN	S	Number=Plur	8	nmod:poss	_	_
+7	'	's	PART	PART	_	6	case	_	_
 8	fortunes	fortune	NOUN	S	Number=Plur	10	nsubj	_	_
 9	have	have	AUX	VA	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	10	aux	_	_
 10	turned	turn	VERB	V	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
@@ -23343,8 +23343,8 @@
 3	that	that	PRON	PR	PronType=Rel	9	obj	_	_
 4	these	this	DET	DD	Number=Plur|PronType=Dem	5	det	_	_
 5-6	countries'	_	_	_	_	_	_	_	_
-5	countries	country	NOUN	S	Number=Plur	7	nmod	_	_
-6	'	'	PART	PART	_	5	case	_	_
+5	countries	country	NOUN	S	Number=Plur	7	nmod:poss	_	_
+6	'	's	PART	PART	_	5	case	_	_
 7	currencies	currency	NOUN	S	Number=Plur	9	nsubj	_	_
 8	have	have	AUX	VA	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	9	aux	_	_
 9	taken	take	VERB	V	Tense=Past|VerbForm=Part	2	acl:relcl	_	_
@@ -23496,8 +23496,8 @@
 2	,	,	PUNCT	FF	_	1	punct	_	_
 3	emerging	emerge	VERB	V	Number=Sing|Tense=Pres|VerbForm=Part	4	acl	_	_
 4-5	markets'	_	_	_	_	_	_	_	_
-4	markets	market	NOUN	S	Number=Plur	6	nmod	_	_
-5	'	'	PART	PART	_	4	case	_	_
+4	markets	market	NOUN	S	Number=Plur	6	nmod:poss	_	_
+5	'	's	PART	PART	_	4	case	_	_
 6	growth	growth	NOUN	S	Number=Sing	13	nsubj	_	_
 7	over	over	ADP	E	_	11	case	_	_
 8	the	the	DET	RD	Definite=Def|PronType=Art	11	det	_	_
@@ -23655,7 +23655,7 @@
 # sent_id = en_partut-ud-1044
 # text = America's fiscal and monetary policies, for example, will always be driven by domestic considerations first (if not second and third as well).
 1-2	America's	_	_	_	_	_	_	_	_
-1	America	America	PROPN	SP	_	6	nmod	_	_
+1	America	America	PROPN	SP	_	6	nmod:poss	_	_
 2	's	's	PART	PART	_	1	case	_	_
 3	fiscal	fiscal	ADJ	A	Degree=Pos	6	amod	_	_
 4	and	and	CCONJ	CC	_	5	cc	_	_
@@ -23725,7 +23725,7 @@
 # text = The Fed's huge monthly purchases of long-term assets – so-called quantitative easing – have benefited the world as a whole by propping up demand and economic activity in the US.
 1	The	the	DET	RD	Definite=Def|PronType=Art	2	det	_	_
 2-3	Fed's	_	_	_	_	_	_	_	_
-2	Fed	Fed	PROPN	SP	_	6	nmod	_	_
+2	Fed	Fed	PROPN	SP	_	6	nmod:poss	_	_
 3	's	's	PART	PART	_	2	case	_	_
 4	huge	huge	ADJ	A	Degree=Pos	6	amod	_	_
 5	monthly	monthly	ADJ	A	Degree=Pos	6	amod	_	_
@@ -24193,8 +24193,8 @@
 38	improve	improve	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	32	conj	_	_
 39	their	their	DET	AP	Poss=Yes|PronType=Prs	40	nmod:poss	_	_
 40-41	citizens'	_	_	_	_	_	_	_	SpaceAfter=No
-40	citizens	citizen	NOUN	S	Number=Plur	42	nmod	_	_
-41	'	'	PART	PART	_	40	case	_	_
+40	citizens	citizen	NOUN	S	Number=Plur	42	nmod:poss	_	_
+41	'	's	PART	PART	_	40	case	_	_
 42	capacity	capacity	NOUN	S	Number=Sing	38	obj	_	_
 43	to	to	PART	PART	_	44	mark	_	_
 44	consume	consume	VERB	V	VerbForm=Inf	42	acl	_	SpaceAfter=No
@@ -24256,8 +24256,8 @@
 36	share	share	NOUN	S	Number=Sing	32	obj	_	_
 37	of	of	ADP	E	_	42	case	_	_
 38-39	firms'	_	_	_	_	_	_	_	_
-38	firms	firm	NOUN	S	Number=Plur	42	nmod	_	_
-39	'	'	PART	PART	_	38	case	_	_
+38	firms	firm	NOUN	S	Number=Plur	42	nmod:poss	_	_
+39	'	's	PART	PART	_	38	case	_	_
 40	overall	overall	ADJ	A	Degree=Pos	42	amod	_	_
 41	market	market	NOUN	S	Number=Sing	42	nmod	_	_
 42	value	value	NOUN	S	Number=Sing	36	nmod	_	SpaceAfter=No
@@ -24297,8 +24297,8 @@
 15	,	,	PUNCT	FF	_	16	punct	_	_
 16	augmenting	augment	VERB	V	VerbForm=Ger	13	conj	_	_
 17-18	workers'	_	_	_	_	_	_	_	_
-17	workers	worker	NOUN	S	Number=Plur	19	nmod	_	_
-18	'	'	PART	PART	_	17	case	_	_
+17	workers	worker	NOUN	S	Number=Plur	19	nmod:poss	_	_
+18	'	's	PART	PART	_	17	case	_	_
 19	skills	skill	NOUN	S	Number=Plur	16	obj	_	SpaceAfter=No
 20	,	,	PUNCT	FF	_	21	punct	_	_
 21	improving	improve	VERB	V	VerbForm=Ger	13	conj	_	_
@@ -24500,7 +24500,7 @@
 1	The	the	DET	RD	Definite=Def|PronType=Art	3	det	_	_
 2	Indian	Indian	ADJ	A	Degree=Pos	3	amod	_	_
 3-4	government's	_	_	_	_	_	_	_	_
-3	government	government	NOUN	S	Number=Sing	6	nmod	_	_
+3	government	government	NOUN	S	Number=Sing	6	nmod:poss	_	_
 4	's	's	PART	PART	_	3	case	_	_
 5	ongoing	ongoing	ADJ	A	Degree=Pos	6	amod	_	_
 6	assault	assault	NOUN	S	Number=Sing	10	nsubj	_	_
@@ -24580,8 +24580,8 @@
 16	obstacle	obstacle	NOUN	S	Number=Sing	0	root	_	_
 17	to	to	ADP	E	_	20	case	_	_
 18-19	patients'	_	_	_	_	_	_	_	_
-18	patients	patient	NOUN	S	Number=Plur	20	nmod	_	_
-19	'	'	PART	PART	_	18	case	_	_
+18	patients	patient	NOUN	S	Number=Plur	20	nmod:poss	_	_
+19	'	's	PART	PART	_	18	case	_	_
 20	access	access	NOUN	S	Number=Sing	16	nmod	_	_
 21	to	to	ADP	E	_	23	case	_	_
 22	medical	medical	ADJ	A	Degree=Pos	23	amod	_	_
@@ -24698,8 +24698,8 @@
 2	from	from	SCONJ	CS	_	3	mark	_	_
 3	improving	improve	VERB	V	VerbForm=Ger	1	advcl	_	_
 4-5	citizens'	_	_	_	_	_	_	_	_
-4	citizens	citizen	NOUN	S	Number=Plur	6	nmod	_	_
-5	'	'	PART	PART	_	4	case	_	_
+4	citizens	citizen	NOUN	S	Number=Plur	6	nmod:poss	_	_
+5	'	's	PART	PART	_	4	case	_	_
 6	access	access	NOUN	S	Number=Sing	3	obj	_	_
 7	to	to	ADP	E	_	9	case	_	_
 8	health	health	NOUN	S	Number=Sing	9	nmod	_	_
@@ -24711,7 +24711,7 @@
 14	are	be	AUX	VA	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	15	aux	_	_
 15	exacerbating	exacerbate	VERB	V	Number=Sing|Tense=Pres|VerbForm=Part	0	root	_	_
 16-17	India's	_	_	_	_	_	_	_	_
-16	India	India	PROPN	SP	_	22	nmod	_	_
+16	India	India	PROPN	SP	_	22	nmod:poss	_	_
 17	's	's	PART	PART	_	16	case	_	_
 18	formidable	formidable	ADJ	A	Degree=Pos	19	amod	_	_
 19	health	health	NOUN	S	Number=Sing	21	nmod	_	SpaceAfter=No
@@ -24816,7 +24816,7 @@
 30	nine	nine	NUM	N	NumType=Card	31	nummod	_	_
 31	times	time	NOUN	S	Number=Plur	34	nmod	_	_
 32-33	Britain's	_	_	_	_	_	_	_	_
-32	Britain	Britain	PROPN	SP	_	34	nmod	_	_
+32	Britain	Britain	PROPN	SP	_	34	nmod:poss	_	_
 33	's	's	PART	PART	_	32	case	_	_
 34	GDP	GDP	PROPN	SP	_	26	obl	_	_
 35	by	by	ADP	E	_	36	case	_	_
@@ -24860,7 +24860,7 @@
 20	,	,	PUNCT	FF	_	24	punct	_	_
 21	and	and	CCONJ	CC	_	24	cc	_	_
 22-23	London's	_	_	_	_	_	_	_	_
-22	London	London	PROPN	SP	_	24	nmod	_	_
+22	London	London	PROPN	SP	_	24	nmod:poss	_	_
 23	's	's	PART	PART	_	22	case	_	_
 24	maintenance	maintenance	NOUN	S	Number=Sing	3	conj	_	_
 25	of	of	ADP	E	_	27	case	_	_
@@ -24922,8 +24922,8 @@
 7	outgrew	outgrow	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 8	their	their	DET	AP	Poss=Yes|PronType=Prs	9	nmod:poss	_	_
 9-10	governments'	_	_	_	_	_	_	_	_
-9	governments	government	NOUN	S	Number=Plur	11	nmod	_	_
-10	'	'	PART	PART	_	9	case	_	_
+9	governments	government	NOUN	S	Number=Plur	11	nmod:poss	_	_
+10	'	's	PART	PART	_	9	case	_	_
 11	ability	ability	NOUN	S	Number=Sing	7	obj	_	_
 12	to	to	PART	PART	_	13	mark	_	_
 13	support	support	VERB	V	VerbForm=Inf	11	acl	_	_
@@ -25113,7 +25113,7 @@
 25	the	the	DET	RD	Definite=Def|PronType=Art	27	det	_	_
 26	financial	financial	ADJ	A	Degree=Pos	27	amod	_	_
 27-28	sector's	_	_	_	_	_	_	_	_
-27	sector	sector	NOUN	S	Number=Sing	30	nmod	_	_
+27	sector	sector	NOUN	S	Number=Sing	30	nmod:poss	_	_
 28	's	's	PART	PART	_	27	case	_	_
 29	reported	report	VERB	V	Tense=Past|VerbForm=Part	30	acl	_	_
 30	contribution	contribution	NOUN	S	Number=Sing	36	nsubj:pass	_	_
@@ -25333,8 +25333,8 @@
 14	the	the	DET	RD	Definite=Def|PronType=Art	19	det	_	_
 15	central	central	ADJ	A	Degree=Pos	16	amod	_	_
 16-17	banks'	_	_	_	_	_	_	_	_
-16	banks	bank	NOUN	S	Number=Plur	19	nmod	_	_
-17	'	'	PART	PART	_	16	case	_	_
+16	banks	bank	NOUN	S	Number=Plur	19	nmod:poss	_	_
+17	'	's	PART	PART	_	16	case	_	_
 18	central	central	ADJ	A	Degree=Pos	19	amod	_	_
 19	bank	bank	NOUN	S	Number=Sing	9	appos	_	_
 20	–	–	PUNCT	FB	_	19	punct	_	_
@@ -25379,7 +25379,7 @@
 15	the	the	DET	RD	Definite=Def|PronType=Art	17	det	_	_
 16	financial	financial	ADJ	A	Degree=Pos	17	amod	_	_
 17-18	sector's	_	_	_	_	_	_	_	_
-17	sector	sector	NOUN	S	Number=Sing	19	nmod	_	_
+17	sector	sector	NOUN	S	Number=Sing	19	nmod:poss	_	_
 18	's	's	PART	PART	_	17	case	_	_
 19	share	share	NOUN	S	Number=Sing	10	obl	_	_
 20	of	of	ADP	E	_	21	case	_	_
@@ -25724,7 +25724,7 @@
 # text = Sustaining Ukraine's Breakthrough.
 1	Sustaining	sustain	VERB	V	VerbForm=Ger	0	root	_	_
 2-3	Ukraine's	_	_	_	_	_	_	_	_
-2	Ukraine	Ukraine	PROPN	SP	_	4	nmod	_	_
+2	Ukraine	Ukraine	PROPN	SP	_	4	nmod:poss	_	_
 3	's	's	PART	PART	_	2	case	_	_
 4	Breakthrough	breakthrough	NOUN	S	Number=Sing	1	obj	_	SpaceAfter=No
 5	.	.	PUNCT	FS	_	1	punct	_	_
@@ -25822,7 +25822,7 @@
 13	on	on	ADP	E	_	18	case	_	_
 14	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	15	det	_	_
 15-16	society's	_	_	_	_	_	_	_	_
-15	society	society	NOUN	S	Number=Sing	18	nmod	_	_
+15	society	society	NOUN	S	Number=Sing	18	nmod:poss	_	_
 16	's	's	PART	PART	_	15	case	_	_
 17	collective	collective	ADJ	A	Degree=Pos	18	amod	_	_
 18	memory	memory	NOUN	S	Number=Sing	9	obl	_	SpaceAfter=No
@@ -25900,7 +25900,7 @@
 # sent_id = en_partut-ud-1138
 # text = People's identity is made up of individual elements and elements of larger units to which they belong, and peoples' impact on reality depends on which elements dominate their behavior.
 1-2	People's	_	_	_	_	_	_	_	_
-1	People	people	NOUN	S	Number=Plur	3	nmod	_	_
+1	People	people	NOUN	S	Number=Plur	3	nmod:poss	_	_
 2	's	's	PART	PART	_	1	case	_	_
 3	identity	identity	NOUN	S	Number=Sing	5	nsubj:pass	_	_
 4	is	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux:pass	_	_
@@ -25921,8 +25921,8 @@
 19	,	,	PUNCT	FF	_	26	punct	_	_
 20	and	and	CCONJ	CC	_	26	cc	_	_
 21-22	peoples'	_	_	_	_	_	_	_	_
-21	peoples	people	NOUN	S	Number=Plur	23	nmod	_	_
-22	'	'	PART	PART	_	21	case	_	_
+21	peoples	people	NOUN	S	Number=Plur	23	nmod:poss	_	_
+22	'	's	PART	PART	_	21	case	_	_
 23	impact	impact	NOUN	S	Number=Sing	26	nsubj	_	_
 24	on	on	ADP	E	_	25	case	_	_
 25	reality	reality	NOUN	S	Number=Sing	23	nmod	_	_
@@ -26096,7 +26096,7 @@
 4	the	the	DET	RD	Definite=Def|PronType=Art	6	det	_	_
 5	Ukrainian	Ukrainian	PROPN	SP	_	6	nmod	_	SpaceAfter=No
 6-7	people's	_	_	_	_	_	_	_	_
-6	people	people	NOUN	S	Number=Plur	8	nmod	_	_
+6	people	people	NOUN	S	Number=Plur	8	nmod:poss	_	_
 7	's	's	PART	PART	_	6	case	_	_
 8	commitment	commitment	NOUN	S	Number=Sing	14	nsubj	_	_
 9	to	to	ADP	E	_	11	case	_	_
@@ -26217,8 +26217,8 @@
 6	to	to	PART	PART	_	7	mark	_	_
 7	support	support	VERB	V	VerbForm=Inf	5	advcl	_	_
 8-9	Ukrainians'	_	_	_	_	_	_	_	_
-8	Ukrainians	Ukrainians	PROPN	SP	_	12	nmod	_	_
-9	'	'	PART	PART	_	8	case	_	_
+8	Ukrainians	Ukrainians	PROPN	SP	_	12	nmod:poss	_	_
+9	'	's	PART	PART	_	8	case	_	_
 10	strongly	strongly	ADV	B	_	11	advmod	_	_
 11	felt	felt	VERB	V	Tense=Past|VerbForm=Part	12	acl	_	_
 12	desire	desire	NOUN	S	Number=Sing	7	obj	_	_
@@ -26272,7 +26272,7 @@
 3	remarkable	remarkable	ADJ	A	Degree=Pos	4	amod	_	_
 4	transformation	transformation	NOUN	S	Number=Sing	21	obl	_	_
 5	of	of	ADP	E	_	9	case	_	_
-6	Central	Central	PROPN	SP	_	9	nmod	_	_
+6	Central	Central	PROPN	SP	_	9	nmod:poss	_	_
 7-8	Europe's	_	_	_	_	_	_	_	_
 7	Europe	Europe	PROPN	SP	_	6	flat	_	_
 8	's	's	PART	PART	_	6	case	_	_
@@ -26397,8 +26397,8 @@
 15	train	train	VERB	V	VerbForm=Inf	13	acl	_	_
 16	local	local	ADJ	A	Degree=Pos	17	amod	_	_
 17-18	companies'	_	_	_	_	_	_	_	_
-17	companies	company	NOUN	S	Number=Plur	19	nmod	_	_
-18	'	'	PART	PART	_	17	case	_	_
+17	companies	company	NOUN	S	Number=Plur	19	nmod:poss	_	_
+18	'	's	PART	PART	_	17	case	_	_
 19	managers	manager	NOUN	S	Number=Plur	15	obj	_	_
 20	and	and	CCONJ	CC	_	21	cc	_	_
 21	help	help	NOUN	S	Number=Sing	15	conj	_	_
@@ -26502,8 +26502,8 @@
 13	by	by	ADP	E	_	23	case	_	_
 14	European	European	ADJ	A	Degree=Pos	15	amod	_	_
 15-16	companies'	_	_	_	_	_	_	_	_
-15	companies	company	NOUN	S	Number=Plur	23	nmod	_	_
-16	'	'	PART	PART	_	15	case	_	_
+15	companies	company	NOUN	S	Number=Plur	23	nmod:poss	_	_
+16	'	's	PART	PART	_	15	case	_	_
 17	wholly	wholly	ADV	B	_	22	advmod	_	_
 18	-	-	PUNCT	FB	_	20	punct	_	_
 19	or	or	CCONJ	CC	_	20	cc	_	_
@@ -26762,7 +26762,7 @@
 # sent_id = en_partut-ud-1171
 # text = China's Growth Puzzle.
 1-2	China's	_	_	_	_	_	_	_	_
-1	China	China	PROPN	SP	_	4	nmod	_	_
+1	China	China	PROPN	SP	_	4	nmod:poss	_	_
 2	's	's	PART	PART	_	1	case	_	_
 3	Growth	growth	NOUN	S	Number=Sing	4	nmod	_	_
 4	Puzzle	puzzle	NOUN	S	Number=Sing	0	root	_	SpaceAfter=No
@@ -26788,7 +26788,7 @@
 2	US	US	PROPN	SP	_	4	nmod	_	_
 3	Federal	Federal	PROPN	SP	_	4	nmod	_	_
 4-5	Reserve's	_	_	_	_	_	_	_	_
-4	Reserve	reserve	NOUN	S	Number=Sing	6	nmod	_	_
+4	Reserve	reserve	NOUN	S	Number=Sing	6	nmod:poss	_	_
 5	's	's	PART	PART	_	4	case	_	_
 6	tapering	tapering	NOUN	S	Number=Sing	18	nsubj	_	_
 7	of	of	ADP	E	_	11	case	_	_
@@ -26932,7 +26932,7 @@
 13	from	from	ADP	E	_	17	case	_	_
 14	the	the	DET	RD	Definite=Def|PronType=Art	15	det	_	_
 15-16	Fed's	_	_	_	_	_	_	_	_
-15	Fed	FED	NOUN	S	Number=Sing	17	nmod	_	_
+15	Fed	FED	NOUN	S	Number=Sing	17	nmod:poss	_	_
 16	's	's	PART	PART	_	15	case	_	_
 17	tapering	tapering	NOUN	S	Number=Sing	12	obl	_	_
 18	of	of	ADP	E	_	22	case	_	_
@@ -26950,7 +26950,7 @@
 4	course	course	NOUN	S	Number=Sing	3	fixed	_	SpaceAfter=No
 5	,	,	PUNCT	FF	_	3	punct	_	_
 6-7	China's	_	_	_	_	_	_	_	_
-6	China	China	PROPN	SP	_	9	nmod	_	_
+6	China	China	PROPN	SP	_	9	nmod:poss	_	_
 7	's	's	PART	PART	_	6	case	_	_
 8	outsize	outsize	NOUN	S	Number=Sing	9	nmod	_	_
 9	backstop	backstop	NOUN	S	Number=Sing	19	nsubj	_	_
@@ -27014,7 +27014,7 @@
 4	fixation	fixation	NOUN	S	Number=Sing	11	nsubj	_	_
 5	on	on	ADP	E	_	10	case	_	_
 6-7	China's	_	_	_	_	_	_	_	_
-6	China	China	PROPN	SP	_	10	nmod	_	_
+6	China	China	PROPN	SP	_	10	nmod:poss	_	_
 7	's	's	PART	PART	_	6	case	_	_
 8	headline	headline	NOUN	S	Number=Sing	10	nmod	_	_
 9	GDP	GDP	PROPN	SP	_	10	nmod	_	_
@@ -27048,7 +27048,7 @@
 37	the	the	DET	RD	Definite=Def|PronType=Art	39	det	_	_
 38	modern	modern	ADJ	A	Degree=Pos	39	amod	_	_
 39-40	world's	_	_	_	_	_	_	_	_
-39	world	world	NOUN	S	Number=Sing	43	nmod	_	_
+39	world	world	NOUN	S	Number=Sing	43	nmod:poss	_	_
 40	's	's	PART	PART	_	39	case	_	_
 41	greatest	greatest	ADJ	A	Degree=Sup	42	amod	_	_
 42	development	development	NOUN	S	Number=Sing	43	nmod	_	_
@@ -27065,7 +27065,7 @@
 6	presumes	presume	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 7	that	that	SCONJ	CS	_	15	mark	_	_
 8-9	China's	_	_	_	_	_	_	_	_
-8	China	China	PROPN	SP	_	11	nmod	_	_
+8	China	China	PROPN	SP	_	11	nmod:poss	_	_
 9	's	's	PART	PART	_	8	case	_	_
 10	current	current	ADJ	A	Degree=Pos	11	amod	_	_
 11	slowdown	slowdown	NOUN	S	Number=Sing	15	nsubj	_	_
@@ -27340,7 +27340,7 @@
 # sent_id = en_partut-ud-1190
 # text = China's export-led growth miracle would not have started in the 1980's without the American consumer.
 1-2	China's	_	_	_	_	_	_	_	_
-1	China	China	PROPN	SP	_	7	nmod	_	_
+1	China	China	PROPN	SP	_	7	nmod:poss	_	_
 2	's	's	PART	PART	_	1	case	_	_
 3	export	export	NOUN	S	Number=Sing	5	obl	_	SpaceAfter=No
 4	-	-	PUNCT	FF	_	5	punct	_	SpaceAfter=No
@@ -27382,8 +27382,8 @@
 16	stretch	stretch	VERB	V	VerbForm=Inf	8	advcl	_	_
 17	hard-pressed	hard-pressed	ADJ	A	Degree=Pos	18	amod	_	_
 18-19	consumers'	_	_	_	_	_	_	_	_
-18	consumers	consumer	NOUN	S	Number=Plur	21	nmod	_	_
-19	'	'	PART	PART	_	18	case	_	_
+18	consumers	consumer	NOUN	S	Number=Plur	21	nmod:poss	_	_
+19	'	's	PART	PART	_	18	case	_	_
 20	purchasing	purchasing	NOUN	S	Number=Sing	21	nmod	_	_
 21	power	power	NOUN	S	Number=Sing	16	obj	_	SpaceAfter=No
 22	.	.	PUNCT	FS	_	8	punct	_	_
@@ -27396,7 +27396,7 @@
 4	dependent	dependent	ADJ	A	Degree=Pos	3	xcomp	_	_
 5	on	on	ADP	E	_	9	case	_	_
 6-7	China's	_	_	_	_	_	_	_	_
-6	China	China	PROPN	SP	_	8	nmod	_	_
+6	China	China	PROPN	SP	_	8	nmod:poss	_	_
 7	's	's	PART	PART	_	6	case	_	_
 8	savings	saving	NOUN	S	Number=Plur	9	nmod	_	_
 9	surplus	surplus	NOUN	S	Number=Sing	4	obl	_	_
@@ -27419,7 +27419,7 @@
 25	advantage	advantage	NOUN	S	Number=Sing	24	obj	_	_
 26	of	of	ADP	E	_	30	case	_	_
 27-28	China's	_	_	_	_	_	_	_	_
-27	China	China	PROPN	SP	_	30	nmod	_	_
+27	China	China	PROPN	SP	_	30	nmod:poss	_	_
 28	's	's	PART	PART	_	27	case	_	_
 29	voracious	voracious	ADJ	A	Degree=Pos	30	amod	_	_
 30	demand	demand	NOUN	S	Number=Sing	24	obl	_	_
@@ -27462,7 +27462,7 @@
 17	,	,	PUNCT	FF	_	22	punct	_	_
 18	the	the	DET	RD	Definite=Def|PronType=Art	19	det	_	_
 19-20	renminbi's	_	_	_	_	_	_	_	_
-19	renminbi	renminbi	NOUN	S	Number=Sing	22	nmod	_	_
+19	renminbi	renminbi	NOUN	S	Number=Sing	22	nmod:poss	_	_
 20	's	's	PART	PART	_	19	case	_	_
 21	exchange	exchange	NOUN	S	Number=Sing	22	nmod	_	_
 22	rate	rate	NOUN	S	Number=Sing	16	conj	_	SpaceAfter=No
@@ -27511,7 +27511,7 @@
 # sent_id = en_partut-ud-1197
 # text = China's rebalancing will enable it to absorb its surplus savings, which will be put to work building a social safety net and boosting Chinese households' wherewithal.
 1-2	China's	_	_	_	_	_	_	_	_
-1	China	China	PROPN	SP	_	3	nmod	_	_
+1	China	China	PROPN	SP	_	3	nmod:poss	_	_
 2	's	's	PART	PART	_	1	case	_	_
 3	rebalancing	rebalancing	NOUN	S	_	5	nsubj	_	_
 4	will	will	AUX	VM	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
@@ -27538,8 +27538,8 @@
 25	boosting	boost	VERB	V	VerbForm=Ger	19	conj	_	_
 26	Chinese	Chinese	PROPN	SP	_	27	nmod	_	_
 27-28	households'	_	_	_	_	_	_	_	_
-27	households	household	NOUN	S	Number=Plur	29	nmod	_	_
-28	'	'	PART	PART	_	27	case	_	_
+27	households	household	NOUN	S	Number=Plur	29	nmod:poss	_	_
+28	'	's	PART	PART	_	27	case	_	_
 29	wherewithal	wherewithal	NOUN	S	Number=Sing	25	obj	_	SpaceAfter=No
 30	.	.	PUNCT	FS	_	5	punct	_	_
 
@@ -27675,7 +27675,7 @@
 11	as	as	ADP	E	_	17	case	_	_
 12	the	the	DET	RD	Definite=Def|PronType=Art	13	det	_	_
 13-14	region's	_	_	_	_	_	_	_	_
-13	region	region	NOUN	S	Number=Sing	17	nmod	_	_
+13	region	region	NOUN	S	Number=Sing	17	nmod:poss	_	_
 14	's	's	PART	PART	_	13	case	_	_
 15	most	most	ADV	B	_	16	advmod	_	_
 16	resilient	resilient	ADJ	A	Degree=Pos	17	amod	_	_
@@ -27822,7 +27822,7 @@
 9	era	era	NOUN	S	Number=Sing	5	nmod	_	_
 10	that	that	SCONJ	CS	_	15	mark	_	_
 11-12	mankind's	_	_	_	_	_	_	_	_
-11	mankind	mankind	NOUN	S	Number=Sing	13	nmod	_	_
+11	mankind	mankind	NOUN	S	Number=Sing	13	nmod:poss	_	_
 12	's	's	PART	PART	_	11	case	_	_
 13	lot	lot	NOUN	S	Number=Sing	15	nsubj	_	_
 14	will	will	AUX	VM	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	15	aux	_	_
@@ -27894,7 +27894,7 @@
 3	result	result	NOUN	S	Number=Sing	12	obl	_	SpaceAfter=No
 4	,	,	PUNCT	FF	_	3	punct	_	_
 5-6	Malthus's	_	_	_	_	_	_	_	_
-5	Malthus	Malthus	PROPN	SP	_	7	nmod	_	_
+5	Malthus	Malthus	PROPN	SP	_	7	nmod:poss	_	_
 6	's	's	PART	PART	_	5	case	_	_
 7	concerns	concern	NOUN	S	Number=Plur	12	nsubj	_	_
 8	about	about	ADP	E	_	10	case	_	_
@@ -27921,7 +27921,7 @@
 6	fall	fall	NOUN	S	Number=Sing	21	obl	_	_
 7	in	in	ADP	E	_	10	case	_	_
 8-9	labor's	_	_	_	_	_	_	_	_
-8	labor	labor	NOUN	S	Number=Sing	10	nmod	_	_
+8	labor	labor	NOUN	S	Number=Sing	10	nmod:poss	_	_
 9	's	's	PART	PART	_	8	case	_	_
 10	share	share	NOUN	S	Number=Sing	6	nmod	_	_
 11	of	of	ADP	E	_	12	case	_	_
@@ -27936,7 +27936,7 @@
 20	still	still	ADV	B	_	21	advmod	_	_
 21	defies	defy	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 22-23	Marx's	_	_	_	_	_	_	_	_
-22	Marx	Marx	PROPN	SP	_	24	nmod	_	_
+22	Marx	Marx	PROPN	SP	_	24	nmod:poss	_	_
 23	's	's	PART	PART	_	22	case	_	_
 24	prediction	prediction	NOUN	S	Number=Sing	21	obj	_	_
 25	that	that	SCONJ	CS	_	28	mark	_	_
@@ -28123,7 +28123,7 @@
 5	paralyze	paralyze	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	3	conj	_	_
 6	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	7	det	_	_
 7-8	country's	_	_	_	_	_	_	_	_
-7	country	country	NOUN	S	Number=Sing	10	nmod	_	_
+7	country	country	NOUN	S	Number=Sing	10	nmod:poss	_	_
 8	's	's	PART	PART	_	7	case	_	_
 9	political	politic	ADJ	A	Degree=Pos	10	amod	_	_
 10	system	system	NOUN	S	Number=Sing	5	obj	_	_
@@ -28682,7 +28682,7 @@
 3	view	view	NOUN	S	Number=Sing	8	obl	_	SpaceAfter=No
 4	,	,	PUNCT	FF	_	3	punct	_	_
 5-6	America's	_	_	_	_	_	_	_	_
-5	America	America	PROPN	SP	_	7	nmod	_	_
+5	America	America	PROPN	SP	_	7	nmod:poss	_	_
 6	's	's	PART	PART	_	5	case	_	_
 7	ingenuity	ingenuity	NOUN	S	Number=Sing	8	nsubj	_	_
 8	represents	represent	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
@@ -29226,7 +29226,7 @@
 1	The	the	DET	RD	Definite=Def|PronType=Art	3	det	_	_
 2	Web	web	NOUN	S	Number=Sing	3	nmod	_	_
 3-4	site's	_	_	_	_	_	_	_	_
-3	site	site	NOUN	S	Number=Sing	6	nmod	_	_
+3	site	site	NOUN	S	Number=Sing	6	nmod:poss	_	_
 4	's	's	PART	PART	_	3	case	_	_
 5	net	net	ADJ	A	Degree=Pos	6	amod	_	_
 6	contribution	contribution	NOUN	S	Number=Sing	15	nsubj	_	_
@@ -29290,8 +29290,8 @@
 45	reflected	reflect	VERB	V	Tense=Past|VerbForm=Part	0	root	_	_
 46	in	in	ADP	E	_	49	case	_	_
 47-48	firms'	_	_	_	_	_	_	_	_
-47	firms	firm	NOUN	S	Number=Plur	49	nmod	_	_
-48	'	'	PART	PART	_	47	case	_	_
+47	firms	firm	NOUN	S	Number=Plur	49	nmod:poss	_	_
+48	'	's	PART	PART	_	47	case	_	_
 49	profitability	profitability	NOUN	S	Number=Sing	45	obl	_	SpaceAfter=No
 50	.	.	PUNCT	FS	_	45	punct	_	_
 
@@ -29377,7 +29377,7 @@
 26	assess	assess	VERB	V	VerbForm=Inf	24	csubj	_	_
 27	an	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	28	det	_	_
 28-29	innovation's	_	_	_	_	_	_	_	_
-28	innovation	innovation	NOUN	S	Number=Sing	30	nmod	_	_
+28	innovation	innovation	NOUN	S	Number=Sing	30	nmod:poss	_	_
 29	's	's	PART	PART	_	28	case	_	_
 30	value	value	NOUN	S	Number=Sing	26	obj	_	SpaceAfter=No
 31	.	.	PUNCT	FS	_	24	punct	_	_
@@ -29700,7 +29700,7 @@
 5	,	,	PUNCT	FF	_	4	punct	_	_
 6	Oxford	Oxford	PROPN	SP	_	7	nmod	_	_
 7-8	University's	_	_	_	_	_	_	_	_
-7	University	university	NOUN	S	Number=Sing	11	nmod	_	_
+7	University	university	NOUN	S	Number=Sing	11	nmod:poss	_	_
 8	's	's	PART	PART	_	7	case	_	_
 9	Green	Green	PROPN	SP	_	11	nmod	_	_
 10	Templeton	Templeton	PROPN	SP	_	9	flat	_	_
@@ -29849,7 +29849,7 @@
 15	conditions	condition	NOUN	S	Number=Plur	6	conj	_	_
 16	on	on	ADP	E	_	19	case	_	_
 17-18	children's	_	_	_	_	_	_	_	_
-17	children	child	NOUN	S	Number=Plur	19	nmod	_	_
+17	children	child	NOUN	S	Number=Plur	19	nmod:poss	_	_
 18	's	's	PART	PART	_	17	case	_	_
 19	health	health	NOUN	S	Number=Sing	2	nmod	_	_
 20	–	–	PUNCT	FF	_	19	punct	_	_
@@ -29928,7 +29928,7 @@
 18	shape	shape	VERB	V	VerbForm=Inf	16	advcl	_	_
 19	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	20	det	_	_
 20-21	person's	_	_	_	_	_	_	_	_
-20	person	person	NOUN	S	Number=Sing	22	nmod	_	_
+20	person	person	NOUN	S	Number=Sing	22	nmod:poss	_	_
 21	's	's	PART	PART	_	20	case	_	_
 22	development	development	NOUN	S	Number=Sing	18	obj	_	SpaceAfter=No
 23	.	.	PUNCT	FS	_	7	punct	_	_
@@ -29952,8 +29952,8 @@
 15	ensuring	ensure	VERB	V	VerbForm=Ger	13	advcl	_	_
 16	future	future	ADJ	A	Degree=Pos	17	amod	_	_
 17-18	generations'	_	_	_	_	_	_	_	_
-17	generations	generation	NOUN	S	Number=Plur	19	nmod	_	_
-18	'	'	PART	PART	_	17	case	_	_
+17	generations	generation	NOUN	S	Number=Plur	19	nmod:poss	_	_
+18	'	's	PART	PART	_	17	case	_	_
 19	survival	survival	NOUN	S	Number=Sing	15	obj	_	_
 20	and	and	CCONJ	CC	_	21	cc	_	_
 21	prosperity	prosperity	NOUN	S	Number=Sing	19	conj	_	SpaceAfter=No
@@ -30096,7 +30096,7 @@
 45	of	of	ADP	E	_	49	case	_	_
 46	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	47	det	_	_
 47-48	child's	_	_	_	_	_	_	_	_
-47	child	child	NOUN	S	Number=Sing	49	nmod	_	_
+47	child	child	NOUN	S	Number=Sing	49	nmod:poss	_	_
 48	's	's	PART	PART	_	47	case	_	_
 49	development	development	NOUN	S	Number=Sing	44	nmod	_	SpaceAfter=No
 50	.	.	PUNCT	FS	_	3	punct	_	_
@@ -30145,7 +30145,7 @@
 # text = The meeting's participants agreed that strong efforts to support pre-conception care in the context of maternal- and child-health services were vital.
 1	The	the	DET	RD	Definite=Def|PronType=Art	2	det	_	_
 2-3	meeting's	_	_	_	_	_	_	_	_
-2	meeting	meeting	NOUN	S	Number=Sing	4	nmod	_	_
+2	meeting	meeting	NOUN	S	Number=Sing	4	nmod:poss	_	_
 3	's	's	PART	PART	_	2	case	_	_
 4	participants	participant	NOUN	S	Number=Plur	5	nsubj	_	_
 5	agreed	agree	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
@@ -30204,8 +30204,8 @@
 27	of	of	ADP	E	_	31	case	_	_
 28	future	future	ADJ	A	Degree=Pos	29	amod	_	_
 29-30	generations'	_	_	_	_	_	_	_	_
-29	generations	generation	NOUN	S	Number=Plur	31	nmod	_	_
-30	'	'	PART	PART	_	29	case	_	_
+29	generations	generation	NOUN	S	Number=Plur	31	nmod:poss	_	_
+30	'	's	PART	PART	_	29	case	_	_
 31	health	health	NOUN	S	Number=Sing	26	nmod	_	SpaceAfter=No
 32	.	.	PUNCT	FS	_	23	punct	_	_
 
@@ -30274,13 +30274,13 @@
 10	which	which	PRON	PR	PronType=Rel	15	obl	_	_
 11	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	12	det	_	_
 12-13	woman's	_	_	_	_	_	_	_	_
-12	woman	woman	NOUN	S	Number=Sing	14	nmod	_	_
+12	woman	woman	NOUN	S	Number=Sing	14	nmod:poss	_	_
 13	's	's	PART	PART	_	12	case	_	_
 14	eggs	egg	NOUN	S	Number=Plur	15	nsubj	_	_
 15	shape	shape	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	8	acl:relcl	_	_
 16	her	her	DET	AP	Poss=Yes|PronType=Prs	17	nmod:poss	_	_
 17-18	grandchildren's	_	_	_	_	_	_	_	_
-17	grandchildren	grandchild	NOUN	S	Number=Plur	19	nmod	_	_
+17	grandchildren	grandchild	NOUN	S	Number=Plur	19	nmod:poss	_	_
 18	's	's	PART	PART	_	17	case	_	_
 19	prospects	prospect	NOUN	S	Number=Plur	15	obj	_	SpaceAfter=No
 20	,	,	PUNCT	FF	_	1	punct	_	_
@@ -30299,7 +30299,7 @@
 33	impact	impact	NOUN	S	Number=Sing	27	obl	_	_
 34	of	of	ADP	E	_	37	case	_	_
 35-36	women's	_	_	_	_	_	_	_	_
-35	women	women	NOUN	S	Number=Sing	37	nmod	_	_
+35	women	women	NOUN	S	Number=Sing	37	nmod:poss	_	_
 36	's	's	PART	PART	_	35	case	_	_
 37	health	health	NOUN	S	Number=Sing	33	nmod	_	SpaceAfter=No
 38	.	.	PUNCT	FS	_	24	punct	_	_
@@ -30442,8 +30442,8 @@
 30	immediately	immediately	ADV	B	_	31	advmod	_	_
 31	grabbed	grab	VERB	V	Tense=Past|VerbForm=Part	0	root	_	_
 32-33	politicians'	_	_	_	_	_	_	_	_
-32	politicians	politician	NOUN	S	Number=Plur	34	nmod	_	_
-33	'	'	PART	PART	_	32	case	_	_
+32	politicians	politician	NOUN	S	Number=Plur	34	nmod:poss	_	_
+33	'	's	PART	PART	_	32	case	_	_
 34	attention	attention	NOUN	S	Number=Sing	31	obj	_	SpaceAfter=No
 35	.	.	PUNCT	FS	_	31	punct	_	_
 
@@ -30455,7 +30455,7 @@
 4	enhancing	enhance	VERB	V	VerbForm=Ger	2	advcl	_	_
 5	the	the	DET	RD	Definite=Def|PronType=Art	6	det	_	_
 6-7	public's	_	_	_	_	_	_	_	_
-6	public	public	NOUN	S	Number=Sing	8	nmod	_	_
+6	public	public	NOUN	S	Number=Sing	8	nmod:poss	_	_
 7	's	's	PART	PART	_	6	case	_	_
 8	knowledge	knowledge	NOUN	S	Number=Sing	4	obj	_	_
 9	of	of	ADP	E	_	10	case	_	_
@@ -30586,7 +30586,7 @@
 # text = South Korea's Feminine Future.
 1	South	South	PROPN	SP	Number=Sing	2	compound	_	_
 2-3	Korea's	_	_	_	_	_	_	_	_
-2	Korea	Korea	PROPN	SP	Number=Sing	5	nmod	_	_
+2	Korea	Korea	PROPN	SP	Number=Sing	5	nmod:poss	_	_
 3	's	's	PART	PART	_	2	case	_	_
 4	Feminine	feminine	ADJ	A	Degree=Pos	5	amod	_	_
 5	Future	future	NOUN	S	Number=Sing	0	root	_	SpaceAfter=No
@@ -30711,7 +30711,7 @@
 # text = South Korea's success over the last five decades owes much to the rapid growth of its well-educated labor force.
 1	South	South	PROPN	SP	Number=Sing	2	compound	_	_
 2-3	Korea's	_	_	_	_	_	_	_	_
-2	Korea	Korea	PROPN	SP	Number=Sing	4	nmod	_	_
+2	Korea	Korea	PROPN	SP	Number=Sing	4	nmod:poss	_	_
 3	's	's	PART	PART	_	2	case	_	_
 4	success	success	NOUN	S	Number=Sing	10	nsubj	_	_
 5	over	over	ADP	E	_	9	case	_	_
@@ -30780,7 +30780,7 @@
 16	,	,	PUNCT	FF	_	2	punct	_	_
 17	South	South	PROPN	SP	Number=Sing	18	compound	_	_
 18-19	Korea's	_	_	_	_	_	_	_	_
-18	Korea	Korea	PROPN	SP	Number=Sing	20	nmod	_	_
+18	Korea	Korea	PROPN	SP	Number=Sing	20	nmod:poss	_	_
 19	's	's	PART	PART	_	18	case	_	_
 20	abundance	abundance	NOUN	S	Number=Sing	27	nsubj	_	_
 21	of	of	ADP	E	_	25	case	_	_
@@ -30953,7 +30953,7 @@
 # text = South Korea's male labor-force participation rate, by contrast, stands at about 77% – close to the OECD average of 79%.
 1	South	South	PROPN	SP	Number=Sing	2	compound	_	_
 2-3	Korea's	_	_	_	_	_	_	_	_
-2	Korea	Korea	PROPN	SP	Number=Sing	7	nmod	_	_
+2	Korea	Korea	PROPN	SP	Number=Sing	7	nmod:poss	_	_
 3	's	's	PART	PART	_	2	case	_	_
 4	male	male	ADJ	A	Degree=Pos	5	amod	_	_
 5	labor	labor	NOUN	S	Number=Sing	7	nmod	_	SpaceAfter=No
@@ -31026,7 +31026,7 @@
 4	for	for	ADP	E	_	14	case	_	_
 5	South	South	PROPN	SP	Number=Sing	6	compound	_	_
 6-7	Korea's	_	_	_	_	_	_	_	_
-6	Korea	Korea	PROPN	SP	Number=Sing	14	nmod	_	_
+6	Korea	Korea	PROPN	SP	Number=Sing	14	nmod:poss	_	_
 7	's	's	PART	PART	_	6	case	_	_
 8	most	most	ADV	B	_	9	advmod	_	_
 9	highly	highly	ADV	B	_	10	advmod	_	_
@@ -31128,7 +31128,7 @@
 4	is	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
 5	that	that	SCONJ	CS	_	10	mark	_	_
 6-7	Park's	_	_	_	_	_	_	_	_
-6	Park	park	NOUN	S	Number=Sing	8	nmod	_	_
+6	Park	park	NOUN	S	Number=Sing	8	nmod:poss	_	_
 7	's	's	PART	PART	_	6	case	_	_
 8	government	government	NOUN	S	Number=Sing	10	nsubj	_	_
 9	is	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	aux	_	_
@@ -31191,7 +31191,7 @@
 4	that	that	SCONJ	CS	_	10	mark	_	_
 5	South	South	PROPN	SP	Number=Sing	6	compound	_	_
 6-7	Korea's	_	_	_	_	_	_	_	_
-6	Korea	Korea	PROPN	SP	Number=Sing	8	nmod	_	_
+6	Korea	Korea	PROPN	SP	Number=Sing	8	nmod:poss	_	_
 7	's	's	PART	PART	_	6	case	_	_
 8	workforce	workforce	NOUN	S	Number=Sing	10	nsubj	_	_
 9	already	already	ADV	B	_	10	advmod	_	_
@@ -31331,7 +31331,7 @@
 8	mismatch	mismatch	NOUN	S	Number=Sing	6	obj	_	_
 9	between	between	ADP	E	_	12	case	_	_
 10-11	women's	_	_	_	_	_	_	_	_
-10	women	women	NOUN	S	Number=Sing	12	nmod	_	_
+10	women	women	NOUN	S	Number=Sing	12	nmod:poss	_	_
 11	's	's	PART	PART	_	10	case	_	_
 12	abilities	ability	NOUN	S	Number=Plur	6	obl	_	_
 13	and	and	CCONJ	CC	_	16	cc	_	_
@@ -31503,7 +31503,7 @@
 22	revive	revive	VERB	V	VerbForm=Inf	20	acl	_	_
 23	his	his	DET	AP	Poss=Yes|PronType=Prs	24	nmod:poss	_	_
 24-25	country's	_	_	_	_	_	_	_	_
-24	country	country	NOUN	S	Number=Sing	29	nmod	_	_
+24	country	country	NOUN	S	Number=Sing	29	nmod:poss	_	_
 25	's	's	PART	PART	_	24	case	_	_
 26	long	long	ADV	B	_	28	advmod	_	SpaceAfter=No
 27	-	-	PUNCT	FF	_	28	punct	_	SpaceAfter=No
@@ -31515,7 +31515,7 @@
 # text = Closing Africa's Agricultural Gender Gap.
 1	Closing	close	VERB	V	Number=Sing|Tense=Pres|VerbForm=Part	0	root	_	_
 2-3	Africa's	_	_	_	_	_	_	_	_
-2	Africa	Africa	PROPN	SP	_	6	nmod	_	_
+2	Africa	Africa	PROPN	SP	_	6	nmod:poss	_	_
 3	's	's	PART	PART	_	2	case	_	_
 4	Agricultural	agricultural	ADJ	A	Degree=Pos	5	amod	_	_
 5	Gender	gender	NOUN	S	Number=Sing	6	nmod	_	_
@@ -31527,7 +31527,7 @@
 1	SEATTLE	Seattle	PROPN	SP	_	8	obl	_	_
 2	–	–	PUNCT	FF	_	1	punct	_	_
 3-4	Africa's	_	_	_	_	_	_	_	_
-3	Africa	Africa	PROPN	SP	_	5	nmod	_	_
+3	Africa	Africa	PROPN	SP	_	5	nmod:poss	_	_
 4	's	's	PART	PART	_	3	case	_	_
 5	GDP	GDP	PROPN	SP	_	8	nsubj	_	_
 6	is	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	_
@@ -31638,7 +31638,7 @@
 22	adapted	adapt	VERB	V	Tense=Past|VerbForm=Part	20	acl	_	_
 23	for	for	ADP	E	_	26	case	_	_
 24-25	Tanzania's	_	_	_	_	_	_	_	_
-24	Tanzania	Tanzania	PROPN	SP	_	26	nmod	_	_
+24	Tanzania	Tanzania	PROPN	SP	_	26	nmod:poss	_	_
 25	's	's	PART	PART	_	24	case	_	_
 26	climate	climate	NOUN	S	Number=Sing	22	obl	_	SpaceAfter=No
 27	.	.	PUNCT	FS	_	11	punct	_	_
@@ -31647,7 +31647,7 @@
 # text = As Joyce's story demonstrates, agriculture is crucial to Africa's future.
 1	As	as	SCONJ	CS	_	5	mark	_	_
 2-3	Joyce's	_	_	_	_	_	_	_	_
-2	Joyce	Joyce	PROPN	SP	_	4	nmod	_	_
+2	Joyce	Joyce	PROPN	SP	_	4	nmod:poss	_	_
 3	's	's	PART	PART	_	2	case	_	_
 4	story	story	NOUN	S	Number=Sing	5	nsubj	_	_
 5	demonstrates	demonstrate	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	advcl	_	SpaceAfter=No
@@ -31657,7 +31657,7 @@
 9	crucial	crucial	ADJ	A	Degree=Pos	0	root	_	_
 10	to	to	ADP	E	_	13	case	_	_
 11-12	Africa's	_	_	_	_	_	_	_	_
-11	Africa	Africa	PROPN	SP	_	13	nmod	_	_
+11	Africa	Africa	PROPN	SP	_	13	nmod:poss	_	_
 12	's	's	PART	PART	_	11	case	_	_
 13	future	future	NOUN	S	Number=Sing	9	obl	_	SpaceAfter=No
 14	.	.	PUNCT	FS	_	9	punct	_	_
@@ -31726,7 +31726,7 @@
 12	declared	declare	VERB	V	Tense=Past|VerbForm=Part	1	csubj	_	_
 13	2014	2014	NUM	N	NumType=Card	12	obj	_	_
 14-15	Africa's	_	_	_	_	_	_	_	_
-14	Africa	Africa	PROPN	SP	_	16	nmod	_	_
+14	Africa	Africa	PROPN	SP	_	16	nmod:poss	_	_
 15	's	's	PART	PART	_	14	case	_	_
 16	Year	year	NOUN	S	Number=Sing	12	xcomp	_	_
 17	of	of	ADP	E	_	18	case	_	_
@@ -31739,7 +31739,7 @@
 # sent_id = en_partut-ud-1367
 # text = Joyce's story is relevant for another reason, too.
 1-2	Joyce's	_	_	_	_	_	_	_	_
-1	Joyce	Joyce	PROPN	SP	_	3	nmod	_	_
+1	Joyce	Joyce	PROPN	SP	_	3	nmod:poss	_	_
 2	's	's	PART	PART	_	1	case	_	_
 3	story	story	NOUN	S	Number=Sing	5	nsubj	_	_
 4	is	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
@@ -31758,7 +31758,7 @@
 3	important	important	ADJ	A	Degree=Pos	0	root	_	_
 4	to	to	ADP	E	_	7	case	_	_
 5-6	Africa's	_	_	_	_	_	_	_	_
-5	Africa	Africa	PROPN	SP	_	7	nmod	_	_
+5	Africa	Africa	PROPN	SP	_	7	nmod:poss	_	_
 6	's	's	PART	PART	_	5	case	_	_
 7	future	future	NOUN	S	Number=Sing	3	obl	_	_
 8	not	not	PART	PART	Polarity=Neg	9	advmod	_	_
@@ -31911,7 +31911,7 @@
 4	believed	believe	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 5	that	that	SCONJ	CS	_	9	mark	_	_
 6-7	women's	_	_	_	_	_	_	_	_
-6	women	woman	NOUN	S	Number=Plur	8	nmod	_	_
+6	women	woman	NOUN	S	Number=Plur	8	nmod:poss	_	_
 7	's	's	PART	PART	_	6	case	_	_
 8	farms	farm	NOUN	S	Number=Plur	9	nsubj	_	_
 9	produced	produce	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	4	ccomp	_	_
@@ -32146,7 +32146,7 @@
 7	mean	mean	VERB	V	VerbForm=Inf	0	root	_	_
 8	increasing	increase	VERB	V	VerbForm=Ger	7	ccomp	_	_
 9-10	women's	_	_	_	_	_	_	_	_
-9	women	woman	NOUN	S	Number=Plur	11	nmod	_	_
+9	women	woman	NOUN	S	Number=Plur	11	nmod:poss	_	_
 10	's	's	PART	PART	_	9	case	_	_
 11	access	access	NOUN	S	Number=Sing	8	obj	_	_
 12	to	to	ADP	E	_	13	case	_	_
@@ -32256,7 +32256,7 @@
 # text = If Africa's agricultural sector is to achieve its promise – and if Africa's economic growth is to continue – policymakers should take into account the needs of farmers like Joyce.
 1	If	if	SCONJ	CS	_	6	mark	_	_
 2-3	Africa's	_	_	_	_	_	_	_	_
-2	Africa	Africa	PROPN	SP	_	5	nmod	_	_
+2	Africa	Africa	PROPN	SP	_	5	nmod:poss	_	_
 3	's	's	PART	PART	_	2	case	_	_
 4	agricultural	agricultural	ADJ	A	Degree=Pos	5	amod	_	_
 5	sector	sector	NOUN	S	Number=Sing	6	nsubj	_	_
@@ -32269,7 +32269,7 @@
 12	and	and	CCONJ	CC	_	18	cc	_	_
 13	if	if	SCONJ	CS	_	18	mark	_	_
 14-15	Africa's	_	_	_	_	_	_	_	_
-14	Africa	Africa	PROPN	SP	_	17	nmod	_	_
+14	Africa	Africa	PROPN	SP	_	17	nmod:poss	_	_
 15	's	's	PART	PART	_	14	case	_	_
 16	economic	economic	ADJ	A	Degree=Pos	17	amod	_	_
 17	growth	growth	NOUN	S	Number=Sing	18	nsubj	_	_
@@ -32587,7 +32587,7 @@
 13	restore	restore	VERB	V	VerbForm=Inf	11	ccomp	_	_
 14	the	the	DET	RD	Definite=Def|PronType=Art	15	det	_	_
 15-16	Fund's	_	_	_	_	_	_	_	_
-15	Fund	fund	NOUN	S	Number=Sing	17	nmod	_	_
+15	Fund	fund	NOUN	S	Number=Sing	17	nmod:poss	_	_
 16	's	's	PART	PART	_	15	case	_	_
 17	reputation	reputation	NOUN	S	Number=Sing	13	obj	_	_
 18	–	–	PUNCT	FF	_	13	punct	_	_
@@ -32602,8 +32602,8 @@
 27	activities	activity	NOUN	S	Number=Plur	25	conj	_	_
 28	to	to	ADP	E	_	35	case	_	_
 29-30	newspapers'	_	_	_	_	_	_	_	_
-29	newspapers	newspaper	NOUN	S	Number=Plur	35	nmod	_	_
-30	'	'	PART	PART	_	29	case	_	_
+29	newspapers	newspaper	NOUN	S	Number=Plur	35	nmod:poss	_	_
+30	'	's	PART	PART	_	29	case	_	_
 31	dry	dry	NOUN	S	Number=Sing	35	amod	_	_
 32	and	and	CCONJ	CC	_	31	cc	_	_
 33	unemotional	unemotional	ADJ	A	Degree=Pos	31	amod	_	_
@@ -32758,7 +32758,7 @@
 14	cooperation	cooperation	NOUN	S	Number=Sing	6	obl	_	_
 15	with	with	ADP	E	_	19	case	_	_
 16-17	America's	_	_	_	_	_	_	_	_
-16	America	America	PROPN	SP	_	19	nmod	_	_
+16	America	America	PROPN	SP	_	19	nmod:poss	_	_
 17	's	's	PART	PART	_	16	case	_	_
 18	closest	closest	ADJ	A	Degree=Sup	19	amod	_	_
 19	allies	ally	NOUN	S	Number=Plur	14	nmod	_	SpaceAfter=No
@@ -32829,7 +32829,7 @@
 1	Given	give	VERB	V	Tense=Past|VerbForm=Part	22	advcl	_	_
 2	the	the	DET	RD	Definite=Def|PronType=Art	3	det	_	_
 3-4	Fund's	_	_	_	_	_	_	_	_
-3	Fund	fund	NOUN	S	Number=Sing	5	nmod	_	_
+3	Fund	fund	NOUN	S	Number=Sing	5	nmod:poss	_	_
 4	's	's	PART	PART	_	3	case	_	_
 5	origins	origin	NOUN	S	Number=Plur	1	nsubj:pass	_	_
 6	in	in	ADP	E	_	7	mark	_	_
@@ -32894,7 +32894,7 @@
 20	toward	toward	ADP	E	_	25	case	_	_
 21	the	the	DET	RD	Definite=Def|PronType=Art	22	det	_	_
 22-23	world's	_	_	_	_	_	_	_	_
-22	world	world	NOUN	S	Number=Sing	25	nmod	_	_
+22	world	world	NOUN	S	Number=Sing	25	nmod:poss	_	_
 23	's	's	PART	PART	_	22	case	_	_
 24	emerging	emerge	VERB	V	Number=Sing|Tense=Pres|VerbForm=Part	25	acl	_	_
 25	markets	market	NOUN	S	Number=Plur	18	conj	_	SpaceAfter=No
@@ -32961,7 +32961,7 @@
 3	reason	reason	NOUN	S	Number=Sing	12	obl	_	SpaceAfter=No
 4	,	,	PUNCT	FF	_	3	punct	_	_
 5	President	president	NOUN	S	Number=Sing	6	nmod:desc	_	_
-6	Barack	Barack	PROPN	SP	_	9	nmod	_	_
+6	Barack	Barack	PROPN	SP	_	9	nmod:poss	_	_
 7-8	Obama's	_	_	_	_	_	_	_	_
 7	Obama	Obama	PROPN	SP	_	6	flat	_	_
 8	's	's	PART	PART	_	6	case	_	_
@@ -33275,7 +33275,7 @@
 2	,	,	PUNCT	FF	_	39	punct	_	_
 3	while	while	SCONJ	CS	_	19	mark	_	_
 4-5	Marx's	_	_	_	_	_	_	_	_
-4	Marx	Marx	PROPN	SP	_	6	nmod	_	_
+4	Marx	Marx	PROPN	SP	_	6	nmod:poss	_	_
 5	's	's	PART	PART	_	4	case	_	_
 6	belief	belief	NOUN	S	Number=Sing	19	nsubj	_	_
 7	that	that	SCONJ	CS	_	12	mark	_	_
@@ -33532,8 +33532,8 @@
 19	than	than	ADP	E	_	20	mark	_	_
 20	lower	lower	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	18	advcl	_	_
 21-22	workers'	_	_	_	_	_	_	_	_
-21	workers	worker	NOUN	S	Number=Plur	23	nmod	_	_
-22	'	'	PART	PART	_	21	case	_	_
+21	workers	worker	NOUN	S	Number=Plur	23	nmod:poss	_	_
+22	'	's	PART	PART	_	21	case	_	_
 23	wages	wage	NOUN	S	Number=Plur	20	obj	_	SpaceAfter=No
 24	.	.	PUNCT	FS	_	4	punct	_	_
 
@@ -33584,7 +33584,7 @@
 3	,	,	PUNCT	FF	_	12	punct	_	_
 4	but	but	CCONJ	CC	_	12	cc	_	_
 5-6	Marx's	_	_	_	_	_	_	_	_
-5	Marx	Marx	PROPN	SP	_	7	nmod	_	_
+5	Marx	Marx	PROPN	SP	_	7	nmod:poss	_	_
 6	's	's	PART	PART	_	5	case	_	_
 7	mistake	mistake	NOUN	S	Number=Sing	12	nsubj	_	_
 8	was	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	12	cop	_	_
@@ -34023,7 +34023,7 @@
 19	that	that	SCONJ	CS	_	28	mark	_	_
 20	the	the	DET	RD	Definite=Def|PronType=Art	21	det	_	_
 21-22	continent's	_	_	_	_	_	_	_	_
-21	continent	continent	NOUN	S	Number=Sing	23	nmod	_	_
+21	continent	continent	NOUN	S	Number=Sing	23	nmod:poss	_	_
 22	's	's	PART	PART	_	21	case	_	_
 23	borders	border	NOUN	S	Number=Plur	28	nsubj:pass	_	_
 24	would	will	AUX	VM	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	28	aux	_	_
@@ -34045,7 +34045,7 @@
 40	despite	despite	ADP	E	_	45	case	_	_
 41	our	us	DET	AP	Poss=Yes|PronType=Prs	42	nmod:poss	_	_
 42-43	economy's	_	_	_	_	_	_	_	_
-42	economy	economy	NOUN	S	Number=Sing	45	nmod	_	_
+42	economy	economy	NOUN	S	Number=Sing	45	nmod:poss	_	_
 43	's	's	PART	PART	_	42	case	_	_
 44	precarious	precarious	ADJ	A	Degree=Pos	45	amod	_	_
 45	state	state	NOUN	S	Number=Sing	35	obl	_	SpaceAfter=No
@@ -34091,7 +34091,7 @@
 # text = Russian President Vladimir Putin's recent phone call to US President Barack Obama to seek renewed diplomatic talks, followed by a Russian white paper on how to resolve a crisis of the Kremlin's making, is in fact a peace offensive that is offensive to peace.
 1	Russian	russian	ADJ	A	Degree=Pos	2	amod	_	_
 2	President	president	NOUN	S	Number=Sing	3	nmod:desc	_	_
-3	Vladimir	Vladimir	PROPN	SP	_	8	nmod	_	_
+3	Vladimir	Vladimir	PROPN	SP	_	8	nmod:poss	_	_
 4-5	Putin's	_	_	_	_	_	_	_	_
 4	Putin	Putin	PROPN	SP	_	3	flat	_	_
 5	's	's	PART	PART	_	3	case	_	_
@@ -34124,7 +34124,7 @@
 32	of	of	ADP	E	_	36	case	_	_
 33	the	the	DET	RD	Definite=Def|PronType=Art	34	det	_	_
 34-35	Kremlin's	_	_	_	_	_	_	_	_
-34	Kremlin	Kremlin	PROPN	SP	_	36	nmod	_	_
+34	Kremlin	Kremlin	PROPN	SP	_	36	nmod:poss	_	_
 35	's	's	PART	PART	_	34	case	_	_
 36	making	making	NOUN	S	Number=Sing	31	nmod	_	SpaceAfter=No
 37	,	,	PUNCT	FF	_	8	punct	_	_
@@ -34144,7 +34144,7 @@
 # sent_id = en_partut-ud-1463
 # text = Putin's gambit is akin to the infamous Yalta Conference in 1945, where Joseph Stalin made Winston Churchill and Franklin D. Roosevelt complicit in a division of Europe that enslaved half of the continent for almost a half-century.
 1-2	Putin's	_	_	_	_	_	_	_	_
-1	Putin	Putin	PROPN	SP	_	3	nmod	_	_
+1	Putin	Putin	PROPN	SP	_	3	nmod:poss	_	_
 2	's	's	PART	PART	_	1	case	_	_
 3	gambit	gambit	NOUN	S	Number=Sing	5	nsubj	_	_
 4	is	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
@@ -34304,7 +34304,7 @@
 18	ultimately	ultimately	ADV	B	_	19	advmod	_	_
 19	incorporate	incorporate	VERB	V	VerbForm=Inf	14	conj	_	_
 20-21	Ukraine's	_	_	_	_	_	_	_	_
-20	Ukraine	Ukraine	PROPN	SP	_	25	nmod	_	_
+20	Ukraine	Ukraine	PROPN	SP	_	25	nmod:poss	_	_
 21	's	's	PART	PART	_	20	case	_	_
 22	eastern	eastern	ADJ	A	Degree=Pos	25	amod	_	_
 23	and	and	CCONJ	CC	_	24	cc	_	_
@@ -34343,7 +34343,7 @@
 7	the	the	DET	RD	Definite=Def|PronType=Art	9	det	_	_
 8	Russian	Russian	ADJ	A	Degree=Pos	9	amod	_	_
 9-10	proposal's	_	_	_	_	_	_	_	_
-9	proposal	proposal	NOUN	S	Number=Sing	12	nmod	_	_
+9	proposal	proposal	NOUN	S	Number=Sing	12	nmod:poss	_	_
 10	's	's	PART	PART	_	9	case	_	_
 11	fine	fine	ADJ	A	Degree=Pos	12	amod	_	_
 12	print	print	NOUN	S	Number=Sing	5	obl	_	SpaceAfter=No
@@ -34352,7 +34352,7 @@
 # sent_id = en_partut-ud-1471
 # text = Ukraine's new federal units would have a powerful say over "Ukraine's foreign-policy direction.
 1-2	Ukraine's	_	_	_	_	_	_	_	_
-1	Ukraine	Ukraine	PROPN	SP	_	5	nmod	_	_
+1	Ukraine	Ukraine	PROPN	SP	_	5	nmod:poss	_	_
 2	's	's	PART	PART	_	1	case	_	_
 3	new	new	ADJ	A	Degree=Pos	5	amod	_	_
 4	federal	federal	ADJ	A	Degree=Pos	5	amod	_	_
@@ -34365,7 +34365,7 @@
 11	over	over	ADP	E	_	18	case	_	_
 12	"	"	PUNCT	FB	_	18	punct	_	SpaceAfter=No
 13-14	Ukraine's	_	_	_	_	_	_	_	_
-13	Ukraine	Ukraine	PROPN	SP	_	18	nmod	_	_
+13	Ukraine	Ukraine	PROPN	SP	_	18	nmod:poss	_	_
 14	's	's	PART	PART	_	13	case	_	_
 15	foreign	foreign	ADJ	A	Degree=Pos	17	amod	_	SpaceAfter=No
 16	-	-	PUNCT	FF	_	15	punct	_	SpaceAfter=No
@@ -34395,7 +34395,7 @@
 18	vetoing	veto	VERB	V	VerbForm=Ger	12	advcl	_	_
 19	the	the	DET	RD	Definite=Def|PronType=Art	23	det	_	_
 20-21	country's	_	_	_	_	_	_	_	_
-20	country	country	NOUN	S	Number=Sing	23	nmod	_	_
+20	country	country	NOUN	S	Number=Sing	23	nmod:poss	_	_
 21	's	's	PART	PART	_	20	case	_	_
 22	European	European	ADJ	A	Degree=Pos	23	amod	_	_
 23	future	future	NOUN	S	Number=Sing	18	obj	_	SpaceAfter=No
@@ -34404,14 +34404,14 @@
 # sent_id = en_partut-ud-1473
 # text = Ukraine's constitutional structure is for Ukraine's citizens alone to decide.
 1-2	Ukraine's	_	_	_	_	_	_	_	_
-1	Ukraine	Ukraine	PROPN	SP	_	4	nmod	_	_
+1	Ukraine	Ukraine	PROPN	SP	_	4	nmod:poss	_	_
 2	's	's	PART	PART	_	1	case	_	_
 3	constitutional	constitutional	ADJ	A	Degree=Pos	4	amod	_	_
 4	structure	structure	NOUN	S	Number=Sing	5	nsubj	_	_
 5	is	be	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 6	for	for	ADP	E	_	9	case	_	_
 7-8	Ukraine's	_	_	_	_	_	_	_	_
-7	Ukraine	Ukraine	PROPN	SP	_	9	nmod	_	_
+7	Ukraine	Ukraine	PROPN	SP	_	9	nmod:poss	_	_
 8	's	's	PART	PART	_	7	case	_	_
 9	citizens	citizen	NOUN	S	Number=Plur	5	obl	_	_
 10	alone	alone	ADJ	A	Degree=Pos	9	amod	_	_
@@ -34520,7 +34520,7 @@
 2	buy	buy	VERB	V	VerbForm=Inf	8	csubj	_	_
 3	into	into	ADP	E	_	7	case	_	_
 4-5	Putin's	_	_	_	_	_	_	_	_
-4	Putin	Putin	PROPN	SP	_	7	nmod	_	_
+4	Putin	Putin	PROPN	SP	_	7	nmod:poss	_	_
 5	's	's	PART	PART	_	4	case	_	_
 6	sham	sham	ADJ	A	Degree=Pos	7	amod	_	_
 7	federalism	federalism	NOUN	S	Number=Sing	2	obl	_	_
@@ -34537,7 +34537,7 @@
 18	spewing	spew	VERB	V	VerbForm=Ger	12	acl:relcl	_	_
 19	about	about	ADP	E	_	24	case	_	_
 20-21	Ukraine's	_	_	_	_	_	_	_	_
-20	Ukraine	Ukraine	PROPN	SP	_	24	nmod	_	_
+20	Ukraine	Ukraine	PROPN	SP	_	24	nmod:poss	_	_
 21	's	's	PART	PART	_	20	case	_	_
 22	current	current	ADJ	A	Degree=Pos	24	amod	_	_
 23	interim	interim	ADJ	A	Degree=Pos	24	amod	_	_
@@ -34556,13 +34556,13 @@
 # sent_id = en_partut-ud-1479
 # text = Putin's factotums claim that Ukraine's Russian speakers are under threat, but they cannot point to a single example of persecution that might bear this out.
 1-2	Putin's	_	_	_	_	_	_	_	_
-1	Putin	Putin	PROPN	SP	_	3	nmod	_	_
+1	Putin	Putin	PROPN	SP	_	3	nmod:poss	_	_
 2	's	's	PART	PART	_	1	case	_	_
 3	factotums	factotum	NOUN	S	Number=Plur	4	nsubj	_	_
 4	claim	claim	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	0	root	_	_
 5	that	that	SCONJ	CS	_	12	mark	_	_
 6-7	Ukraine's	_	_	_	_	_	_	_	_
-6	Ukraine	Ukraine	PROPN	SP	_	9	nmod	_	_
+6	Ukraine	Ukraine	PROPN	SP	_	9	nmod:poss	_	_
 7	's	's	PART	PART	_	6	case	_	_
 8	Russian	Russian	ADJ	A	Degree=Pos	9	amod	_	_
 9	speakers	speaker	NOUN	S	Number=Plur	12	nsubj	_	_
@@ -34652,7 +34652,7 @@
 # sent_id = en_partut-ud-1483
 # text = Ukraine's government under Yanukovych was incompetent, corrupt, and mendacious.
 1-2	Ukraine's	_	_	_	_	_	_	_	_
-1	Ukraine	Ukraine	PROPN	SP	_	3	nmod	_	_
+1	Ukraine	Ukraine	PROPN	SP	_	3	nmod:poss	_	_
 2	's	's	PART	PART	_	1	case	_	_
 3	government	government	NOUN	S	Number=Sing	7	nsubj	_	_
 4	under	under	ADP	E	_	5	case	_	_
@@ -34722,7 +34722,7 @@
 1	And	and	CCONJ	CC	_	12	cc	_	_
 2	with	with	ADP	E	_	5	case	_	_
 3-4	Europe's	_	_	_	_	_	_	_	_
-3	Europe	Europe	PROPN	SP	_	5	nmod	_	_
+3	Europe	Europe	PROPN	SP	_	5	nmod:poss	_	_
 4	's	's	PART	PART	_	3	case	_	_
 5	help	help	NOUN	S	Number=Sing	12	obl	_	_
 6	and	and	CCONJ	CC	_	8	cc	_	_
@@ -34748,7 +34748,7 @@
 9	solution	solution	NOUN	S	Number=Sing	6	obj	_	_
 10	to	to	ADP	E	_	13	case	_	_
 11-12	Ukraine's	_	_	_	_	_	_	_	_
-11	Ukraine	Ukraine	PROPN	SP	_	13	nmod	_	_
+11	Ukraine	Ukraine	PROPN	SP	_	13	nmod:poss	_	_
 12	's	's	PART	PART	_	11	case	_	_
 13	crisis	crisis	NOUN	S	Number=Sing	6	obl	_	_
 14	is	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	cop	_	_
@@ -34775,7 +34775,7 @@
 16	fatally	fatally	ADV	B	_	17	advmod	_	_
 17	undermine	undermine	VERB	V	VerbForm=Inf	0	root	_	_
 18-19	Ukraine's	_	_	_	_	_	_	_	_
-18	Ukraine	Ukraine	PROPN	SP	_	20	nmod	_	_
+18	Ukraine	Ukraine	PROPN	SP	_	20	nmod:poss	_	_
 19	's	's	PART	PART	_	18	case	_	_
 20	sovereignty	sovereignty	NOUN	S	Number=Sing	17	obj	_	SpaceAfter=No
 21	;	;	PUNCT	FC	_	17	punct	_	_
@@ -34786,7 +34786,7 @@
 2	,	,	PUNCT	FF	_	1	punct	_	_
 3	accepting	accept	VERB	V	VerbForm=Ger	8	csubj	_	_
 4-5	Russia's	_	_	_	_	_	_	_	_
-4	Russia	Russia	PROPN	SP	_	6	nmod	_	_
+4	Russia	Russia	PROPN	SP	_	6	nmod:poss	_	_
 5	's	's	PART	PART	_	4	case	_	_
 6	terms	term	NOUN	S	Number=Plur	3	obj	_	_
 7	would	will	AUX	VM	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	8	aux	_	_
@@ -35421,7 +35421,7 @@
 2	World	World	PROPN	SP	_	3	nmod	_	_
 3	Health	health	NOUN	S	Number=Sing	4	nmod	_	_
 4-5	Organization's	_	_	_	_	_	_	_	_
-4	Organization	organization	NOUN	S	Number=Sing	7	nmod	_	_
+4	Organization	organization	NOUN	S	Number=Sing	7	nmod:poss	_	_
 5	's	's	PART	PART	_	4	case	_	_
 6	Special	Special	PROPN	SP	_	7	nmod	_	_
 7	Program	program	NOUN	S	Number=Sing	16	nsubj	_	_
@@ -35486,8 +35486,8 @@
 8	consider	consider	VERB	V	VerbForm=Inf	0	root	_	_
 9	these	this	DET	DD	Number=Plur|PronType=Dem	10	det	_	_
 10-11	innovations'	_	_	_	_	_	_	_	_
-10	innovations	innovation	NOUN	S	Number=Plur	15	nmod	_	_
-11	'	'	PART	PART	_	10	case	_	_
+10	innovations	innovation	NOUN	S	Number=Plur	15	nmod:poss	_	_
+11	'	's	PART	PART	_	10	case	_	_
 12	public	public	ADJ	A	Degree=Pos	14	amod	_	SpaceAfter=No
 13	-	-	PUNCT	FF	_	12	punct	_	SpaceAfter=No
 14	health	health	NOUN	S	Number=Sing	15	nmod	_	_
@@ -35551,7 +35551,7 @@
 # sent_id = en_partut-ud-1522
 # text = Europe's Deepening Muddle.
 1-2	Europe's	_	_	_	_	_	_	_	_
-1	Europe	Europe	PROPN	SP	_	4	nmod	_	_
+1	Europe	Europe	PROPN	SP	_	4	nmod:poss	_	_
 2	's	's	PART	PART	_	1	case	_	_
 3	Deepening	deepen	VERB	V	Tense=Pres|VerbForm=Part	4	acl	_	_
 4	Muddle	muddle	NOUN	S	Number=Sing	0	root	_	SpaceAfter=No
@@ -35613,7 +35613,7 @@
 # text = Was Schauble's statement supposed to serve as a rallying cry for greater European solidarity?
 1	Was	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	aux	_	_
 2-3	Schauble's	_	_	_	_	_	_	_	_
-2	Schauble	Schauble	PROPN	SP	_	4	nmod	_	_
+2	Schauble	Schauble	PROPN	SP	_	4	nmod:poss	_	_
 3	's	's	PART	PART	_	2	case	_	_
 4	statement	statement	NOUN	S	Number=Sing	5	nsubj	_	_
 5	supposed	suppose	VERB	V	Tense=Past|VerbForm=Part	0	root	_	_
@@ -35633,7 +35633,7 @@
 # text = While Schauble's strategy may sound appealing, it is, at best, the symbolic garb of progress.
 1	While	while	SCONJ	CS	_	6	mark	_	_
 2-3	Schauble's	_	_	_	_	_	_	_	_
-2	Schauble	Schauble	PROPN	SP	_	4	nmod	_	_
+2	Schauble	Schauble	PROPN	SP	_	4	nmod:poss	_	_
 3	's	's	PART	PART	_	2	case	_	_
 4	strategy	strategy	NOUN	S	Number=Sing	6	nsubj	_	_
 5	may	may	AUX	VM	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	_
@@ -35676,7 +35676,7 @@
 19	because	because	ADP	E	ExtPos=ADP	24	case	_	_
 20	of	of	ADP	E	_	19	fixed	_	_
 21-22	Germany's	_	_	_	_	_	_	_	_
-21	Germany	Germany	PROPN	SP	_	24	nmod	_	_
+21	Germany	Germany	PROPN	SP	_	24	nmod:poss	_	_
 22	's	's	PART	PART	_	21	case	_	_
 23	unrelenting	unrelenting	ADJ	A	Degree=Pos	24	amod	_	_
 24	opposition	opposition	NOUN	S	Number=Sing	15	obl	_	SpaceAfter=No
@@ -35729,7 +35729,7 @@
 10	discipline	discipline	VERB	V	VerbForm=Inf	8	acl	_	_
 11	the	the	DET	RD	Definite=Def|PronType=Art	12	det	_	_
 12-13	EU's	_	_	_	_	_	_	_	_
-12	EU	EU	PROPN	SP	_	15	nmod	_	_
+12	EU	EU	PROPN	SP	_	15	nmod:poss	_	_
 13	's	's	PART	PART	_	12	case	_	_
 14	fiscal	fiscal	ADJ	A	Degree=Pos	15	amod	_	_
 15	delinquents	delinquent	NOUN	S	Number=Plur	10	obj	_	_
@@ -35750,7 +35750,7 @@
 1	Even	even	ADV	B	_	11	advmod	_	_
 2	as	as	SCONJ	CS	_	11	mark	_	_
 3-4	Germany's	_	_	_	_	_	_	_	_
-3	Germany	Germany	PROPN	SP	_	5	nmod	_	_
+3	Germany	Germany	PROPN	SP	_	5	nmod:poss	_	_
 4	's	's	PART	PART	_	3	case	_	_
 5	Bundesbank	Bundesbank	PROPN	SP	_	11	nsubj	_	_
 6	fiercely	fiercely	ADV	B	_	11	advmod	_	_
@@ -35767,8 +35767,8 @@
 17	focus	focus	NOUN	S	Number=Sing	11	obl	_	_
 18	on	on	ADP	E	_	21	case	_	_
 19-20	countries'	_	_	_	_	_	_	_	_
-19	countries	country	NOUN	S	Number=Plur	21	nmod	_	_
-20	'	'	PART	PART	_	19	case	_	_
+19	countries	country	NOUN	S	Number=Plur	21	nmod:poss	_	_
+20	'	's	PART	PART	_	19	case	_	_
 21	solvency	solvency	NOUN	S	Number=Sing	17	nmod	_	SpaceAfter=No
 22	,	,	PUNCT	FF	_	21	punct	_	_
 23	rather	rather	ADV	B	ExtPos=CCONJ	26	cc	_	_
@@ -35796,7 +35796,7 @@
 45	assessing	assess	VERB	V	VerbForm=Ger	52	advcl	_	_
 46	the	the	DET	RD	Definite=Def|PronType=Art	47	det	_	_
 47-48	scheme's	_	_	_	_	_	_	_	_
-47	scheme	scheme	NOUN	S	Number=Sing	49	nmod	_	_
+47	scheme	scheme	NOUN	S	Number=Sing	49	nmod:poss	_	_
 48	's	's	PART	PART	_	47	case	_	_
 49	legality	legality	NOUN	S	Number=Sing	45	obj	_	SpaceAfter=No
 50	,	,	PUNCT	FF	_	45	punct	_	_
@@ -35899,7 +35899,7 @@
 13	well	well	ADV	B	_	17	advmod	_	_
 14	beyond	beyond	ADP	E	_	17	case	_	_
 15-16	Europe's	_	_	_	_	_	_	_	_
-15	Europe	Europe	PROPN	SP	_	17	nmod	_	_
+15	Europe	Europe	PROPN	SP	_	17	nmod:poss	_	_
 16	's	's	PART	PART	_	15	case	_	_
 17	borders	border	NOUN	S	Number=Plur	11	obl	_	SpaceAfter=No
 18	.	.	PUNCT	FS	_	5	punct	_	_
@@ -35945,7 +35945,7 @@
 11	exposed	expose	VERB	V	Tense=Past|VerbForm=Part	0	root	_	_
 12	the	the	DET	RD	Definite=Def|PronType=Art	13	det	_	_
 13-14	euro's	_	_	_	_	_	_	_	_
-13	euro	euro	NOUN	S	Number=Sing	16	nmod	_	_
+13	euro	euro	NOUN	S	Number=Sing	16	nmod:poss	_	_
 14	's	's	PART	PART	_	13	case	_	_
 15	fundamental	fundamental	ADJ	A	Degree=Pos	16	amod	_	_
 16	fragilities	fragility	NOUN	S	Number=Plur	11	obj	_	SpaceAfter=No
@@ -36149,7 +36149,7 @@
 1	Many	many	PRON	PI	Number=Plur|PronType=Ind	8	nsubj:pass	_	_
 2	of	of	ADP	E	_	5	case	_	_
 3-4	Balzac's	_	_	_	_	_	_	_	_
-3	Balzac	Balzac	PROPN	SP	_	5	nmod	_	_
+3	Balzac	Balzac	PROPN	SP	_	5	nmod:poss	_	_
 4	's	's	PART	PART	_	3	case	_	_
 5	works	work	NOUN	S	Number=Plur	1	nmod	_	_
 6	have	have	AUX	VA	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	8	aux	_	_
@@ -36480,7 +36480,7 @@
 7	to	to	ADP	E	_	11	case	_	_
 8	the	the	DET	RD	Definite=Def|PronType=Art	9	det	_	_
 9-10	King's	_	_	_	_	_	_	_	_
-9	King	king	NOUN	S	Number=Sing	11	nmod	_	_
+9	King	king	NOUN	S	Number=Sing	11	nmod:poss	_	_
 10	's	's	PART	PART	_	9	case	_	_
 11	Council	Council	NOUN	S	Number=Sing	6	nmod	_	_
 12	and	and	CCONJ	CC	_	14	cc	_	_
@@ -36547,7 +36547,7 @@
 # sent_id = en_partut-ud-1560
 # text = Balzac's mother, born Anne-Charlotte-Laure Sallambier, came from a family of haberdashers in Paris.
 1-2	Balzac's	_	_	_	_	_	_	_	_
-1	Balzac	Balzac	PROPN	SP	_	3	nmod	_	_
+1	Balzac	Balzac	PROPN	SP	_	3	nmod:poss	_	_
 2	's	's	PART	PART	_	1	case	_	_
 3	mother	mother	NOUN	S	Number=Sing	13	nsubj	_	SpaceAfter=No
 4	,	,	PUNCT	FF	_	3	punct	_	_
@@ -36573,7 +36573,7 @@
 # text = Her family's wealth was a considerable factor in the match:
 1	Her	her	DET	AP	Poss=Yes|PronType=Prs	2	nmod:poss	_	_
 2-3	family's	_	_	_	_	_	_	_	_
-2	family	family	NOUN	S	Number=Sing	4	nmod	_	_
+2	family	family	NOUN	S	Number=Sing	4	nmod:poss	_	_
 3	's	's	PART	PART	_	2	case	_	_
 4	wealth	wealth	NOUN	S	Number=Sing	8	nsubj	_	_
 5	was	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	cop	_	_
@@ -36640,7 +36640,7 @@
 20	days	day	NOUN	S	Number=Plur	14	obl	_	_
 21	before	before	ADP	E	_	24	case	_	_
 22-23	Balzac's	_	_	_	_	_	_	_	_
-22	Balzac	Balzac	PROPN	SP	_	24	nmod	_	_
+22	Balzac	Balzac	PROPN	SP	_	24	nmod:poss	_	_
 23	's	's	PART	PART	_	22	case	_	_
 24	birthday	birthday	NOUN	S	Number=Sing	20	nmod	_	SpaceAfter=No
 25	)	)	PUNCT	FB	_	5	punct	_	_
@@ -36681,7 +36681,7 @@
 # sent_id = en_partut-ud-1566
 # text = Honoré's sisters Laure and Laurence were born in 1800 and 1802, and his brother Henry-François in 1807.
 1-2	Honoré's	_	_	_	_	_	_	_	_
-1	Honoré	Honoré	PROPN	SP	_	3	nmod	_	_
+1	Honoré	Honoré	PROPN	SP	_	3	nmod:poss	_	_
 2	's	's	PART	PART	_	1	case	_	_
 3	sisters	sister	NOUN	S	Number=Plur	8	nsubj	_	_
 4	Laure	Laure	PROPN	SP	_	3	nmod	_	_
@@ -36745,7 +36745,7 @@
 2	Although	although	SCONJ	CS	_	13	mark	_	_
 3	Genevan	genevan	ADJ	A	Degree=Pos	4	amod	_	_
 4	philosopher	philosopher	NOUN	S	Number=Sing	5	nmod:desc	_	_
-5	Jean	Jean	PROPN	SP	_	11	nmod	_	SpaceAfter=No
+5	Jean	Jean	PROPN	SP	_	11	nmod:poss	_	SpaceAfter=No
 6	-	-	PUNCT	FF	_	5	punct	_	SpaceAfter=No
 7	Jacques	Jacques	PROPN	SP	_	5	flat	_	_
 8-9	Rousseau's	_	_	_	_	_	_	_	_
@@ -37275,7 +37275,7 @@
 5	of	of	ADP	E	_	6	case	_	_
 6	all	all	PRON	PI	PronType=Ind	4	obl	_	_
 7	-	-	PUNCT	FB	_	4	punct	_	_
-8	Victor	Victor	PROPN	SP	_	11	nmod	_	_
+8	Victor	Victor	PROPN	SP	_	11	nmod:poss	_	_
 9-10	Cousin's	_	_	_	_	_	_	_	_
 9	Cousin	Cousin	PROPN	SP	_	8	flat	_	_
 10	's	's	PART	PART	_	8	case	_	_
@@ -37612,7 +37612,7 @@
 # sent_id = en_partut-ud-1605
 # text = Balzac's first project was a libretto for a comic opera called Le Corsaire, based on Lord Byron's The Corsair.
 1-2	Balzac's	_	_	_	_	_	_	_	_
-1	Balzac	Balzac	PROPN	SP	_	4	nmod	_	_
+1	Balzac	Balzac	PROPN	SP	_	4	nmod:poss	_	_
 2	's	's	PART	PART	_	1	case	_	_
 3	first	first	ADJ	NO	Degree=Pos|NumType=Ord	4	amod	_	_
 4	project	project	NOUN	S	Number=Sing	7	nsubj	_	_
@@ -37631,7 +37631,7 @@
 17	on	on	ADP	E	_	22	case	_	_
 18	Lord	Lord	PROPN	SP	_	19	nmod:desc	_	_
 19-20	Byron's	_	_	_	_	_	_	_	_
-19	Byron	Byron	PROPN	SP	_	22	nmod	_	_
+19	Byron	Byron	PROPN	SP	_	22	nmod:poss	_	_
 20	's	's	PART	PART	_	19	case	_	_
 21	The	the	DET	RD	Definite=Def|PronType=Art	22	det	_	_
 22	Corsair	corsair	NOUN	S	Number=Sing	16	obl	_	SpaceAfter=No
@@ -37874,7 +37874,7 @@
 # text = In Saintsbury's view, "They are curiously, interestingly, almost enthrallingly bad.
 1	In	in	ADP	E	_	4	case	_	_
 2-3	Saintsbury's	_	_	_	_	_	_	_	_
-2	Saintsbury	Saintsbury	PROPN	SP	_	4	nmod	_	_
+2	Saintsbury	Saintsbury	PROPN	SP	_	4	nmod:poss	_	_
 3	's	's	PART	PART	_	2	case	_	_
 4	view	view	NOUN	S	Number=Sing	15	obl	_	SpaceAfter=No
 5	,	,	PUNCT	FF	_	4	punct	_	_
@@ -37976,7 +37976,7 @@
 11	repression	repression	NOUN	S	Number=Sing	21	advcl	_	_
 12	of	of	ADP	E	_	16	case	_	_
 13-14	man's	_	_	_	_	_	_	_	_
-13	man	man	NOUN	S	Number=Sing	16	nmod	_	_
+13	man	man	NOUN	S	Number=Sing	16	nmod:poss	_	_
 14	's	's	PART	PART	_	13	case	_	_
 15	depraved	deprave	VERB	V	Tense=Past|VerbForm=Part	16	acl	_	_
 16	tendencies	tendency	NOUN	S	Number=Plur	11	nmod	_	SpaceAfter=No
@@ -38291,7 +38291,7 @@
 3	to	to	PART	PART	_	8	mark	_	_
 4	be	be	AUX	V	VerbForm=Inf	8	cop	_	_
 5-6	Balzac's	_	_	_	_	_	_	_	_
-5	Balzac	Balzac	PROPN	SP	_	8	nmod	_	_
+5	Balzac	Balzac	PROPN	SP	_	8	nmod:poss	_	_
 6	's	's	PART	PART	_	5	case	_	_
 7	life	life	NOUN	S	Number=Sing	8	nmod	_	_
 8	work	work	NOUN	S	Number=Sing	2	xcomp	_	_
@@ -38427,7 +38427,7 @@
 7	of	of	ADP	E	_	11	case	_	_
 8	his	his	DET	AP	Poss=Yes|PronType=Prs	9	nmod:poss	_	_
 9-10	father's	_	_	_	_	_	_	_	_
-9	father	father	NOUN	S	Number=Sing	11	nmod	_	_
+9	father	father	NOUN	S	Number=Sing	11	nmod:poss	_	_
 10	's	's	PART	PART	_	9	case	_	_
 11	death	death	NOUN	S	Number=Sing	6	nmod	_	SpaceAfter=No
 12	,	,	PUNCT	FF	_	6	punct	_	_
@@ -38617,8 +38617,8 @@
 16	,	,	PUNCT	FF	_	12	punct	_	_
 17	supporting	support	VERB	V	VerbForm=Ger	12	advcl	_	_
 18-19	Charles'	_	_	_	_	_	_	_	_
-18	Charles	Charles	PROPN	SP	_	20	nmod	_	_
-19	'	'	PART	PART	_	18	case	_	_
+18	Charles	Charles	PROPN	SP	_	20	nmod:poss	_	_
+19	'	's	PART	PART	_	18	case	_	_
 20	House	House	PROPN	SP	_	17	obj	_	_
 21	of	of	ADP	E	_	22	case	_	_
 22	Bourbon	Bourbon	PROPN	SP	_	20	nmod	_	_
@@ -38713,7 +38713,7 @@
 11	The	the	DET	RD	Definite=Def|PronType=Art	15	det	_	_
 12	Wild	wild	ADJ	A	Degree=Pos	15	amod	_	_
 13-14	Ass's	_	_	_	_	_	_	_	_
-13	Ass	ass	NOUN	S	Number=Sing	15	nmod	_	_
+13	Ass	ass	NOUN	S	Number=Sing	15	nmod:poss	_	_
 14	's	's	PART	PART	_	13	case	_	_
 15	Skin	skin	NOUN	S	Number=Sing	6	appos	_	_
 16	or	or	CCONJ	CC	_	19	cc	_	_
@@ -38815,7 +38815,7 @@
 8	inherits	inherit	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	acl:relcl	_	_
 9	her	her	DET	AP	Poss=Yes|PronType=Prs	10	nmod:poss	_	_
 10-11	father's	_	_	_	_	_	_	_	_
-10	father	father	NOUN	S	Number=Sing	12	nmod	_	_
+10	father	father	NOUN	S	Number=Sing	12	nmod:poss	_	_
 11	's	's	PART	PART	_	10	case	_	_
 12	miserliness	miserliness	NOUN	S	Number=Plur	8	obj	_	SpaceAfter=No
 13	,	,	PUNCT	FF	_	16	punct	_	_
@@ -38866,7 +38866,7 @@
 7	one	one	NUM	N	NumType=Card	0	root	_	_
 8	of	of	ADP	E	_	13	case	_	_
 9-10	Paris's	_	_	_	_	_	_	_	_
-9	Paris	Paris	PROPN	SP	_	13	nmod	_	_
+9	Paris	Paris	PROPN	SP	_	13	nmod:poss	_	_
 10	's	's	PART	PART	_	9	case	_	_
 11	three	three	NOUN	S	Number=Sing	13	nmod	_	_
 12	literary	literary	ADJ	A	Degree=Pos	13	amod	_	_
@@ -38934,7 +38934,7 @@
 8	novel	novel	ADJ	A	Degree=Pos	9	amod	_	_
 9	matches	match	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 10-11	Balzac's	_	_	_	_	_	_	_	_
-10	Balzac	Balzac	PROPN	SP	_	13	nmod	_	_
+10	Balzac	Balzac	PROPN	SP	_	13	nmod:poss	_	_
 11	's	's	PART	PART	_	10	case	_	_
 12	own	own	ADJ	A	Degree=Pos	13	amod	_	_
 13	position	position	NOUN	S	Number=Sing	9	obj	_	_
@@ -39148,7 +39148,7 @@
 24	morass	morass	NOUN	S	Number=Sing	21	obl	_	_
 25	of	of	ADP	E	_	29	case	_	_
 26-27	society's	_	_	_	_	_	_	_	_
-26	society	society	NOUN	S	Number=Sing	29	nmod	_	_
+26	society	society	NOUN	S	Number=Sing	29	nmod:poss	_	_
 27	's	's	PART	PART	_	26	case	_	_
 28	darkest	darkest	ADJ	A	Degree=Pos	29	amod	_	_
 29	contradictions	contradiction	NOUN	S	Number=Plur	24	nmod	_	SpaceAfter=No
@@ -39157,7 +39157,7 @@
 # sent_id = en_partut-ud-1672
 # text = Lucien's journalism work is informed by Balzac's own failed ventures in the field.
 1-2	Lucien's	_	_	_	_	_	_	_	_
-1	Lucien	Lucien	PROPN	SP	_	4	nmod	_	_
+1	Lucien	Lucien	PROPN	SP	_	4	nmod:poss	_	_
 2	's	's	PART	PART	_	1	case	_	_
 3	journalism	journalism	NOUN	S	Number=Sing	4	nmod	_	_
 4	work	work	NOUN	S	Number=Sing	6	nsubj:pass	_	_
@@ -39165,7 +39165,7 @@
 6	informed	inform	VERB	V	Tense=Past|VerbForm=Part	0	root	_	_
 7	by	by	ADP	E	_	12	case	_	_
 8-9	Balzac's	_	_	_	_	_	_	_	_
-8	Balzac	Balzac	PROPN	SP	_	12	nmod	_	_
+8	Balzac	Balzac	PROPN	SP	_	12	nmod:poss	_	_
 9	's	's	PART	PART	_	8	case	_	_
 10	own	own	ADJ	A	Degree=Pos	12	amod	_	_
 11	failed	fail	VERB	V	Tense=Past|VerbForm=Part	12	acl	_	_
@@ -39195,7 +39195,7 @@
 15	)	)	PUNCT	FB	_	10	punct	_	_
 16	continues	continue	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 17-18	Lucien's	_	_	_	_	_	_	_	_
-17	Lucien	Lucien	PROPN	SP	_	19	nmod	_	_
+17	Lucien	Lucien	PROPN	SP	_	19	nmod:poss	_	_
 18	's	's	PART	PART	_	17	case	_	_
 19	story	story	NOUN	S	Number=Sing	16	obj	_	SpaceAfter=No
 20	.	.	PUNCT	FS	_	16	punct	_	_
@@ -39290,7 +39290,7 @@
 # sent_id = en_partut-ud-1679
 # text = Balzac's health was deteriorating by this point, making the completion of this pair of books a significant accomplishment.
 1-2	Balzac's	_	_	_	_	_	_	_	_
-1	Balzac	Balzac	PROPN	SP	_	3	nmod	_	_
+1	Balzac	Balzac	PROPN	SP	_	3	nmod:poss	_	_
 2	's	's	PART	PART	_	1	case	_	_
 3	health	health	NOUN	S	Number=Sing	5	nsubj	_	_
 4	was	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	aux	_	_
@@ -39450,7 +39450,7 @@
 4	,	,	PUNCT	FF	_	2	punct	_	_
 5	covering	cover	VERB	V	Number=Sing|Tense=Pres|VerbForm=Part	2	advcl	_	_
 6-7	printer's	_	_	_	_	_	_	_	_
-6	printer	printer	NOUN	S	Number=Sing	8	nmod	_	_
+6	printer	printer	NOUN	S	Number=Sing	8	nmod:poss	_	_
 7	's	's	PART	PART	_	6	case	_	_
 8	proofs	proof	NOUN	S	Number=Plur	5	obj	_	_
 9	with	with	ADP	E	_	10	case	_	_
@@ -39670,7 +39670,7 @@
 24	,	,	PUNCT	FF	_	20	punct	_	_
 25	his	his	DET	AP	Poss=Yes|PronType=Prs	26	nmod:poss	_	_
 26-27	mother's	_	_	_	_	_	_	_	_
-26	mother	mother	NOUN	S	Number=Sing	28	nmod	_	_
+26	mother	mother	NOUN	S	Number=Sing	28	nmod:poss	_	_
 27	's	's	PART	PART	_	26	case	_	_
 28	lover	lover	NOUN	S	Number=Sing	20	nmod	_	_
 29	and	and	CCONJ	CC	_	30	cc	_	_
@@ -39686,7 +39686,7 @@
 1	Many	many	PRON	PI	Number=Plur|PronType=Ind	8	nsubj:pass	_	_
 2	of	of	ADP	E	_	6	case	_	_
 3-4	Balzac's	_	_	_	_	_	_	_	_
-3	Balzac	Balzac	PROPN	SP	_	6	nmod	_	_
+3	Balzac	Balzac	PROPN	SP	_	6	nmod:poss	_	_
 4	's	's	PART	PART	_	3	case	_	_
 5	tormented	torment	VERB	V	Tense=Past|VerbForm=Part	6	acl	_	_
 6	characters	character	NOUN	S	Number=Plur	1	nmod	_	_
@@ -39713,7 +39713,7 @@
 8	to	to	ADP	E	_	12	case	_	_
 9	the	the	DET	RD	Definite=Def|PronType=Art	10	det	_	_
 10-11	author's	_	_	_	_	_	_	_	_
-10	author	author	NOUN	S	Number=Sing	12	nmod	_	_
+10	author	author	NOUN	S	Number=Sing	12	nmod:poss	_	_
 11	's	's	PART	PART	_	10	case	_	_
 12	life	life	NOUN	S	Number=Sing	7	obl	_	SpaceAfter=No
 13	.	.	PUNCT	FS	_	6	punct	_	_
@@ -39863,7 +39863,7 @@
 9	preserve	preserve	VERB	V	VerbForm=Inf	7	acl	_	_
 10	her	her	DET	AP	Poss=Yes|PronType=Prs	11	nmod:poss	_	_
 11-12	family's	_	_	_	_	_	_	_	_
-11	family	family	NOUN	S	Number=Sing	13	nmod	_	_
+11	family	family	NOUN	S	Number=Sing	13	nmod:poss	_	_
 12	's	's	PART	PART	_	11	case	_	_
 13	fortune	fortune	NOUN	S	Number=Sing	9	obj	_	SpaceAfter=No
 14	.	.	PUNCT	FS	_	5	punct	_	_
@@ -40030,7 +40030,7 @@
 5	,	,	PUNCT	FF	_	2	punct	_	_
 6	with	with	ADP	E	_	9	case	_	_
 7-8	Balzac's	_	_	_	_	_	_	_	_
-7	Balzac	Balzac	PROPN	SP	_	9	nmod	_	_
+7	Balzac	Balzac	PROPN	SP	_	9	nmod:poss	_	_
 8	's	's	PART	PART	_	7	case	_	_
 9	health	health	NOUN	S	Number=Sing	15	obl	_	_
 10	in	in	ADP	E	_	12	case	_	_
@@ -40246,7 +40246,7 @@
 17	eulogist	eulogist	NOUN	S	Number=Sing	15	conj	_	_
 18	at	at	ADP	E	_	21	case	_	_
 19-20	Balzac's	_	_	_	_	_	_	_	_
-19	Balzac	Balzac	PROPN	SP	_	21	nmod	_	_
+19	Balzac	Balzac	PROPN	SP	_	21	nmod:poss	_	_
 20	's	's	PART	PART	_	19	case	_	_
 21	funeral	funeral	NOUN	S	Number=Sing	13	obl	_	SpaceAfter=No
 22	.	.	PUNCT	FS	_	4	punct	_	_
@@ -40449,7 +40449,7 @@
 6	of	of	ADP	E	_	11	case	_	_
 7	the	the	DET	RD	Definite=Def|PronType=Art	8	det	_	_
 8-9	author's	_	_	_	_	_	_	_	_
-8	author	author	NOUN	S	Number=Sing	11	nmod	_	_
+8	author	author	NOUN	S	Number=Sing	11	nmod:poss	_	_
 9	's	's	PART	PART	_	8	case	_	_
 10	own	own	ADJ	A	Degree=Pos	11	amod	_	_
 11	life	life	NOUN	S	Number=Sing	5	obl	_	SpaceAfter=No
@@ -40511,7 +40511,7 @@
 # text = "Balzac's extensive use of detail, especially the detail of objects, to illustrate the lives of his characters made him an early pioneer of literary realism.
 1	"	"	PUNCT	FB	_	22	punct	_	SpaceAfter=No
 2-3	Balzac's	_	_	_	_	_	_	_	_
-2	Balzac	Balzac	PROPN	SP	_	5	nmod	_	_
+2	Balzac	Balzac	PROPN	SP	_	5	nmod:poss	_	_
 3	's	's	PART	PART	_	2	case	_	_
 4	extensive	extensive	ADJ	A	Degree=Pos	5	amod	_	_
 5	use	use	NOUN	S	Number=Sing	22	nsubj	_	_
@@ -40567,7 +40567,7 @@
 2	example	example	NOUN	S	Number=Sing	10	obl	_	SpaceAfter=No
 3	,	,	PUNCT	FF	_	2	punct	_	_
 4-5	Balzac's	_	_	_	_	_	_	_	_
-4	Balzac	Balzac	PROPN	SP	_	6	nmod	_	_
+4	Balzac	Balzac	PROPN	SP	_	6	nmod:poss	_	_
 5	's	's	PART	PART	_	4	case	_	_
 6	friend	friend	NOUN	S	Number=Sing	10	nsubj	_	_
 7	Hyacinthe	Hyacinthe	PROPN	SP	_	6	nmod	_	_
@@ -40711,7 +40711,7 @@
 1	"	"	PUNCT	FB	_	5	punct	_	SpaceAfter=No
 2	"	"	PUNCT	FB	_	5	punct	_	SpaceAfter=No
 3-4	Balzac's	_	_	_	_	_	_	_	_
-3	Balzac	Balzac	PROPN	SP	_	5	nmod	_	_
+3	Balzac	Balzac	PROPN	SP	_	5	nmod:poss	_	_
 4	's	's	PART	PART	_	3	case	_	_
 5	characters	character	NOUN	S	Number=Plur	14	nsubj	_	SpaceAfter=No
 6	"	"	PUNCT	FB	_	5	punct	_	SpaceAfter=No
@@ -40779,7 +40779,7 @@
 12	circumference	circumference	NOUN	S	Number=Sing	9	conj	_	_
 13	to	to	ADP	E	_	16	case	_	_
 14-15	Balzac's	_	_	_	_	_	_	_	_
-14	Balzac	Balzac	PROPN	SP	_	16	nmod	_	_
+14	Balzac	Balzac	PROPN	SP	_	16	nmod:poss	_	_
 15	's	's	PART	PART	_	14	case	_	_
 16	world	world	NOUN	S	Number=Sing	7	obl	_	SpaceAfter=No
 17	.	.	PUNCT	FS	_	3	punct	_	_
@@ -40788,7 +40788,7 @@
 # text = "Balzac's use of repeating characters, moving in and out of the Comédie's books, strengthens the realist representation.
 1	"	"	PUNCT	FB	_	19	punct	_	SpaceAfter=No
 2-3	Balzac's	_	_	_	_	_	_	_	_
-2	Balzac	Balzac	PROPN	SP	_	4	nmod	_	_
+2	Balzac	Balzac	PROPN	SP	_	4	nmod:poss	_	_
 3	's	's	PART	PART	_	2	case	_	_
 4	use	use	NOUN	S	Number=Sing	19	nsubj	_	_
 5	of	of	ADP	E	_	7	case	_	_
@@ -40802,7 +40802,7 @@
 13	of	of	ADP	E	_	17	case	_	_
 14	the	the	DET	RD	Definite=Def|PronType=Art	15	det	_	_
 15-16	Comédie's	_	_	_	_	_	_	_	_
-15	Comédie	Comédie	PROPN	SP	_	17	nmod	_	_
+15	Comédie	Comédie	PROPN	SP	_	17	nmod:poss	_	_
 16	's	's	PART	PART	_	15	case	_	_
 17	books	book	NOUN	S	Number=Plur	9	obl	_	SpaceAfter=No
 18	,	,	PUNCT	FF	_	4	punct	_	_
@@ -40884,7 +40884,7 @@
 20	whereby	whereby	PRON	PR	PronType=Rel	26	obl	_	_
 21	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	22	det	_	_
 22-23	character's	_	_	_	_	_	_	_	_
-22	character	character	NOUN	S	Number=Sing	24	nmod	_	_
+22	character	character	NOUN	S	Number=Sing	24	nmod:poss	_	_
 23	's	's	PART	PART	_	22	case	_	_
 24	past	past	NOUN	S	Number=Sing	26	nsubj:pass	_	_
 25	is	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	26	aux:pass	_	_
@@ -40911,7 +40911,7 @@
 9	characters	character	NOUN	S	Number=Plur	7	obj	_	_
 10	in	in	ADP	E	_	13	case	_	_
 11-12	Balzac's	_	_	_	_	_	_	_	_
-11	Balzac	Balzac	PROPN	SP	_	13	nmod	_	_
+11	Balzac	Balzac	PROPN	SP	_	13	nmod:poss	_	_
 12	's	's	PART	PART	_	11	case	_	_
 13	novels	novel	NOUN	S	Number=Plur	9	nmod	_	SpaceAfter=No
 14	.	.	PUNCT	FS	_	7	punct	_	_
@@ -40963,7 +40963,7 @@
 13	individuals	individual	NOUN	S	Number=Plur	10	nmod	_	SpaceAfter=No
 14	,	,	PUNCT	FF	_	25	punct	_	_
 15	and	and	CCONJ	CC	_	25	cc	_	_
-16	Raphaël	Raphaël	PROPN	SP	_	19	nmod	_	_
+16	Raphaël	Raphaël	PROPN	SP	_	19	nmod:poss	_	_
 17-18	Valentin's	_	_	_	_	_	_	_	_
 17	Valentin	Valentin	PROPN	SP	_	16	flat	_	_
 18	's	's	PART	PART	_	16	case	_	_
@@ -41050,7 +41050,7 @@
 10	key	key	NOUN	S	Number=Sing	0	root	_	_
 11	to	to	ADP	E	_	14	case	_	_
 12-13	Balzac's	_	_	_	_	_	_	_	_
-12	Balzac	Balzac	PROPN	SP	_	14	nmod	_	_
+12	Balzac	Balzac	PROPN	SP	_	14	nmod:poss	_	_
 13	's	's	PART	PART	_	12	case	_	_
 14	legacy	legacy	NOUN	S	Number=Sing	10	nmod	_	_
 15	as	as	ADP	E	_	17	case	_	_
@@ -41103,7 +41103,7 @@
 24	repeatedly	repeatedly	ADV	B	_	23	advmod	_	_
 25	in	in	ADP	E	_	28	case	_	_
 26-27	Balzac's	_	_	_	_	_	_	_	_
-26	Balzac	Balzac	PROPN	SP	_	28	nmod	_	_
+26	Balzac	Balzac	PROPN	SP	_	28	nmod:poss	_	_
 27	's	's	PART	PART	_	26	case	_	_
 28	works	work	NOUN	S	Number=Plur	23	obl	_	SpaceAfter=No
 29	,	,	PUNCT	FF	_	28	punct	_	_
@@ -41116,7 +41116,7 @@
 # sent_id = en_partut-ud-1762
 # text = Balzac's literary mood evolved over time from one of despondency and chagrin to one of solidarity and courage - but not optimism.
 1-2	Balzac's	_	_	_	_	_	_	_	_
-1	Balzac	Balzac	PROPN	SP	_	4	nmod	_	_
+1	Balzac	Balzac	PROPN	SP	_	4	nmod:poss	_	_
 2	's	's	PART	PART	_	1	case	_	_
 3	literary	literary	ADJ	A	Degree=Pos	4	amod	_	_
 4	mood	mood	NOUN	S	Number=Sing	5	nsubj	_	_
@@ -41290,7 +41290,7 @@
 7	the	the	DET	RD	Definite=Def|PronType=Art	8	det	_	_
 8	antipode	antipode	NOUN	S	Number=Sing	0	root	_	_
 9	to	to	ADP	E	_	14	case	_	_
-10	Victor	Victor	PROPN	SP	_	14	nmod	_	_
+10	Victor	Victor	PROPN	SP	_	14	nmod:poss	_	_
 11-12	Hugo's	_	_	_	_	_	_	_	_
 11	Hugo	Hugo	PROPN	SP	_	10	flat	_	_
 12	's	's	PART	PART	_	10	case	_	_
@@ -41334,7 +41334,7 @@
 # sent_id = en_partut-ud-1773
 # text = Marx's work Das Kapital also makes constant reference to the works of Balzac and urged Engels to read Balzac's work The Unknown Masterpiece.
 1-2	Marx's	_	_	_	_	_	_	_	_
-1	Marx	marx	NOUN	S	Number=Sing	3	nmod	_	_
+1	Marx	marx	NOUN	S	Number=Sing	3	nmod:poss	_	_
 2	's	's	PART	PART	_	1	case	_	_
 3	work	work	NOUN	S	Number=Sing	7	nsubj	_	_
 4	Das	Das	X	SW	Foreign=Yes	3	nmod	_	_
@@ -41354,7 +41354,7 @@
 18	to	to	PART	PART	_	19	mark	_	_
 19	read	read	VERB	V	VerbForm=Inf	16	xcomp	_	_
 20-21	Balzac's	_	_	_	_	_	_	_	_
-20	Balzac	Balzac	PROPN	SP	_	22	nmod	_	_
+20	Balzac	Balzac	PROPN	SP	_	22	nmod:poss	_	_
 21	's	's	PART	PART	_	20	case	_	_
 22	work	work	NOUN	S	Number=Sing	19	obj	_	_
 23	The	the	DET	RD	Definite=Def|PronType=Art	25	det	_	_
@@ -41391,8 +41391,8 @@
 12	one	one	PRON	P	PronType=Ind	11	xcomp	_	_
 13	of	of	ADP	E	_	16	case	_	_
 14-15	Dickens'	_	_	_	_	_	_	_	_
-14	Dickens	Dickens	PROPN	SP	_	16	nmod	_	_
-15	'	'	PART	PART	_	14	case	_	_
+14	Dickens	Dickens	PROPN	SP	_	16	nmod:poss	_	_
+15	'	's	PART	PART	_	14	case	_	_
 16	influences	influence	NOUN	S	Number=Plur	12	nmod	_	SpaceAfter=No
 17	.	.	PUNCT	FS	_	4	punct	_	_
 
@@ -41512,7 +41512,7 @@
 15	heed	heed	NOUN	S	Number=Sing	14	obj	_	_
 16	of	of	ADP	E	_	20	case	_	_
 17-18	Balzac's	_	_	_	_	_	_	_	_
-17	Balzac	Balzac	PROPN	SP	_	20	nmod	_	_
+17	Balzac	Balzac	PROPN	SP	_	20	nmod:poss	_	_
 18	's	's	PART	PART	_	17	case	_	_
 19	close	close	ADJ	A	Degree=Pos	20	amod	_	_
 20	attention	attention	NOUN	S	Number=Sing	15	nmod	_	_
@@ -41533,7 +41533,7 @@
 3	shows	show	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	in	in	ADP	E	_	7	case	_	_
 5-6	Flaubert's	_	_	_	_	_	_	_	_
-5	Flaubert	Flaubert	PROPN	SP	_	7	nmod	_	_
+5	Flaubert	Flaubert	PROPN	SP	_	7	nmod:poss	_	_
 6	's	's	PART	PART	_	5	case	_	_
 7	work	work	NOUN	S	Number=Sing	3	obl	_	_
 8	L'	Le	X	SW	Foreign=Yes	7	nmod	_	SpaceAfter=No
@@ -41546,7 +41546,7 @@
 15	debt	debt	NOUN	S	Number=Sing	13	obj	_	_
 16	to	to	ADP	E	_	17	case	_	_
 17-18	Balzac's	_	_	_	_	_	_	_	_
-17	Balzac	Balzac	PROPN	SP	_	19	nmod	_	_
+17	Balzac	Balzac	PROPN	SP	_	19	nmod:poss	_	_
 18	's	's	PART	PART	_	17	case	_	_
 19	Illusions	illusions	X	SW	Foreign=Yes	13	obl	_	_
 20	Perdues	perdues	X	SW	Foreign=Yes	19	flat:foreign	_	SpaceAfter=No
@@ -41600,7 +41600,7 @@
 14	he	he	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	15	nsubj	_	_
 15	called	call	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	13	acl:relcl	_	_
 16-17	Balzac's	_	_	_	_	_	_	_	_
-16	Balzac	Balzac	PROPN	SP	_	19	nmod	_	_
+16	Balzac	Balzac	PROPN	SP	_	19	nmod:poss	_	_
 17	's	's	PART	PART	_	16	case	_	_
 18	"	"	PUNCT	FB	_	19	punct	_	SpaceAfter=No
 19	vulgarity	vulgarity	NOUN	S	Number=Sing	15	obj	_	SpaceAfter=No
@@ -41610,7 +41610,7 @@
 # text = "Balzac's story Une Heure de ma Vie (An Hour of my Life, 1822), in which minute details are followed by deep personal reflections, is a clear ancestor of the style which Proust used in A la Recherche du Temps Perdu.
 1	"	"	PUNCT	FB	_	34	punct	_	SpaceAfter=No
 2-3	Balzac's	_	_	_	_	_	_	_	_
-2	Balzac	Balzac	PROPN	SP	_	4	nmod	_	_
+2	Balzac	Balzac	PROPN	SP	_	4	nmod:poss	_	_
 3	's	's	PART	PART	_	2	case	_	_
 4	story	story	NOUN	S	Number=Sing	34	nsubj	_	_
 5	Une	une	X	SW	Foreign=Yes	4	nmod	_	_
@@ -41777,7 +41777,7 @@
 5	admiration	admiration	NOUN	S	Number=Sing	3	obl	_	_
 6	of	of	ADP	E	_	9	case	_	_
 7-8	Balzac's	_	_	_	_	_	_	_	_
-7	Balzac	Balzac	PROPN	SP	_	9	nmod	_	_
+7	Balzac	Balzac	PROPN	SP	_	9	nmod:poss	_	_
 8	's	's	PART	PART	_	7	case	_	_
 9	attempt	attempt	NOUN	S	Number=Sing	5	nmod	_	_
 10	to	to	PART	PART	_	11	mark	_	_
@@ -41858,7 +41858,7 @@
 # sent_id = en_partut-ud-1796
 # text = Balzac's vision of a society in which class, money and personal ambition are the major players has been endorsed by critics of both left-wing and right-wing political tendencies.
 1-2	Balzac's	_	_	_	_	_	_	_	_
-1	Balzac	Balzac	PROPN	SP	_	3	nmod	_	_
+1	Balzac	Balzac	PROPN	SP	_	3	nmod:poss	_	_
 2	's	's	PART	PART	_	1	case	_	_
 3	vision	vision	NOUN	S	Number=Sing	21	nsubj:pass	_	_
 4	of	of	ADP	E	_	6	case	_	_
@@ -41939,7 +41939,7 @@
 12	analysis	analysis	NOUN	S	Number=Sing	5	obl	_	_
 13	of	of	ADP	E	_	16	case	_	_
 14-15	Balzac's	_	_	_	_	_	_	_	_
-14	Balzac	Balzac	PROPN	SP	_	16	nmod	_	_
+14	Balzac	Balzac	PROPN	SP	_	16	nmod:poss	_	_
 15	's	's	PART	PART	_	14	case	_	_
 16	story	story	NOUN	S	Number=Sing	12	nmod	_	_
 17	Sarrasine	Sarrasine	PROPN	SP	_	16	nmod	_	_
@@ -42018,7 +42018,7 @@
 34	and	and	CCONJ	CC	_	39	cc	_	_
 35	the	the	DET	RD	Definite=Def|PronType=Art	36	det	_	_
 36-37	world's	_	_	_	_	_	_	_	_
-36	world	world	NOUN	S	Number=Sing	39	nmod	_	_
+36	world	world	NOUN	S	Number=Sing	39	nmod:poss	_	_
 37	's	's	PART	PART	_	36	case	_	_
 38	pre-eminent	pre-eminent	ADJ	A	Degree=Pos	39	amod	_	_
 39	dramatist	dramatist	NOUN	S	Number=Sing	33	conj	_	SpaceAfter=No
@@ -42031,7 +42031,7 @@
 3	often	often	ADV	B	_	4	advmod	_	_
 4	called	call	VERB	V	Tense=Past|VerbForm=Part	0	root	_	_
 5-6	England's	_	_	_	_	_	_	_	_
-5	England	England	PROPN	SP	_	8	nmod	_	_
+5	England	England	PROPN	SP	_	8	nmod:poss	_	_
 6	's	's	PART	PART	_	5	case	_	_
 7	national	national	ADJ	A	Degree=Pos	8	amod	_	_
 8	poet	poet	NOUN	S	Number=Sing	4	xcomp	_	_
@@ -42177,7 +42177,7 @@
 36	as	as	ADP	E	_	40	case	_	_
 37	the	the	DET	RD	Definite=Def|PronType=Art	38	det	_	_
 38-39	King's	_	_	_	_	_	_	_	_
-38	King	king	NOUN	S	Number=Sing	40	nmod	_	_
+38	King	king	NOUN	S	Number=Sing	40	nmod:poss	_	_
 39	's	's	PART	PART	_	38	case	_	_
 40	Men	man	NOUN	S	Number=Plur	27	obl	_	SpaceAfter=No
 41	.	.	PUNCT	FS	_	7	punct	_	_
@@ -42211,7 +42211,7 @@
 2	records	record	NOUN	S	Number=Plur	8	nsubj	_	_
 3	of	of	ADP	E	_	7	case	_	_
 4-5	Shakespeare's	_	_	_	_	_	_	_	_
-4	Shakespeare	Shakespeare	PROPN	SP	_	7	nmod	_	_
+4	Shakespeare	Shakespeare	PROPN	SP	_	7	nmod:poss	_	_
 5	's	's	PART	PART	_	4	case	_	_
 6	private	private	ADJ	A	Degree=Pos	7	amod	_	_
 7	life	life	NOUN	S	Number=Sing	2	nmod	_	_
@@ -42462,7 +42462,7 @@
 6	,	,	PUNCT	FF	_	5	punct	_	_
 7	acclaimed	acclaim	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 8-9	Shakespeare's	_	_	_	_	_	_	_	_
-8	Shakespeare	Shakespeare	PROPN	SP	_	10	nmod	_	_
+8	Shakespeare	Shakespeare	PROPN	SP	_	10	nmod:poss	_	_
 9	's	's	PART	PART	_	8	case	_	_
 10	genius	genius	NOUN	S	Number=Sing	7	obj	_	SpaceAfter=No
 11	,	,	PUNCT	FF	_	15	punct	_	_
@@ -42607,7 +42607,7 @@
 13	-	-	PUNCT	FF	_	11	punct	_	SpaceAfter=No
 14	century	century	NOUN	S	Number=Sing	15	nmod	_	_
 15-16	scholar's	_	_	_	_	_	_	_	_
-15	scholar	scholar	NOUN	S	Number=Sing	17	nmod	_	_
+15	scholar	scholar	NOUN	S	Number=Sing	17	nmod:poss	_	_
 16	's	's	PART	PART	_	15	case	_	_
 17	mistake	mistake	NOUN	S	Number=Sing	7	obl	_	SpaceAfter=No
 18	,	,	PUNCT	FF	_	2	punct	_	_
@@ -42663,7 +42663,7 @@
 18	at	at	ADP	E	_	23	case	_	_
 19	the	the	DET	RD	Definite=Def|PronType=Art	20	det	_	_
 20-21	King's	_	_	_	_	_	_	_	_
-20	King	king	NOUN	S	Number=Sing	23	nmod	_	_
+20	King	king	NOUN	S	Number=Sing	23	nmod:poss	_	_
 21	's	's	PART	PART	_	20	case	_	_
 22	New	New	PROPN	SP	_	23	nmod	_	_
 23	School	school	NOUN	S	Number=Sing	17	obl	_	_
@@ -42737,7 +42737,7 @@
 
 # sent_id = en_partut-ud-1831
 # text = John Shakespeare's house, believed to be Shakespeare's birthplace, in Stratford-upon-Avon.
-1	John	John	PROPN	SP	_	4	nmod	_	_
+1	John	John	PROPN	SP	_	4	nmod:poss	_	_
 2-3	Shakespeare's	_	_	_	_	_	_	_	_
 2	Shakespeare	Shakespeare	PROPN	SP	_	1	flat	_	_
 3	's	's	PART	PART	_	1	case	_	_
@@ -42747,7 +42747,7 @@
 7	to	to	PART	PART	_	11	mark	_	_
 8	be	be	AUX	V	VerbForm=Inf	11	cop	_	_
 9-10	Shakespeare's	_	_	_	_	_	_	_	_
-9	Shakespeare	Shakespeare	PROPN	SP	_	11	nmod	_	_
+9	Shakespeare	Shakespeare	PROPN	SP	_	11	nmod:poss	_	_
 10	's	's	PART	PART	_	9	case	_	_
 11	birthplace	birthplace	NOUN	S	Number=Sing	6	ccomp	_	SpaceAfter=No
 12	,	,	PUNCT	FF	_	4	punct	_	_
@@ -42808,7 +42808,7 @@
 5	two	two	NUM	N	NumType=Card	10	nsubj	_	_
 6	of	of	ADP	E	_	9	case	_	_
 7-8	Hathaway's	_	_	_	_	_	_	_	_
-7	Hathaway	Hathaway	PROPN	SP	_	9	nmod	_	_
+7	Hathaway	Hathaway	PROPN	SP	_	9	nmod:poss	_	_
 8	's	's	PART	PART	_	7	case	_	_
 9	neighbours	neighbour	NOUN	S	Number=Plur	5	nmod	_	_
 10	posted	post	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
@@ -42970,7 +42970,7 @@
 19	before	before	ADP	E	_	24	case	_	_
 20	the	the	DET	RD	Definite=Def|PronType=Art	24	det	_	_
 21-22	Queen's	_	_	_	_	_	_	_	_
-21	Queen	queen	NOUN	S	Number=Sing	24	nmod	_	_
+21	Queen	queen	NOUN	S	Number=Sing	24	nmod:poss	_	_
 22	's	's	PART	PART	_	21	case	_	_
 23	Bench	bench	NOUN	S	Number=Sing	24	nmod	_	_
 24	court	court	NOUN	S	Number=Sing	5	nmod	_	_
@@ -42999,7 +42999,7 @@
 9	1592	1592	NUM	N	NumType=Card	7	conj	_	_
 10	as	as	ADP	E	_	15	case	_	_
 11-12	Shakespeare's	_	_	_	_	_	_	_	_
-11	Shakespeare	Shakespeare	PROPN	SP	_	15	nmod	_	_
+11	Shakespeare	Shakespeare	PROPN	SP	_	15	nmod:poss	_	_
 12	's	's	PART	PART	_	11	case	_	_
 13	"	"	PUNCT	FB	_	15	punct	_	SpaceAfter=No
 14	lost	lost	ADJ	A	Degree=Pos	15	amod	_	_
@@ -43029,7 +43029,7 @@
 2	Rowe	Rowe	PROPN	SP	_	1	flat	_	SpaceAfter=No
 3	,	,	PUNCT	FF	_	1	punct	_	_
 4-5	Shakespeare's	_	_	_	_	_	_	_	_
-4	Shakespeare	Shakespeare	PROPN	SP	_	7	nmod	_	_
+4	Shakespeare	Shakespeare	PROPN	SP	_	7	nmod:poss	_	_
 5	's	's	PART	PART	_	4	case	_	_
 6	first	first	ADJ	NO	Degree=Pos|NumType=Ord	7	amod	_	_
 7	biographer	biographer	NOUN	S	Number=Sing	1	nmod	_	SpaceAfter=No
@@ -43238,14 +43238,14 @@
 14	with	with	ADP	E	_	18	case	_	_
 15	his	his	DET	AP	Poss=Yes|PronType=Prs	16	nmod:poss	_	_
 16-17	Tiger's	_	_	_	_	_	_	_	_
-16	Tiger	tiger	NOUN	S	Number=Sing	18	nmod	_	_
+16	Tiger	tiger	NOUN	S	Number=Sing	18	nmod:poss	_	_
 17	's	's	PART	PART	_	16	case	_	_
 18	heart	heart	NOUN	S	Number=Sing	26	obl	_	_
 19	wrapped	wrap	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	18	acl	_	_
 20	in	in	ADP	E	_	24	case	_	_
 21	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	22	det	_	_
 22-23	Player's	_	_	_	_	_	_	_	_
-22	Player	player	NOUN	S	Number=Sing	24	nmod	_	_
+22	Player	player	NOUN	S	Number=Sing	24	nmod:poss	_	_
 23	's	's	PART	PART	_	22	case	_	_
 24	hide	hide	NOUN	S	Number=Sing	19	obl	_	SpaceAfter=No
 25	,	,	PUNCT	FF	_	18	punct	_	_
@@ -43356,20 +43356,20 @@
 8	Oh	Oh	PROPN	SP	_	12	discourse	_	SpaceAfter=No
 9	,	,	PUNCT	FF	_	8	punct	_	_
 10-11	tiger's	_	_	_	_	_	_	_	_
-10	tiger	tiger	NOUN	S	Number=Sing	12	nmod	_	_
+10	tiger	tiger	NOUN	S	Number=Sing	12	nmod:poss	_	_
 11	's	's	PART	PART	_	10	case	_	_
 12	heart	heart	NOUN	S	Number=Sing	6	parataxis	_	_
 13	wrapped	wrap	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	12	acl	_	_
 14	in	in	ADP	E	_	18	case	_	_
 15	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	16	det	_	_
 16-17	woman's	_	_	_	_	_	_	_	_
-16	woman	woman	NOUN	S	Number=Sing	18	nmod	_	_
+16	woman	woman	NOUN	S	Number=Sing	18	nmod:poss	_	_
 17	's	's	PART	PART	_	16	case	_	_
 18	hide	hide	NOUN	S	Number=Sing	13	obl	_	SpaceAfter=No
 19	"	"	PUNCT	FB	_	12	punct	_	_
 20	from	from	ADP	E	_	23	case	_	_
 21-22	Shakespeare's	_	_	_	_	_	_	_	_
-21	Shakespeare	Shakespeare	PROPN	SP	_	23	nmod	_	_
+21	Shakespeare	Shakespeare	PROPN	SP	_	23	nmod:poss	_	_
 22	's	's	PART	PART	_	21	case	_	_
 23	Henry	Henry	PROPN	SP	_	6	nmod	_	_
 24	VI	sixth	ADJ	NO	Degree=Pos|NumType=Ord	23	flat	_	SpaceAfter=No
@@ -43391,7 +43391,7 @@
 40	Shakespeare	Shakespeare	PROPN	SP	_	39	obj	_	_
 41	as	as	ADP	E	_	44	case	_	_
 42-43	Greene's	_	_	_	_	_	_	_	_
-42	Greene	Greene	PROPN	SP	_	44	nmod	_	_
+42	Greene	Greene	PROPN	SP	_	44	nmod:poss	_	_
 43	's	's	PART	PART	_	42	case	_	_
 44	target	target	NOUN	S	Number=Sing	39	obl	_	SpaceAfter=No
 45	.	.	PUNCT	FS	_	39	punct	_	_
@@ -43433,7 +43433,7 @@
 # sent_id = en_partut-ud-1855
 # text = Greene's attack is the earliest surviving mention of Shakespeare's career in the theatre.
 1-2	Greene's	_	_	_	_	_	_	_	_
-1	Greene	Greene	PROPN	SP	_	3	nmod	_	_
+1	Greene	Greene	PROPN	SP	_	3	nmod:poss	_	_
 2	's	's	PART	PART	_	1	case	_	_
 3	attack	attack	NOUN	S	Number=Sing	8	nsubj	_	_
 4	is	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
@@ -43443,7 +43443,7 @@
 8	mention	mention	NOUN	S	Number=Sing	0	root	_	_
 9	of	of	ADP	E	_	12	case	_	_
 10-11	Shakespeare's	_	_	_	_	_	_	_	_
-10	Shakespeare	Shakespeare	PROPN	SP	_	12	nmod	_	_
+10	Shakespeare	Shakespeare	PROPN	SP	_	12	nmod:poss	_	_
 11	's	's	PART	PART	_	10	case	_	_
 12	career	career	NOUN	S	Number=Sing	8	nmod	_	_
 13	in	in	ADP	E	_	15	case	_	_
@@ -43470,7 +43470,7 @@
 15	just	just	ADV	B	_	19	advmod	_	_
 16	before	before	ADP	E	_	19	case	_	_
 17-18	Greene's	_	_	_	_	_	_	_	_
-17	Greene	Greene	PROPN	SP	_	19	nmod	_	_
+17	Greene	Greene	PROPN	SP	_	19	nmod:poss	_	_
 18	's	's	PART	PART	_	17	case	_	_
 19	remarks	remark	NOUN	S	Number=Plur	8	obl	_	SpaceAfter=No
 20	.	.	PUNCT	FS	_	2	punct	_	_
@@ -43481,7 +43481,7 @@
 2	1594	1594	NUM	N	NumType=Card	8	obl	_	SpaceAfter=No
 3	,	,	PUNCT	FF	_	2	punct	_	_
 4-5	Shakespeare's	_	_	_	_	_	_	_	_
-4	Shakespeare	Shakespeare	PROPN	SP	_	6	nmod	_	_
+4	Shakespeare	Shakespeare	PROPN	SP	_	6	nmod:poss	_	_
 5	's	's	PART	PART	_	4	case	_	_
 6	plays	play	NOUN	S	Number=Plur	8	nsubj:pass	_	_
 7	were	be	AUX	VA	Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	8	aux:pass	_	_
@@ -43551,7 +43551,7 @@
 29	to	to	ADP	E	_	33	case	_	_
 30	the	the	DET	RD	Definite=Def|PronType=Art	31	det	_	_
 31-32	King's	_	_	_	_	_	_	_	_
-31	King	king	NOUN	S	Number=Sing	33	nmod	_	_
+31	King	king	NOUN	S	Number=Sing	33	nmod:poss	_	_
 32	's	's	PART	PART	_	31	case	_	_
 33	Men	man	NOUN	S	Number=Plur	26	obl	_	SpaceAfter=No
 34	.	.	PUNCT	FS	_	13	punct	_	_
@@ -43612,7 +43612,7 @@
 1	Some	some	PRON	PI	PronType=Ind	7	nsubj:pass	_	_
 2	of	of	ADP	E	_	5	case	_	_
 3-4	Shakespeare's	_	_	_	_	_	_	_	_
-3	Shakespeare	Shakespeare	PROPN	SP	_	5	nmod	_	_
+3	Shakespeare	Shakespeare	PROPN	SP	_	5	nmod:poss	_	_
 4	's	's	PART	PART	_	3	case	_	_
 5	plays	play	NOUN	S	Number=Plur	1	nmod	_	_
 6	were	be	AUX	VA	Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	7	aux:pass	_	_
@@ -43672,7 +43672,7 @@
 2	1616	1616	NUM	N	NumType=Card	3	nummod	_	_
 3	edition	edition	NOUN	S	Number=Sing	9	nsubj	_	_
 4	of	of	ADP	E	_	8	case	_	_
-5	Ben	Ben	PROPN	SP	_	8	nmod	_	_
+5	Ben	Ben	PROPN	SP	_	8	nmod:poss	_	_
 6-7	Jonson's	_	_	_	_	_	_	_	_
 6	Jonson	Jonson	PROPN	SP	_	5	flat	_	_
 7	's	's	PART	PART	_	5	case	_	_
@@ -43715,7 +43715,7 @@
 10	list	list	NOUN	S	Number=Sing	2	nmod	_	_
 11	for	for	ADP	E	_	14	case	_	_
 12-13	Jonson's	_	_	_	_	_	_	_	_
-12	Jonson	Jonson	PROPN	SP	_	14	nmod	_	_
+12	Jonson	Jonson	PROPN	SP	_	14	nmod:poss	_	_
 13	's	's	PART	PART	_	12	case	_	_
 14	Volpone	Volpone	PROPN	SP	_	10	nmod	_	_
 15	is	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	aux:pass	_	_
@@ -43823,7 +43823,7 @@
 13	ghost	ghost	NOUN	S	Number=Sing	11	xcomp	_	_
 14	of	of	ADP	E	_	17	case	_	_
 15-16	Hamlet's	_	_	_	_	_	_	_	_
-15	Hamlet	Hamlet	PROPN	SP	_	17	nmod	_	_
+15	Hamlet	Hamlet	PROPN	SP	_	17	nmod:poss	_	_
 16	's	's	PART	PART	_	15	case	_	_
 17	father	father	NOUN	S	Number=Sing	13	nmod	_	SpaceAfter=No
 18	.	.	PUNCT	FS	_	5	punct	_	_
@@ -43951,8 +43951,8 @@
 4	to	to	ADP	E	_	8	case	_	_
 5	the	the	DET	RD	Definite=Def|PronType=Art	6	det	_	_
 6-7	sharers'	_	_	_	_	_	_	_	_
-6	sharers	sharer	NOUN	S	Number=Plur	8	nmod	_	_
-7	'	'	PART	PART	_	6	case	_	_
+6	sharers	sharer	NOUN	S	Number=Plur	8	nmod:poss	_	_
+7	'	's	PART	PART	_	6	case	_	_
 8	petition	petition	NOUN	S	Number=Sing	3	nmod	_	_
 9	in	in	ADP	E	_	10	case	_	_
 10	1635	1635	NUM	N	NumType=Card	8	nummod	_	_
@@ -43976,7 +43976,7 @@
 28	,	,	PUNCT	FF	_	16	punct	_	_
 29	the	the	DET	RD	Definite=Def|PronType=Art	32	det	_	_
 30-31	King's	_	_	_	_	_	_	_	_
-30	King	king	NOUN	S	Number=Sing	32	nmod	_	_
+30	King	king	NOUN	S	Number=Sing	32	nmod:poss	_	_
 31	's	's	PART	PART	_	30	case	_	_
 32	Men	man	NOUN	S	Number=Plur	34	nsubj	_	_
 33	'	'	PUNCT	FF	_	34	punct	_	SpaceAfter=No
@@ -44237,7 +44237,7 @@
 24	months	month	NOUN	S	Number=Plur	16	obl	_	_
 25	before	before	ADP	E	_	28	case	_	_
 26-27	Shakespeare's	_	_	_	_	_	_	_	_
-26	Shakespeare	Shakespeare	PROPN	SP	_	28	nmod	_	_
+26	Shakespeare	Shakespeare	PROPN	SP	_	28	nmod:poss	_	_
 27	's	's	PART	PART	_	26	case	_	_
 28	death	death	NOUN	S	Number=Sing	24	nmod	_	SpaceAfter=No
 29	.	.	PUNCT	FS	_	3	punct	_	_
@@ -44395,7 +44395,7 @@
 18	,	,	PUNCT	FF	_	19	punct	_	_
 19	ending	end	VERB	V	Number=Sing|Tense=Pres|VerbForm=Part	10	conj	_	_
 20-21	Shakespeare's	_	_	_	_	_	_	_	_
-20	Shakespeare	Shakespeare	PROPN	SP	_	23	nmod	_	_
+20	Shakespeare	Shakespeare	PROPN	SP	_	23	nmod:poss	_	_
 21	's	's	PART	PART	_	20	case	_	_
 22	direct	direct	ADJ	A	Degree=Pos	23	amod	_	_
 23	line	line	NOUN	S	Number=Sing	19	obj	_	SpaceAfter=No
@@ -44404,7 +44404,7 @@
 # sent_id = en_partut-ud-1897
 # text = Shakespeare's will scarcely mentions his wife, Anne, who was probably entitled to one third of his estate automatically.
 1-2	Shakespeare's	_	_	_	_	_	_	_	_
-1	Shakespeare	Shakespeare	PROPN	SP	_	3	nmod	_	_
+1	Shakespeare	Shakespeare	PROPN	SP	_	3	nmod:poss	_	_
 2	's	's	PART	PART	_	1	case	_	_
 3	will	will	NOUN	S	Number=Sing	5	nsubj	_	_
 4	scarcely	scarcely	ADV	B	_	5	advmod	_	_
@@ -44583,8 +44583,8 @@
 19	Cathedral	Cathedral	PROPN	SP	_	16	nmod	_	_
 20	and	and	CCONJ	CC	_	23	cc	_	_
 21-22	Poets'	_	_	_	_	_	_	_	_
-21	Poets	poet	NOUN	S	Number=Plur	23	nmod	_	_
-22	'	'	PART	PART	_	21	case	_	_
+21	Poets	poet	NOUN	S	Number=Plur	23	nmod:poss	_	_
+22	'	's	PART	PART	_	21	case	_	_
 23	Corner	corner	NOUN	S	Number=Sing	16	conj	_	_
 24	in	in	ADP	E	_	26	case	_	_
 25	Westminster	Westminster	PROPN	SP	_	26	nmod	_	_
@@ -44719,7 +44719,7 @@
 # sent_id = en_partut-ud-1910
 # text = Shakespeare's plays are difficult to date, however, and studies of the texts suggest that Titus Andronicus, The Comedy of Errors, The Taming of the Shrew and The Two Gentlemen of Verona may also belong to Shakespeare's earliest period.
 1-2	Shakespeare's	_	_	_	_	_	_	_	_
-1	Shakespeare	Shakespeare	PROPN	SP	_	3	nmod	_	_
+1	Shakespeare	Shakespeare	PROPN	SP	_	3	nmod:poss	_	_
 2	's	's	PART	PART	_	1	case	_	_
 3	plays	play	NOUN	S	Number=Plur	5	nsubj	_	_
 4	are	be	AUX	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	5	cop	_	_
@@ -44760,7 +44760,7 @@
 39	belong	belong	VERB	V	VerbForm=Inf	16	ccomp	_	_
 40	to	to	ADP	E	_	44	case	_	_
 41-42	Shakespeare's	_	_	_	_	_	_	_	_
-41	Shakespeare	Shakespeare	PROPN	SP	_	44	nmod	_	_
+41	Shakespeare	Shakespeare	PROPN	SP	_	44	nmod:poss	_	_
 42	's	's	PART	PART	_	41	case	_	_
 43	earliest	earliest	ADJ	A	Degree=Sup	44	amod	_	_
 44	period	period	NOUN	S	Number=Sing	39	obl	_	SpaceAfter=No
@@ -44780,7 +44780,7 @@
 10	1587	1587	NUM	N	NumType=Card	11	nummod	_	_
 11	edition	edition	NOUN	S	Number=Sing	6	obl	_	_
 12	of	of	ADP	E	_	16	case	_	_
-13	Raphael	Raphael	PROPN	SP	_	16	nmod	_	_
+13	Raphael	Raphael	PROPN	SP	_	16	nmod:poss	_	_
 14-15	Holinshed's	_	_	_	_	_	_	_	_
 14	Holinshed	Holinshed	PROPN	SP	_	13	flat	_	_
 15	's	's	PART	PART	_	13	case	_	_
@@ -44924,7 +44924,7 @@
 17	,	,	PUNCT	FF	_	4	punct	_	_
 18	the	the	DET	RD	Definite=Def|PronType=Art	19	det	_	_
 19-20	Shrew's	_	_	_	_	_	_	_	_
-19	Shrew	shrew	NOUN	S	Number=Sing	21	nmod	_	_
+19	Shrew	shrew	NOUN	S	Number=Sing	21	nmod:poss	_	_
 20	's	's	PART	PART	_	19	case	_	_
 21	story	story	NOUN	S	Number=Sing	35	nsubj	_	_
 22	of	of	ADP	E	_	24	case	_	_
@@ -44933,7 +44933,7 @@
 25	of	of	ADP	E	_	30	case	_	_
 26	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	27	det	_	_
 27-28	woman's	_	_	_	_	_	_	_	_
-27	woman	woman	NOUN	S	Number=Sing	30	nmod	_	_
+27	woman	woman	NOUN	S	Number=Sing	30	nmod:poss	_	_
 28	's	's	PART	PART	_	27	case	_	_
 29	independent	independent	ADJ	A	Degree=Pos	30	amod	_	_
 30	spirit	spirit	NOUN	S	Number=Sing	24	nmod	_	_
@@ -44951,7 +44951,7 @@
 # sent_id = en_partut-ud-1915
 # text = Shakespeare's early classical and Italianate comedies, containing tight double plots and precise comic sequences, give way in the Mid-1590s to the romantic atmosphere of his greatest comedies.
 1-2	Shakespeare's	_	_	_	_	_	_	_	_
-1	Shakespeare	Shakespeare	PROPN	SP	_	7	nmod	_	_
+1	Shakespeare	Shakespeare	PROPN	SP	_	7	nmod:poss	_	_
 2	's	's	PART	PART	_	1	case	_	_
 3	early	early	ADV	B	_	4	advmod	_	_
 4	classical	classic	ADJ	A	Degree=Pos	7	amod	_	_
@@ -44988,7 +44988,7 @@
 1	A	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	3	det	_	_
 2	Midsummer	midsummer	NOUN	S	Number=Sing	3	nmod	_	_
 3-4	Night's	_	_	_	_	_	_	_	_
-3	Night	night	NOUN	S	Number=Sing	5	nmod	_	_
+3	Night	night	NOUN	S	Number=Sing	5	nmod:poss	_	_
 4	's	's	PART	PART	_	3	case	_	_
 5	Dream	dream	NOUN	S	Number=Sing	9	nsubj	_	_
 6	is	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
@@ -45010,7 +45010,7 @@
 # sent_id = en_partut-ud-1917
 # text = Shakespeare's next comedy, the equally romantic Merchant of Venice, contains a portrayal of the vengeful Jewish moneylender Shylock, which reflects Elizabethan views but may appear derogatory to modern audiences.
 1-2	Shakespeare's	_	_	_	_	_	_	_	_
-1	Shakespeare	Shakespeare	PROPN	SP	_	4	nmod	_	_
+1	Shakespeare	Shakespeare	PROPN	SP	_	4	nmod:poss	_	_
 2	's	's	PART	PART	_	1	case	_	_
 3	next	next	ADJ	A	Degree=Pos	4	amod	_	_
 4	comedy	comedy	NOUN	S	Number=Sing	13	nsubj	_	SpaceAfter=No
@@ -45076,7 +45076,7 @@
 27	Night	night	NOUN	S	Number=Sing	24	nmod	_	_
 28	complete	complete	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	0	root	_	_
 29-30	Shakespeare's	_	_	_	_	_	_	_	_
-29	Shakespeare	Shakespeare	PROPN	SP	_	31	nmod	_	_
+29	Shakespeare	Shakespeare	PROPN	SP	_	31	nmod:poss	_	_
 30	's	's	PART	PART	_	29	case	_	_
 31	sequence	sequence	NOUN	S	Number=Sing	28	obj	_	_
 32	of	of	ADP	E	_	34	case	_	_
@@ -45125,7 +45125,7 @@
 4	—	—	PUNCT	FB	_	5	punct	_	_
 5	based	base	VERB	V	Tense=Past|VerbForm=Part	2	acl	_	_
 6	on	on	ADP	E	_	12	case	_	_
-7	Sir	Sir	PROPN	SP	_	12	nmod	_	_
+7	Sir	Sir	PROPN	SP	_	12	nmod:poss	_	_
 8	Thomas	Thomas	PROPN	SP	_	7	flat	_	_
 9-10	North's	_	_	_	_	_	_	_	_
 9	North	north	ADJ	A	Degree=Pos	7	flat	_	_
@@ -45134,7 +45134,7 @@
 12	translation	translation	NOUN	S	Number=Sing	5	obl	_	_
 13	of	of	ADP	E	_	17	case	_	_
 14-15	Plutarch's	_	_	_	_	_	_	_	_
-14	Plutarch	Plutarch	PROPN	SP	_	17	nmod	_	_
+14	Plutarch	Plutarch	PROPN	SP	_	17	nmod:poss	_	_
 15	's	's	PART	PART	_	14	case	_	_
 16	Parallel	parallel	ADJ	A	Degree=Pos	17	amod	_	_
 17	Lives	life	NOUN	S	Number=Plur	12	nmod	_	_
@@ -45176,7 +45176,7 @@
 24	,	,	PUNCT	FF	_	29	punct	_	_
 25	even	even	ADV	B	_	29	advmod	_	_
 26-27	Shakespeare's	_	_	_	_	_	_	_	_
-26	Shakespeare	Shakespeare	PROPN	SP	_	29	nmod	_	_
+26	Shakespeare	Shakespeare	PROPN	SP	_	29	nmod:poss	_	_
 27	's	's	PART	PART	_	26	case	_	_
 28	own	own	ADJ	A	Degree=Pos	29	amod	_	_
 29	reflections	reflection	NOUN	S	Number=Plur	14	conj	_	_
@@ -45244,7 +45244,7 @@
 3	believe	believe	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	that	that	SCONJ	CS	_	9	mark	_	_
 5-6	Shakespeare's	_	_	_	_	_	_	_	_
-5	Shakespeare	Shakespeare	PROPN	SP	_	8	nmod	_	_
+5	Shakespeare	Shakespeare	PROPN	SP	_	8	nmod:poss	_	_
 6	's	's	PART	PART	_	5	case	_	_
 7	greatest	greatest	ADJ	A	Degree=Sup	8	amod	_	_
 8	tragedies	tragedy	NOUN	S	Number=Plur	9	nsubj	_	_
@@ -45265,7 +45265,7 @@
 5	one	one	NUM	N	NumType=Card	3	nummod	_	_
 6	of	of	ADP	E	_	11	case	_	_
 7-8	Shakespeare's	_	_	_	_	_	_	_	_
-7	Shakespeare	Shakespeare	PROPN	SP	_	11	nmod	_	_
+7	Shakespeare	Shakespeare	PROPN	SP	_	11	nmod:poss	_	_
 8	's	's	PART	PART	_	7	case	_	_
 9	most	most	ADV	B	_	10	advmod	_	_
 10	famous	famous	ADJ	A	Degree=Pos	11	amod	_	_
@@ -45341,7 +45341,7 @@
 2	plots	plot	NOUN	S	Number=Plur	8	nsubj	_	_
 3	of	of	ADP	E	_	6	case	_	_
 4-5	Shakespeare's	_	_	_	_	_	_	_	_
-4	Shakespeare	Shakespeare	PROPN	SP	_	6	nmod	_	_
+4	Shakespeare	Shakespeare	PROPN	SP	_	6	nmod:poss	_	_
 5	's	's	PART	PART	_	4	case	_	_
 6	tragedies	tragedy	NOUN	S	Number=Plur	2	nmod	_	_
 7	often	often	ADV	B	_	8	advmod	_	_
@@ -45376,7 +45376,7 @@
 6	Iago	Iago	PROPN	SP	_	5	nmod	_	_
 7	stokes	stoke	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 8-9	Othello's	_	_	_	_	_	_	_	_
-8	Othello	Othello	PROPN	SP	_	11	nmod	_	_
+8	Othello	Othello	PROPN	SP	_	11	nmod:poss	_	_
 9	's	's	PART	PART	_	8	case	_	_
 10	sexual	sexual	ADJ	A	Degree=Pos	11	amod	_	_
 11	jealousy	jealousy	NOUN	S	Number=Sing	7	obj	_	_
@@ -45433,7 +45433,7 @@
 35	murder	murder	NOUN	S	Number=Sing	25	conj	_	_
 36	of	of	ADP	E	_	40	case	_	_
 37-38	Lear's	_	_	_	_	_	_	_	_
-37	Lear	Lear	PROPN	SP	_	40	nmod	_	_
+37	Lear	Lear	PROPN	SP	_	40	nmod:poss	_	_
 38	's	's	PART	PART	_	37	case	_	_
 39	youngest	yogist	ADJ	A	Degree=Pos	40	amod	_	_
 40	daughter	daughter	NOUN	S	Number=Sing	35	nmod	_	_
@@ -45481,7 +45481,7 @@
 8	compressed	compressed	ADJ	A	Degree=Pos	5	conj	_	_
 9	of	of	ADP	E	_	12	case	_	_
 10-11	Shakespeare's	_	_	_	_	_	_	_	_
-10	Shakespeare	Shakespeare	PROPN	SP	_	12	nmod	_	_
+10	Shakespeare	Shakespeare	PROPN	SP	_	12	nmod:poss	_	_
 11	's	's	PART	PART	_	10	case	_	_
 12	tragedies	tragedy	NOUN	S	Number=Plur	5	obl	_	SpaceAfter=No
 13	,	,	PUNCT	FF	_	5	punct	_	_
@@ -45550,7 +45550,7 @@
 13	some	some	PRON	PI	PronType=Ind	12	obj	_	_
 14	of	of	ADP	E	_	18	case	_	_
 15-16	Shakespeare's	_	_	_	_	_	_	_	_
-15	Shakespeare	Shakespeare	PROPN	SP	_	18	nmod	_	_
+15	Shakespeare	Shakespeare	PROPN	SP	_	18	nmod:poss	_	_
 16	's	's	PART	PART	_	15	case	_	_
 17	finest	finest	ADJ	A	Degree=Sup	18	amod	_	_
 18	poetry	poetry	NOUN	S	Number=Sing	13	nmod	_	_
@@ -45598,7 +45598,7 @@
 2	,	,	PUNCT	FF	_	6	punct	_	_
 3	The	the	DET	RD	Definite=Def|PronType=Art	4	det	_	_
 4-5	Winter's	_	_	_	_	_	_	_	_
-4	Winter	winter	NOUN	S	Number=Sing	6	nmod	_	_
+4	Winter	winter	NOUN	S	Number=Sing	6	nmod:poss	_	_
 5	's	's	PART	PART	_	4	case	_	_
 6	Tale	tale	NOUN	S	Number=Sing	1	conj	_	_
 7	and	and	CCONJ	CC	_	9	cc	_	_
@@ -45676,7 +45676,7 @@
 17	life	life	NOUN	S	Number=Sing	15	nmod	_	_
 18	on	on	ADP	E	_	21	case	_	_
 19-20	Shakespeare's	_	_	_	_	_	_	_	_
-19	Shakespeare	Shakespeare	PROPN	SP	_	21	nmod	_	_
+19	Shakespeare	Shakespeare	PROPN	SP	_	21	nmod:poss	_	_
 20	's	's	PART	PART	_	19	case	_	_
 21	part	part	NOUN	S	Number=Sing	4	obl	_	SpaceAfter=No
 22	,	,	PUNCT	FF	_	27	punct	_	_
@@ -45745,7 +45745,7 @@
 7	3	3	NUM	N	NumType=Card	5	nummod	_	SpaceAfter=No
 8	,	,	PUNCT	FF	_	3	punct	_	_
 9-10	Shakespeare's	_	_	_	_	_	_	_	_
-9	Shakespeare	Shakespeare	PROPN	SP	_	11	nmod	_	_
+9	Shakespeare	Shakespeare	PROPN	SP	_	11	nmod:poss	_	_
 10	's	's	PART	PART	_	9	case	_	_
 11	plays	play	NOUN	S	Number=Plur	13	nsubj:pass	_	_
 12	were	be	AUX	VA	Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	13	aux:pass	_	_
@@ -45883,7 +45883,7 @@
 1	Most	most	ADJ	A	Degree=Sup	9	nsubj:pass	_	_
 2	of	of	ADP	E	_	7	case	_	_
 3-4	Shakespeare's	_	_	_	_	_	_	_	_
-3	Shakespeare	Shakespeare	PROPN	SP	_	7	nmod	_	_
+3	Shakespeare	Shakespeare	PROPN	SP	_	7	nmod:poss	_	_
 4	's	's	PART	PART	_	3	case	_	_
 5	greatest	greatest	ADJ	A	Degree=Sup	6	amod	_	_
 6	post-1599	post-1599	ADJ	A	Degree=Pos	7	nmod	_	_
@@ -45916,7 +45916,7 @@
 8	renamed	rename	VERB	V	Tense=Past|VerbForm=Part	17	advcl	_	_
 9	the	the	DET	RD	Definite=Def|PronType=Art	10	det	_	_
 10-11	King's	_	_	_	_	_	_	_	_
-10	King	king	NOUN	S	Number=Sing	12	nmod	_	_
+10	King	king	NOUN	S	Number=Sing	12	nmod:poss	_	_
 11	's	's	PART	PART	_	10	case	_	_
 12	Men	man	NOUN	S	Number=Plur	8	xcomp	_	_
 13	in	in	ADP	E	_	14	case	_	_
@@ -45945,14 +45945,14 @@
 7	,	,	PUNCT	FF	_	6	punct	_	_
 8	the	the	DET	RD	Definite=Def|PronType=Art	9	det	_	_
 9-10	King's	_	_	_	_	_	_	_	_
-9	King	king	NOUN	S	Number=Sing	11	nmod	_	_
+9	King	king	NOUN	S	Number=Sing	11	nmod:poss	_	_
 10	's	's	PART	PART	_	9	case	_	_
 11	Men	man	NOUN	S	Number=Plur	12	nsubj	_	_
 12	performed	perform	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 13	seven	seven	NUM	N	NumType=Card	12	obj	_	_
 14	of	of	ADP	E	_	17	case	_	_
 15-16	Shakespeare's	_	_	_	_	_	_	_	_
-15	Shakespeare	Shakespeare	PROPN	SP	_	17	nmod	_	_
+15	Shakespeare	Shakespeare	PROPN	SP	_	17	nmod:poss	_	_
 16	's	's	PART	PART	_	15	case	_	_
 17	plays	play	NOUN	S	Number=Plur	13	nmod	_	_
 18	at	at	ADP	E	_	19	case	_	_
@@ -46031,7 +46031,7 @@
 2	actors	actor	NOUN	S	Number=Plur	7	nsubj	_	_
 3	in	in	ADP	E	_	6	case	_	_
 4-5	Shakespeare's	_	_	_	_	_	_	_	_
-4	Shakespeare	Shakespeare	PROPN	SP	_	6	nmod	_	_
+4	Shakespeare	Shakespeare	PROPN	SP	_	6	nmod:poss	_	_
 5	's	's	PART	PART	_	4	case	_	_
 6	company	company	NOUN	S	Number=Sing	2	nmod	_	_
 7	included	include	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
@@ -46065,7 +46065,7 @@
 11	many	many	ADJ	A	Degree=Pos	9	nmod	_	_
 12	of	of	ADP	E	_	15	case	_	_
 13-14	Shakespeare's	_	_	_	_	_	_	_	_
-13	Shakespeare	Shakespeare	PROPN	SP	_	15	nmod	_	_
+13	Shakespeare	Shakespeare	PROPN	SP	_	15	nmod:poss	_	_
 14	's	's	PART	PART	_	13	case	_	_
 15	plays	play	NOUN	S	Number=Plur	11	obl	_	SpaceAfter=No
 16	,	,	PUNCT	FF	_	15	punct	_	_
@@ -46202,13 +46202,13 @@
 10	two	two	NUM	N	NumType=Card	4	nummod	_	_
 11	of	of	ADP	E	_	14	case	_	_
 12-13	Shakespeare's	_	_	_	_	_	_	_	_
-12	Shakespeare	Shakespeare	PROPN	SP	_	14	nmod	_	_
+12	Shakespeare	Shakespeare	PROPN	SP	_	14	nmod:poss	_	_
 13	's	's	PART	PART	_	12	case	_	_
 14	friends	friend	NOUN	S	Number=Plur	10	nmod	_	_
 15	from	from	ADP	E	_	19	case	_	_
 16	the	the	DET	RD	Definite=Def|PronType=Art	17	det	_	_
 17-18	King's	_	_	_	_	_	_	_	_
-17	King	king	NOUN	S	Number=Sing	19	nmod	_	_
+17	King	king	NOUN	S	Number=Sing	19	nmod:poss	_	_
 18	's	's	PART	PART	_	17	case	_	_
 19	Men	man	NOUN	S	Number=Plur	14	nmod	_	SpaceAfter=No
 20	,	,	PUNCT	FF	_	4	punct	_	_
@@ -46222,7 +46222,7 @@
 28	edition	edition	NOUN	S	Number=Sing	24	nmod	_	_
 29	of	of	ADP	E	_	32	case	_	_
 30-31	Shakespeare's	_	_	_	_	_	_	_	_
-30	Shakespeare	Shakespeare	PROPN	SP	_	32	nmod	_	_
+30	Shakespeare	Shakespeare	PROPN	SP	_	32	nmod:poss	_	_
 31	's	's	PART	PART	_	30	case	_	_
 32	plays	play	NOUN	S	Number=Plur	28	nmod	_	SpaceAfter=No
 33	.	.	PUNCT	FS	_	21	punct	_	_
@@ -46353,7 +46353,7 @@
 19	or	or	CCONJ	CC	_	24	cc	_	_
 20	from	from	ADP	E	_	24	case	_	_
 21-22	Shakespeare's	_	_	_	_	_	_	_	_
-21	Shakespeare	Shakespeare	PROPN	SP	_	24	nmod	_	_
+21	Shakespeare	Shakespeare	PROPN	SP	_	24	nmod:poss	_	_
 22	's	's	PART	PART	_	21	case	_	_
 23	own	own	ADJ	A	Degree=Pos	24	amod	_	_
 24	papers	paper	NOUN	S	Number=Plur	12	conj	_	SpaceAfter=No
@@ -46519,7 +46519,7 @@
 1	Influenced	influence	VERB	V	Tense=Past|VerbForm=Part	8	acl	_	_
 2	by	by	ADP	E	_	5	case	_	_
 3-4	Ovid's	_	_	_	_	_	_	_	_
-3	Ovid	ovid	NOUN	S	Number=Sing	5	nmod	_	_
+3	Ovid	ovid	NOUN	S	Number=Sing	5	nmod:poss	_	_
 4	's	's	PART	PART	_	3	case	_	_
 5	Metamorphoses	metamorphosis	NOUN	S	Number=Plur	1	obl	_	SpaceAfter=No
 6	,	,	PUNCT	FF	_	1	punct	_	_
@@ -46549,7 +46549,7 @@
 7	reprinted	reprint	VERB	V	Tense=Past|VerbForm=Part	2	conj	_	_
 8	during	during	ADP	E	_	11	case	_	_
 9-10	Shakespeare's	_	_	_	_	_	_	_	_
-9	Shakespeare	Shakespeare	PROPN	SP	_	11	nmod	_	_
+9	Shakespeare	Shakespeare	PROPN	SP	_	11	nmod:poss	_	_
 10	's	's	PART	PART	_	9	case	_	_
 11	lifetime	lifetime	NOUN	S	Number=Sing	7	obl	_	SpaceAfter=No
 12	.	.	PUNCT	FS	_	2	punct	_	_
@@ -46563,7 +46563,7 @@
 5	,	,	PUNCT	FF	_	4	punct	_	_
 6	A	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	7	det	_	_
 7-8	Lover's	_	_	_	_	_	_	_	_
-7	Lover	lover	NOUN	S	Number=Sing	9	nmod	_	_
+7	Lover	lover	NOUN	S	Number=Sing	9	nmod:poss	_	_
 8	's	's	PART	PART	_	7	case	_	_
 9	Complaint	complaint	NOUN	S	Number=Sing	4	appos	_	SpaceAfter=No
 10	,	,	PUNCT	FF	_	9	punct	_	_
@@ -46604,7 +46604,7 @@
 7	wrote	write	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	4	ccomp	_	_
 8	A	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	9	det	_	_
 9-10	Lover's	_	_	_	_	_	_	_	_
-9	Lover	lover	NOUN	S	Number=Sing	11	nmod	_	_
+9	Lover	lover	NOUN	S	Number=Sing	11	nmod:poss	_	_
 10	's	's	PART	PART	_	9	case	_	_
 11	Complaint	complaint	NOUN	S	Number=Sing	7	obj	_	SpaceAfter=No
 12	.	.	PUNCT	FS	_	4	punct	_	_
@@ -46634,13 +46634,13 @@
 6	,	,	PUNCT	FF	_	2	punct	_	_
 7	printed	print	VERB	V	Tense=Past|VerbForm=Part	2	acl	_	_
 8	in	in	ADP	E	_	15	case	_	_
-9	Robert	Robert	PROPN	SP	_	15	nmod	_	_
+9	Robert	Robert	PROPN	SP	_	15	nmod:poss	_	_
 10-11	Chester's	_	_	_	_	_	_	_	_
 10	Chester	Chester	PROPN	SP	_	9	flat	_	_
 11	's	's	PART	PART	_	9	case	_	_
 12	1601	1601	NUM	N	NumType=Card	15	nummod	_	_
 13-14	Love's	_	_	_	_	_	_	_	_
-13	Love	love	NOUN	S	Number=Sing	15	nmod	_	_
+13	Love	love	NOUN	S	Number=Sing	15	nmod:poss	_	_
 14	's	's	PART	PART	_	13	case	_	_
 15	Martyr	martyr	NOUN	S	Number=Sing	7	obl	_	SpaceAfter=No
 16	,	,	PUNCT	FF	_	2	punct	_	_
@@ -46683,7 +46683,7 @@
 18	published	publish	VERB	V	Tense=Past|VerbForm=Part	16	acl	_	_
 19	under	under	ADP	E	_	22	case	_	_
 20-21	Shakespeare's	_	_	_	_	_	_	_	_
-20	Shakespeare	Shakespeare	PROPN	SP	_	22	nmod	_	_
+20	Shakespeare	Shakespeare	PROPN	SP	_	22	nmod:poss	_	_
 21	's	's	PART	PART	_	20	case	_	_
 22	name	name	NOUN	S	Number=Sing	18	obl	_	_
 23	but	but	CCONJ	CC	_	26	cc	_	_
@@ -46705,7 +46705,7 @@
 9	last	last	NOUN	S	Number=Sing	0	root	_	_
 10	of	of	ADP	E	_	16	case	_	_
 11-12	Shakespeare's	_	_	_	_	_	_	_	_
-11	Shakespeare	Shakespeare	PROPN	SP	_	16	nmod	_	_
+11	Shakespeare	Shakespeare	PROPN	SP	_	16	nmod:poss	_	_
 12	's	's	PART	PART	_	11	case	_	_
 13	non	non	ADV	BN	PronType=Neg	15	advmod	_	SpaceAfter=No
 14	-	-	PUNCT	FF	_	13	punct	_	SpaceAfter=No
@@ -46771,7 +46771,7 @@
 20	1598	1598	NUM	N	NumType=Card	18	obl	_	_
 21	to	to	ADP	E	_	26	case	_	_
 22-23	Shakespeare's	_	_	_	_	_	_	_	_
-22	Shakespeare	Shakespeare	PROPN	SP	_	26	nmod	_	_
+22	Shakespeare	Shakespeare	PROPN	SP	_	26	nmod:poss	_	_
 23	's	's	PART	PART	_	22	case	_	_
 24	"	"	PUNCT	FB	_	26	punct	_	SpaceAfter=No
 25	sugred	sugred	ADJ	A	Degree=Pos	26	amod	_	_
@@ -46794,7 +46794,7 @@
 7	collection	collection	NOUN	S	Number=Sing	8	nsubj	_	_
 8	follows	follow	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ccomp	_	_
 9-10	Shakespeare's	_	_	_	_	_	_	_	_
-9	Shakespeare	Shakespeare	PROPN	SP	_	12	nmod	_	_
+9	Shakespeare	Shakespeare	PROPN	SP	_	12	nmod:poss	_	_
 10	's	's	PART	PART	_	9	case	_	_
 11	intended	intend	VERB	V	Tense=Past|VerbForm=Part	12	acl	_	_
 12	sequence	sequence	NOUN	S	Number=Sing	8	obj	_	SpaceAfter=No
@@ -46949,7 +46949,7 @@
 # sent_id = en_partut-ud-1986
 # text = Shakespeare's first plays were written in the conventional style of the day.
 1-2	Shakespeare's	_	_	_	_	_	_	_	_
-1	Shakespeare	Shakespeare	PROPN	SP	_	4	nmod	_	_
+1	Shakespeare	Shakespeare	PROPN	SP	_	4	nmod:poss	_	_
 2	's	's	PART	PART	_	1	case	_	_
 3	first	first	ADJ	NO	Degree=Pos|NumType=Ord	4	amod	_	_
 4	plays	play	NOUN	S	Number=Plur	6	nsubj:pass	_	_
@@ -47115,7 +47115,7 @@
 4	time	time	NOUN	S	Number=Sing	12	obl	_	SpaceAfter=No
 5	,	,	PUNCT	FF	_	4	punct	_	_
 6-7	Richard's	_	_	_	_	_	_	_	_
-6	Richard	Richard	PROPN	SP	_	11	nmod	_	_
+6	Richard	Richard	PROPN	SP	_	11	nmod:poss	_	_
 7	's	's	PART	PART	_	6	case	_	_
 8	vivid	vivid	ADJ	A	Degree=Pos	11	amod	_	_
 9	self	self	ADJ	A	Degree=Pos	11	amod	_	SpaceAfter=No
@@ -47128,7 +47128,7 @@
 16	soliloquies	soliloquies	NOUN	S	Number=Plur	12	obl	_	_
 17	of	of	ADP	E	_	21	case	_	_
 18-19	Shakespeare's	_	_	_	_	_	_	_	_
-18	Shakespeare	Shakespeare	PROPN	SP	_	21	nmod	_	_
+18	Shakespeare	Shakespeare	PROPN	SP	_	21	nmod:poss	_	_
 19	's	's	PART	PART	_	18	case	_	_
 20	mature	mature	ADJ	A	Degree=Pos	21	amod	_	_
 21	plays	play	NOUN	S	Number=Plur	16	nmod	_	SpaceAfter=No
@@ -47194,7 +47194,7 @@
 13	A	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	15	det	_	_
 14	Midsummer	midsummer	NOUN	S	Number=Sing	15	nmod	_	_
 15-16	Night's	_	_	_	_	_	_	_	_
-15	Night	night	NOUN	S	Number=Sing	17	nmod	_	_
+15	Night	night	NOUN	S	Number=Sing	17	nmod:poss	_	_
 16	's	's	PART	PART	_	15	case	_	_
 17	Dream	dream	NOUN	S	Number=Sing	9	conj	_	_
 18	in	in	ADP	E	_	20	case	_	_
@@ -47233,7 +47233,7 @@
 # sent_id = en_partut-ud-1998
 # text = Shakespeare's standard poetic form was blank verse, composed in iambic pentameter.
 1-2	Shakespeare's	_	_	_	_	_	_	_	_
-1	Shakespeare	Shakespeare	PROPN	SP	_	5	nmod	_	_
+1	Shakespeare	Shakespeare	PROPN	SP	_	5	nmod:poss	_	_
 2	's	's	PART	PART	_	1	case	_	_
 3	standard	standard	ADJ	A	Degree=Pos	5	amod	_	_
 4	poetic	poetic	ADJ	A	Degree=Pos	5	amod	_	_
@@ -47388,7 +47388,7 @@
 11	turmoil	turmoil	NOUN	S	Number=Sing	9	obj	_	_
 12	in	in	ADP	E	_	15	case	_	_
 13-14	Hamlet's	_	_	_	_	_	_	_	_
-13	Hamlet	Hamlet	PROPN	SP	_	15	nmod	_	_
+13	Hamlet	Hamlet	PROPN	SP	_	15	nmod:poss	_	_
 14	's	's	PART	PART	_	13	case	_	_
 15	mind	mind	NOUN	S	Number=Sing	9	obl	_	SpaceAfter=No
 16	.	.	PUNCT	FS	_	2	punct	_	_
@@ -47656,7 +47656,7 @@
 # text = As Shakespeare's mastery grew, he gave his characters clearer and more varied motivations and distinctive patterns of speech.
 1	As	as	SCONJ	CS	_	5	mark	_	_
 2-3	Shakespeare's	_	_	_	_	_	_	_	_
-2	Shakespeare	Shakespeare	PROPN	SP	_	4	nmod	_	_
+2	Shakespeare	Shakespeare	PROPN	SP	_	4	nmod:poss	_	_
 3	's	's	PART	PART	_	2	case	_	_
 4	mastery	mastery	NOUN	S	Number=Sing	5	nsubj	_	_
 5	grew	grow	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
@@ -47697,7 +47697,7 @@
 # sent_id = en_partut-ud-2019
 # text = Shakespeare's work has made a lasting impression on later theatre and literature.
 1-2	Shakespeare's	_	_	_	_	_	_	_	_
-1	Shakespeare	Shakespeare	PROPN	SP	_	3	nmod	_	_
+1	Shakespeare	Shakespeare	PROPN	SP	_	3	nmod:poss	_	_
 2	's	's	PART	PART	_	1	case	_	_
 3	work	work	NOUN	S	Number=Sing	5	nsubj	_	_
 4	has	have	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
@@ -47781,8 +47781,8 @@
 5	to	to	PART	PART	_	6	mark	_	_
 6	explore	explore	VERB	V	VerbForm=Inf	3	xcomp	_	_
 7-8	characters'	_	_	_	_	_	_	_	_
-7	characters	character	NOUN	S	Number=Plur	9	nmod	_	_
-8	'	'	PART	PART	_	7	case	_	_
+7	characters	character	NOUN	S	Number=Plur	9	nmod:poss	_	_
+8	'	's	PART	PART	_	7	case	_	_
 9	minds	mind	NOUN	S	Number=Plur	6	obj	_	SpaceAfter=No
 10	.	.	PUNCT	FS	_	3	punct	_	_
 
@@ -47905,7 +47905,7 @@
 8	linked	link	VERB	V	Tense=Past|VerbForm=Part	7	acl	_	_
 9	to	to	ADP	E	_	12	case	_	_
 10-11	Shakespeare's	_	_	_	_	_	_	_	_
-10	Shakespeare	Shakespeare	PROPN	SP	_	12	nmod	_	_
+10	Shakespeare	Shakespeare	PROPN	SP	_	12	nmod:poss	_	_
 11	's	's	PART	PART	_	10	case	_	_
 12	works	work	NOUN	S	Number=Plur	8	obl	_	SpaceAfter=No
 13	.	.	PUNCT	FS	_	3	punct	_	_
@@ -48102,7 +48102,7 @@
 5	Parnassus	Parnassus	PROPN	SP	_	6	nmod	_	_
 6	plays	play	NOUN	S	Number=Plur	2	nmod	_	_
 7	at	at	ADP	E	_	11	case	_	_
-8	St	St	PROPN	SP	_	11	nmod	_	_
+8	St	St	PROPN	SP	_	11	nmod:poss	_	_
 9-10	John's	_	_	_	_	_	_	_	_
 9	John	John	PROPN	SP	_	8	flat	_	_
 10	's	's	PART	PART	_	8	case	_	_
@@ -48264,7 +48264,7 @@
 3	decades	decade	NOUN	S	Number=Plur	8	obl	_	SpaceAfter=No
 4	,	,	PUNCT	FF	_	3	punct	_	_
 5-6	Rymer's	_	_	_	_	_	_	_	_
-5	Rymer	Rymer	PROPN	SP	_	7	nmod	_	_
+5	Rymer	Rymer	PROPN	SP	_	7	nmod:poss	_	_
 6	's	's	PART	PART	_	5	case	_	_
 7	view	view	NOUN	S	Number=Sing	8	nsubj	_	_
 8	held	hold	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
@@ -48418,7 +48418,7 @@
 8	admiration	admiration	NOUN	S	Number=Sing	14	nsubj	_	_
 9	for	for	ADP	E	_	12	case	_	_
 10-11	Shakespeare's	_	_	_	_	_	_	_	_
-10	Shakespeare	Shakespeare	PROPN	SP	_	12	nmod	_	_
+10	Shakespeare	Shakespeare	PROPN	SP	_	12	nmod:poss	_	_
 11	's	's	PART	PART	_	10	case	_	_
 12	genius	genius	NOUN	S	Number=Sing	8	nmod	_	_
 13	often	often	ADV	B	_	14	advmod	_	_
@@ -48523,7 +48523,7 @@
 6	naturalism	naturalism	NOUN	S	Number=Sing	12	nsubj	_	_
 7	of	of	ADP	E	_	10	case	_	_
 8-9	Ibsen's	_	_	_	_	_	_	_	_
-8	Ibsen	Ibsen	PROPN	SP	_	10	nmod	_	_
+8	Ibsen	Ibsen	PROPN	SP	_	10	nmod:poss	_	_
 9	's	's	PART	PART	_	8	case	_	_
 10	plays	play	NOUN	S	Number=Plur	6	nmod	_	_
 11	had	have	AUX	VA	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	12	aux	_	_
@@ -48615,7 +48615,7 @@
 10	Shaw	Shaw	PROPN	SP	_	8	obl	_	_
 11	that	that	SCONJ	CS	_	19	mark	_	_
 12-13	Shakespeare's	_	_	_	_	_	_	_	_
-12	Shakespeare	Shakespeare	PROPN	SP	_	15	nmod	_	_
+12	Shakespeare	Shakespeare	PROPN	SP	_	15	nmod:poss	_	_
 13	's	's	PART	PART	_	12	case	_	_
 14	"	"	PUNCT	FB	_	15	punct	_	SpaceAfter=No
 15	primitiveness	primitiveness	NOUN	S	Number=Sing	19	nsubj	_	SpaceAfter=No
@@ -48653,7 +48653,7 @@
 21	reading	reading	NOUN	S	Number=Sing	15	obl	_	_
 22	of	of	ADP	E	_	25	case	_	_
 23-24	Shakespeare's	_	_	_	_	_	_	_	_
-23	Shakespeare	Shakespeare	PROPN	SP	_	25	nmod	_	_
+23	Shakespeare	Shakespeare	PROPN	SP	_	25	nmod:poss	_	_
 24	's	's	PART	PART	_	23	case	_	_
 25	imagery	imagery	NOUN	S	Number=Sing	21	nmod	_	SpaceAfter=No
 26	.	.	PUNCT	FS	_	15	punct	_	_
@@ -48695,7 +48695,7 @@
 3	years	year	NOUN	S	Number=Plur	10	obl	_	_
 4	after	after	ADP	E	_	7	case	_	_
 5-6	Shakespeare's	_	_	_	_	_	_	_	_
-5	Shakespeare	Shakespeare	PROPN	SP	_	7	nmod	_	_
+5	Shakespeare	Shakespeare	PROPN	SP	_	7	nmod:poss	_	_
 6	's	's	PART	PART	_	5	case	_	_
 7	death	death	NOUN	S	Number=Sing	3	nmod	_	SpaceAfter=No
 8	,	,	PUNCT	FF	_	3	punct	_	_
@@ -48761,7 +48761,7 @@
 5	members	member	NOUN	S	Number=Plur	11	nsubj	_	_
 6	of	of	ADP	E	_	9	case	_	_
 7-8	Shakespeare's	_	_	_	_	_	_	_	_
-7	Shakespeare	Shakespeare	PROPN	SP	_	9	nmod	_	_
+7	Shakespeare	Shakespeare	PROPN	SP	_	9	nmod:poss	_	_
 8	's	's	PART	PART	_	7	case	_	_
 9	family	family	NOUN	S	Number=Sing	5	nmod	_	_
 10	were	be	AUX	V	Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin	11	cop	_	_
@@ -48782,7 +48782,7 @@
 # sent_id = en_partut-ud-2072
 # text = Shakespeare's mother, Mary Arden, certainly came from a pious Catholic family.
 1-2	Shakespeare's	_	_	_	_	_	_	_	_
-1	Shakespeare	Shakespeare	PROPN	SP	_	3	nmod	_	_
+1	Shakespeare	Shakespeare	PROPN	SP	_	3	nmod:poss	_	_
 2	's	's	PART	PART	_	1	case	_	_
 3	mother	mother	NOUN	S	Number=Sing	9	nsubj	_	SpaceAfter=No
 4	,	,	PUNCT	FF	_	3	punct	_	_
@@ -48885,7 +48885,7 @@
 4	name	name	NOUN	S	Number=Sing	10	nsubj	_	_
 5	of	of	ADP	E	_	8	case	_	_
 6-7	William's	_	_	_	_	_	_	_	_
-6	William	William	PROPN	SP	_	8	nmod	_	_
+6	William	William	PROPN	SP	_	8	nmod:poss	_	_
 7	's	's	PART	PART	_	6	case	_	_
 8	daughter	daughter	NOUN	S	Number=Sing	4	nmod	_	_
 9	Susanna	Susanna	PROPN	SP	_	8	nmod	_	_
@@ -48915,7 +48915,7 @@
 6	and	and	CCONJ	CC	_	7	cc	_	_
 7	against	against	ADP	E	_	5	conj	_	_
 8-9	Shakespeare's	_	_	_	_	_	_	_	_
-8	Shakespeare	Shakespeare	PROPN	SP	_	10	nmod	_	_
+8	Shakespeare	Shakespeare	PROPN	SP	_	10	nmod:poss	_	_
 9	's	's	PART	PART	_	8	case	_	_
 10	Catholicism	catholicism	NOUN	S	Number=Sing	2	obl	_	_
 11	in	in	ADP	E	_	13	case	_	_
@@ -48940,7 +48940,7 @@
 2	details	detail	NOUN	S	Number=Plur	8	nsubj	_	_
 3	of	of	ADP	E	_	6	case	_	_
 4-5	Shakespeare's	_	_	_	_	_	_	_	_
-4	Shakespeare	Shakespeare	PROPN	SP	_	6	nmod	_	_
+4	Shakespeare	Shakespeare	PROPN	SP	_	6	nmod:poss	_	_
 5	's	's	PART	PART	_	4	case	_	_
 6	sexuality	sexuality	NOUN	S	Number=Sing	2	nmod	_	_
 7	are	be	AUX	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	8	cop	_	_
@@ -48980,7 +48980,7 @@
 7	posited	posit	VERB	V	Tense=Past|VerbForm=Part	0	root	_	_
 8	that	that	SCONJ	CS	_	13	mark	_	_
 9-10	Shakespeare's	_	_	_	_	_	_	_	_
-9	Shakespeare	Shakespeare	PROPN	SP	_	11	nmod	_	_
+9	Shakespeare	Shakespeare	PROPN	SP	_	11	nmod:poss	_	_
 10	's	's	PART	PART	_	9	case	_	_
 11	sonnets	sonnet	NOUN	S	Number=Plur	13	nsubj	_	_
 12	are	be	AUX	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	13	cop	_	_
@@ -49054,7 +49054,7 @@
 4	description	description	NOUN	S	Number=Sing	10	nsubj	_	_
 5	of	of	ADP	E	_	9	case	_	_
 6-7	Shakespeare's	_	_	_	_	_	_	_	_
-6	Shakespeare	Shakespeare	PROPN	SP	_	9	nmod	_	_
+6	Shakespeare	Shakespeare	PROPN	SP	_	9	nmod:poss	_	_
 7	's	's	PART	PART	_	6	case	_	_
 8	physical	physical	ADJ	A	Degree=Pos	9	amod	_	_
 9	appearance	appearance	NOUN	S	Number=Sing	4	nmod	_	_
@@ -49157,7 +49157,7 @@
 # sent_id = en_partut-ud-2087
 # text = Shakespeare's works include the 36 plays printed in the First Folio of 1623, listed below according to their Folio classification as comedies, histories and tragedies.
 1-2	Shakespeare's	_	_	_	_	_	_	_	_
-1	Shakespeare	Shakespeare	PROPN	SP	_	3	nmod	_	_
+1	Shakespeare	Shakespeare	PROPN	SP	_	3	nmod:poss	_	_
 2	's	's	PART	PART	_	1	case	_	_
 3	works	work	NOUN	S	Number=Plur	4	nsubj	_	_
 4	include	include	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	0	root	_	_
