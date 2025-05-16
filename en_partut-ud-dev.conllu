@@ -1713,7 +1713,7 @@
 2	across	across	ADP	E	_	5	case	_	_
 3	most	most	ADV	B	_	5	advmod	_	_
 4	land	land	ADJ	A	Degree=Pos	5	amod	_	_
-5	masses	masse	NOUN	S	Number=Plur	0	root	_	SpaceAfter=No
+5	masses	mass	NOUN	S	Number=Plur	0	root	_	SpaceAfter=No
 6	.	.	PUNCT	FS	_	5	punct	_	_
 
 # sent_id = en_partut-ud-933
