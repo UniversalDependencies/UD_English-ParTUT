@@ -7582,7 +7582,7 @@
 9	we	we	PRON	PE	Number=Plur|Person=1|PronType=Prs	10	nsubj	_	_
 10	express	express	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	_
 11	our	us	DET	AP	Poss=Yes|PronType=Prs	12	nmod:poss	_	_
-12	thanks	thanks	NOUN	S	Number=Sing	10	obj	_	_
+12	thanks	thanks	NOUN	S	Number=Ptan	10	obj	_	_
 13	for	for	ADP	E	_	15	case	_	_
 14	the	the	DET	RD	Definite=Def|PronType=Art	15	det	_	_
 15	work	work	NOUN	S	Number=Sing	12	nmod	_	_
@@ -8023,7 +8023,7 @@
 36	the	the	DET	RD	Definite=Def|PronType=Art	37	det	_	_
 37	form	form	NOUN	S	Number=Sing	35	obj	_	_
 38	of	of	ADP	E	_	39	case	_	_
-39	specifics	specific	NOUN	S	Number=Plur	37	nmod	_	_
+39	specifics	specifics	NOUN	S	Number=Ptan	37	nmod	_	_
 40	and	and	CCONJ	CC	_	43	cc	_	_
 41	of	of	ADP	E	_	43	case	_	_
 42	concrete	concrete	ADJ	A	Degree=Pos	43	amod	_	_
@@ -15300,7 +15300,7 @@
 21	about	about	ADP	E	_	24	case	_	_
 22	the	the	DET	RD	Definite=Def|PronType=Art	24	det	_	_
 23	environmental	environmental	ADJ	A	Degree=Pos	24	amod	_	_
-24	characteristics	characteristics	NOUN	S	Number=Plur	19	obl	_	_
+24	characteristics	characteristic	NOUN	S	Number=Plur	19	obl	_	_
 25	and	and	CCONJ	CC	_	26	cc	_	_
 26	performance	performance	NOUN	S	_	24	conj	_	_
 27	of	of	ADP	E	_	28	case	_	_
@@ -25029,7 +25029,7 @@
 25	look	look	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	23	acl:relcl	_	_
 26	after	after	ADP	E	_	28	case	_	_
 27	British	British	ADJ	A	Degree=Pos	28	amod	_	_
-28	savings	saving	NOUN	S	Number=Plur	25	obl	_	SpaceAfter=No
+28	savings	savings	NOUN	S	Number=Ptan	25	obl	_	SpaceAfter=No
 29	,	,	PUNCT	FF	_	31	punct	_	_
 30	and	and	CCONJ	CC	_	31	cc	_	_
 31	reinforces	reinforce	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	conj	_	_
@@ -25250,7 +25250,7 @@
 3	have	have	AUX	VA	VerbForm=Inf	4	aux	_	_
 4	been	be	VERB	V	Tense=Past|VerbForm=Part	0	root	_	_
 5	more	more	ADV	B	Degree=Cmp	7	advmod	_	_
-6	savings	saving	NOUN	S	Number=Plur	7	nmod	_	_
+6	savings	savings	NOUN	S	Number=Ptan	7	nmod	_	_
 7	opportunities	opportunity	NOUN	S	Number=Plur	4	nsubj	_	_
 8	for	for	ADP	E	_	9	case	_	_
 9	households	household	NOUN	S	Number=Plur	7	nmod	_	_
@@ -25536,7 +25536,7 @@
 27	London	London	PROPN	SP	_	28	nmod	_	_
 28	School	school	NOUN	S	Number=Sing	24	nmod	_	_
 29	of	of	ADP	E	_	30	case	_	_
-30	Economics	Economics	NOUN	S	Number=Sing	28	nmod	_	SpaceAfter=No
+30	Economics	Economics	NOUN	S	Number=Ptan	28	nmod	_	SpaceAfter=No
 31	,	,	PUNCT	FF	_	14	punct	_	_
 32	went	go	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 33	to	to	ADP	E	_	34	case	_	_
@@ -25839,7 +25839,7 @@
 # sent_id = en_partut-ud-1134
 # text = Quantum mechanics offers a fitting metaphor.
 1	Quantum	quantum	NOUN	S	Number=Sing	2	nmod	_	_
-2	mechanics	mechanics	NOUN	S	Number=Sing	3	nsubj	_	_
+2	mechanics	mechanics	NOUN	S	Number=Ptan	3	nsubj	_	_
 3	offers	offer	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	6	det	_	_
 5	fitting	fitting	ADJ	A	Degree=Pos	6	amod	_	_
@@ -27182,7 +27182,7 @@
 23	and	and	CCONJ	CC	_	24	cc	_	_
 24	investment	investment	NOUN	S	Number=Sing	22	conj	_	_
 25	(	(	PUNCT	FB	_	26	punct	_	SpaceAfter=No
-26	thanks	thanks	NOUN	S	Number=Sing	19	nmod	_	_
+26	thanks	thanks	NOUN	S	Number=Ptan	19	nmod	_	_
 27	to	to	ADP	E	_	31	case	_	_
 28	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	31	det	_	_
 29	vibrant	vibrant	ADJ	A	Degree=Pos	31	amod	_	_
@@ -28711,7 +28711,7 @@
 10	innovation	innovation	NOUN	S	Number=Sing	7	nmod	_	_
 11	in	in	ADP	E	_	13	case	_	_
 12	GDP	GDP	PROPN	SP	_	13	nmod	_	_
-13	statistics	statistics	NOUN	S	Number=Sing	5	obl	_	SpaceAfter=No
+13	statistics	statistic	NOUN	S	Number=Plur	5	obl	_	SpaceAfter=No
 14	.	.	PUNCT	FS	_	3	punct	_	_
 
 # sent_id = en_partut-ud-1252
@@ -28772,7 +28772,7 @@
 30	in	in	ADP	E	_	33	case	_	_
 31	the	the	DET	RD	Definite=Def|PronType=Art	33	det	_	_
 32	productivity	productivity	NOUN	S	Number=Sing	33	nmod	_	_
-33	statistics	statistics	NOUN	S	Number=Sing	28	obl	_	SpaceAfter=No
+33	statistics	statistic	NOUN	S	Number=Plur	28	obl	_	SpaceAfter=No
 34	.	.	PUNCT	FS	_	19	punct	_	_
 
 # sent_id = en_partut-ud-1254
@@ -31387,7 +31387,7 @@
 26	engineering	engineering	NOUN	S	_	22	conj	_	SpaceAfter=No
 27	,	,	PUNCT	FF	_	29	punct	_	_
 28	and	and	CCONJ	CC	_	29	cc	_	_
-29	mathematics	mathematics	NOUN	S	Number=Sing	22	conj	_	SpaceAfter=No
+29	mathematics	mathematics	NOUN	S	Number=Ptan	22	conj	_	SpaceAfter=No
 30	)	)	PUNCT	FB	_	22	punct	_	_
 31	–	–	PUNCT	FF	_	20	punct	_	_
 32	key	key	NOUN	S	Number=Sing	33	amod	_	_
@@ -32912,7 +32912,7 @@
 22	Institute	institute	NOUN	S	Number=Sing	18	nmod	_	_
 23	for	for	ADP	E	_	25	case	_	_
 24	International	international	ADJ	A	Degree=Pos	25	amod	_	_
-25	Economics	economics	NOUN	S	Number=Sing	22	nmod	_	SpaceAfter=No
+25	Economics	economics	NOUN	S	Number=Ptan	22	nmod	_	SpaceAfter=No
 26	.	.	PUNCT	FS	_	8	punct	_	SpaceAfter=No
 27	)	)	PUNCT	FB	_	8	punct	_	_
 
@@ -33006,7 +33006,7 @@
 2	is	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
 3	sensible	sensible	ADJ	A	Degree=Pos	5	amod	_	_
 4	legislative	legislative	ADJ	A	Degree=Pos	5	amod	_	_
-5	tactics	tactics	NOUN	S	Number=Sing	0	root	_	_
+5	tactics	tactic	NOUN	S	Number=Ptan	0	root	_	_
 6	but	but	CCONJ	CC	_	8	cc	_	_
 7	not	not	PART	PART	Polarity=Neg	8	advmod	_	_
 8	appealing	appealing	ADJ	A	Degree=Pos	5	conj	_	_
@@ -34911,7 +34911,7 @@
 12	the	the	DET	RD	Definite=Def|PronType=Art	13	det	_	_
 13	tropics	tropic	NOUN	S	Number=Plur	6	nmod	_	_
 14	and	and	CCONJ	CC	_	15	cc	_	_
-15	subtropics	subtropics	NOUN	S	Number=Sing	13	conj	_	SpaceAfter=No
+15	subtropics	subtropic	NOUN	S	Number=Plur	13	conj	_	SpaceAfter=No
 16	,	,	PUNCT	FF	_	6	punct	_	_
 17	with	with	ADP	E	_	23	case	_	_
 18	as	as	ADV	B	ExtPos=ADV	21	advmod	_	_
@@ -36524,7 +36524,7 @@
 16	Tours	tour	NOUN	S	Number=Plur	14	obl	_	_
 17	to	to	PART	PART	_	18	mark	_	_
 18	coordinate	coordinate	VERB	V	VerbForm=Inf	14	advcl	_	_
-19	supplies	supply	NOUN	S	Number=Plur	18	obj	_	_
+19	supplies	supplies	NOUN	S	Number=Ptan	18	obj	_	_
 20	for	for	ADP	E	_	22	case	_	_
 21	the	the	DET	RD	Definite=Def|PronType=Art	22	det	_	_
 22	Army	army	NOUN	S	Number=Sing	18	obl	_	SpaceAfter=No
@@ -36975,7 +36975,7 @@
 18	,	,	PUNCT	FF	_	19	punct	_	_
 19	philosophy	philosophy	NOUN	S	Number=Sing	13	conj	_	_
 20	and	and	CCONJ	CC	_	21	cc	_	_
-21	physics	physics	NOUN	S	Number=Sing	13	conj	_	SpaceAfter=No
+21	physics	physics	NOUN	S	Number=Ptan	13	conj	_	SpaceAfter=No
 22	.	.	PUNCT	FS	_	3	punct	_	_
 
 # sent_id = en_partut-ud-1581
@@ -37996,7 +37996,7 @@
 15	editions	edition	NOUN	S	Number=Plur	9	obj	_	_
 16	of	of	ADP	E	_	18	case	_	_
 17	French	French	ADJ	A	Degree=Pos	18	amod	_	_
-18	classics	classics	NOUN	S	Number=Sing	15	nmod	_	_
+18	classics	classic	NOUN	S	Number=Plur	15	nmod	_	_
 19	including	include	VERB	V	Tense=Pres|VerbForm=Part	18	acl	_	_
 20	the	the	DET	RD	Definite=Def|PronType=Art	21	det	_	_
 21	works	work	NOUN	S	Number=Plur	19	obj	_	_
@@ -38989,7 +38989,7 @@
 16	of	of	ADP	E	_	17	case	_	_
 17	society	society	NOUN	S	Number=Sing	15	nmod	_	_
 18	and	and	CCONJ	CC	_	19	cc	_	_
-19	politics	politics	NOUN	S	Number=Sing	17	conj	_	SpaceAfter=No
+19	politics	politics	NOUN	S	Number=Ptan	17	conj	_	SpaceAfter=No
 20	.	.	PUNCT	FS	_	4	punct	_	_
 
 # sent_id = en_partut-ud-1666
@@ -45151,7 +45151,7 @@
 13	various	various	ADJ	A	Degree=Pos	14	amod	_	_
 14	strands	strand	NOUN	S	Number=Plur	36	nsubj	_	_
 15	of	of	ADP	E	_	16	case	_	_
-16	politics	politics	NOUN	S	Number=Sing	14	nmod	_	SpaceAfter=No
+16	politics	politics	NOUN	S	Number=Ptan	14	nmod	_	SpaceAfter=No
 17	,	,	PUNCT	FF	_	18	punct	_	_
 18	character	character	NOUN	S	Number=Sing	16	conj	_	SpaceAfter=No
 19	,	,	PUNCT	FF	_	20	punct	_	_
@@ -48751,7 +48751,7 @@
 8	's	's	PART	PART	_	7	case	_	_
 9	family	family	NOUN	S	Number=Sing	5	nmod	_	_
 10	were	be	AUX	V	Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin	11	cop	_	_
-11	Catholics	Catholics	PROPN	SP	_	3	ccomp	_	SpaceAfter=No
+11	Catholics	Catholic	PROPN	SP	Number=Plur	3	ccomp	_	SpaceAfter=No
 12	,	,	PUNCT	FF	_	11	punct	_	_
 13	at	at	ADP	E	_	15	case	_	_
 14	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	15	det	_	_

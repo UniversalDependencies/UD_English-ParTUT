@@ -3150,7 +3150,7 @@
 3	realm	realm	NOUN	S	Number=Sing	12	obl	_	_
 4	of	of	ADP	E	_	6	case	_	_
 5	international	international	ADJ	A	Degree=Pos	6	amod	_	_
-6	economics	economics	NOUN	S	Number=Sing	3	nmod	_	SpaceAfter=No
+6	economics	economics	NOUN	S	Number=Ptan	3	nmod	_	SpaceAfter=No
 7	,	,	PUNCT	FF	_	3	punct	_	_
 8	being	be	AUX	VA	VerbForm=Ger	9	aux	_	_
 9	perceived	perceive	VERB	V	Tense=Past|VerbForm=Part	12	nsubj	_	_
@@ -3378,7 +3378,7 @@
 13	matter	matter	VERB	V	VerbForm=Inf	11	xcomp	_	_
 14	less	less	ADV	B	Degree=Cmp	13	advmod	_	_
 15	than	than	ADP	E	_	16	case	_	_
-16	politics	politics	NOUN	S	Number=Sing	14	obl	_	SpaceAfter=No
+16	politics	politics	NOUN	S	Number=Ptan	14	obl	_	SpaceAfter=No
 17	.	.	PUNCT	FS	_	11	punct	_	_
 
 # sent_id = en_partut-ud-1530
@@ -3848,7 +3848,7 @@
 3	small	small	ADJ	A	Degree=Pos	4	amod	_	_
 4	minority	minority	NOUN	S	Number=Sing	7	nsubj	_	_
 5	of	of	ADP	E	_	6	case	_	_
-6	academics	academics	NOUN	S	Number=Plur	4	nmod	_	_
+6	academics	academic	NOUN	S	Number=Plur	4	nmod	_	_
 7	believe	believe	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	0	root	_	_
 8	there	there	PRON	_	_	9	expl	_	_
 9	is	be	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	ccomp	_	_
