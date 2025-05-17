@@ -17,7 +17,7 @@
 # sent_id = en_partut-ud-4
 # text = Creative Commons provides this information on an "as-is" basis.
 1	Creative	Creative	PROPN	SP	_	3	nsubj	_	_
-2	Commons	Commons	PROPN	SP	_	1	flat	_	_
+2	Commons	Commons	PROPN	SP	Number=Ptan	1	flat	_	_
 3	provides	provide	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	this	this	DET	DD	Number=Sing|PronType=Dem	5	det	_	_
 5	information	information	NOUN	S	Number=Sing	3	obj	_	_
@@ -34,7 +34,7 @@
 # sent_id = en_partut-ud-5
 # text = Creative Commons makes no warranties regarding the information provided, and disclaims liability for damages resulting from its use.
 1	Creative	Creative	PROPN	SP	_	3	nsubj	_	_
-2	Commons	Commons	PROPN	SP	_	1	flat	_	_
+2	Commons	Commons	PROPN	SP	Number=Ptan	1	flat	_	_
 3	makes	make	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	no	no	DET	DI	PronType=Ind	5	det	_	_
 5	warranties	warranty	NOUN	S	Number=Plur	3	obj	_	_
@@ -729,8 +729,8 @@
 41	or	or	CCONJ	CC	_	46	cc	_	_
 42	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	46	det	_	_
 43	Creative	Creative	PROPN	SP	_	46	nmod	_	_
-44	Commons	Commons	PROPN	SP	_	43	flat	_	_
-45	iCommons	iCommons	PROPN	SP	_	43	flat	_	_
+44	Commons	Commons	PROPN	SP	Number=Ptan	43	flat	_	_
+45	iCommons	iCommons	PROPN	SP	Number=Ptan	43	flat	_	_
 46	license	license	NOUN	S	Number=Sing	24	conj	_	_
 47	that	that	PRON	PR	PronType=Rel	48	nsubj	_	_
 48	contains	contain	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	46	acl:relcl	_	_
@@ -1568,7 +1568,7 @@
 # sent_id = en_partut-ud-65
 # text = Creative Commons will not be liable to You or any party on any legal theory for any damages whatsoever, including without limitation any general, special, incidental or consequential damages arising in connection to this license.
 1	Creative	Creative	PROPN	SP	_	6	nsubj	_	_
-2	Commons	Commons	PROPN	SP	_	1	flat	_	_
+2	Commons	Commons	PROPN	SP	Number=Ptan	1	flat	_	_
 3	will	will	AUX	VM	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	_
 4	not	not	PART	PART	Polarity=Neg	6	advmod	_	_
 5	be	be	AUX	V	VerbForm=Inf	6	cop	_	_
@@ -1620,7 +1620,7 @@
 9	,	,	PUNCT	FF	_	8	punct	_	_
 10	if	if	SCONJ	CS	_	15	mark	_	_
 11	Creative	Creative	PROPN	SP	_	15	nsubj	_	_
-12	Commons	Commons	PROPN	SP	_	11	flat	_	_
+12	Commons	Commons	PROPN	SP	Number=Ptan	11	flat	_	_
 13	has	have	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	aux	_	_
 14	expressly	expressly	ADV	B	_	15	advmod	_	_
 15	identified	identify	VERB	V	Tense=Past|VerbForm=Part	24	advcl	_	_
@@ -1670,7 +1670,7 @@
 25	trademark	trademark	NOUN	S	Number=Sing	23	obj	_	_
 26	"	"	PUNCT	FB	_	27	punct	_	SpaceAfter=No
 27	Creative	Creative	PROPN	SP	_	25	nmod	_	_
-28	Commons	Commons	PROPN	SP	_	27	flat	_	SpaceAfter=No
+28	Commons	Commons	PROPN	SP	Number=Ptan	27	flat	_	SpaceAfter=No
 29	"	"	PUNCT	FB	_	27	punct	_	_
 30	or	or	CCONJ	CC	_	33	cc	_	_
 31	any	any	DET	DI	PronType=Ind	33	det	_	_
@@ -1680,7 +1680,7 @@
 35	logo	logo	NOUN	S	Number=Sing	33	conj	_	_
 36	of	of	ADP	E	_	37	case	_	_
 37	Creative	Creative	PROPN	SP	_	35	nmod	_	_
-38	Commons	Commons	PROPN	SP	_	37	flat	_	_
+38	Commons	Commons	PROPN	SP	Number=Ptan	37	flat	_	_
 39	without	without	ADP	E	_	43	case	_	_
 40	the	the	DET	RD	Definite=Def|PronType=Art	43	det	_	_
 41	prior	prior	ADJ	A	Degree=Pos	43	amod	_	_
@@ -1688,7 +1688,7 @@
 43	consent	consent	NOUN	S	Number=Sing	23	obl	_	_
 44	of	of	ADP	E	_	45	case	_	_
 45	Creative	Creative	PROPN	SP	_	43	nmod	_	_
-46	Commons	Commons	PROPN	SP	_	45	flat	_	SpaceAfter=No
+46	Commons	Commons	PROPN	SP	Number=Ptan	45	flat	_	SpaceAfter=No
 47	.	.	PUNCT	FS	_	23	punct	_	_
 
 # sent_id = en_partut-ud-68
@@ -1703,7 +1703,7 @@
 8	with	with	ADP	E	_	17	case	_	_
 9	Creative	Creative	PROPN	SP	_	17	nmod:poss	_	_
 10-11	Commons'	_	_	_	_	_	_	_	_
-10	Commons	Commons	PROPN	SP	_	9	flat	_	_
+10	Commons	Commons	PROPN	SP	Number=Ptan	9	flat	_	_
 11	'	's	PART	PART	_	9	case	_	_
 12	then	then	ADV	B	_	14	advmod	_	SpaceAfter=No
 13	-	-	PUNCT	FF	_	12	punct	_	SpaceAfter=No
@@ -1734,7 +1734,7 @@
 # sent_id = en_partut-ud-69
 # text = Creative Commons may be contacted at http:
 1	Creative	Creative	PROPN	SP	_	5	nsubj:pass	_	_
-2	Commons	Commons	PROPN	SP	_	1	flat	_	_
+2	Commons	Commons	PROPN	SP	Number=Ptan	1	flat	_	_
 3	may	may	AUX	VM	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
 4	be	be	AUX	VA	VerbForm=Inf	5	aux:pass	_	_
 5	contacted	contact	VERB	V	Tense=Past|VerbForm=Part	0	root	_	_
@@ -31062,7 +31062,7 @@
 23	in	in	ADP	E	_	26	case	_	_
 24	their	their	DET	AP	Poss=Yes|PronType=Prs	26	nmod:poss	_	_
 25	late	late	ADJ	A	Degree=Pos	26	amod	_	_
-26	twenties	twenties	NOUN	S	Number=Ptan	7	advcl	_	SpaceAfter=No
+26	twenties	twenties	NOUN	S	Number=Ptan|NumForm=Word|NumType=Card	7	advcl	_	SpaceAfter=No
 27	.	.	PUNCT	FS	_	7	punct	_	_
 
 # sent_id = en_partut-ud-1341

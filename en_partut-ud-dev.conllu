@@ -1,7 +1,7 @@
 # sent_id = en_partut-ud-2
 # text = Creative Commons Corporation is not a law firm and does not provide legal services.
 1	Creative	Creative	PROPN	SP	_	3	nmod	_	_
-2	Commons	Commons	PROPN	SP	_	1	flat	_	_
+2	Commons	Commons	PROPN	SP	Number=Ptan	1	flat	_	_
 3	Corporation	corporation	NOUN	S	Number=Sing	8	nsubj	_	_
 4	is	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
 5	not	not	PART	PART	Polarity=Neg	8	advmod	_	_
@@ -33,7 +33,7 @@
 13	of	of	ADP	E	_	18	case	_	_
 14	this	this	DET	DD	Number=Sing|PronType=Dem	18	det	_	_
 15	Creative	Creative	PROPN	SP	_	18	nmod	_	_
-16	Commons	Commons	PROPN	SP	_	15	flat	_	_
+16	Commons	Commons	PROPN	SP	Number=Ptan	15	flat	_	_
 17	Public	public	ADJ	A	Degree=Pos	18	amod	_	_
 18	License	license	NOUN	S	Number=Sing	12	nmod	_	_
 19	(	(	PUNCT	FB	_	21	punct	_	SpaceAfter=No
