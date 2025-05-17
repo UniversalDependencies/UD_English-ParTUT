@@ -23905,10 +23905,8 @@
 15	occurred	occur	VERB	V	Tense=Past|VerbForm=Part	12	acl:relcl	_	_
 16	since	since	ADP	E	_	18	case	_	_
 17	the	the	DET	RD	Definite=Def|PronType=Art	18	det	_	_
-18	1990	1990	NUM	N	NumType=Card	15	obl	_	SpaceAfter=No
-19	'	'	X	X	_	18	dep	_	SpaceAfter=No
-20	s	s	X	X	_	18	dep	_	SpaceAfter=No
-21	.	.	PUNCT	FS	_	4	punct	_	_
+18	1990's	1990s	NOUN	S	Number=Ptan|NumForm=Combi|NumType=Card	15	obl	_	SpaceAfter=No
+19	.	.	PUNCT	FS	_	4	punct	_	_
 
 # sent_id = en_partut-ud-1055
 # text = The policy dilemmas that have resulted – rising inequality, greater volatility, reduced room to manage the real economy – will continue to preoccupy policymakers in the decades ahead.
@@ -26270,7 +26268,7 @@
 1	In	in	ADP	E	_	4	case	_	_
 2	the	the	DET	RD	Definite=Def|PronType=Art	4	det	_	_
 3	remarkable	remarkable	ADJ	A	Degree=Pos	4	amod	_	_
-4	transformation	transformation	NOUN	S	Number=Sing	21	obl	_	_
+4	transformation	transformation	NOUN	S	Number=Sing	19	obl	_	_
 5	of	of	ADP	E	_	9	case	_	_
 6	Central	Central	PROPN	SP	_	9	nmod:poss	_	_
 7-8	Europe's	_	_	_	_	_	_	_	_
@@ -26279,38 +26277,36 @@
 9	economies	economy	NOUN	S	Number=Plur	4	nmod	_	_
 10	in	in	ADP	E	_	12	case	_	_
 11	the	the	DET	RD	Definite=Def|PronType=Art	12	det	_	_
-12	1990	1990	NUM	N	NumType=Card	4	nummod	_	SpaceAfter=No
-13	'	'	X	X	_	12	dep	_	SpaceAfter=No
-14	s	s	X	X	_	12	dep	_	SpaceAfter=No
-15	,	,	PUNCT	FF	_	4	punct	_	_
-16	management	management	NOUN	S	Number=Sing	17	nmod	_	_
-17	expertise	expertise	NOUN	S	Number=Sing	21	nsubj	_	_
-18	and	and	CCONJ	CC	_	20	cc	_	_
-19	market	market	NOUN	S	Number=Sing	20	nmod	_	_
-20	access	access	NOUN	S	Number=Sing	17	conj	_	_
-21	resulted	result	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-22	from	from	ADP	E	_	24	case	_	_
-23	massive	massive	ADJ	A	Degree=Pos	24	amod	_	_
-24	investments	investment	NOUN	S	Number=Plur	21	obl	_	_
-25	by	by	ADP	E	_	32	case	_	_
-26	German	German	ADJ	A	Degree=Pos	32	amod	_	_
-27	and	and	CCONJ	CC	_	31	cc	_	_
-28	other	other	ADJ	A	Degree=Pos	31	amod	_	_
-29	EU	EU	PROPN	SP	_	31	nmod:unmarked	_	SpaceAfter=No
-30	-	-	PUNCT	FF	_	31	punct	_	SpaceAfter=No
-31	based	based	VERB	V	Tense=Past|VerbForm=Part	26	conj	_	_
-32	companies	company	NOUN	S	Number=Plur	24	nmod	_	SpaceAfter=No
-33	,	,	PUNCT	FF	_	32	punct	_	_
-34	which	which	PRON	PR	PronType=Rel	35	nsubj	_	_
-35	integrated	integrated	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	32	acl:relcl	_	_
-36	local	local	ADJ	A	Degree=Pos	37	amod	_	_
-37	producers	producer	NOUN	S	Number=Plur	35	obj	_	_
-38	into	into	ADP	E	_	42	case	_	_
-39	their	their	DET	AP	Poss=Yes|PronType=Prs	42	nmod:poss	_	_
-40	global	global	ADJ	A	Degree=Pos	42	amod	_	_
-41	value	value	NOUN	S	Number=Sing	42	nmod	_	_
-42	chains	chain	NOUN	S	Number=Plur	35	obl	_	SpaceAfter=No
-43	.	.	PUNCT	FS	_	21	punct	_	_
+12	1990's	1990s	NOUN	S	Number=Ptan|NumForm=Combi|NumType=Card	4	nmod	_	SpaceAfter=No
+13	,	,	PUNCT	FF	_	4	punct	_	_
+14	management	management	NOUN	S	Number=Sing	15	nmod	_	_
+15	expertise	expertise	NOUN	S	Number=Sing	19	nsubj	_	_
+16	and	and	CCONJ	CC	_	18	cc	_	_
+17	market	market	NOUN	S	Number=Sing	18	nmod	_	_
+18	access	access	NOUN	S	Number=Sing	15	conj	_	_
+19	resulted	result	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+20	from	from	ADP	E	_	22	case	_	_
+21	massive	massive	ADJ	A	Degree=Pos	22	amod	_	_
+22	investments	investment	NOUN	S	Number=Plur	19	obl	_	_
+23	by	by	ADP	E	_	30	case	_	_
+24	German	German	ADJ	A	Degree=Pos	30	amod	_	_
+25	and	and	CCONJ	CC	_	29	cc	_	_
+26	other	other	ADJ	A	Degree=Pos	29	amod	_	_
+27	EU	EU	PROPN	SP	_	29	nmod:unmarked	_	SpaceAfter=No
+28	-	-	PUNCT	FF	_	29	punct	_	SpaceAfter=No
+29	based	based	VERB	V	Tense=Past|VerbForm=Part	24	conj	_	_
+30	companies	company	NOUN	S	Number=Plur	22	nmod	_	SpaceAfter=No
+31	,	,	PUNCT	FF	_	30	punct	_	_
+32	which	which	PRON	PR	PronType=Rel	33	nsubj	_	_
+33	integrated	integrated	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	30	acl:relcl	_	_
+34	local	local	ADJ	A	Degree=Pos	35	amod	_	_
+35	producers	producer	NOUN	S	Number=Plur	33	obj	_	_
+36	into	into	ADP	E	_	40	case	_	_
+37	their	their	DET	AP	Poss=Yes|PronType=Prs	40	nmod:poss	_	_
+38	global	global	ADJ	A	Degree=Pos	40	amod	_	_
+39	value	value	NOUN	S	Number=Sing	40	nmod	_	_
+40	chains	chain	NOUN	S	Number=Plur	33	obl	_	SpaceAfter=No
+41	.	.	PUNCT	FS	_	19	punct	_	_
 
 # sent_id = en_partut-ud-1153
 # text = Ukraine, with its high-quality human capital and diversified economy, is a potentially attractive investment destination.
@@ -27353,14 +27349,12 @@
 11	started	start	VERB	V	Tense=Past|VerbForm=Part	0	root	_	_
 12	in	in	ADP	E	_	14	case	_	_
 13	the	the	DET	RD	Definite=Def|PronType=Art	14	det	_	_
-14	1980	1980	NUM	N	NumType=Card	11	obl	_	SpaceAfter=No
-15	'	'	X	X	_	14	dep	_	SpaceAfter=No
-16	s	s	X	X	_	14	dep	_	_
-17	without	without	ADP	E	_	20	case	_	_
-18	the	the	DET	RD	Definite=Def|PronType=Art	20	det	_	_
-19	American	American	ADJ	A	Degree=Pos	20	amod	_	_
-20	consumer	consumer	NOUN	S	Number=Sing	11	obl	_	SpaceAfter=No
-21	.	.	PUNCT	FS	_	11	punct	_	_
+14	1980's	1980s	NOUN	S	Number=Ptan|NumForm=Combi|NumType=Card	11	obl	_	_
+15	without	without	ADP	E	_	18	case	_	_
+16	the	the	DET	RD	Definite=Def|PronType=Art	18	det	_	_
+17	American	American	ADJ	A	Degree=Pos	18	amod	_	_
+18	consumer	consumer	NOUN	S	Number=Sing	11	obl	_	SpaceAfter=No
+19	.	.	PUNCT	FS	_	11	punct	_	_
 
 # sent_id = en_partut-ud-1192
 # text = The US, for its part, relied on cheap goods made in China to stretch hard-pressed consumers' purchasing power.
@@ -32611,39 +32605,37 @@
 
 # sent_id = en_partut-ud-1398
 # text = (When I worked at the IMF in the 2000's, page-three coverage of our events by leading newspapers was typically viewed as preferable to top billing).
-1	(	(	PUNCT	FB	_	26	punct	_	SpaceAfter=No
+1	(	(	PUNCT	FB	_	24	punct	_	SpaceAfter=No
 2	When	when	SCONJ	CS	_	4	mark	_	_
 3	I	I	PRON	PE	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
-4	worked	work	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	26	advcl	_	_
+4	worked	work	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	24	advcl	_	_
 5	at	at	ADP	E	_	7	case	_	_
 6	the	the	DET	RD	Definite=Def|PronType=Art	7	det	_	_
 7	IMF	IMF	PROPN	SP	_	4	obl	_	_
 8	in	in	ADP	E	_	10	case	_	_
 9	the	the	DET	RD	Definite=Def|PronType=Art	10	det	_	_
-10	2000	2000	NUM	N	NumType=Card	4	obl	_	SpaceAfter=No
-11	'	'	X	X	_	10	dep	_	SpaceAfter=No
-12	s	s	X	X	_	10	dep	_	SpaceAfter=No
-13	,	,	PUNCT	FF	_	4	punct	_	_
-14	page	page	NOUN	S	Number=Sing	17	nmod	_	SpaceAfter=No
-15	-	-	PUNCT	FF	_	14	punct	_	SpaceAfter=No
-16	three	three	NUM	N	NumType=Card	14	nummod	_	_
-17	coverage	coverage	NOUN	S	Number=Sing	26	nsubj:pass	_	_
-18	of	of	ADP	E	_	20	case	_	_
-19	our	us	DET	AP	Poss=Yes|PronType=Prs	20	nmod:poss	_	_
-20	events	event	NOUN	S	Number=Plur	17	nmod	_	_
-21	by	by	ADP	E	_	23	case	_	_
-22	leading	lead	VERB	V	Number=Sing|Tense=Pres|VerbForm=Part	23	acl	_	_
-23	newspapers	newspaper	NOUN	S	Number=Plur	17	nmod	_	_
-24	was	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	26	aux:pass	_	_
-25	typically	typically	ADV	B	_	26	advmod	_	_
-26	viewed	view	VERB	V	Tense=Past|VerbForm=Part	0	root	_	_
-27	as	as	ADP	E	_	28	case	_	_
-28	preferable	preferable	ADJ	A	Degree=Pos	26	obl	_	_
-29	to	to	ADP	E	_	31	case	_	_
-30	top	top	ADJ	A	Degree=Pos	31	amod	_	_
-31	billing	billing	NOUN	S	Number=Sing	28	obl	_	SpaceAfter=No
-32	)	)	PUNCT	FB	_	26	punct	_	SpaceAfter=No
-33	.	.	PUNCT	FS	_	26	punct	_	_
+10	2000's	2000s	NOUN	S	Number=Ptan|NumForm=Combi|NumType=Card	4	obl	_	SpaceAfter=No
+11	,	,	PUNCT	FF	_	4	punct	_	_
+12	page	page	NOUN	S	Number=Sing	15	nmod	_	SpaceAfter=No
+13	-	-	PUNCT	FF	_	12	punct	_	SpaceAfter=No
+14	three	three	NUM	N	NumType=Card	12	nummod	_	_
+15	coverage	coverage	NOUN	S	Number=Sing	24	nsubj:pass	_	_
+16	of	of	ADP	E	_	18	case	_	_
+17	our	us	DET	AP	Poss=Yes|PronType=Prs	18	nmod:poss	_	_
+18	events	event	NOUN	S	Number=Plur	15	nmod	_	_
+19	by	by	ADP	E	_	21	case	_	_
+20	leading	lead	VERB	V	Number=Sing|Tense=Pres|VerbForm=Part	21	acl	_	_
+21	newspapers	newspaper	NOUN	S	Number=Plur	15	nmod	_	_
+22	was	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	24	aux:pass	_	_
+23	typically	typically	ADV	B	_	24	advmod	_	_
+24	viewed	view	VERB	V	Tense=Past|VerbForm=Part	0	root	_	_
+25	as	as	ADP	E	_	26	case	_	_
+26	preferable	preferable	ADJ	A	Degree=Pos	24	obl	_	_
+27	to	to	ADP	E	_	29	case	_	_
+28	top	top	ADJ	A	Degree=Pos	29	amod	_	_
+29	billing	billing	NOUN	S	Number=Sing	26	obl	_	SpaceAfter=No
+30	)	)	PUNCT	FB	_	24	punct	_	SpaceAfter=No
+31	.	.	PUNCT	FS	_	24	punct	_	_
 
 # sent_id = en_partut-ud-1399
 # text = Of course, in countries receiving assistance – such as Greece in the last few years – the IMF excites great passion.
