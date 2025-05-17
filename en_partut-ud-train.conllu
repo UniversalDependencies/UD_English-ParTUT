@@ -31095,7 +31095,7 @@
 16	women	women	NOUN	S	Number=Sing	7	obl	_	_
 17	in	in	ADP	E	_	19	case	_	_
 18	their	their	DET	AP	Poss=Yes|PronType=Prs	19	nmod:poss	_	_
-19	30's	30s	NOUN	S	Number=Ptan|NumForm=Combi|NumType=Card	16	obl	_	SpaceAfter=No
+19	30's	30s	NOUN	S	Number=Ptan|NumForm=Combi|NumType=Card	16	nmod	_	SpaceAfter=No
 20	,	,	PUNCT	FF	_	7	punct	_	_
 21	as	as	SCONJ	CS	_	31	mark	_	_
 22	inflexible	inflexible	ADJ	A	Degree=Pos	24	amod	_	_
