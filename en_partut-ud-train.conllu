@@ -6954,7 +6954,7 @@
 8	deadlines	deadline	NOUN	S	Number=Plur	7	obj	_	SpaceAfter=No
 9	,	,	PUNCT	FF	_	10	punct	_	_
 10	deletes	delete	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	_
-11	provisions	provisions	NOUN	S	Number=Sing	10	obj	_	_
+11	provisions	provision	NOUN	S	Number=Plur	10	obj	_	_
 12	which	which	PRON	PR	PronType=Rel	16	nsubj	_	_
 13	are	be	AUX	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	16	cop	_	_
 14	no	no	ADV	BN	PronType=Neg	15	advmod	_	_
@@ -27138,7 +27138,7 @@
 2	,	,	PUNCT	FF	_	1	punct	_	_
 3	lower	lower	ADJ	A	Degree=Cmp	5	amod	_	_
 4	growth	growth	NOUN	S	Number=Sing	5	nmod	_	_
-5	rates	rates	NOUN	S	Number=Sing	9	nsubj	_	_
+5	rates	rate	NOUN	S	Number=Plur	9	nsubj	_	_
 6	are	be	AUX	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	9	cop	_	_
 7	the	the	DET	RD	Definite=Def|PronType=Art	9	det	_	_
 8	natural	natural	ADJ	A	Degree=Pos	9	amod	_	_
@@ -28414,7 +28414,7 @@
 38	health	health	NOUN	S	Number=Sing	40	nmod	_	SpaceAfter=No
 39	-	-	PUNCT	FF	_	40	punct	_	SpaceAfter=No
 40	care	care	NOUN	S	Number=Sing	41	nmod	_	_
-41	costs	costs	NOUN	S	Number=Sing	31	nmod	_	SpaceAfter=No
+41	costs	cost	NOUN	S	Number=Plur	31	nmod	_	SpaceAfter=No
 42	.	.	PUNCT	FS	_	18	punct	_	_
 
 # sent_id = en_partut-ud-1237
@@ -29980,7 +29980,7 @@
 13	child	child	NOUN	S	Number=Sing	15	nmod	_	SpaceAfter=No
 14	-	-	PUNCT	FF	_	13	punct	_	SpaceAfter=No
 15	mortality	mortality	NOUN	S	Number=Sing	16	nmod	_	_
-16	rates	rates	NOUN	S	Number=Sing	11	obj	_	SpaceAfter=No
+16	rates	rate	NOUN	S	Number=Plur	11	obj	_	SpaceAfter=No
 17	,	,	PUNCT	FF	_	20	punct	_	_
 18	more	more	ADV	B	Degree=Cmp	20	advmod	_	_
 19	birth	birth	NOUN	S	Number=Sing	20	nmod	_	_
@@ -37099,7 +37099,7 @@
 11	on	on	ADP	E	_	14	case	_	_
 12	"	"	PUNCT	FB	_	14	punct	_	SpaceAfter=No
 13	the	the	DET	RD	Definite=Def|PronType=Art	14	det	_	_
-14	means	mean	NOUN	S	Number=Plur	10	nmod	_	_
+14	means	means	NOUN	S	Number=Ptan	10	nmod	_	_
 15	of	of	ADP	E	_	16	mark	_	_
 16	preventing	prevent	VERB	V	VerbForm=Ger	14	acl	_	_
 17	thefts	theft	NOUN	S	Number=Plur	16	obj	_	_

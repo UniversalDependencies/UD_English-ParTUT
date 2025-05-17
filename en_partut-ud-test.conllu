@@ -1083,7 +1083,7 @@
 33	,	,	PUNCT	FF	_	32	punct	_	_
 34	by	by	ADP	E	_	36	case	_	_
 35	other	other	ADJ	A	Degree=Pos	36	amod	_	_
-36	means	mean	NOUN	S	Number=Plur	29	obl	_	_
+36	means	means	NOUN	S	Number=Ptan	29	obl	_	_
 37	of	of	ADP	E	_	39	case	_	_
 38	social	social	ADJ	A	Degree=Pos	39	amod	_	_
 39	protection	protection	NOUN	S	Number=Sing	36	nmod	_	SpaceAfter=No
@@ -1492,7 +1492,7 @@
 17	the	the	DET	RD	Definite=Def|PronType=Art	20	det	_	_
 18	relevant	relevant	ADJ	A	Degree=Pos	19	amod	_	_
 19	Union	union	NOUN	S	Number=Sing	20	nmod	_	_
-20	provisions	provisions	NOUN	S	Number=Sing	15	nmod	_	SpaceAfter=No
+20	provisions	provision	NOUN	S	Number=Plur	15	nmod	_	SpaceAfter=No
 21	.	.	PUNCT	FS	_	12	punct	_	_
 
 # sent_id = en_partut-ud-963
@@ -1584,7 +1584,7 @@
 2	audit	audit	NOUN	S	Number=Sing	13	obl	_	_
 3	and	and	CCONJ	CC	_	5	cc	_	_
 4	evaluation	evaluation	NOUN	S	Number=Sing	5	nmod	_	_
-5	costs	costs	NOUN	S	Number=Sing	2	conj	_	SpaceAfter=No
+5	costs	cost	NOUN	S	Number=Plur	2	conj	_	SpaceAfter=No
 6	,	,	PUNCT	FF	_	2	punct	_	_
 7	pre	pre	ADJ	A	Degree=Pos	9	amod	_	SpaceAfter=No
 8	-	-	PUNCT	FF	_	7	punct	_	SpaceAfter=No
@@ -1864,7 +1864,7 @@
 7	invoked	invoke	VERB	V	Tense=Past|VerbForm=Part	0	root	_	_
 8	as	as	ADP	E	_	10	case	_	_
 9	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	10	det	_	_
-10	means	means	NOUN	S	Number=Sing	7	obl	_	_
+10	means	means	NOUN	S	Number=Ptan	7	obl	_	_
 11	of	of	ADP	E	_	13	case	_	_
 12	arbitrary	arbitrary	ADJ	A	Degree=Pos	13	amod	_	_
 13	discrimination	discrimination	NOUN	S	Number=Sing	10	nmod	_	_

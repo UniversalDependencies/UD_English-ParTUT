@@ -865,7 +865,7 @@
 3	the	the	DET	RD	Definite=Def|PronType=Art	6	det	_	_
 4	grand	grand	NOUN	S	Number=Sing	6	nmod	_	_
 5	molecular	molecular	ADJ	A	Degree=Pos	6	amod	_	_
-6	disassemblers	disassemblers	NOUN	S	Number=Plur	0	root	_	_
+6	disassemblers	disassembler	NOUN	S	Number=Plur	0	root	_	_
 7	of	of	ADP	E	_	8	case	_	_
 8	nature	nature	NOUN	S	Number=Sing	6	nmod	_	_
 9	-	-	PUNCT	FF	_	6	punct	_	_
@@ -1508,7 +1508,7 @@
 4	land	land	NOUN	S	Number=Sing	2	obl	_	_
 5	1.3	1.3	NUM	N	NumType=Card	6	compound	_	_
 6	billion	billion	NUM	N	NumType=Card	7	nummod	_	_
-7	years	years	NOUN	S	Number=Sing	8	obl	_	_
+7	years	year	NOUN	S	Number=Plur	8	obl	_	_
 8	ago	ago	ADV	B	_	2	advmod	_	SpaceAfter=No
 9	,	,	PUNCT	FF	_	12	punct	_	_
 10	and	and	CCONJ	CC	_	12	cc	_	_
@@ -1517,7 +1517,7 @@
 13	several	several	ADJ	A	Degree=Pos	16	amod	_	_
 14	hundred	hundred	NUM	N	NumType=Card	15	compound	_	_
 15	million	million	NUM	N	NumType=Card	16	nummod	_	_
-16	years	years	NOUN	S	Number=Sing	17	obl	_	_
+16	years	year	NOUN	S	Number=Plur	17	obl	_	_
 17	later	later	ADV	B	Degree=Cmp	12	advmod	_	SpaceAfter=No
 18	.	.	PUNCT	FS	_	2	punct	_	_
 
@@ -1575,7 +1575,7 @@
 11	form	form	NOUN	S	Number=Sing	6	obl	_	_
 12	of	of	ADP	E	_	14	case	_	_
 13	calcium	calcium	NOUN	S	Number=Sing	14	nmod	_	_
-14	oxalates	oxalates	NOUN	S	Number=Sing	11	nmod	_	SpaceAfter=No
+14	oxalates	oxalate	NOUN	S	Number=Plur	11	nmod	_	SpaceAfter=No
 15	.	.	PUNCT	FS	_	6	punct	_	_
 
 # sent_id = en_partut-ud-923
@@ -1646,7 +1646,7 @@
 # text = 420 million years ago, this organism existed.
 1	420	420	NUM	N	NumType=Card	2	compound	_	_
 2	million	million	NUM	N	NumType=Card	3	nummod	_	_
-3	years	years	NOUN	S	Number=Sing	4	obl	_	_
+3	years	year	NOUN	S	Number=Plur	4	obl	_	_
 4	ago	ago	ADV	B	_	8	advmod	_	SpaceAfter=No
 5	,	,	PUNCT	FF	_	4	punct	_	_
 6	this	this	DET	DD	Number=Sing|PronType=Dem	7	det	_	_
@@ -1970,7 +1970,7 @@
 2	,	,	PUNCT	FF	_	1	punct	_	_
 3	floating	float	VERB	V	Tense=Pres|VerbForm=Part	5	acl	_	_
 4	exchange	exchange	NOUN	S	Number=Sing	5	nmod	_	_
-5	rates	rates	NOUN	S	Number=Sing	9	nsubj	_	_
+5	rates	rate	NOUN	S	Number=Plur	9	nsubj	_	_
 6	are	be	AUX	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	9	cop	_	_
 7	flawed	flawed	ADJ	A	Degree=Pos	9	amod	_	_
 8	shock	shock	NOUN	S	Number=Sing	9	nmod	_	_
