@@ -746,7 +746,7 @@
 58	Attribution	Attribution	PROPN	SP	_	46	parataxis	_	SpaceAfter=No
 59	-	-	PUNCT	FF	_	60	punct	_	SpaceAfter=No
 60	ShareAlike	ShareAlike	PROPN	SP	_	58	flat	_	_
-61	2.0	2.0	NUM	N	NumType=Card	58	nummod	_	_
+61	2.0	2.0	NUM	N	NumType=Card	58	flat	_	_
 62	Japan	Japan	PROPN	SP	_	58	nmod	_	SpaceAfter=No
 63	)	)	PUNCT	FB	_	58	punct	_	SpaceAfter=No
 64	.	.	PUNCT	FS	_	3	punct	_	_
@@ -11776,10 +11776,10 @@
 10	,	,	PUNCT	FF	_	7	punct	_	_
 11	as	as	SCONJ	CS	_	23	mark	_	_
 12	Article	article	NOUN	S	Number=Sing	23	nsubj	_	_
-13	158	158	NUM	N	NumType=Card	12	nummod	_	SpaceAfter=No
+13	158	158	NUM	N	NumType=Card	12	flat	_	SpaceAfter=No
 14	,	,	PUNCT	FF	_	12	punct	_	_
 15	paragraph	paragraph	NOUN	S	Number=Sing	12	nmod	_	_
-16	1	1	NUM	N	NumType=Card	15	nummod	_	SpaceAfter=No
+16	1	1	NUM	N	NumType=Card	15	flat	_	SpaceAfter=No
 17	,	,	PUNCT	FF	_	15	punct	_	_
 18	of	of	ADP	E	_	20	case	_	_
 19	the	the	DET	RD	Definite=Def|PronType=Art	20	det	_	_
@@ -17612,9 +17612,9 @@
 # sent_id = en_partut-ud-646
 # text = Article 13 (3) of the Pericles Decision provides that the Commission shall send to the European Parliament and the Council, by 30 June 2005:
 1	Article	article	NOUN	S	Number=Sing	10	nsubj	_	_
-2	13	13	NUM	N	NumType=Card	1	nummod	_	_
+2	13	13	NUM	N	NumType=Card	1	flat	_	_
 3	(	(	PUNCT	FB	_	4	punct	_	SpaceAfter=No
-4	3	3	NUM	N	NumType=Card	1	nummod	_	SpaceAfter=No
+4	3	3	NUM	N	NumType=Card	1	flat	_	SpaceAfter=No
 5	)	)	PUNCT	FB	_	4	punct	_	_
 6	of	of	ADP	E	_	9	case	_	_
 7	the	the	DET	RD	Definite=Def|PronType=Art	9	det	_	_
@@ -42965,7 +42965,7 @@
 27	dated	date	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	5	acl	_	_
 28	Michaelmas	Michaelmas	PROPN	SP	_	29	nmod	_	_
 29	Term	term	NOUN	S	Number=Sing	27	obl	_	_
-30	1588	1588	NUM	N	NumType=Card	29	nummod	_	_
+30	1588	1588	NUM	N	NumType=Card	29	nmod:unmarked	_	_
 31	and	and	CCONJ	CC	_	32	cc	_	_
 32	9	9	NUM	N	NumType=Card	29	conj	_	_
 33	October	October	PROPN	SP	_	32	flat	_	_
