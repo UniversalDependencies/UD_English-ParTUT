@@ -19562,7 +19562,7 @@
 16	’s	's	PART	PART	_	20	case	_	_
 17	Euro	Euro	PROPN	SP	_	18	nmod	_	_
 18	counterfeiting	counterfeiting	NOUN	S	Number=Sing	20	nmod	_	_
-19	experts	experts	NOUN	S	Number=Plur	20	nmod	_	_
+19	experts	expert	NOUN	S	Number=Plur	20	nmod	_	_
 20	group	group	NOUN	S	Number=Sing	11	obl	_	SpaceAfter=No
 21	,	,	PUNCT	FF	_	20	punct	_	_
 22	which	which	PRON	PR	PronType=Rel	23	nsubj	_	_
@@ -22582,7 +22582,7 @@
 13	given	give	VERB	V	Tense=Past|VerbForm=Part	1	ccomp	_	_
 14	two	two	NUM	N	NumType=Card	16	nummod	_	_
 15	Styrofoam	Styrofoam	PROPN	SP	_	16	nmod	_	_
-16	peanuts	peanuts	NOUN	S	Number=Sing	13	obj	_	SpaceAfter=No
+16	peanuts	peanut	NOUN	S	Number=Plur	13	obj	_	SpaceAfter=No
 17	.	.	PUNCT	FS	_	1	punct	_	_
 
 # sent_id = en_partut-ud-835
@@ -22595,7 +22595,7 @@
 5	that	that	SCONJ	CS	_	10	mark	_	_
 6	the	the	DET	RD	Definite=Def|PronType=Art	8	det	_	_
 7	Styrofoam	Styrofoam	PROPN	SP	_	8	nmod	_	_
-8	peanuts	peanuts	NOUN	S	Number=Sing	10	nsubj	_	_
+8	peanuts	peanut	NOUN	S	Number=Plur	10	nsubj	_	_
 9	will	will	AUX	VM	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	10	aux	_	_
 10	start	start	VERB	V	VerbForm=Inf	4	ccomp	_	_
 11	moving	move	VERB	V	VerbForm=Ger	10	xcomp	_	_
@@ -22641,7 +22641,7 @@
 20	of	of	ADP	E	_	23	case	_	_
 21	indigestible	indigestible	ADJ	A	Degree=Pos	23	amod	_	_
 22	Styrofoam	Styrofoam	PROPN	SP	_	23	nmod	_	_
-23	peanuts	peanuts	NOUN	S	Number=Sing	19	nmod	_	SpaceAfter=No
+23	peanuts	peanut	NOUN	S	Number=Plur	19	nmod	_	SpaceAfter=No
 24	.	.	PUNCT	FS	_	2	punct	_	_
 
 # sent_id = en_partut-ud-837
@@ -22680,7 +22680,7 @@
 4	instead	instead	ADV	B	ExtPos=ADP	7	case	_	_
 5	of	of	ADP	E	_	4	fixed	_	_
 6	Styrofoam	Styrofoam	PROPN	SP	_	7	nmod	_	_
-7	peanuts	peanuts	NOUN	S	Number=Sing	10	obl	_	SpaceAfter=No
+7	peanuts	peanut	NOUN	S	Number=Plur	10	obl	_	SpaceAfter=No
 8	,	,	PUNCT	FF	_	7	punct	_	_
 9	we	we	PRON	PE	Number=Plur|Person=1|PronType=Prs	10	nsubj	_	_
 10	take	take	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	2	ccomp	_	_
@@ -23935,7 +23935,7 @@
 23	continue	continue	VERB	V	VerbForm=Inf	0	root	_	_
 24	to	to	PART	PART	_	25	mark	_	_
 25	preoccupy	preoccupy	VERB	V	VerbForm=Inf	23	xcomp	_	_
-26	policymakers	policymakers	ADJ	A	Degree=Pos	25	obj	_	_
+26	policymakers	policymaker	NOUN	S	Number=Plur	25	obj	_	_
 27	in	in	ADP	E	_	29	case	_	_
 28	the	the	DET	RD	Definite=Def|PronType=Art	29	det	_	_
 29	decades	decade	NOUN	S	Number=Plur	25	obl	_	_
@@ -24124,7 +24124,7 @@
 31	of	of	ADP	E	_	34	case	_	_
 32	global	global	ADJ	A	Degree=Pos	33	amod	_	_
 33	trade	trade	NOUN	S	Number=Sing	34	nmod	_	_
-34	talks	talks	NOUN	S	Number=Sing	30	nmod	_	SpaceAfter=No
+34	talks	talk	NOUN	S	Number=Plur	30	nmod	_	SpaceAfter=No
 35	.	.	PUNCT	FS	_	5	punct	_	_
 
 # sent_id = en_partut-ud-1062
@@ -25502,7 +25502,7 @@
 8	the	the	DET	RD	Definite=Def|PronType=Art	11	det	_	_
 9	so-called	so-called	ADJ	A	Degree=Pos	11	amod	_	_
 10	"	"	PUNCT	FB	_	11	punct	_	SpaceAfter=No
-11	quants	quants	NOUN	S	Number=Plur	6	obl	_	SpaceAfter=No
+11	quants	quant	NOUN	S	Number=Plur	6	obl	_	SpaceAfter=No
 12	.	.	PUNCT	FS	_	1	punct	_	_
 
 # sent_id = en_partut-ud-1119
@@ -25609,7 +25609,7 @@
 16	real	real	ADJ	A	Degree=Pos	18	amod	_	SpaceAfter=No
 17	-	-	PUNCT	FF	_	16	punct	_	SpaceAfter=No
 18	estate	estate	NOUN	S	Number=Sing	19	nmod	_	_
-19	assets	assets	NOUN	S	Number=Sing	22	nsubj	_	_
+19	assets	asset	NOUN	S	Number=Plur	22	nsubj	_	_
 20	are	be	AUX	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	22	cop	_	_
 21	relatively	relatively	ADV	B	_	22	advmod	_	_
 22	easy	easy	ADJ	A	Degree=Pos	9	advcl	_	_
@@ -25936,7 +25936,7 @@
 # sent_id = en_partut-ud-1139
 # text = When civilians launched a suicidal attack on an armed force in Kyiv on February 20, their sense of representing "the nation" far outweighed their concern with their individual mortality.
 1	When	when	SCONJ	CS	_	3	mark	_	_
-2	civilians	civilians	NOUN	S	Number=Plur	3	nsubj	_	_
+2	civilians	civilian	NOUN	S	Number=Plur	3	nsubj	_	_
 3	launched	launch	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	26	advcl	_	_
 4	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	6	det	_	_
 5	suicidal	suicidal	ADJ	A	Degree=Pos	6	amod	_	_
@@ -30158,7 +30158,7 @@
 22	child	child	NOUN	S	Number=Sing	19	conj	_	SpaceAfter=No
 23	-	-	PUNCT	FB	_	24	punct	_	SpaceAfter=No
 24	health	health	NOUN	S	Number=Sing	25	nmod	_	_
-25	services	services	NOUN	S	Number=Sing	17	nmod	_	_
+25	services	service	NOUN	S	Number=Plur	17	nmod	_	_
 26	were	be	AUX	V	Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin	27	cop	_	_
 27	vital	vital	ADJ	A	Degree=Pos	5	ccomp	_	SpaceAfter=No
 28	.	.	PUNCT	FS	_	5	punct	_	_
@@ -30279,7 +30279,7 @@
 23	not	not	PART	PART	Polarity=Neg	24	advmod	_	_
 24	surprising	surprising	ADJ	A	Degree=Pos	0	root	_	_
 25	that	that	SCONJ	CS	_	27	mark	_	_
-26	policymakers	policymakers	NOUN	S	Number=Sing	27	nsubj	_	_
+26	policymakers	policymaker	NOUN	S	Number=Plur	27	nsubj	_	_
 27	remain	remain	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	24	csubj	_	_
 28	so	so	ADV	B	_	29	advmod	_	_
 29	oblivious	oblivious	ADJ	A	Degree=Pos	27	xcomp	_	_
@@ -30376,7 +30376,7 @@
 # sent_id = en_partut-ud-1315
 # text = Compelling policymakers to implement such policies will require a new set of skills that draws upon lessons from around the world.
 1	Compelling	compel	VERB	V	Number=Sing|Tense=Pres|VerbForm=Part	2	acl	_	_
-2	policymakers	policymakers	NOUN	S	Number=Plur	8	nsubj	_	_
+2	policymakers	policymaker	NOUN	S	Number=Plur	8	nsubj	_	_
 3	to	to	PART	PART	_	4	mark	_	_
 4	implement	implement	VERB	V	VerbForm=Inf	2	acl	_	_
 5	such	such	DET	DD	PronType=Dem	6	det	_	_
@@ -30558,7 +30558,7 @@
 9	past	past	ADJ	A	Degree=Pos	10	amod	_	_
 10	time	time	NOUN	S	Number=Sing	3	conj	_	_
 11	for	for	ADP	E	_	12	case	_	_
-12	policymakers	policymakers	NOUN	S	Number=Plur	10	nmod	_	_
+12	policymakers	policymaker	NOUN	S	Number=Plur	10	nmod	_	_
 13	to	to	PART	PART	_	14	mark	_	_
 14	deliver	deliver	VERB	V	VerbForm=Inf	10	acl	_	_
 15	it	it	PRON	PE	Number=Sing|Person=3|PronType=Prs	14	obj	_	SpaceAfter=No
@@ -31062,7 +31062,7 @@
 23	in	in	ADP	E	_	26	case	_	_
 24	their	their	DET	AP	Poss=Yes|PronType=Prs	26	nmod:poss	_	_
 25	late	late	ADJ	A	Degree=Pos	26	amod	_	_
-26	twenties	twenties	NOUN	S	Number=Sing	7	advcl	_	SpaceAfter=No
+26	twenties	twenties	NOUN	S	Number=Ptan	7	advcl	_	SpaceAfter=No
 27	.	.	PUNCT	FS	_	7	punct	_	_
 
 # sent_id = en_partut-ud-1341
@@ -31303,7 +31303,7 @@
 39	,	,	PUNCT	FF	_	42	punct	_	_
 40	and	and	CCONJ	CC	_	42	cc	_	_
 41	business	business	NOUN	S	Number=Sing	42	nmod	_	_
-42	services	services	NOUN	S	Number=Sing	33	conj	_	_
+42	services	service	NOUN	S	Number=Plur	33	conj	_	_
 43	underdeveloped	underdevelop	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	25	xcomp	_	SpaceAfter=No
 44	.	.	PUNCT	FS	_	5	punct	_	_
 
@@ -31705,7 +31705,7 @@
 3	why	why	ADV	B	_	12	advmod	_	_
 4	leaders	leader	NOUN	S	Number=Plur	12	nsubj	_	_
 5	and	and	CCONJ	CC	_	6	cc	_	_
-6	policymakers	policymakers	NOUN	S	Number=Plur	4	conj	_	_
+6	policymakers	policymaker	NOUN	S	Number=Plur	4	conj	_	_
 7	from	from	ADP	E	_	10	case	_	_
 8	across	across	ADP	E	_	10	case	_	_
 9	the	the	DET	RD	Definite=Def|PronType=Art	10	det	_	_
@@ -32265,7 +32265,7 @@
 19	to	to	PART	PART	_	20	mark	_	_
 20	continue	continue	VERB	V	VerbForm=Inf	18	xcomp	_	_
 21	–	–	PUNCT	FB	_	18	punct	_	_
-22	policymakers	policymakers	NOUN	S	Number=Plur	24	nsubj	_	_
+22	policymakers	policymaker	NOUN	S	Number=Plur	24	nsubj	_	_
 23	should	shall	AUX	VM	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	24	aux	_	_
 24	take	take	VERB	V	VerbForm=Inf	0	root	_	_
 25	into	into	ADP	E	_	26	case	_	_
@@ -33588,7 +33588,7 @@
 4	,	,	PUNCT	FF	_	3	punct	_	_
 5	the	the	DET	RD	Definite=Def|PronType=Art	7	det	_	_
 6	French	French	ADJ	A	Degree=Pos	7	amod	_	_
-7	physiocrats	physiocrats	NOUN	S	Number=Plur	16	nsubj	_	_
+7	physiocrats	physiocrat	NOUN	S	Number=Plur	16	nsubj	_	_
 8	Quesnay	Quesnay	PROPN	SP	_	7	nmod	_	SpaceAfter=No
 9	,	,	PUNCT	FF	_	10	punct	_	_
 10	Turgot	Turgot	PROPN	SP	_	8	conj	_	SpaceAfter=No
@@ -33689,7 +33689,7 @@
 2	Marx	Marx	PROPN	SP	_	7	nsubj	_	_
 3	nor	nor	CCONJ	CC	_	5	cc	_	_
 4	the	the	DET	RD	Definite=Def|PronType=Art	5	det	_	_
-5	physiocrats	physiocrats	NOUN	S	Number=Plur	2	conj	_	_
+5	physiocrats	physiocrat	NOUN	S	Number=Plur	2	conj	_	_
 6	could	can	AUX	VM	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	7	aux	_	_
 7	imagine	imagine	VERB	V	VerbForm=Inf	0	root	_	_
 8	the	the	DET	RD	Definite=Def|PronType=Art	14	det	_	_
@@ -38124,7 +38124,7 @@
 5	Balzac	Balzac	PROPN	SP	_	6	nsubj	_	_
 6	owed	owe	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 7	50,000	50,000	NUM	N	NumType=Card	8	nummod	_	_
-8	francs	francs	NOUN	S	Number=Plur	6	obj	_	_
+8	francs	franc	NOUN	S	Number=Plur	6	obj	_	_
 9	to	to	ADP	E	_	11	case	_	_
 10	his	his	DET	AP	Poss=Yes|PronType=Prs	11	nmod:poss	_	_
 11	mother	mother	NOUN	S	Number=Sing	6	obl	_	SpaceAfter=No
@@ -39347,7 +39347,7 @@
 29	with	with	ADP	E	_	32	case	_	_
 30	the	the	DET	RD	Definite=Def|PronType=Art	32	det	_	_
 31	golden	golden	ADJ	A	Degree=Pos	32	amod	_	_
-32	eyes	eyes	NOUN	S	Number=Sing	28	nmod	_	SpaceAfter=No
+32	eyes	eye	NOUN	S	Number=Plur	28	nmod	_	SpaceAfter=No
 33	,	,	PUNCT	FF	_	28	punct	_	_
 34	1835	1835	NUM	N	NumType=Card	28	nummod	_	SpaceAfter=No
 35	)	)	PUNCT	FB	_	28	punct	_	_
@@ -42863,7 +42863,7 @@
 
 # sent_id = en_partut-ud-1836
 # text = Twins, son Hamnet and daughter Judith, followed almost two years later and were baptised 2 February 1585.
-1	Twins	twins	NOUN	S	Number=Sing	9	nsubj	_	SpaceAfter=No
+1	Twins	twin	NOUN	S	Number=Plur	9	nsubj	_	SpaceAfter=No
 2	,	,	PUNCT	FF	_	1	punct	_	_
 3	son	son	NOUN	S	Number=Sing	1	appos	_	_
 4	Hamnet	Hamnet	PROPN	SP	_	3	nmod	_	_
@@ -43604,7 +43604,7 @@
 6	were	be	AUX	VA	Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	7	aux:pass	_	_
 7	published	publish	VERB	V	Tense=Past|VerbForm=Part	0	root	_	_
 8	in	in	ADP	E	_	10	case	_	_
-9	quarto	quarto	ADJ	A	Degree=Pos	10	amod	_	_
+9	quarto	quarto	NOUN	S	Number=Sing	10	nmod	_	_
 10	editions	edition	NOUN	S	Number=Plur	7	obl	_	_
 11	from	from	ADP	E	_	12	case	_	_
 12	1594	1594	NUM	N	NumType=Card	7	obl	_	SpaceAfter=No
@@ -46223,7 +46223,7 @@
 6	already	already	ADV	B	_	7	advmod	_	_
 7	appeared	appear	VERB	V	Tense=Past|VerbForm=Part	0	root	_	_
 8	in	in	ADP	E	_	10	case	_	_
-9	quarto	quarto	ADJ	A	Degree=Pos	10	amod	_	_
+9	quarto	quarto	NOUN	S	Number=Sing	10	nmod	_	_
 10	versions	version	NOUN	S	Number=Plur	7	obl	_	_
 11	—	—	PUNCT	FF	_	10	punct	_	_
 12	flimsy	flimsy	ADJ	A	Degree=Pos	13	amod	_	_
@@ -46276,7 +46276,7 @@
 6	them	they	PRON	PE	Number=Plur|Person=3|PronType=Prs	4	nmod	_	_
 7	"	"	PUNCT	FB	_	9	punct	_	SpaceAfter=No
 8	bad	bad	ADJ	A	Degree=Pos	9	amod	_	_
-9	quartos	quartos	NOUN	S	Number=Plur	3	obl	_	SpaceAfter=No
+9	quartos	quarto	NOUN	S	Number=Plur	3	obl	_	SpaceAfter=No
 10	"	"	PUNCT	FB	_	9	punct	_	_
 11	because	because	ADP	E	ExtPos=ADP	19	case	_	_
 12	of	of	ADP	E	_	11	fixed	_	_
@@ -47111,7 +47111,7 @@
 13	forward	forward	ADV	B	_	12	advmod	_	_
 14	to	to	ADP	E	_	16	case	_	_
 15	the	the	DET	RD	Definite=Def|PronType=Art	16	det	_	_
-16	soliloquies	soliloquies	NOUN	S	Number=Plur	12	obl	_	_
+16	soliloquies	soliloquy	NOUN	S	Number=Plur	12	obl	_	_
 17	of	of	ADP	E	_	21	case	_	_
 18-19	Shakespeare's	_	_	_	_	_	_	_	_
 18	Shakespeare	Shakespeare	PROPN	SP	_	21	nmod:poss	_	_
@@ -47744,7 +47744,7 @@
 
 # sent_id = en_partut-ud-2022
 # text = Soliloquies had been used mainly to convey information about characters or events;
-1	Soliloquies	Soliloquies	PROPN	SP	_	4	nsubj:pass	_	_
+1	Soliloquies	Soliloquy	NOUN	S	Number=Plur	4	nsubj:pass	_	_
 2	had	have	AUX	VA	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	4	aux	_	_
 3	been	be	AUX	VA	Tense=Past|VerbForm=Part	4	aux:pass	_	_
 4	used	use	VERB	V	Tense=Past|VerbForm=Part	0	root	_	_
@@ -47851,7 +47851,7 @@
 5-6	Melville's	_	_	_	_	_	_	_	_
 5	Melville	Melville	PROPN	SP	_	4	flat	_	_
 6	's	's	PART	PART	_	4	case	_	_
-7	soliloquies	soliloquies	NOUN	S	Number=Plur	8	nsubj	_	_
+7	soliloquies	soliloquy	NOUN	S	Number=Plur	8	nsubj	_	_
 8	owe	owe	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	0	root	_	_
 9	much	much	ADJ	A	Degree=Pos	8	obj	_	_
 10	to	to	ADP	E	_	11	case	_	_
@@ -49130,7 +49130,7 @@
 17	-	-	PUNCT	FF	_	18	punct	_	SpaceAfter=No
 18	attributions	attribution	NOUN	S	Number=Plur	11	conj	_	SpaceAfter=No
 19	,	,	PUNCT	FF	_	20	punct	_	_
-20	repaintings	repaintings	NOUN	S	Number=Plur	11	conj	_	_
+20	repaintings	repainting	NOUN	S	Number=Plur	11	conj	_	_
 21	and	and	CCONJ	CC	_	22	cc	_	_
 22	relabelling	relabelling	NOUN	S	Number=Sing	11	conj	_	_
 23	of	of	ADP	E	_	24	case	_	_
