@@ -1986,7 +1986,7 @@
 19	lifted	lift	VERB	V	Tense=Past|VerbForm=Part	5	conj	_	_
 20	when	when	SCONJ	CS	_	24	mark	_	_
 21	the	the	DET	RD	Definite=Def|PronType=Art	22	det	_	_
-22	shortcomings	shortcomings	NOUN	S	Number=Plur	24	nsubj:pass	_	_
+22	shortcomings	shortcoming	NOUN	S	Number=Plur	24	nsubj:pass	_	_
 23	are	be	AUX	VA	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	24	aux:pass	_	_
 24	remedied	remedy	VERB	V	Tense=Past|VerbForm=Part	19	advcl	_	SpaceAfter=No
 25	.	.	PUNCT	FS	_	5	punct	_	_
@@ -2010,7 +2010,7 @@
 15	long	long	ADV	B	Degree=Pos	5	advmod	_	_
 16	as	as	SCONJ	CS	_	19	mark	_	_
 17	these	this	DET	DD	Number=Plur|PronType=Dem	18	det	_	_
-18	shortcomings	shortcomings	NOUN	S	Number=Plur	19	nsubj	_	_
+18	shortcomings	shortcoming	NOUN	S	Number=Plur	19	nsubj	_	_
 19	persist	persist	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	15	advcl	_	SpaceAfter=No
 20	.	.	PUNCT	FS	_	5	punct	_	_
 
