@@ -2579,9 +2579,9 @@
 # sent_id = en_partut-ud-1009
 # text = Annexes I to IX and the Appendices thereto shall form an integral part of this Protocol.
 1	Annexes	annex	NOUN	S	Number=Plur	10	nsubj	_	_
-2	I	first	ADJ	NO	Degree=Pos|NumType=Ord	1	amod	_	_
+2	I	I	NUM	N	NumForm=Roman|NumType=Card	1	flat	_	_
 3	to	to	ADP	E	_	4	case	_	_
-4	IX	ninth	ADJ	NO	Degree=Pos|NumType=Ord	2	amod	_	_
+4	IX	IX	NUM	N	NumForm=Roman|NumType=Card	2	amod	_	_
 5	and	and	CCONJ	CC	_	7	cc	_	_
 6	the	the	DET	RD	Definite=Def|PronType=Art	7	det	_	_
 7	Appendices	appendix	NOUN	S	Number=Plur	1	conj	_	_
@@ -3760,7 +3760,7 @@
 7	plays	play	NOUN	S	Number=Plur	2	obl	_	SpaceAfter=No
 8	,	,	PUNCT	FF	_	7	punct	_	_
 9	Henry	Henry	PROPN	SP	_	7	appos	_	_
-10	VIII	eigth	ADJ	NO	Degree=Pos|NumType=Ord	9	flat	_	_
+10	VIII	VIII	NOUN	N	NumForm=Roman|NumType=Card	9	flat	_	_
 11	and	and	CCONJ	CC	_	15	cc	_	_
 12	The	the	DET	RD	Definite=Def|PronType=Art	15	det	_	_
 13	Two	two	NUM	N	NumType=Card	15	nummod	_	_
