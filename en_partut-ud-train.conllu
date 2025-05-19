@@ -35815,7 +35815,7 @@
 13	mold	mold	NOUN	S	Number=Sing	11	obj	_	_
 14	of	of	ADP	E	_	19	case	_	_
 15	the	the	DET	RD	Definite=Def|PronType=Art	19	det	_	_
-16	nineteenth	nineteenth	ADJ	NO	Degree=Pos|NumType=Ord	18	amod	_	SpaceAfter=No
+16	nineteenth	nineteenth	ADJ	NO	Degree=Pos|NumForm=Word|NumType=Ord	18	amod	_	SpaceAfter=No
 17	-	-	PUNCT	FF	_	18	punct	_	SpaceAfter=No
 18	century	century	NOUN	S	Number=Sing	19	nmod	_	_
 19	nation	nation	NOUN	S	Number=Sing	13	nmod	_	SpaceAfter=No
