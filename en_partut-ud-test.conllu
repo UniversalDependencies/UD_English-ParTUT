@@ -3825,21 +3825,19 @@
 
 # sent_id = en_partut-ud-2050
 # text = In the 18th and 19th centuries, his reputation also spread abroad.
-1	In	in	ADP	E	_	8	case	_	_
-2	the	the	DET	RD	Definite=Def|PronType=Art	8	det	_	_
-3	18	18	NUM	N	NumType=Card	8	nummod	_	SpaceAfter=No
-4	th	th	ADJ	A	Degree=Pos	3	amod	_	_
-5	and	and	CCONJ	CC	_	6	cc	_	_
-6	19	19	NUM	N	NumType=Card	3	conj	_	SpaceAfter=No
-7	th	th	ADJ	A	Degree=Pos	6	amod	_	_
-8	centuries	century	NOUN	S	Number=Plur	13	obl	_	SpaceAfter=No
-9	,	,	PUNCT	FF	_	8	punct	_	_
-10	his	his	DET	AP	Poss=Yes|PronType=Prs	11	nmod:poss	_	_
-11	reputation	reputation	NOUN	S	Number=Sing	13	nsubj	_	_
-12	also	also	ADV	B	_	13	advmod	_	_
-13	spread	spread	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-14	abroad	abroad	ADV	B	_	13	advmod	_	SpaceAfter=No
-15	.	.	PUNCT	FS	_	13	punct	_	_
+1	In	in	ADP	E	_	6	case	_	_
+2	the	the	DET	RD	Definite=Def|PronType=Art	6	det	_	_
+3	18th	18th	ADJ	A	Degree=Pos|NumForm=Combi|NumType=Ord	6	amod	_	_
+4	and	and	CCONJ	CC	_	5	cc	_	_
+5	19th	19th	ADJ	A	Degree=Pos|NumForm=Combi|NumType=Ord	3	conj	_	_
+6	centuries	century	NOUN	S	Number=Plur	11	obl	_	SpaceAfter=No
+7	,	,	PUNCT	FF	_	6	punct	_	_
+8	his	his	DET	AP	Poss=Yes|PronType=Prs	9	nmod:poss	_	_
+9	reputation	reputation	NOUN	S	Number=Sing	11	nsubj	_	_
+10	also	also	ADV	B	_	11	advmod	_	_
+11	spread	spread	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+12	abroad	abroad	ADV	B	_	11	advmod	_	SpaceAfter=No
+13	.	.	PUNCT	FS	_	11	punct	_	_
 
 # sent_id = en_partut-ud-2070
 # text = Only a small minority of academics believe there is reason to question the traditional attribution, but interest in the subject, particularly the Oxfordian theory of Shakespeare authorship, continues into the 21st century.
@@ -3874,10 +3872,9 @@
 29	authorship	authorship	NOUN	S	Number=Sing	26	nmod	_	SpaceAfter=No
 30	,	,	PUNCT	FF	_	26	punct	_	_
 31	continues	continue	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	conj	_	_
-32	into	into	ADP	E	_	36	case	_	_
-33	the	the	DET	RD	Definite=Def|PronType=Art	36	det	_	_
-34	21	21	NUM	N	NumType=Card	36	nummod	_	SpaceAfter=No
-35	st	st	ADJ	A	Degree=Pos	34	amod	_	_
-36	century	century	NOUN	S	Number=Sing	31	obl	_	SpaceAfter=No
-37	.	.	PUNCT	FS	_	7	punct	_	_
+32	into	into	ADP	E	_	35	case	_	_
+33	the	the	DET	RD	Definite=Def|PronType=Art	35	det	_	_
+34	21st	21st	ADJ	A	Degree=Pos|NumForm=Combi|NumType=Ord	35	amod	_	_
+35	century	century	NOUN	S	Number=Sing	31	obl	_	SpaceAfter=No
+36	.	.	PUNCT	FS	_	7	punct	_	_
 

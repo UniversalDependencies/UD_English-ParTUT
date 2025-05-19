@@ -42276,10 +42276,9 @@
 22	end	end	NOUN	S	Number=Sing	12	obl	_	_
 23	of	of	ADP	E	_	25	case	_	_
 24	the	the	DET	RD	Definite=Def|PronType=Art	25	det	_	_
-25	16	16	NUM	N	NumType=Card	22	nummod	_	SpaceAfter=No
-26	th	th	ADJ	A	Degree=Pos	25	amod	_	_
-27	century	century	NOUN	S	Number=Sing	12	obj	_	SpaceAfter=No
-28	.	.	PUNCT	FS	_	6	punct	_	_
+25	16th	16th	ADJ	A	Degree=Pos|NumForm=Combi|NumType=Ord	22	amod	_	_
+26	century	century	NOUN	S	Number=Sing	12	obj	_	SpaceAfter=No
+27	.	.	PUNCT	FS	_	6	punct	_	_
 
 # sent_id = en_partut-ud-1815
 # text = He then wrote mainly tragedies until about 1608, including Hamlet, King Lear, Othello, and Macbeth, considered some of the finest works in the English language.
@@ -42472,27 +42471,26 @@
 
 # sent_id = en_partut-ud-1822
 # text = In the 20th century, his work was repeatedly adopted and rediscovered by new movements in scholarship and performance.
-1	In	in	ADP	E	_	5	case	_	_
-2	the	the	DET	RD	Definite=Def|PronType=Art	5	det	_	_
-3	20	20	NUM	N	NumType=Card	5	nummod	_	SpaceAfter=No
-4	th	th	ADJ	A	Degree=Pos	3	amod	_	_
-5	century	century	NOUN	S	Number=Sing	11	obl	_	SpaceAfter=No
-6	,	,	PUNCT	FF	_	5	punct	_	_
-7	his	his	DET	AP	Poss=Yes|PronType=Prs	8	nmod:poss	_	_
-8	work	work	NOUN	S	Number=Sing	11	nsubj:pass	_	_
-9	was	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	11	aux:pass	_	_
-10	repeatedly	repeatedly	ADV	B	_	11	advmod	_	_
-11	adopted	adopt	VERB	V	Tense=Past|VerbForm=Part	0	root	_	_
-12	and	and	CCONJ	CC	_	13	cc	_	_
-13	rediscovered	rediscover	VERB	V	Tense=Past|VerbForm=Part	11	conj	_	_
-14	by	by	ADP	E	_	16	case	_	_
-15	new	new	ADJ	A	Degree=Pos	16	amod	_	_
-16	movements	movement	NOUN	S	Number=Plur	13	obl	_	_
-17	in	in	ADP	E	_	18	case	_	_
-18	scholarship	scholarship	NOUN	S	Number=Sing	16	nmod	_	_
-19	and	and	CCONJ	CC	_	20	cc	_	_
-20	performance	performance	NOUN	S	Number=Sing	18	conj	_	SpaceAfter=No
-21	.	.	PUNCT	FS	_	11	punct	_	_
+1	In	in	ADP	E	_	4	case	_	_
+2	the	the	DET	RD	Definite=Def|PronType=Art	4	det	_	_
+3	20th	20th	ADJ	A	Degree=Pos|NumForm=Combi|NumType=Ord	4	amod	_	_
+4	century	century	NOUN	S	Number=Sing	10	obl	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	4	punct	_	_
+6	his	his	DET	AP	Poss=Yes|PronType=Prs	7	nmod:poss	_	_
+7	work	work	NOUN	S	Number=Sing	10	nsubj:pass	_	_
+8	was	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	aux:pass	_	_
+9	repeatedly	repeatedly	ADV	B	_	10	advmod	_	_
+10	adopted	adopt	VERB	V	Tense=Past|VerbForm=Part	0	root	_	_
+11	and	and	CCONJ	CC	_	12	cc	_	_
+12	rediscovered	rediscover	VERB	V	Tense=Past|VerbForm=Part	10	conj	_	_
+13	by	by	ADP	E	_	15	case	_	_
+14	new	new	ADJ	A	Degree=Pos	15	amod	_	_
+15	movements	movement	NOUN	S	Number=Plur	12	obl	_	_
+16	in	in	ADP	E	_	17	case	_	_
+17	scholarship	scholarship	NOUN	S	Number=Sing	15	nmod	_	_
+18	and	and	CCONJ	CC	_	19	cc	_	_
+19	performance	performance	NOUN	S	Number=Sing	17	conj	_	SpaceAfter=No
+20	.	.	PUNCT	FS	_	10	punct	_	_
 
 # sent_id = en_partut-ud-1823
 # text = His plays remain highly popular today and are constantly studied, performed, and reinterpreted in diverse cultural and political contexts throughout the world.
@@ -42579,37 +42577,36 @@
 # sent_id = en_partut-ud-1827
 # text = This date, which can be traced back to an 18th-century scholar's mistake, has proved appealing to biographers, since Shakespeare died 23 April 1616.
 1	This	this	DET	DD	Number=Sing|PronType=Dem	2	det	_	_
-2	date	date	NOUN	S	Number=Sing	20	nsubj	_	SpaceAfter=No
+2	date	date	NOUN	S	Number=Sing	19	nsubj	_	SpaceAfter=No
 3	,	,	PUNCT	FF	_	2	punct	_	_
 4	which	which	PRON	PR	PronType=Rel	7	nsubj:pass	_	_
 5	can	can	AUX	VM	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	_
 6	be	be	AUX	VA	VerbForm=Inf	7	aux:pass	_	_
 7	traced	trace	VERB	V	Tense=Past|VerbForm=Part	2	acl:relcl	_	_
 8	back	back	ADV	B	_	7	advmod	_	_
-9	to	to	ADP	E	_	17	case	_	_
-10	an	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	17	det	_	_
-11	18	18	NUM	N	NumType=Card	14	nummod	_	SpaceAfter=No
-12	th	th	ADJ	A	Degree=Pos	11	amod	_	SpaceAfter=No
-13	-	-	PUNCT	FF	_	11	punct	_	SpaceAfter=No
-14	century	century	NOUN	S	Number=Sing	15	nmod	_	_
-15-16	scholar's	_	_	_	_	_	_	_	_
-15	scholar	scholar	NOUN	S	Number=Sing	17	nmod:poss	_	_
-16	's	's	PART	PART	_	15	case	_	_
-17	mistake	mistake	NOUN	S	Number=Sing	7	obl	_	SpaceAfter=No
-18	,	,	PUNCT	FF	_	2	punct	_	_
-19	has	have	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	aux	_	_
-20	proved	prove	VERB	V	Tense=Past|VerbForm=Part	0	root	_	_
-21	appealing	appealing	ADJ	A	Degree=Pos	20	xcomp	_	_
-22	to	to	ADP	E	_	23	case	_	_
-23	biographers	biographer	NOUN	S	Number=Plur	20	obl	_	SpaceAfter=No
-24	,	,	PUNCT	FF	_	20	punct	_	_
-25	since	since	ADP	E	_	27	mark	_	_
-26	Shakespeare	Shakespeare	PROPN	SP	_	27	nsubj	_	_
-27	died	die	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	20	advcl	_	_
-28	23	23	NUM	N	NumType=Card	27	obl	_	_
-29	April	April	PROPN	SP	_	28	flat	_	_
-30	1616	1616	NUM	N	NumType=Card	28	flat	_	SpaceAfter=No
-31	.	.	PUNCT	FS	_	20	punct	_	_
+9	to	to	ADP	E	_	16	case	_	_
+10	an	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	16	det	_	_
+11	18th	18th	ADJ	A	Degree=Pos|NumForm=Combi|NumType=Ord	13	amod	_	SpaceAfter=No
+12	-	-	PUNCT	FF	_	11	punct	_	SpaceAfter=No
+13	century	century	NOUN	S	Number=Sing	14	nmod	_	_
+14-15	scholar's	_	_	_	_	_	_	_	_
+14	scholar	scholar	NOUN	S	Number=Sing	16	nmod:poss	_	_
+15	's	's	PART	PART	_	14	case	_	_
+16	mistake	mistake	NOUN	S	Number=Sing	7	obl	_	SpaceAfter=No
+17	,	,	PUNCT	FF	_	2	punct	_	_
+18	has	have	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	aux	_	_
+19	proved	prove	VERB	V	Tense=Past|VerbForm=Part	0	root	_	_
+20	appealing	appealing	ADJ	A	Degree=Pos	19	xcomp	_	_
+21	to	to	ADP	E	_	22	case	_	_
+22	biographers	biographer	NOUN	S	Number=Plur	19	obl	_	SpaceAfter=No
+23	,	,	PUNCT	FF	_	19	punct	_	_
+24	since	since	ADP	E	_	26	mark	_	_
+25	Shakespeare	Shakespeare	PROPN	SP	_	26	nsubj	_	_
+26	died	die	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	19	advcl	_	_
+27	23	23	NUM	N	NumType=Card	26	obl	_	_
+28	April	April	PROPN	SP	_	27	flat	_	_
+29	1616	1616	NUM	N	NumType=Card	27	flat	_	SpaceAfter=No
+30	.	.	PUNCT	FS	_	19	punct	_	_
 
 # sent_id = en_partut-ud-1828
 # text = He was the third child of eight and the eldest surviving son.
@@ -43071,27 +43068,26 @@
 
 # sent_id = en_partut-ud-1844
 # text = Another 18th-century story has Shakespeare starting his theatrical career minding the horses of theatre patrons in London.
-1	Another	another	DET	RI	Definite=Ind|Number=Sing|PronType=Art	6	det	_	_
-2	18	18	NUM	N	NumType=Card	5	nummod	_	SpaceAfter=No
-3	th	th	ADJ	A	Degree=Pos	2	amod	_	SpaceAfter=No
-4	-	-	PUNCT	FF	_	2	punct	_	SpaceAfter=No
-5	century	century	NOUN	S	Number=Sing	6	nmod	_	_
-6	story	story	NOUN	S	Number=Sing	7	nsubj	_	_
-7	has	have	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-8	Shakespeare	Shakespeare	PROPN	SP	_	7	obj	_	_
-9	starting	start	VERB	V	Number=Sing|Tense=Pres|VerbForm=Part	8	acl	_	_
-10	his	his	DET	AP	Poss=Yes|PronType=Prs	12	nmod:poss	_	_
-11	theatrical	theatrical	ADJ	A	Degree=Pos	12	amod	_	_
-12	career	career	NOUN	S	Number=Sing	9	obj	_	_
-13	minding	mind	VERB	V	Number=Sing|Tense=Pres|VerbForm=Part	9	advcl	_	_
-14	the	the	DET	RD	Definite=Def|PronType=Art	15	det	_	_
-15	horses	horse	NOUN	S	Number=Plur	13	obj	_	_
-16	of	of	ADP	E	_	18	case	_	_
-17	theatre	theatre	NOUN	S	Number=Sing	18	nmod	_	_
-18	patrons	patron	NOUN	S	Number=Plur	15	nmod	_	_
-19	in	in	ADP	E	_	20	case	_	_
-20	London	London	PROPN	SP	_	13	obl	_	SpaceAfter=No
-21	.	.	PUNCT	FS	_	7	punct	_	_
+1	Another	another	DET	RI	Definite=Ind|Number=Sing|PronType=Art	5	det	_	_
+2	18th	18th	ADJ	A	Degree=Pos|NumForm=Combi|NumType=Ord	4	amod	_	SpaceAfter=No
+3	-	-	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+4	century	century	NOUN	S	Number=Sing	5	nmod	_	_
+5	story	story	NOUN	S	Number=Sing	6	nsubj	_	_
+6	has	have	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	Shakespeare	Shakespeare	PROPN	SP	_	6	obj	_	_
+8	starting	start	VERB	V	Number=Sing|Tense=Pres|VerbForm=Part	7	acl	_	_
+9	his	his	DET	AP	Poss=Yes|PronType=Prs	11	nmod:poss	_	_
+10	theatrical	theatrical	ADJ	A	Degree=Pos	11	amod	_	_
+11	career	career	NOUN	S	Number=Sing	8	obj	_	_
+12	minding	mind	VERB	V	Number=Sing|Tense=Pres|VerbForm=Part	8	advcl	_	_
+13	the	the	DET	RD	Definite=Def|PronType=Art	14	det	_	_
+14	horses	horse	NOUN	S	Number=Plur	12	obj	_	_
+15	of	of	ADP	E	_	17	case	_	_
+16	theatre	theatre	NOUN	S	Number=Sing	17	nmod	_	_
+17	patrons	patron	NOUN	S	Number=Plur	14	nmod	_	_
+18	in	in	ADP	E	_	19	case	_	_
+19	London	London	PROPN	SP	_	12	obl	_	SpaceAfter=No
+20	.	.	PUNCT	FS	_	6	punct	_	_
 
 # sent_id = en_partut-ud-1845
 # text = John Aubrey reported that Shakespeare had been a country schoolmaster.
@@ -43109,44 +43105,43 @@
 
 # sent_id = en_partut-ud-1846
 # text = Some 20th-century scholars have suggested that Shakespeare may have been employed as a schoolmaster by Alexander Hoghton of Lancashire, a Catholic landowner who named a certain "William Shakeshafte" in his will.
-1	Some	some	DET	DI	PronType=Ind	6	det	_	_
-2	20	20	NUM	N	NumType=Card	5	nummod	_	SpaceAfter=No
-3	th	th	ADJ	A	Degree=Pos	2	amod	_	SpaceAfter=No
-4	-	-	PUNCT	FF	_	2	punct	_	SpaceAfter=No
-5	century	century	NOUN	S	Number=Sing	6	nmod	_	_
-6	scholars	scholar	NOUN	S	Number=Plur	8	nsubj	_	_
-7	have	have	AUX	VA	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	8	aux	_	_
-8	suggested	suggest	VERB	V	Tense=Past|VerbForm=Part	0	root	_	_
-9	that	that	SCONJ	CS	_	14	mark	_	_
-10	Shakespeare	Shakespeare	PROPN	SP	_	14	nsubj:pass	_	_
-11	may	may	AUX	VM	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	14	aux	_	_
-12	have	have	AUX	VA	VerbForm=Inf	14	aux	_	_
-13	been	be	AUX	VA	Tense=Past|VerbForm=Part	14	aux:pass	_	_
-14	employed	employ	VERB	V	Tense=Past|VerbForm=Part	8	ccomp	_	_
-15	as	as	ADP	E	_	17	case	_	_
-16	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	17	det	_	_
-17	schoolmaster	schoolmaster	NOUN	S	Number=Sing	14	obl	_	_
-18	by	by	ADP	E	_	19	case	_	_
-19	Alexander	Alexander	PROPN	SP	_	14	obl	_	_
-20	Hoghton	Hoghton	PROPN	SP	_	19	flat	_	_
-21	of	of	ADP	E	_	22	case	_	_
-22	Lancashire	Lancashire	PROPN	SP	_	19	nmod	_	SpaceAfter=No
-23	,	,	PUNCT	FF	_	19	punct	_	_
-24	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	26	det	_	_
-25	Catholic	Catholic	ADJ	A	Degree=Pos	26	amod	_	_
-26	landowner	landowner	NOUN	S	Number=Sing	19	appos	_	_
-27	who	who	PRON	PR	PronType=Rel	28	nsubj	_	_
-28	named	name	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	26	acl:relcl	_	_
-29	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	32	det	_	_
-30	certain	certain	ADJ	A	Degree=Pos	32	amod	_	_
-31	"	"	PUNCT	FB	_	32	punct	_	SpaceAfter=No
-32	William	William	PROPN	SP	_	28	obj	_	_
-33	Shakeshafte	Shakeshafte	PROPN	SP	_	32	flat	_	SpaceAfter=No
-34	"	"	PUNCT	FB	_	32	punct	_	_
-35	in	in	ADP	E	_	37	case	_	_
-36	his	his	DET	DP	Poss=Yes|PronType=Prs	37	nmod:poss	_	_
-37	will	will	NOUN	S	Number=Sing	28	obl	_	SpaceAfter=No
-38	.	.	PUNCT	FS	_	8	punct	_	_
+1	Some	some	DET	DI	PronType=Ind	5	det	_	_
+2	20th	20th	ADJ	A	Degree=Pos|NumForm=Combi|NumType=Ord	4	amod	_	SpaceAfter=No
+3	-	-	PUNCT	FF	_	2	punct	_	SpaceAfter=No
+4	century	century	NOUN	S	Number=Sing	5	nmod	_	_
+5	scholars	scholar	NOUN	S	Number=Plur	7	nsubj	_	_
+6	have	have	AUX	VA	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	7	aux	_	_
+7	suggested	suggest	VERB	V	Tense=Past|VerbForm=Part	0	root	_	_
+8	that	that	SCONJ	CS	_	13	mark	_	_
+9	Shakespeare	Shakespeare	PROPN	SP	_	13	nsubj:pass	_	_
+10	may	may	AUX	VM	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	13	aux	_	_
+11	have	have	AUX	VA	VerbForm=Inf	13	aux	_	_
+12	been	be	AUX	VA	Tense=Past|VerbForm=Part	13	aux:pass	_	_
+13	employed	employ	VERB	V	Tense=Past|VerbForm=Part	7	ccomp	_	_
+14	as	as	ADP	E	_	16	case	_	_
+15	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	16	det	_	_
+16	schoolmaster	schoolmaster	NOUN	S	Number=Sing	13	obl	_	_
+17	by	by	ADP	E	_	18	case	_	_
+18	Alexander	Alexander	PROPN	SP	_	13	obl	_	_
+19	Hoghton	Hoghton	PROPN	SP	_	18	flat	_	_
+20	of	of	ADP	E	_	21	case	_	_
+21	Lancashire	Lancashire	PROPN	SP	_	18	nmod	_	SpaceAfter=No
+22	,	,	PUNCT	FF	_	18	punct	_	_
+23	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	25	det	_	_
+24	Catholic	Catholic	ADJ	A	Degree=Pos	25	amod	_	_
+25	landowner	landowner	NOUN	S	Number=Sing	18	appos	_	_
+26	who	who	PRON	PR	PronType=Rel	27	nsubj	_	_
+27	named	name	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	25	acl:relcl	_	_
+28	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	31	det	_	_
+29	certain	certain	ADJ	A	Degree=Pos	31	amod	_	_
+30	"	"	PUNCT	FB	_	31	punct	_	SpaceAfter=No
+31	William	William	PROPN	SP	_	27	obj	_	_
+32	Shakeshafte	Shakeshafte	PROPN	SP	_	31	flat	_	SpaceAfter=No
+33	"	"	PUNCT	FB	_	31	punct	_	_
+34	in	in	ADP	E	_	36	case	_	_
+35	his	his	DET	DP	Poss=Yes|PronType=Prs	36	nmod:poss	_	_
+36	will	will	NOUN	S	Number=Sing	27	obl	_	SpaceAfter=No
+37	.	.	PUNCT	FS	_	7	punct	_	_
 
 # sent_id = en_partut-ud-1847
 # text = Little evidence substantiates such stories other than hearsay collected after his death, and Shakeshafte was a common name in the Lancashire area.
@@ -45181,46 +45176,45 @@
 
 # sent_id = en_partut-ud-1923
 # text = In the early 17th century, Shakespeare wrote the so-called "problem plays" Measure for Measure, Troilus and Cressida, and All's Well That Ends Well and a number of his best known tragedies.
-1	In	in	ADP	E	_	6	case	_	_
-2	the	the	DET	RD	Definite=Def|PronType=Art	6	det	_	_
-3	early	early	ADJ	A	Degree=Pos	6	amod	_	_
-4	17	17	NUM	N	NumType=Card	6	nummod	_	SpaceAfter=No
-5	th	th	ADJ	A	Degree=Pos	4	amod	_	_
-6	century	century	NOUN	S	Number=Sing	9	obl	_	SpaceAfter=No
-7	,	,	PUNCT	FF	_	6	punct	_	_
-8	Shakespeare	Shakespeare	PROPN	SP	_	9	nsubj	_	_
-9	wrote	write	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-10	the	the	DET	RD	Definite=Def|PronType=Art	14	det	_	_
-11	so-called	so-called	ADJ	A	Degree=Pos	14	amod	_	_
-12	"	"	PUNCT	FB	_	14	punct	_	SpaceAfter=No
-13	problem	problem	NOUN	S	Number=Sing	14	nmod	_	_
-14	plays	play	NOUN	S	Number=Plur	9	obj	_	SpaceAfter=No
-15	"	"	PUNCT	FB	_	14	punct	_	_
-16	Measure	measure	NOUN	S	_	14	appos	_	_
-17	for	for	ADP	E	_	18	case	_	_
-18	Measure	Measure	NOUN	S	_	16	obl	_	SpaceAfter=No
-19	,	,	PUNCT	FF	_	20	punct	_	_
-20	Troilus	Troilus	PROPN	SP	_	16	conj	_	_
-21	and	and	CCONJ	CC	_	22	cc	_	_
-22	Cressida	Cressida	PROPN	SP	_	20	conj	_	SpaceAfter=No
-23	,	,	PUNCT	FF	_	27	punct	_	_
-24	and	and	CCONJ	CC	_	27	cc	_	_
-25-26	All's	_	_	_	_	_	_	_	_
-25	All	all	PRON	PI	PronType=Ind	27	nsubj	_	_
-26	's	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	27	cop	_	_
-27	Well	well	ADV	B	_	16	conj	_	_
-28	That	that	PRON	PR	PronType=Rel	29	nsubj	_	_
-29	Ends	end	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	25	acl:relcl	_	_
-30	Well	well	ADV	B	_	28	advmod	_	_
-31	and	and	CCONJ	CC	_	33	cc	_	_
-32	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	33	det	_	_
-33	number	number	NOUN	S	Number=Sing	16	conj	_	_
-34	of	of	ADP	E	_	38	case	_	_
-35	his	his	DET	AP	Poss=Yes|PronType=Prs	38	nmod:poss	_	_
-36	best	best	ADJ	A	Degree=Sup	38	amod	_	_
-37	known	known	ADJ	A	Degree=Pos	38	amod	_	_
-38	tragedies	tragedy	NOUN	S	Number=Plur	33	nmod	_	SpaceAfter=No
-39	.	.	PUNCT	FS	_	9	punct	_	_
+1	In	in	ADP	E	_	5	case	_	_
+2	the	the	DET	RD	Definite=Def|PronType=Art	5	det	_	_
+3	early	early	ADJ	A	Degree=Pos	5	amod	_	_
+4	17th	17th	ADJ	A	Degree=Pos|NumForm=Combi|NumType=Ord	5	amod	_	_
+5	century	century	NOUN	S	Number=Sing	8	obl	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	5	punct	_	_
+7	Shakespeare	Shakespeare	PROPN	SP	_	8	nsubj	_	_
+8	wrote	write	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+9	the	the	DET	RD	Definite=Def|PronType=Art	13	det	_	_
+10	so-called	so-called	ADJ	A	Degree=Pos	13	amod	_	_
+11	"	"	PUNCT	FB	_	13	punct	_	SpaceAfter=No
+12	problem	problem	NOUN	S	Number=Sing	13	nmod	_	_
+13	plays	play	NOUN	S	Number=Plur	8	obj	_	SpaceAfter=No
+14	"	"	PUNCT	FB	_	13	punct	_	_
+15	Measure	measure	NOUN	S	_	13	appos	_	_
+16	for	for	ADP	E	_	17	case	_	_
+17	Measure	Measure	NOUN	S	_	15	obl	_	SpaceAfter=No
+18	,	,	PUNCT	FF	_	19	punct	_	_
+19	Troilus	Troilus	PROPN	SP	_	15	conj	_	_
+20	and	and	CCONJ	CC	_	21	cc	_	_
+21	Cressida	Cressida	PROPN	SP	_	19	conj	_	SpaceAfter=No
+22	,	,	PUNCT	FF	_	26	punct	_	_
+23	and	and	CCONJ	CC	_	26	cc	_	_
+24-25	All's	_	_	_	_	_	_	_	_
+24	All	all	PRON	PI	PronType=Ind	26	nsubj	_	_
+25	's	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	26	cop	_	_
+26	Well	well	ADV	B	_	15	conj	_	_
+27	That	that	PRON	PR	PronType=Rel	28	nsubj	_	_
+28	Ends	end	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	24	acl:relcl	_	_
+29	Well	well	ADV	B	_	27	advmod	_	_
+30	and	and	CCONJ	CC	_	32	cc	_	_
+31	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	32	det	_	_
+32	number	number	NOUN	S	Number=Sing	15	conj	_	_
+33	of	of	ADP	E	_	37	case	_	_
+34	his	his	DET	AP	Poss=Yes|PronType=Prs	37	nmod:poss	_	_
+35	best	best	ADJ	A	Degree=Sup	37	amod	_	_
+36	known	known	ADJ	A	Degree=Pos	37	amod	_	_
+37	tragedies	tragedy	NOUN	S	Number=Plur	32	nmod	_	SpaceAfter=No
+38	.	.	PUNCT	FS	_	8	punct	_	_
 
 # sent_id = en_partut-ud-1924
 # text = Many critics believe that Shakespeare's greatest tragedies represent the peak of his art.
@@ -46103,33 +46097,32 @@
 4	around	around	ADP	E	_	6	case	_	_
 5	the	the	DET	RD	Definite=Def|PronType=Art	6	det	_	_
 6	turn	turn	NOUN	S	Number=Sing	3	obl	_	_
-7	of	of	ADP	E	_	11	case	_	_
-8	the	the	DET	RD	Definite=Def|PronType=Art	11	det	_	_
-9	16	16	NUM	N	NumType=Card	11	nummod	_	SpaceAfter=No
-10	th	th	ADJ	A	Degree=Pos	9	amod	_	_
-11	century	century	NOUN	S	Number=Sing	6	nmod	_	_
-12	by	by	ADP	E	_	13	case	_	_
-13	Robert	Robert	PROPN	SP	_	3	obl	_	_
-14	Armin	Armin	PROPN	SP	_	13	flat	_	SpaceAfter=No
-15	,	,	PUNCT	FF	_	13	punct	_	_
-16	who	who	PRON	PR	PronType=Rel	17	nsubj	_	_
-17	played	play	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	13	acl:relcl	_	_
-18	roles	role	NOUN	S	Number=Plur	17	obj	_	_
-19	such	such	ADJ	A	Degree=Pos|ExtPos=ADP	21	case	_	_
-20	as	as	ADP	E	_	19	fixed	_	_
-21	Touchstone	Touchstone	PROPN	SP	_	18	nmod	_	_
-22	in	in	ADP	E	_	25	case	_	_
-23	As	as	SCONJ	CS	_	25	mark	_	_
-24	You	you	PRON	PE	Person=2|PronType=Prs	25	nsubj	_	_
-25	Like	like	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	17	advcl	_	_
-26	It	it	PRON	PE	Person=3|PronType=Prs	25	obj	_	_
-27	and	and	CCONJ	CC	_	29	cc	_	_
-28	the	the	DET	RD	Definite=Def|PronType=Art	29	det	_	_
-29	fool	fool	NOUN	S	Number=Sing	17	conj	_	_
-30	in	in	ADP	E	_	32	case	_	_
-31	King	King	NOUN	S	Number=Sing	32	nmod:desc	_	_
-32	Lear	Lear	PROPN	SP	_	29	orphan	_	SpaceAfter=No
-33	.	.	PUNCT	FS	_	3	punct	_	_
+7	of	of	ADP	E	_	10	case	_	_
+8	the	the	DET	RD	Definite=Def|PronType=Art	10	det	_	_
+9	16th	16th	ADJ	A	Degree=Pos|NumForm=Combi|NumType=Ord	10	amod	_	_
+10	century	century	NOUN	S	Number=Sing	6	nmod	_	_
+11	by	by	ADP	E	_	12	case	_	_
+12	Robert	Robert	PROPN	SP	_	3	obl	_	_
+13	Armin	Armin	PROPN	SP	_	12	flat	_	SpaceAfter=No
+14	,	,	PUNCT	FF	_	12	punct	_	_
+15	who	who	PRON	PR	PronType=Rel	16	nsubj	_	_
+16	played	play	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	12	acl:relcl	_	_
+17	roles	role	NOUN	S	Number=Plur	16	obj	_	_
+18	such	such	ADJ	A	Degree=Pos|ExtPos=ADP	20	case	_	_
+19	as	as	ADP	E	_	18	fixed	_	_
+20	Touchstone	Touchstone	PROPN	SP	_	17	nmod	_	_
+21	in	in	ADP	E	_	24	case	_	_
+22	As	as	SCONJ	CS	_	24	mark	_	_
+23	You	you	PRON	PE	Person=2|PronType=Prs	24	nsubj	_	_
+24	Like	like	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	16	advcl	_	_
+25	It	it	PRON	PE	Person=3|PronType=Prs	24	obj	_	_
+26	and	and	CCONJ	CC	_	28	cc	_	_
+27	the	the	DET	RD	Definite=Def|PronType=Art	28	det	_	_
+28	fool	fool	NOUN	S	Number=Sing	16	conj	_	_
+29	in	in	ADP	E	_	31	case	_	_
+30	King	King	NOUN	S	Number=Sing	31	nmod:desc	_	_
+31	Lear	Lear	PROPN	SP	_	28	orphan	_	SpaceAfter=No
+32	.	.	PUNCT	FS	_	3	punct	_	_
 
 # sent_id = en_partut-ud-1956
 # text = On 29 June, however, a cannon set fire to the thatch of the Globe and burned the theatre to the ground, an event which pinpoints the date of a Shakespeare play with rare precision.
@@ -48150,7 +48143,7 @@
 # text = Between the Restoration of the monarchy in 1660 and the end of the 17th century, classical ideas were in vogue.
 1	Between	between	ADP	E	_	3	case	_	_
 2	the	the	DET	RD	Definite=Def|PronType=Art	3	det	_	_
-3	Restoration	restoration	NOUN	S	Number=Sing	22	nmod	_	_
+3	Restoration	restoration	NOUN	S	Number=Sing	21	nmod	_	_
 4	of	of	ADP	E	_	6	case	_	_
 5	the	the	DET	RD	Definite=Def|PronType=Art	6	det	_	_
 6	monarchy	monarchy	NOUN	S	Number=Sing	3	nmod	_	_
@@ -48161,16 +48154,15 @@
 11	end	end	NOUN	S	Number=Sing	3	conj	_	_
 12	of	of	ADP	E	_	14	case	_	_
 13	the	the	DET	RD	Definite=Def|PronType=Art	14	det	_	_
-14	17	17	NUM	N	NumType=Card	16	nummod	_	SpaceAfter=No
-15	th	th	ADJ	A	Degree=Pos	14	amod	_	_
-16	century	century	NOUN	S	Number=Sing	11	nmod	_	SpaceAfter=No
-17	,	,	PUNCT	FF	_	16	punct	_	_
-18	classical	classic	ADJ	A	Degree=Pos	19	amod	_	_
-19	ideas	idea	NOUN	S	Number=Plur	22	nsubj	_	_
-20	were	be	AUX	V	Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	22	cop	_	_
-21	in	in	ADP	E	_	22	case	_	_
-22	vogue	vogue	NOUN	S	Number=Sing	0	root	_	SpaceAfter=No
-23	.	.	PUNCT	FS	_	22	punct	_	_
+14	17th	17th	ADJ	A	Degree=Pos|NumForm=Combi|NumType=Ord	15	amod	_	_
+15	century	century	NOUN	S	Number=Sing	11	nmod	_	SpaceAfter=No
+16	,	,	PUNCT	FF	_	15	punct	_	_
+17	classical	classic	ADJ	A	Degree=Pos	18	amod	_	_
+18	ideas	idea	NOUN	S	Number=Plur	21	nsubj	_	_
+19	were	be	AUX	V	Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	21	cop	_	_
+20	in	in	ADP	E	_	21	case	_	_
+21	vogue	vogue	NOUN	S	Number=Sing	0	root	_	SpaceAfter=No
+22	.	.	PUNCT	FS	_	21	punct	_	_
 
 # sent_id = en_partut-ud-2043
 # text = As a result, critics of the time mostly rated Shakespeare below John Fletcher and Ben Jonson.
@@ -48257,32 +48249,31 @@
 
 # sent_id = en_partut-ud-2047
 # text = but during the 18th century, critics began to respond to Shakespeare on his own terms and acclaim what they termed his natural genius.
-1	but	but	CCONJ	CC	_	9	cc	_	_
-2	during	during	ADP	E	_	6	case	_	_
-3	the	the	DET	RD	Definite=Def|PronType=Art	6	det	_	_
-4	18	18	NUM	N	NumType=Card	6	nummod	_	SpaceAfter=No
-5	th	th	ADJ	A	Degree=Pos	4	amod	_	_
-6	century	century	NOUN	S	Number=Sing	9	obl	_	SpaceAfter=No
-7	,	,	PUNCT	FF	_	6	punct	_	_
-8	critics	critic	NOUN	S	Number=Plur	9	nsubj	_	_
-9	began	begin	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-10	to	to	PART	PART	_	11	mark	_	_
-11	respond	respond	VERB	V	VerbForm=Inf	9	xcomp	_	_
-12	to	to	ADP	E	_	13	case	_	_
-13	Shakespeare	Shakespeare	PROPN	SP	_	11	obl	_	_
-14	on	on	ADP	E	_	17	case	_	_
-15	his	his	DET	AP	Poss=Yes|PronType=Prs	17	nmod:poss	_	_
-16	own	own	ADJ	A	Degree=Pos	17	amod	_	_
-17	terms	term	NOUN	S	Number=Plur	11	obl	_	_
-18	and	and	CCONJ	CC	_	19	cc	_	_
-19	acclaim	acclaim	NOUN	S	Number=Sing	17	conj	_	_
-20	what	what	PRON	PR	Number=Sing|PronType=Rel	11	obj	_	_
-21	they	they	PRON	PE	Number=Plur|Person=3|PronType=Prs	22	nsubj	_	_
-22	termed	term	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	20	acl:relcl	_	_
-23	his	his	DET	AP	Poss=Yes|PronType=Prs	25	nmod:poss	_	_
-24	natural	natural	ADJ	A	Degree=Pos	25	amod	_	_
-25	genius	genius	NOUN	S	Number=Sing	22	xcomp	_	SpaceAfter=No
-26	.	.	PUNCT	FS	_	9	punct	_	_
+1	but	but	CCONJ	CC	_	8	cc	_	_
+2	during	during	ADP	E	_	5	case	_	_
+3	the	the	DET	RD	Definite=Def|PronType=Art	5	det	_	_
+4	18th	18th	ADJ	A	Degree=Pos|NumForm=Combi|NumType=Ord	5	amod	_	_
+5	century	century	NOUN	S	Number=Sing	8	obl	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	5	punct	_	_
+7	critics	critic	NOUN	S	Number=Plur	8	nsubj	_	_
+8	began	begin	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+9	to	to	PART	PART	_	10	mark	_	_
+10	respond	respond	VERB	V	VerbForm=Inf	8	xcomp	_	_
+11	to	to	ADP	E	_	12	case	_	_
+12	Shakespeare	Shakespeare	PROPN	SP	_	10	obl	_	_
+13	on	on	ADP	E	_	16	case	_	_
+14	his	his	DET	AP	Poss=Yes|PronType=Prs	16	nmod:poss	_	_
+15	own	own	ADJ	A	Degree=Pos	16	amod	_	_
+16	terms	term	NOUN	S	Number=Plur	10	obl	_	_
+17	and	and	CCONJ	CC	_	18	cc	_	_
+18	acclaim	acclaim	NOUN	S	Number=Sing	16	conj	_	_
+19	what	what	PRON	PR	Number=Sing|PronType=Rel	10	obj	_	_
+20	they	they	PRON	PE	Number=Plur|Person=3|PronType=Prs	21	nsubj	_	_
+21	termed	term	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	19	acl:relcl	_	_
+22	his	his	DET	AP	Poss=Yes|PronType=Prs	24	nmod:poss	_	_
+23	natural	natural	ADJ	A	Degree=Pos	24	amod	_	_
+24	genius	genius	NOUN	S	Number=Sing	21	xcomp	_	SpaceAfter=No
+25	.	.	PUNCT	FS	_	8	punct	_	_
 
 # sent_id = en_partut-ud-2048
 # text = A series of scholarly editions of his work, notably those of Samuel Johnson in 1765 and Edmond Malone in 1790, added to his growing reputation.
@@ -48392,24 +48383,23 @@
 
 # sent_id = en_partut-ud-2054
 # text = In the 19th century, critical admiration for Shakespeare's genius often bordered on adulation.
-1	In	in	ADP	E	_	5	case	_	_
-2	the	the	DET	RD	Definite=Def|PronType=Art	5	det	_	_
-3	19	19	NUM	N	NumType=Card	5	nummod	_	SpaceAfter=No
-4	th	th	ADJ	A	Degree=Pos	3	amod	_	_
-5	century	century	NOUN	S	Number=Sing	14	obl	_	SpaceAfter=No
-6	,	,	PUNCT	FF	_	5	punct	_	_
-7	critical	critical	ADJ	A	Degree=Pos	8	amod	_	_
-8	admiration	admiration	NOUN	S	Number=Sing	14	nsubj	_	_
-9	for	for	ADP	E	_	12	case	_	_
-10-11	Shakespeare's	_	_	_	_	_	_	_	_
-10	Shakespeare	Shakespeare	PROPN	SP	_	12	nmod:poss	_	_
-11	's	's	PART	PART	_	10	case	_	_
-12	genius	genius	NOUN	S	Number=Sing	8	nmod	_	_
-13	often	often	ADV	B	_	14	advmod	_	_
-14	bordered	border	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-15	on	on	ADP	E	_	16	case	_	_
-16	adulation	adulation	NOUN	S	Number=Sing	14	obl	_	SpaceAfter=No
-17	.	.	PUNCT	FS	_	14	punct	_	_
+1	In	in	ADP	E	_	4	case	_	_
+2	the	the	DET	RD	Definite=Def|PronType=Art	4	det	_	_
+3	19th	19th	ADJ	A	Degree=Pos|NumForm=Combi|NumType=Ord	4	amod	_	_
+4	century	century	NOUN	S	Number=Sing	13	obl	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	4	punct	_	_
+6	critical	critical	ADJ	A	Degree=Pos	7	amod	_	_
+7	admiration	admiration	NOUN	S	Number=Sing	13	nsubj	_	_
+8	for	for	ADP	E	_	11	case	_	_
+9-10	Shakespeare's	_	_	_	_	_	_	_	_
+9	Shakespeare	Shakespeare	PROPN	SP	_	11	nmod:poss	_	_
+10	's	's	PART	PART	_	9	case	_	_
+11	genius	genius	NOUN	S	Number=Sing	7	nmod	_	_
+12	often	often	ADV	B	_	13	advmod	_	_
+13	bordered	border	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+14	on	on	ADP	E	_	15	case	_	_
+15	adulation	adulation	NOUN	S	Number=Sing	13	obl	_	SpaceAfter=No
+16	.	.	PUNCT	FS	_	13	punct	_	_
 
 # sent_id = en_partut-ud-2055
 # text = "That King Shakespeare", the essayist Thomas Carlyle wrote in 1840, "does not he shine, in crowned sovereignty, over us all, as the noblest, gentlest, yet strongest of rallying signs;
@@ -48520,33 +48510,32 @@
 # text = The modernist revolution in the arts during the early 20th century, far from discarding Shakespeare, eagerly enlisted his work in the service of the avant-garde.
 1	The	the	DET	RD	Definite=Def|PronType=Art	3	det	_	_
 2	modernist	modernist	ADJ	A	Degree=Pos	3	amod	_	_
-3	revolution	revolution	NOUN	S	Number=Sing	20	nsubj	_	_
+3	revolution	revolution	NOUN	S	Number=Sing	19	nsubj	_	_
 4	in	in	ADP	E	_	6	case	_	_
 5	the	the	DET	RD	Definite=Def|PronType=Art	6	det	_	_
 6	arts	art	NOUN	S	Number=Plur	3	nmod	_	_
-7	during	during	ADP	E	_	12	case	_	_
-8	the	the	DET	RD	Definite=Def|PronType=Art	12	det	_	_
-9	early	early	ADJ	A	Degree=Pos	12	amod	_	_
-10	20	20	NUM	N	NumType=Card	12	nummod	_	SpaceAfter=No
-11	th	th	ADJ	A	Degree=Pos	10	amod	_	_
-12	century	century	NOUN	S	Number=Sing	3	nmod	_	SpaceAfter=No
-13	,	,	PUNCT	FF	_	3	punct	_	_
-14	far	far	ADV	B	_	20	advmod	_	_
-15	from	from	SCONJ	CS	_	16	mark	_	_
-16	discarding	discard	VERB	V	VerbForm=Ger	14	advcl	_	_
-17	Shakespeare	Shakespeare	PROPN	SP	_	16	obj	_	SpaceAfter=No
-18	,	,	PUNCT	FF	_	14	punct	_	_
-19	eagerly	eagerly	ADV	B	_	20	advmod	_	_
-20	enlisted	enlist	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-21	his	his	DET	AP	Poss=Yes|PronType=Prs	22	nmod:poss	_	_
-22	work	work	NOUN	S	Number=Sing	20	obj	_	_
-23	in	in	ADP	E	_	25	case	_	_
-24	the	the	DET	RD	Definite=Def|PronType=Art	25	det	_	_
-25	service	service	NOUN	S	Number=Sing	20	obl	_	_
-26	of	of	ADP	E	_	28	case	_	_
-27	the	the	DET	RD	Definite=Def|PronType=Art	28	det	_	_
-28	avant-garde	avant-garde	NOUN	S	Number=Sing	25	nmod	_	SpaceAfter=No
-29	.	.	PUNCT	FS	_	20	punct	_	_
+7	during	during	ADP	E	_	11	case	_	_
+8	the	the	DET	RD	Definite=Def|PronType=Art	11	det	_	_
+9	early	early	ADJ	A	Degree=Pos	11	amod	_	_
+10	20th	20th	ADJ	A	Degree=Pos|NumForm=Combi|NumType=Ord	11	amod	_	_
+11	century	century	NOUN	S	Number=Sing	3	nmod	_	SpaceAfter=No
+12	,	,	PUNCT	FF	_	3	punct	_	_
+13	far	far	ADV	B	_	19	advmod	_	_
+14	from	from	SCONJ	CS	_	15	mark	_	_
+15	discarding	discard	VERB	V	VerbForm=Ger	13	advcl	_	_
+16	Shakespeare	Shakespeare	PROPN	SP	_	15	obj	_	SpaceAfter=No
+17	,	,	PUNCT	FF	_	13	punct	_	_
+18	eagerly	eagerly	ADV	B	_	19	advmod	_	_
+19	enlisted	enlist	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+20	his	his	DET	AP	Poss=Yes|PronType=Prs	21	nmod:poss	_	_
+21	work	work	NOUN	S	Number=Sing	19	obj	_	_
+22	in	in	ADP	E	_	24	case	_	_
+23	the	the	DET	RD	Definite=Def|PronType=Art	24	det	_	_
+24	service	service	NOUN	S	Number=Sing	19	obl	_	_
+25	of	of	ADP	E	_	27	case	_	_
+26	the	the	DET	RD	Definite=Def|PronType=Art	27	det	_	_
+27	avant-garde	avant-garde	NOUN	S	Number=Sing	24	nmod	_	SpaceAfter=No
+28	.	.	PUNCT	FS	_	19	punct	_	_
 
 # sent_id = en_partut-ud-2061
 # text = The Expressionists in Germany and the Futurists in Moscow mounted productions of his plays.
@@ -48715,12 +48704,11 @@
 13	De	De	PROPN	SP	_	12	flat	_	_
 14	Vere	Vere	PROPN	SP	_	12	flat	_	SpaceAfter=No
 15	,	,	PUNCT	FF	_	12	punct	_	_
-16	17	17	NUM	N	NumType=Card	18	nummod	_	SpaceAfter=No
-17	th	th	ADJ	A	Degree=Pos	16	amod	_	_
-18	earl	earl	NOUN	S	Number=Sing	12	appos	_	_
-19	of	of	ADP	E	_	20	case	_	_
-20	Oxford	Oxford	PROPN	SP	_	18	nmod	_	SpaceAfter=No
-21	.	.	PUNCT	FS	_	4	punct	_	_
+16	17th	17th	ADJ	A	Degree=Pos|NumForm=Combi|NumType=Ord	17	amod	_	_
+17	earl	earl	NOUN	S	Number=Sing	12	appos	_	_
+18	of	of	ADP	E	_	19	case	_	_
+19	Oxford	Oxford	PROPN	SP	_	17	nmod	_	SpaceAfter=No
+20	.	.	PUNCT	FS	_	4	punct	_	_
 
 # sent_id = en_partut-ud-2069
 # text = Several "group theories" have also been proposed.
@@ -49084,27 +49072,26 @@
 
 # sent_id = en_partut-ud-2085
 # text = From the 18th century, the desire for authentic Shakespeare portraits fuelled claims that various surviving pictures depicted Shakespeare.
-1	From	from	ADP	E	_	5	case	_	_
-2	the	the	DET	RD	Definite=Def|PronType=Art	5	det	_	_
-3	18	18	NUM	N	NumType=Card	5	nummod	_	SpaceAfter=No
-4	th	th	ADJ	A	Degree=Pos	3	amod	_	_
-5	century	century	NOUN	S	Number=Sing	13	obl	_	SpaceAfter=No
-6	,	,	PUNCT	FF	_	5	punct	_	_
-7	the	the	DET	RD	Definite=Def|PronType=Art	8	det	_	_
-8	desire	desire	NOUN	S	Number=Sing	13	nsubj	_	_
-9	for	for	ADP	E	_	12	case	_	_
-10	authentic	authentic	ADJ	A	Degree=Pos	12	amod	_	_
-11	Shakespeare	Shakespeare	PROPN	SP	_	12	nmod	_	_
-12	portraits	portrait	NOUN	S	Number=Plur	8	nmod	_	_
-13	fuelled	fuel	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-14	claims	claim	NOUN	S	Number=Plur	13	obj	_	_
-15	that	that	SCONJ	CS	_	19	mark	_	_
-16	various	various	ADJ	A	Degree=Pos	18	amod	_	_
-17	surviving	survive	VERB	V	Number=Sing|Tense=Pres|VerbForm=Part	18	acl	_	_
-18	pictures	picture	NOUN	S	Number=Plur	19	nsubj	_	_
-19	depicted	depict	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	14	acl	_	_
-20	Shakespeare	Shakespeare	PROPN	SP	_	19	obj	_	SpaceAfter=No
-21	.	.	PUNCT	FS	_	13	punct	_	_
+1	From	from	ADP	E	_	4	case	_	_
+2	the	the	DET	RD	Definite=Def|PronType=Art	4	det	_	_
+3	18th	18th	ADJ	A	Degree=Pos|NumForm=Combi|NumType=Ord	4	amod	_	_
+4	century	century	NOUN	S	Number=Sing	12	obl	_	SpaceAfter=No
+5	,	,	PUNCT	FF	_	4	punct	_	_
+6	the	the	DET	RD	Definite=Def|PronType=Art	7	det	_	_
+7	desire	desire	NOUN	S	Number=Sing	12	nsubj	_	_
+8	for	for	ADP	E	_	11	case	_	_
+9	authentic	authentic	ADJ	A	Degree=Pos	11	amod	_	_
+10	Shakespeare	Shakespeare	PROPN	SP	_	11	nmod	_	_
+11	portraits	portrait	NOUN	S	Number=Plur	7	nmod	_	_
+12	fuelled	fuel	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+13	claims	claim	NOUN	S	Number=Plur	12	obj	_	_
+14	that	that	SCONJ	CS	_	18	mark	_	_
+15	various	various	ADJ	A	Degree=Pos	17	amod	_	_
+16	surviving	survive	VERB	V	Number=Sing|Tense=Pres|VerbForm=Part	17	acl	_	_
+17	pictures	picture	NOUN	S	Number=Plur	18	nsubj	_	_
+18	depicted	depict	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	13	acl	_	_
+19	Shakespeare	Shakespeare	PROPN	SP	_	18	obj	_	SpaceAfter=No
+20	.	.	PUNCT	FS	_	12	punct	_	_
 
 # sent_id = en_partut-ud-2086
 # text = That demand also led to the production of several fake portraits, as well as mis-attributions, repaintings and relabelling of portraits of other people.
