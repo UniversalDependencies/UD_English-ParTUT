@@ -44670,7 +44670,7 @@
 21	.	.	PUNCT	FS	_	4	punct	_	_
 
 # sent_id = en_partut-ud-1909
-# text = The first recorded works of Shakespeare are Richard III and the three parts of Henry VI, written in the early 1590 s during a vogue for historical drama.
+# text = The first recorded works of Shakespeare are Richard III and the three parts of Henry VI, written in the early 1590s during a vogue for historical drama.
 1	The	the	DET	RD	Definite=Def|PronType=Art	4	det	_	_
 2	first	first	ADJ	NO	Degree=Pos|NumType=Ord	4	amod	_	_
 3	recorded	recorded	ADJ	A	Degree=Pos	4	amod	_	_
@@ -44692,15 +44692,14 @@
 19	in	in	ADP	E	_	22	case	_	_
 20	the	the	DET	RD	Definite=Def|PronType=Art	22	det	_	_
 21	early	early	ADJ	A	Degree=Pos	22	amod	_	_
-22	1590	1590	NUM	N	NumType=Card	18	obl	_	_
-23	s	s	X	X	_	22	dep	_	_
-24	during	during	ADP	E	_	26	case	_	_
-25	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	26	det	_	_
-26	vogue	vogue	NOUN	S	Number=Sing	18	obl	_	_
-27	for	for	ADP	E	_	29	case	_	_
-28	historical	historic	ADJ	A	Degree=Pos	29	amod	_	_
-29	drama	drama	NOUN	S	Number=Sing	26	nmod	_	SpaceAfter=No
-30	.	.	PUNCT	FS	_	8	punct	_	_
+22	1590s	1590s	NOUN	S	Number=Ptan|NumForm=Combi|NumType=Card	18	obl	_	_
+23	during	during	ADP	E	_	25	case	_	_
+24	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	25	det	_	_
+25	vogue	vogue	NOUN	S	Number=Sing	18	obl	_	_
+26	for	for	ADP	E	_	28	case	_	_
+27	historical	historic	ADJ	A	Degree=Pos	28	amod	_	_
+28	drama	drama	NOUN	S	Number=Sing	25	nmod	_	SpaceAfter=No
+29	.	.	PUNCT	FS	_	8	punct	_	_
 
 # sent_id = en_partut-ud-1910
 # text = Shakespeare's plays are difficult to date, however, and studies of the texts suggest that Titus Andronicus, The Comedy of Errors, The Taming of the Shrew and The Two Gentlemen of Verona may also belong to Shakespeare's earliest period.
@@ -45624,22 +45623,21 @@
 16	comedies	comedy	NOUN	S	Number=Plur	11	nmod	_	_
 17	of	of	ADP	E	_	19	case	_	_
 18	the	the	DET	RD	Definite=Def|PronType=Art	19	det	_	_
-19	1590	1590	NUM	N	NumType=Card	16	nummod	_	SpaceAfter=No
-20	s	s	X	X	_	19	dep	_	SpaceAfter=No
-21	,	,	PUNCT	FF	_	24	punct	_	_
-22	but	but	CCONJ	CC	_	24	cc	_	_
-23	they	they	PRON	PE	Number=Plur|Person=3|PronType=Prs	24	nsubj	_	_
-24	end	end	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	11	conj	_	_
-25	with	with	ADP	E	_	26	case	_	_
-26	reconciliation	reconciliation	NOUN	S	Number=Sing	24	obl	_	_
-27	and	and	CCONJ	CC	_	29	cc	_	_
-28	the	the	DET	RD	Definite=Def|PronType=Art	29	det	_	_
-29	forgiveness	forgiveness	NOUN	S	Number=Sing	26	conj	_	_
-30	of	of	ADP	E	_	33	case	_	_
-31	potentially	potentially	ADV	B	_	32	advmod	_	_
-32	tragic	tragic	ADJ	A	Degree=Pos	33	amod	_	_
-33	errors	error	NOUN	S	Number=Plur	29	nmod	_	SpaceAfter=No
-34	.	.	PUNCT	FS	_	11	punct	_	_
+19	1590s	1590s	NOUN	S	Number=Ptan|NumForm=Combi|NumType=Card	16	nmod	_	SpaceAfter=No
+20	,	,	PUNCT	FF	_	23	punct	_	_
+21	but	but	CCONJ	CC	_	23	cc	_	_
+22	they	they	PRON	PE	Number=Plur|Person=3|PronType=Prs	23	nsubj	_	_
+23	end	end	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	11	conj	_	_
+24	with	with	ADP	E	_	25	case	_	_
+25	reconciliation	reconciliation	NOUN	S	Number=Sing	23	obl	_	_
+26	and	and	CCONJ	CC	_	28	cc	_	_
+27	the	the	DET	RD	Definite=Def|PronType=Art	28	det	_	_
+28	forgiveness	forgiveness	NOUN	S	Number=Sing	25	conj	_	_
+29	of	of	ADP	E	_	32	case	_	_
+30	potentially	potentially	ADV	B	_	31	advmod	_	_
+31	tragic	tragic	ADJ	A	Degree=Pos	32	amod	_	_
+32	errors	error	NOUN	S	Number=Plur	28	nmod	_	SpaceAfter=No
+33	.	.	PUNCT	FS	_	11	punct	_	_
 
 # sent_id = en_partut-ud-1938
 # text = Some commentators have seen this change in mood as evidence of a more serene view of life on Shakespeare's part, but it may merely reflect the theatrical fashion of the day.
@@ -48648,31 +48646,30 @@
 # text = By the 1980s, Shakespeare studies were open to movements such as structuralism, feminism, New Historicism, African-American studies, and queer studies.
 1	By	by	ADP	E	_	3	case	_	_
 2	the	the	DET	RD	Definite=Def|PronType=Art	3	det	_	_
-3	1980	1980	NUM	N	NumType=Card	9	nummod	_	SpaceAfter=No
-4	s	s	X	X	_	3	dep	_	SpaceAfter=No
-5	,	,	PUNCT	FF	_	3	punct	_	_
-6	Shakespeare	Shakespeare	PROPN	SP	_	7	nmod	_	_
-7	studies	study	NOUN	S	Number=Plur	9	nsubj	_	_
-8	were	be	AUX	V	Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	9	cop	_	_
-9	open	open	ADJ	A	Degree=Pos	0	root	_	_
-10	to	to	ADP	E	_	11	case	_	_
-11	movements	movement	NOUN	S	Number=Plur	9	obl	_	_
-12	such	such	ADJ	A	Degree=Pos|ExtPos=ADP	14	case	_	_
-13	as	as	ADP	E	_	12	fixed	_	_
-14	structuralism	structuralism	NOUN	S	Number=Sing	11	nmod	_	SpaceAfter=No
-15	,	,	PUNCT	FF	_	16	punct	_	_
-16	feminism	feminism	NOUN	S	Number=Sing	14	conj	_	SpaceAfter=No
-17	,	,	PUNCT	FF	_	19	punct	_	_
-18	New	New	PROPN	SP	_	19	nmod	_	_
-19	Historicism	Historicism	PROPN	SP	_	11	conj	_	SpaceAfter=No
-20	,	,	PUNCT	FF	_	22	punct	_	_
-21	African-American	african-american	ADJ	A	Degree=Pos	22	amod	_	_
-22	studies	study	NOUN	S	Number=Plur	11	conj	_	SpaceAfter=No
-23	,	,	PUNCT	FF	_	26	punct	_	_
-24	and	and	CCONJ	CC	_	26	cc	_	_
-25	queer	queer	ADJ	A	Degree=Pos	26	amod	_	_
-26	studies	study	NOUN	S	Number=Plur	11	conj	_	SpaceAfter=No
-27	.	.	PUNCT	FS	_	9	punct	_	_
+3	1980s	1980s	NOUN	S	Number=Ptan|NumForm=Combi|NumType=Card	8	obl	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	3	punct	_	_
+5	Shakespeare	Shakespeare	PROPN	SP	_	6	nmod	_	_
+6	studies	study	NOUN	S	Number=Plur	8	nsubj	_	_
+7	were	be	AUX	V	Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	8	cop	_	_
+8	open	open	ADJ	A	Degree=Pos	0	root	_	_
+9	to	to	ADP	E	_	10	case	_	_
+10	movements	movement	NOUN	S	Number=Plur	8	obl	_	_
+11	such	such	ADJ	A	Degree=Pos|ExtPos=ADP	13	case	_	_
+12	as	as	ADP	E	_	11	fixed	_	_
+13	structuralism	structuralism	NOUN	S	Number=Sing	10	nmod	_	SpaceAfter=No
+14	,	,	PUNCT	FF	_	15	punct	_	_
+15	feminism	feminism	NOUN	S	Number=Sing	13	conj	_	SpaceAfter=No
+16	,	,	PUNCT	FF	_	18	punct	_	_
+17	New	New	PROPN	SP	_	18	nmod	_	_
+18	Historicism	Historicism	PROPN	SP	_	10	conj	_	SpaceAfter=No
+19	,	,	PUNCT	FF	_	21	punct	_	_
+20	African-American	african-american	ADJ	A	Degree=Pos	21	amod	_	_
+21	studies	study	NOUN	S	Number=Plur	10	conj	_	SpaceAfter=No
+22	,	,	PUNCT	FF	_	25	punct	_	_
+23	and	and	CCONJ	CC	_	25	cc	_	_
+24	queer	queer	ADJ	A	Degree=Pos	25	amod	_	_
+25	studies	study	NOUN	S	Number=Plur	10	conj	_	SpaceAfter=No
+26	.	.	PUNCT	FS	_	8	punct	_	_
 
 # sent_id = en_partut-ud-2067
 # text = Around 230 years after Shakespeare's death, doubts began to be expressed about the authorship of the works attributed to him.
