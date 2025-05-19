@@ -8878,7 +8878,7 @@
 9	to	to	ADP	E	_	11	case	_	_
 10	Amendments	amendment	NOUN	S	Number=Sing	11	nmod	_	_
 11	Nos	number	NOUN	S	Number=Plur	5	obl	_	_
-12	1	1	NUM	N	NumType=Card	11	nummod	_	_
+12	1	1	NUM	N	NumType=Card	11	flat	_	_
 13	and	and	CCONJ	CC	_	14	cc	_	_
 14	2	2	NUM	N	NumType=Card	12	conj	_	_
 15	which	which	PRON	PR	PronType=Rel	17	nsubj:pass	_	_
@@ -9570,7 +9570,7 @@
 53	in	in	ADP	E	_	55	case	_	_
 54	its	its	DET	AP	Number=Sing|Poss=Yes|PronType=Prs	55	nmod:poss	_	_
 55	points	point	NOUN	S	Number=Plur	41	obl	_	_
-56	16	16	NUM	N	NumType=Card	55	nummod	_	_
+56	16	16	NUM	N	NumType=Card	55	flat	_	_
 57	and	and	CCONJ	CC	_	58	cc	_	_
 58	17	17	NUM	N	NumType=Card	56	conj	_	SpaceAfter=No
 59	.	.	PUNCT	FS	_	3	punct	_	_
@@ -19048,7 +19048,7 @@
 7	report	report	NOUN	S	Number=Sing	14	nsubj	_	_
 8	(	(	PUNCT	FB	_	9	punct	_	SpaceAfter=No
 9	p.	page	NOUN	S	Number=Sing	7	nmod	_	_
-10	10	10	NUM	N	NumType=Card	9	nummod	_	_
+10	10	10	NUM	N	NumType=Card	9	flat	_	_
 11	and	and	CCONJ	CC	_	12	cc	_	_
 12	11	11	NUM	N	NumType=Card	10	conj	_	SpaceAfter=No
 13	)	)	PUNCT	FB	_	9	punct	_	_
@@ -19279,7 +19279,7 @@
 6	mentions	mention	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 7	(	(	PUNCT	FB	_	8	punct	_	SpaceAfter=No
 8	p.	page	NOUN	S	Number=Sing	6	obl	_	_
-9	14	14	NUM	N	NumType=Card	8	nummod	_	SpaceAfter=No
+9	14	14	NUM	N	NumType=Card	8	flat	_	SpaceAfter=No
 10	)	)	PUNCT	FB	_	8	punct	_	_
 11	that	that	SCONJ	CS	_	17	mark	_	_
 12	the	the	DET	RD	Definite=Def|PronType=Art	13	det	_	_
@@ -28309,7 +28309,7 @@
 23	rates	rate	NOUN	S	Number=Plur	21	nmod	_	_
 24	of	of	ADP	E	_	27	case	_	_
 25	type	type	NOUN	S	Number=Sing	27	nmod	_	_
-26	2	2	NUM	N	NumType=Card	25	nummod	_	_
+26	2	2	NUM	N	NumType=Card	25	flat	_	_
 27	diabetes	diabetes	NOUN	S	Number=Sing	23	nmod	_	_
 28	and	and	CCONJ	CC	_	30	cc	_	_
 29	coronary	coronary	ADJ	A	Degree=Pos	30	amod	_	_
@@ -46657,7 +46657,7 @@
 6	drafts	draft	NOUN	S	Number=Plur	12	nsubj	_	_
 7	of	of	ADP	E	_	8	case	_	_
 8	sonnets	sonnet	NOUN	S	Number=Plur	6	nmod	_	_
-9	138	138	NUM	N	NumType=Card	8	nummod	_	_
+9	138	138	NUM	N	NumType=Card	8	flat	_	_
 10	and	and	CCONJ	CC	_	11	cc	_	_
 11	144	144	NUM	N	NumType=Card	9	conj	_	_
 12	appeared	appear	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
