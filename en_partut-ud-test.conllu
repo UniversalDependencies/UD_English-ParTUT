@@ -1610,7 +1610,7 @@
 5	contained	contain	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	4	acl	_	_
 6	in	in	ADP	E	_	7	case	_	_
 7	Article	article	NOUN	S	Number=Sing	5	obl	_	_
-8	165	165	NUM	N	NumType=Card	7	nummod	_	_
+8	165	165	NUM	N	NumType=Card	7	flat	_	_
 9	of	of	ADP	E	_	12	case	_	_
 10	the	the	DET	RD	Definite=Def|PronType=Art	12	det	_	_
 11	Financial	financial	ADJ	A	Degree=Pos	12	amod	_	_
