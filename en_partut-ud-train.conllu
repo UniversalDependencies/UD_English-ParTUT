@@ -30917,9 +30917,9 @@
 11	Korean	Korean	ADJ	A	Degree=Pos	12	amod	_	_
 12	women	women	NOUN	S	Number=Sing	8	nmod	_	_
 13	aged	age	VERB	V	Tense=Past|VerbForm=Part	12	acl	_	_
-14	15	15	NUM	N	NumType=Card	13	xcomp	_	SpaceAfter=No
-15	-	-	PUNCT	FF	_	14	punct	_	SpaceAfter=No
-16	64	64	NUM	N	NumType=Card	14	nummod	_	_
+14	15	15	NUM	N	NumType=Card	13	obl:unmarked	_	SpaceAfter=No
+15	-	-	SYM	X	_	16	case	_	SpaceAfter=No
+16	64	64	NUM	N	NumType=Card	14	nmod	_	_
 17	are	be	AUX	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	21	cop	_	_
 18	in	in	ADP	E	_	21	case	_	_
 19	the	the	DET	RD	Definite=Def|PronType=Art	21	det	_	_
