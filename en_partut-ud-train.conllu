@@ -10780,9 +10780,9 @@
 52	for	for	ADP	E	_	54	case	_	_
 53	the	the	DET	RD	Definite=Def|PronType=Art	54	det	_	_
 54	period	period	NOUN	S	Number=Sing	48	nmod	_	_
-55	2000	2000	NUM	N	NumType=Card	54	nummod	_	SpaceAfter=No
-56	-	-	PUNCT	FF	_	55	punct	_	SpaceAfter=No
-57	2006	2006	NUM	N	NumType=Card	55	nummod	_	_
+55	2000	2000	NUM	N	NumType=Card	54	nmod:unmarked	_	SpaceAfter=No
+56	-	-	SYM	X	_	57	case	_	SpaceAfter=No
+57	2006	2006	NUM	N	NumType=Card	55	nmod	_	_
 58	for	for	ADP	E	_	61	case	_	_
 59	Objective	objective	NOUN	S	Number=Sing	61	nmod	_	_
 60	1	1	NUM	N	NumType=Card	59	flat	_	_
