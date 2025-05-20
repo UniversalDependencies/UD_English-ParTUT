@@ -44952,7 +44952,7 @@
 19	way	way	NOUN	S	Number=Sing	18	obj	_	_
 20	in	in	ADP	E	_	22	case	_	_
 21	the	the	DET	RD	Definite=Def|PronType=Art	22	det	_	_
-22	Mid-1590s	Mid-1590s	PROPN	SP	_	18	obl	_	_
+22	Mid-1590s	Mid-1590s	NOUN	S	Number=Ptan|NumForm=Combi|NumType=Card	18	obl	_	_
 23	to	to	ADP	E	_	26	case	_	_
 24	the	the	DET	RD	Definite=Def|PronType=Art	26	det	_	_
 25	romantic	romantic	ADJ	A	Degree=Pos	26	amod	_	_
@@ -45843,7 +45843,7 @@
 3	opened	open	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 4	in	in	ADP	E	_	5	case	_	_
 5	autumn	autumn	NOUN	S	Number=Sing	3	obl	_	_
-6	1599	1599	NUM	N	NumType=Card	5	nummod	_	SpaceAfter=No
+6	1599	1599	NUM	N	NumType=Card	5	nmod:unmarked	_	SpaceAfter=No
 7	,	,	PUNCT	FF	_	3	punct	_	_
 8	with	with	SCONJ	CS	_	11	mark	_	_
 9	Julius	Julius	PROPN	SP	_	11	nsubj	_	_
