@@ -523,9 +523,9 @@
 34	time	time	NOUN	S	Number=Sing	28	obl	_	_
 35	during	during	ADP	E	_	40	case	_	_
 36	the	the	DET	RD	Definite=Def|PronType=Art	40	det	_	_
-37	2000	2000	NUM	N	NumType=Card	40	nummod	_	SpaceAfter=No
-38	-	-	PUNCT	FF	_	37	punct	_	SpaceAfter=No
-39	2006	2006	NUM	N	NumType=Card	37	nummod	_	_
+37	2000	2000	NUM	N	NumType=Card	40	compound	_	SpaceAfter=No
+38	-	-	SYM	X	_	39	case	_	SpaceAfter=No
+39	2006	2006	NUM	N	NumType=Card	37	nmod	_	_
 40	programme	programme	NOUN	S	Number=Sing	28	obl	_	SpaceAfter=No
 41	.	.	PUNCT	FS	_	8	punct	_	_
 
@@ -709,7 +709,7 @@
 18	term	term	NOUN	S	Number=Sing	19	nmod	_	_
 19	review	review	NOUN	S	Number=Sing	12	obl	_	_
 20	in	in	ADP	E	_	21	case	_	_
-21	2003	2003	NUM	N	NumType=Card	19	nummod	_	SpaceAfter=No
+21	2003	2003	NUM	N	NumType=Card	19	nmod	_	SpaceAfter=No
 22	,	,	PUNCT	FF	_	25	punct	_	_
 23	and	and	CCONJ	CC	_	25	cc	_	_
 24	thus	thus	ADV	B	_	25	advmod	_	_
