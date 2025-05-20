@@ -3415,7 +3415,7 @@
 9	Lambert	Lambert	PROPN	SP	_	8	flat	_	SpaceAfter=No
 10	,	,	PUNCT	FF	_	8	punct	_	_
 11	his	his	DET	AP	Poss=Yes|PronType=Prs	13	nmod:poss	_	_
-12	1832	1832	NUM	N	NumType=Card	13	nummod	_	_
+12	1832	1832	NUM	N	NumType=Card	13	compound	_	_
 13	novel	novel	NOUN	S	Number=Sing	8	nmod	_	_
 14	about	about	ADP	E	_	17	case	_	_
 15	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	17	det	_	_
@@ -3693,7 +3693,7 @@
 27	London	London	PROPN	SP	_	28	nmod	_	_
 28	stage	stage	NOUN	S	Number=Sing	18	ccomp	_	_
 29	by	by	ADP	E	_	30	case	_	_
-30	1592	1592	NUM	N	NumType=Card	28	nummod	_	SpaceAfter=No
+30	1592	1592	NUM	N	NumType=Card	28	nmod	_	SpaceAfter=No
 31	.	.	PUNCT	FS	_	4	punct	_	_
 
 # sent_id = en_partut-ud-1900
