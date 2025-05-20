@@ -5394,11 +5394,11 @@
 26	with	with	ADP	E	_	28	case	_	_
 27	this	this	DET	DD	Number=Sing|PronType=Dem	28	det	_	_
 28	matter	matter	NOUN	S	Number=Sing	25	obl	_	_
-29	until	until	SCONJ	CS	_	31	case	_	_
-30	1	1	NUM	N	NumType=Card	31	nummod	_	_
-31	July	July	PROPN	SP	_	21	obl	_	_
-32	2001	2001	NUM	N	NumType=Card	31	nummod	_	SpaceAfter=No
-33	,	,	PUNCT	FF	_	31	punct	_	_
+29	until	until	SCONJ	CS	_	30	case	_	_
+30	1	1	NUM	N	NumType=Card	21	obl	_	_
+31	July	July	PROPN	SP	_	30	nmod:unmarked	_	_
+32	2001	2001	NUM	N	NumType=Card	30	nmod:unmarked	_	SpaceAfter=No
+33	,	,	PUNCT	FF	_	30	punct	_	_
 34	that	that	PRON	PR	Number=Sing|PronType=Dem	37	nsubj	_	_
 35	is	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	37	cop	_	_
 36	to	to	PART	PART	_	37	mark	_	_
@@ -5792,8 +5792,8 @@
 16	made	make	VERB	V	Tense=Past|VerbForm=Part	14	acl	_	_
 17	on	on	ADP	E	_	18	case	_	_
 18	19	19	NUM	N	NumType=Card	16	obl	_	_
-19	March	March	PROPN	SP	_	18	flat	_	_
-20	1998	1998	NUM	N	NumType=Card	18	flat	_	SpaceAfter=No
+19	March	March	PROPN	SP	_	18	nmod:unmarked	_	_
+20	1998	1998	NUM	N	NumType=Card	18	nmod:unmarked	_	SpaceAfter=No
 21	,	,	PUNCT	FF	_	10	punct	_	_
 22	even	even	ADV	B	_	25	advmod	_	_
 23	though	though	SCONJ	CS	_	25	mark	_	_
@@ -6732,8 +6732,8 @@
 36	force	force	NOUN	S	Number=Sing	34	obl	_	_
 37	on	on	ADP	E	_	38	case	_	_
 38	1	1	NUM	N	NumType=Card	34	obl	_	_
-39	January	January	PROPN	SP	_	38	flat	_	_
-40	1997	1997	NUM	N	NumType=Card	38	flat	_	SpaceAfter=No
+39	January	January	PROPN	SP	_	38	nmod:unmarked	_	_
+40	1997	1997	NUM	N	NumType=Card	38	nmod:unmarked	_	SpaceAfter=No
 41	,	,	PUNCT	FF	_	11	punct	_	_
 42	contains	contain	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 43	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	44	det	_	_
@@ -7194,8 +7194,8 @@
 14	service	service	NOUN	S	Number=Sing	12	obl	_	_
 15	between	between	ADP	E	_	16	case	_	_
 16	1	1	NUM	N	NumType=Card	12	obl	_	_
-17	January	January	PROPN	SP	_	16	flat	_	_
-18	1997	1997	NUM	N	NumType=Card	16	flat	_	_
+17	January	January	PROPN	SP	_	16	nmod:unmarked	_	_
+18	1997	1997	NUM	N	NumType=Card	16	nmod:unmarked	_	_
 19	and	and	CCONJ	CC	_	21	cc	_	_
 20	the	the	DET	RD	Definite=Def|PronType=Art	21	det	_	_
 21	entry	entry	NOUN	S	Number=Sing	16	conj	_	_
@@ -14529,8 +14529,8 @@
 14	Council	Council	NOUN	S	Number=Sing	10	conj	_	_
 15	of	of	ADP	E	_	16	case	_	_
 16	6	6	NUM	N	NumType=Card	1	nmod	_	_
-17	July	July	PROPN	SP	_	16	flat	_	_
-18	2005	2005	NUM	N	NumType=Card	16	flat	_	_
+17	July	July	PROPN	SP	_	16	nmod:unmarked	_	_
+18	2005	2005	NUM	N	NumType=Card	16	nmod:unmarked	_	_
 19	establishing	establish	VERB	V	Number=Sing|Tense=Pres|VerbForm=Part	1	acl	_	_
 20	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	21	det	_	_
 21	framework	framework	NOUN	S	Number=Sing	19	obj	_	_
@@ -16186,8 +16186,8 @@
 29	EEC	EEC	PROPN	SP	_	25	nmod	_	_
 30	of	of	ADP	E	_	31	case	_	_
 31	22	22	NUM	N	NumType=Card	24	nmod	_	_
-32	July	July	PROPN	SP	_	31	flat	_	_
-33	1993	1993	NUM	N	NumType=Card	31	flat	_	_
+32	July	July	PROPN	SP	_	31	nmod:unmarked	_	_
+33	1993	1993	NUM	N	NumType=Card	31	nmod:unmarked	_	_
 34	concerning	concern	VERB	V	VerbForm=Ger	24	acl	_	_
 35	the	the	DET	RD	Definite=Def|PronType=Art	36	det	_	_
 36	modules	module	NOUN	S	Number=Plur	34	obj	_	_
@@ -16705,8 +16705,8 @@
 22	Resolution	resolution	NOUN	S	Number=Sing	17	obl	_	_
 23	of	of	ADP	E	_	24	case	_	_
 24	7	7	NUM	N	NumType=Card	22	nmod	_	_
-25	May	May	PROPN	SP	_	24	flat	_	_
-26	1985	1985	NUM	N	NumType=Card	24	flat	_	_
+25	May	May	PROPN	SP	_	24	nmod:unmarked	_	_
+26	1985	1985	NUM	N	NumType=Card	24	nmod:unmarked	_	_
 27	on	on	ADP	E	_	30	case	_	_
 28	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	30	det	_	_
 29	new	new	ADJ	A	Degree=Pos	30	amod	_	_
@@ -16733,8 +16733,8 @@
 3	Resolution	resolution	NOUN	S	Number=Sing	15	nsubj	_	_
 4	of	of	ADP	E	_	5	case	_	_
 5	28	28	NUM	N	NumType=Card	3	nmod	_	_
-6	October	October	PROPN	SP	_	5	flat	_	_
-7	1999	1999	NUM	N	NumType=Card	5	flat	_	_
+6	October	October	PROPN	SP	_	5	nmod:unmarked	_	_
+7	1999	1999	NUM	N	NumType=Card	5	nmod:unmarked	_	_
 8	on	on	ADP	E	_	10	case	_	_
 9	the	the	DET	RD	Definite=Def|PronType=Art	10	det	_	_
 10	role	role	NOUN	S	Number=Sing	3	nmod	_	_
@@ -16797,8 +16797,8 @@
 20	EEC	EEC	PROPN	SP	_	16	nmod	_	_
 21	of	of	ADP	E	_	22	case	_	_
 22	22	22	NUM	N	NumType=Card	15	nmod	_	_
-23	September	September	PROPN	SP	_	22	flat	_	_
-24	1992	1992	NUM	N	NumType=Card	22	flat	_	_
+23	September	September	PROPN	SP	_	22	nmod:unmarked	_	_
+24	1992	1992	NUM	N	NumType=Card	22	nmod:unmarked	_	_
 25	on	on	ADP	E	_	27	case	_	_
 26	the	the	DET	RD	Definite=Def|PronType=Art	27	det	_	_
 27	indication	indication	NOUN	S	Number=Sing	15	nmod	_	_
@@ -16838,8 +16838,8 @@
 61	Council	Council	NOUN	S	Number=Sing	57	conj	_	_
 62	of	of	ADP	E	_	63	case	_	_
 63	17	17	NUM	N	NumType=Card	46	nmod	_	_
-64	July	July	PROPN	SP	_	63	flat	_	_
-65	2000	2000	NUM	N	NumType=Card	63	flat	_	_
+64	July	July	PROPN	SP	_	63	nmod:unmarked	_	_
+65	2000	2000	NUM	N	NumType=Card	63	nmod:unmarked	_	_
 66	on	on	ADP	E	_	74	case	_	_
 67	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	74	det	_	_
 68	revised	revise	VERB	V	Tense=Past|VerbForm=Part	74	acl	_	_
@@ -16868,8 +16868,8 @@
 91	Council	Council	NOUN	S	Number=Sing	87	conj	_	_
 92	of	of	ADP	E	_	93	case	_	_
 93	6	6	NUM	N	NumType=Card	76	nmod	_	_
-94	November	November	PROPN	SP	_	93	flat	_	_
-95	2001	2001	NUM	N	NumType=Card	93	flat	_	_
+94	November	November	PROPN	SP	_	93	nmod:unmarked	_	_
+95	2001	2001	NUM	N	NumType=Card	93	nmod:unmarked	_	_
 96	on	on	ADP	E	_	102	case	_	_
 97	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	102	det	_	_
 98	Community	community	NOUN	S	Number=Sing	102	nmod	_	_
@@ -16897,8 +16897,8 @@
 120	Council	Council	NOUN	S	Number=Sing	116	conj	_	_
 121	of	of	ADP	E	_	122	case	_	_
 122	27	27	NUM	N	NumType=Card	107	nmod	_	_
-123	January	January	PROPN	SP	_	122	flat	_	_
-124	2003	2003	NUM	N	NumType=Card	122	flat	_	_
+123	January	January	PROPN	SP	_	122	nmod:unmarked	_	_
+124	2003	2003	NUM	N	NumType=Card	122	nmod:unmarked	_	_
 125	on	on	ADP	E	_	130	case	_	_
 126	waste	waste	NOUN	S	Number=Sing	130	nmod	_	_
 127	electrical	electric	ADJ	A	Degree=Pos	130	amod	_	_
@@ -16925,8 +16925,8 @@
 148	Council	Council	NOUN	S	Number=Sing	144	conj	_	_
 149	of	of	ADP	E	_	150	case	_	_
 150	27	27	NUM	N	NumType=Card	135	nmod	_	_
-151	January	January	PROPN	SP	_	150	flat	_	_
-152	2003	2003	NUM	N	NumType=Card	150	flat	_	_
+151	January	January	PROPN	SP	_	150	nmod:unmarked	_	_
+152	2003	2003	NUM	N	NumType=Card	150	nmod:unmarked	_	_
 153	on	on	ADP	E	_	155	case	_	_
 154	the	the	DET	RD	Definite=Def|PronType=Art	155	det	_	_
 155	restriction	restriction	NOUN	S	Number=Sing	135	nmod	_	_
@@ -16952,8 +16952,8 @@
 175	EEC	EEC	PROPN	SP	_	171	nmod	_	_
 176	of	of	ADP	E	_	177	case	_	_
 177	27	27	NUM	N	NumType=Card	170	nmod	_	_
-178	July	July	PROPN	SP	_	177	flat	_	_
-179	1976	1976	NUM	N	NumType=Card	177	flat	_	_
+178	July	July	PROPN	SP	_	177	nmod:unmarked	_	_
+179	1976	1976	NUM	N	NumType=Card	177	nmod:unmarked	_	_
 180	on	on	ADP	E	_	182	case	_	_
 181	the	the	DET	RD	Definite=Def|PronType=Art	182	det	_	_
 182	approximation	approximation	NOUN	S	Number=Sing	170	nmod	_	_
@@ -17028,8 +17028,8 @@
 11	EEC	EEC	PROPN	SP	_	7	nmod	_	_
 12	of	of	ADP	E	_	13	case	_	_
 13	21	21	NUM	N	NumType=Card	6	nmod	_	_
-14	May	May	PROPN	SP	_	13	flat	_	_
-15	1992	1992	NUM	N	NumType=Card	13	flat	_	_
+14	May	May	PROPN	SP	_	13	nmod:unmarked	_	_
+15	1992	1992	NUM	N	NumType=Card	13	nmod:unmarked	_	_
 16	on	on	ADP	E	_	18	case	_	_
 17	efficiency	efficiency	NOUN	S	Number=Sing	18	nmod	_	_
 18	requirements	requirement	NOUN	S	Number=Plur	6	nmod	_	_
@@ -17062,8 +17062,8 @@
 45	Council	Council	NOUN	S	Number=Sing	41	conj	_	_
 46	of	of	ADP	E	_	47	case	_	_
 47	3	3	NUM	N	NumType=Card	32	nmod	_	_
-48	September	September	PROPN	SP	_	47	flat	_	_
-49	1996	1996	NUM	N	NumType=Card	47	flat	_	_
+48	September	September	PROPN	SP	_	47	nmod:unmarked	_	_
+49	1996	1996	NUM	N	NumType=Card	47	nmod:unmarked	_	_
 50	on	on	ADP	E	_	53	case	_	_
 51	energy	energy	NOUN	S	Number=Sing	52	nmod	_	_
 52	efficiency	efficiency	NOUN	S	Number=Sing	53	nmod	_	_
@@ -17094,8 +17094,8 @@
 77	Council	Council	NOUN	S	Number=Sing	73	conj	_	_
 78	of	of	ADP	E	_	79	case	_	_
 79	18	18	NUM	N	NumType=Card	64	nmod	_	_
-80	September	September	PROPN	SP	_	79	flat	_	_
-81	2000	2000	NUM	N	NumType=Card	79	flat	_	_
+80	September	September	PROPN	SP	_	79	nmod:unmarked	_	_
+81	2000	2000	NUM	N	NumType=Card	79	nmod:unmarked	_	_
 82	on	on	ADP	E	_	85	case	_	_
 83	energy	energy	NOUN	S	Number=Sing	84	nmod	_	_
 84	efficiency	efficiency	NOUN	S	Number=Sing	85	nmod	_	_
@@ -17215,8 +17215,8 @@
 15	EEC	EEC	PROPN	SP	_	11	nmod	_	_
 16	of	of	ADP	E	_	17	case	_	_
 17	13	13	NUM	N	NumType=Card	10	nmod	_	_
-18	February	February	PROPN	SP	_	17	flat	_	_
-19	1978	1978	NUM	N	NumType=Card	17	flat	_	_
+18	February	February	PROPN	SP	_	17	nmod:unmarked	_	_
+19	1978	1978	NUM	N	NumType=Card	17	nmod:unmarked	_	_
 20	on	on	ADP	E	_	22	case	_	_
 21	the	the	DET	RD	Definite=Def|PronType=Art	22	det	_	_
 22	performance	performance	NOUN	S	Number=Sing	10	nmod	_	_
@@ -17280,8 +17280,8 @@
 80	EEC	EEC	PROPN	SP	_	76	nmod	_	_
 81	of	of	ADP	E	_	82	case	_	_
 82	29	29	NUM	N	NumType=Card	75	nmod	_	_
-83	June	June	PROPN	SP	_	82	flat	_	_
-84	1990	1990	NUM	N	NumType=Card	82	flat	_	_
+83	June	June	PROPN	SP	_	82	nmod:unmarked	_	_
+84	1990	1990	NUM	N	NumType=Card	82	nmod:unmarked	_	_
 85	on	on	ADP	E	_	87	case	_	_
 86	the	the	DET	RD	Definite=Def|PronType=Art	87	det	_	_
 87	approximation	approximation	NOUN	S	Number=Sing	75	nmod	_	_
@@ -17315,8 +17315,8 @@
 115	Council	Council	NOUN	S	Number=Sing	111	conj	_	_
 116	of	of	ADP	E	_	117	case	_	_
 117	16	16	NUM	N	NumType=Card	102	nmod	_	_
-118	December	December	PROPN	SP	_	117	flat	_	_
-119	2002	2002	NUM	N	NumType=Card	117	flat	_	_
+118	December	December	PROPN	SP	_	117	nmod:unmarked	_	_
+119	2002	2002	NUM	N	NumType=Card	117	nmod:unmarked	_	_
 120	on	on	ADP	E	_	123	case	_	_
 121	the	the	DET	RD	Definite=Def|PronType=Art	123	det	_	_
 122	energy	energy	NOUN	S	Number=Sing	123	nmod	_	_
@@ -17386,8 +17386,8 @@
 10	Decision	decision	NOUN	S	Number=Sing	8	obj	_	_
 11	of	of	ADP	E	_	12	case	_	_
 12	17	17	NUM	N	NumType=Card	10	nmod	_	_
-13	December	December	PROPN	SP	_	12	flat	_	_
-14	2001	2001	NUM	N	NumType=Card	12	flat	_	_
+13	December	December	PROPN	SP	_	12	nmod:unmarked	_	_
+14	2001	2001	NUM	N	NumType=Card	12	nmod:unmarked	_	_
 15	establishing	establish	VERB	V	Number=Sing|Tense=Pres|VerbForm=Part	10	acl	_	_
 16	an	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	22	det	_	_
 17	exchange	exchange	NOUN	S	Number=Sing	22	nmod	_	SpaceAfter=No
@@ -17440,8 +17440,8 @@
 23	Decision	decision	NOUN	S	Number=Sing	21	obj	_	_
 24	of	of	ADP	E	_	25	case	_	_
 25	17	17	NUM	N	NumType=Card	23	nmod	_	_
-26	December	December	PROPN	SP	_	25	flat	_	_
-27	2001	2001	NUM	N	NumType=Card	25	flat	_	_
+26	December	December	PROPN	SP	_	25	nmod:unmarked	_	_
+27	2001	2001	NUM	N	NumType=Card	25	nmod:unmarked	_	_
 28	establishing	establish	VERB	V	VerbForm=Ger	23	acl	_	_
 29	an	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	35	det	_	_
 30	exchange	exchange	NOUN	S	Number=Sing	35	nmod	_	SpaceAfter=No
@@ -17496,8 +17496,8 @@
 25	Decision	decision	NOUN	S	Number=Sing	22	obl	_	_
 26	of	of	ADP	E	_	27	case	_	_
 27	17	17	NUM	N	NumType=Card	25	nmod	_	_
-28	December	December	PROPN	SP	_	27	flat	_	_
-29	2001	2001	NUM	N	NumType=Card	27	flat	_	_
+28	December	December	PROPN	SP	_	27	nmod:unmarked	_	_
+29	2001	2001	NUM	N	NumType=Card	27	nmod:unmarked	_	_
 30	(	(	PUNCT	FB	_	25	punct	_	SpaceAfter=No
 31	2001	2001	NUM	N	NumType=Card	25	appos	_	SpaceAfter=No
 32	/	/	PUNCT	FF	_	31	punct	_	SpaceAfter=No
@@ -17581,12 +17581,12 @@
 12	run	run	VERB	V	VerbForm=Inf	7	ccomp	_	_
 13	from	from	ADP	E	_	14	case	_	_
 14	1	1	NUM	N	NumType=Card	12	obl	_	_
-15	January	January	PROPN	SP	_	14	flat	_	_
-16	2002	2002	NUM	N	NumType=Card	14	flat	_	_
+15	January	January	PROPN	SP	_	14	nmod:unmarked	_	_
+16	2002	2002	NUM	N	NumType=Card	14	nmod:unmarked	_	_
 17	to	to	ADP	E	_	18	case	_	_
 18	31	31	NUM	N	NumType=Card	12	obl	_	_
-19	December	December	PROPN	SP	_	18	flat	_	_
-20	2005	2005	NUM	N	NumType=Card	18	flat	_	SpaceAfter=No
+19	December	December	PROPN	SP	_	18	nmod:unmarked	_	_
+20	2005	2005	NUM	N	NumType=Card	18	nmod:unmarked	_	SpaceAfter=No
 21	.	.	PUNCT	FS	_	7	punct	_	_
 
 # sent_id = en_partut-ud-645
@@ -17636,8 +17636,8 @@
 23	,	,	PUNCT	FF	_	15	punct	_	_
 24	by	by	ADP	E	_	25	case	_	_
 25	30	30	NUM	N	NumType=Card	15	obl	_	_
-26	June	June	PROPN	SP	_	25	flat	_	_
-27	2005	2005	NUM	N	NumType=Card	25	flat	_	SpaceAfter=No
+26	June	June	PROPN	SP	_	25	nmod:unmarked	_	_
+27	2005	2005	NUM	N	NumType=Card	25	nmod:unmarked	_	SpaceAfter=No
 28	:	:	PUNCT	FC	_	10	punct	_	_
 
 # sent_id = en_partut-ud-647
@@ -17701,8 +17701,8 @@
 9	submitted	submit	VERB	V	Tense=Past|VerbForm=Part	0	root	_	_
 10	on	on	ADP	E	_	11	case	_	_
 11	30	30	NUM	N	NumType=Card	9	obl	_	_
-12	November	November	PROPN	SP	_	11	flat	_	_
-13	2004	2004	NUM	N	NumType=Card	11	flat	_	SpaceAfter=No
+12	November	November	PROPN	SP	_	11	nmod:unmarked	_	_
+13	2004	2004	NUM	N	NumType=Card	11	nmod:unmarked	_	SpaceAfter=No
 14	.	.	PUNCT	FS	_	9	punct	_	_
 
 # sent_id = en_partut-ud-650
@@ -18155,8 +18155,8 @@
 37	report	report	NOUN	S	Number=Sing	34	obj	_	_
 38	on	on	ADP	E	_	39	case	_	_
 39	30	30	NUM	N	NumType=Card	34	obl	_	_
-40	November	November	PROPN	SP	_	39	flat	_	_
-41	2004	2004	NUM	N	NumType=Card	39	flat	_	SpaceAfter=No
+40	November	November	PROPN	SP	_	39	nmod:unmarked	_	_
+41	2004	2004	NUM	N	NumType=Card	39	nmod:unmarked	_	SpaceAfter=No
 42	.	.	PUNCT	FS	_	18	punct	_	_
 
 # sent_id = en_partut-ud-664
@@ -19865,8 +19865,8 @@
 8	Decision	Decision	PROPN	SP	_	5	nmod	_	_
 9	of	of	ADP	E	_	10	case	_	_
 10	17	17	NUM	N	NumType=Card	8	obl	_	_
-11	December	December	PROPN	SP	_	10	flat	_	_
-12	2001	2001	NUM	N	NumType=Card	10	flat	_	_
+11	December	December	PROPN	SP	_	10	nmod:unmarked	_	_
+12	2001	2001	NUM	N	NumType=Card	10	nmod:unmarked	_	_
 13	establishing	establish	VERB	V	Tense=Pres|VerbForm=Part	4	acl	_	_
 14	an	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	20	det	_	_
 15	exchange	exchange	NOUN	S	Number=Sing	20	nmod	_	SpaceAfter=No
@@ -19899,8 +19899,8 @@
 42	report	report	NOUN	S	Number=Sing	37	obl	_	_
 43	of	of	ADP	E	_	44	case	_	_
 44	30	30	NUM	N	NumType=Card	42	nmod	_	_
-45	November	November	PROPN	SP	_	44	flat	_	_
-46	2004	2004	NUM	N	NumType=Card	44	flat	_	SpaceAfter=No
+45	November	November	PROPN	SP	_	44	nmod:unmarked	_	_
+46	2004	2004	NUM	N	NumType=Card	44	nmod:unmarked	_	SpaceAfter=No
 47	,	,	PUNCT	FF	_	2	punct	_	_
 48	it	it	PRON	PE	Number=Sing|Person=3|PronType=Prs	50	expl	_	_
 49	is	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	50	aux	_	_
@@ -20191,8 +20191,8 @@
 12	)	)	PUNCT	FB	_	11	punct	_	_
 13	of	of	ADP	E	_	14	case	_	_
 14	10	10	NUM	N	NumType=Card	7	nmod	_	_
-15	December	December	PROPN	SP	_	14	flat	_	_
-16	1948	1948	NUM	N	NumType=Card	14	flat	_	SpaceAfter=No
+15	December	December	PROPN	SP	_	14	nmod:unmarked	_	_
+16	1948	1948	NUM	N	NumType=Card	14	nmod:unmarked	_	SpaceAfter=No
 17	.	.	PUNCT	FS	_	1	punct	_	_
 
 # sent_id = en_partut-ud-738
@@ -40011,8 +40011,8 @@
 # text = On 14 March 1850, with Balzac's health in serious decline, they drove from her estate in Wierzchownia (village of Verkhivnia) to a church in Berdyczów (city of Berdychiv, today in Ukraine) and were married.
 1	On	on	ADP	E	_	2	case	_	_
 2	14	14	NUM	N	NumType=Card	15	obl	_	_
-3	March	March	PROPN	SP	_	2	flat	_	_
-4	1850	1850	NUM	N	NumType=Card	2	flat	_	SpaceAfter=No
+3	March	March	PROPN	SP	_	2	nmod:unmarked	_	_
+4	1850	1850	NUM	N	NumType=Card	2	nmod:unmarked	_	SpaceAfter=No
 5	,	,	PUNCT	FF	_	2	punct	_	_
 6	with	with	ADP	E	_	9	case	_	_
 7-8	Balzac's	_	_	_	_	_	_	_	_
@@ -42570,8 +42570,8 @@
 12	there	there	ADV	B	_	11	advmod	_	_
 13	on	on	ADP	E	_	14	case	_	_
 14	26	26	NUM	N	NumType=Card	11	obl	_	_
-15	April	April	PROPN	SP	_	14	flat	_	_
-16	1564	1564	NUM	N	NumType=Card	14	flat	_	SpaceAfter=No
+15	April	April	PROPN	SP	_	14	nmod:unmarked	_	_
+16	1564	1564	NUM	N	NumType=Card	14	nmod:unmarked	_	SpaceAfter=No
 17	.	.	PUNCT	FS	_	3	punct	_	_
 
 # sent_id = en_partut-ud-1827
@@ -42604,8 +42604,8 @@
 25	Shakespeare	Shakespeare	PROPN	SP	_	26	nsubj	_	_
 26	died	die	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	19	advcl	_	_
 27	23	23	NUM	N	NumType=Card	26	obl	_	_
-28	April	April	PROPN	SP	_	27	flat	_	_
-29	1616	1616	NUM	N	NumType=Card	27	flat	_	SpaceAfter=No
+28	April	April	PROPN	SP	_	27	nmod:unmarked	_	_
+29	1616	1616	NUM	N	NumType=Card	27	nmod:unmarked	_	SpaceAfter=No
 30	.	.	PUNCT	FS	_	19	punct	_	_
 
 # sent_id = en_partut-ud-1828
@@ -42778,8 +42778,8 @@
 12	licence	licence	NOUN	S	Number=Sing	9	obj	_	_
 13	on	on	ADP	E	_	14	case	_	_
 14	27	27	NUM	N	NumType=Card	9	obl	_	_
-15	November	November	PROPN	SP	_	14	flat	_	_
-16	1582	1582	NUM	N	NumType=Card	14	flat	_	SpaceAfter=No
+15	November	November	PROPN	SP	_	14	nmod:unmarked	_	_
+16	1582	1582	NUM	N	NumType=Card	14	nmod:unmarked	_	SpaceAfter=No
 17	.	.	PUNCT	FS	_	9	punct	_	_
 
 # sent_id = en_partut-ud-1834
@@ -42854,8 +42854,8 @@
 44	,	,	PUNCT	FF	_	41	punct	_	_
 45	baptised	baptise	VERB	V	Tense=Past|VerbForm=Part	41	acl	_	_
 46	26	26	NUM	N	NumType=Card	45	obl	_	_
-47	May	May	PROPN	SP	_	46	flat	_	_
-48	1583	1583	NUM	N	NumType=Card	46	flat	_	SpaceAfter=No
+47	May	May	PROPN	SP	_	46	nmod:unmarked	_	_
+48	1583	1583	NUM	N	NumType=Card	46	nmod:unmarked	_	SpaceAfter=No
 49	.	.	PUNCT	FS	_	6	punct	_	_
 
 # sent_id = en_partut-ud-1836
@@ -42877,8 +42877,8 @@
 15	were	be	AUX	VA	Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	16	aux	_	_
 16	baptised	baptise	VERB	V	Tense=Past|VerbForm=Part	9	conj	_	_
 17	2	2	NUM	N	NumType=Card	16	obl	_	_
-18	February	February	PROPN	SP	_	17	flat	_	_
-19	1585	1585	NUM	N	NumType=Card	17	flat	_	SpaceAfter=No
+18	February	February	PROPN	SP	_	17	nmod:unmarked	_	_
+19	1585	1585	NUM	N	NumType=Card	17	nmod:unmarked	_	SpaceAfter=No
 20	.	.	PUNCT	FS	_	9	punct	_	_
 
 # sent_id = en_partut-ud-1837
@@ -42897,8 +42897,8 @@
 12	was	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	13	aux	_	_
 13	buried	bury	VERB	V	Tense=Past|VerbForm=Part	2	conj	_	_
 14	11	11	NUM	N	NumType=Card	13	obl	_	_
-15	August	August	PROPN	SP	_	14	flat	_	_
-16	1596	1596	NUM	N	NumType=Card	14	flat	_	SpaceAfter=No
+15	August	August	PROPN	SP	_	14	nmod:unmarked	_	_
+16	1596	1596	NUM	N	NumType=Card	14	nmod:unmarked	_	SpaceAfter=No
 17	.	.	PUNCT	FS	_	2	punct	_	_
 
 # sent_id = en_partut-ud-1838
@@ -42965,8 +42965,8 @@
 30	1588	1588	NUM	N	NumType=Card	29	nmod:unmarked	_	_
 31	and	and	CCONJ	CC	_	32	cc	_	_
 32	9	9	NUM	N	NumType=Card	29	conj	_	_
-33	October	October	PROPN	SP	_	32	flat	_	_
-34	1589	1589	NUM	N	NumType=Card	32	flat	_	SpaceAfter=No
+33	October	October	PROPN	SP	_	32	nmod:unmarked	_	_
+34	1589	1589	NUM	N	NumType=Card	32	nmod:unmarked	_	SpaceAfter=No
 35	.	.	PUNCT	FS	_	5	punct	_	_
 
 # sent_id = en_partut-ud-1840
@@ -43987,8 +43987,8 @@
 3	document	document	NOUN	S	Number=Sing	21	obl	_	_
 4	dated	date	VERB	V	Tense=Past|VerbForm=Part	3	acl	_	_
 5	7	7	NUM	N	NumType=Card	4	obl	_	_
-6	June	June	PROPN	SP	_	5	flat	_	_
-7	1609	1609	NUM	N	NumType=Card	5	flat	_	_
+6	June	June	PROPN	SP	_	5	nmod:unmarked	_	_
+7	1609	1609	NUM	N	NumType=Card	5	nmod:unmarked	_	_
 8	in	in	ADP	E	_	10	case	_	_
 9	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	10	det	_	_
 10	lawsuit	lawsuit	NOUN	S	Number=Sing	21	obl	_	_
@@ -44177,8 +44177,8 @@
 2	died	died	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 3	on	on	ADP	E	_	4	case	_	_
 4	23	23	NUM	N	NumType=Card	2	obl	_	_
-5	April	April	PROPN	SP	_	4	flat	_	_
-6	1616	1616	NUM	N	NumType=Card	4	flat	_	_
+5	April	April	PROPN	SP	_	4	nmod:unmarked	_	_
+6	1616	1616	NUM	N	NumType=Card	4	nmod:unmarked	_	_
 7	and	and	CCONJ	CC	_	9	cc	_	_
 8	was	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	aux	_	_
 9	survived	survive	VERB	V	Tense=Past|VerbForm=Part	2	conj	_	_
@@ -44234,8 +44234,8 @@
 7	testament	testament	NOUN	S	Number=Sing	5	conj	_	_
 8	on	on	ADP	E	_	9	case	_	_
 9	25	25	NUM	N	NumType=Card	2	obl	_	_
-10	March	March	PROPN	SP	_	9	flat	_	_
-11	1616	1616	NUM	N	NumType=Card	9	flat	_	SpaceAfter=No
+10	March	March	PROPN	SP	_	9	nmod:unmarked	_	_
+11	1616	1616	NUM	N	NumType=Card	9	nmod:unmarked	_	SpaceAfter=No
 12	;	;	PUNCT	FC	_	2	punct	_	_
 
 # sent_id = en_partut-ud-1891
@@ -45937,12 +45937,12 @@
 19	court	court	NOUN	S	Number=Sing	12	obl	_	_
 20	between	between	ADP	E	_	21	case	_	_
 21	1	1	NUM	N	NumType=Card	12	obl	_	_
-22	November	November	PROPN	SP	_	21	flat	_	_
-23	1604	1604	NUM	N	NumType=Card	21	flat	_	_
+22	November	November	PROPN	SP	_	21	nmod:unmarked	_	_
+23	1604	1604	NUM	N	NumType=Card	21	nmod:unmarked	_	_
 24	and	and	CCONJ	CC	_	25	cc	_	_
 25	31	31	NUM	N	NumType=Card	21	conj	_	_
-26	October	October	PROPN	SP	_	25	flat	_	_
-27	1605	1605	NUM	N	NumType=Card	25	flat	_	SpaceAfter=No
+26	October	October	PROPN	SP	_	25	nmod:unmarked	_	_
+27	1605	1605	NUM	N	NumType=Card	25	nmod:unmarked	_	SpaceAfter=No
 28	,	,	PUNCT	FF	_	12	punct	_	_
 29	including	include	VERB	V	Number=Sing|Tense=Pres|VerbForm=Part	12	advcl	_	_
 30	two	two	NUM	N	NumType=Card	31	nummod	_	_
@@ -48936,8 +48936,8 @@
 14	later	later	ADV	B	Degree=Cmp	11	advmod	_	_
 15	on	on	ADP	E	_	16	case	_	_
 16	26	26	NUM	N	NumType=Card	11	obl	_	_
-17	May	May	PROPN	SP	_	16	flat	_	_
-18	1583	1583	NUM	N	NumType=Card	16	flat	_	SpaceAfter=No
+17	May	May	PROPN	SP	_	16	nmod:unmarked	_	_
+18	1583	1583	NUM	N	NumType=Card	16	nmod:unmarked	_	SpaceAfter=No
 19	.	.	PUNCT	FS	_	11	punct	_	_
 
 # sent_id = en_partut-ud-2081
