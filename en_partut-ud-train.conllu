@@ -3002,7 +3002,7 @@
 27	newspaper	newspaper	NOUN	S	Number=Sing	23	obl	_	_
 28	on	on	ADP	E	_	29	case	_	_
 29	18	18	NUM	N	NumType=Card	23	obl	_	_
-30	November	November	PROPN	SP	_	29	flat	_	SpaceAfter=No
+30	November	November	PROPN	SP	_	29	nmod:unmarked	_	SpaceAfter=No
 31	.	.	PUNCT	FS	_	5	punct	_	_
 
 # sent_id = en_partut-ud-119
@@ -3424,7 +3424,7 @@
 13	resolution	resolution	NOUN	S	Number=Sing	9	obl	_	_
 14	of	of	ADP	E	_	15	case	_	_
 15	15	15	NUM	N	NumType=Card	13	nmod	_	_
-16	September	September	PROPN	SP	_	15	flat	_	SpaceAfter=No
+16	September	September	PROPN	SP	_	15	nmod:unmarked	_	SpaceAfter=No
 17	,	,	PUNCT	FF	_	13	punct	_	_
 18	which	which	PRON	PR	PronType=Rel	19	nsubj	_	_
 19	recommended	recommend	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	13	acl:relcl	_	_
@@ -5256,7 +5256,7 @@
 28	as	as	ADP	E	_	30	case	_	_
 29	from	from	ADP	E	_	30	case	_	_
 30	1	1	NUM	N	NumType=Card	20	obl	_	_
-31	January	January	PROPN	SP	_	30	flat	_	_
+31	January	January	PROPN	SP	_	30	nmod:unmarked	_	_
 32	of	of	ADP	E	_	34	case	_	_
 33	this	this	DET	DD	Number=Sing|PronType=Dem	34	det	_	_
 34	year	year	NOUN	S	Number=Sing	30	nmod	_	SpaceAfter=No
@@ -36620,7 +36620,7 @@
 14	commemorated	commemorate	VERB	V	Tense=Past|VerbForm=Part	7	acl:relcl	_	_
 15	on	on	ADP	E	_	16	case	_	_
 16	16	16	NUM	N	NumType=Card	14	obl	_	_
-17	May	May	PROPN	SP	_	16	flat	_	SpaceAfter=No
+17	May	May	PROPN	SP	_	16	nmod:unmarked	_	SpaceAfter=No
 18	,	,	PUNCT	FF	_	14	punct	_	_
 19	four	four	NUM	N	NumType=Card	20	nummod	_	_
 20	days	day	NOUN	S	Number=Plur	14	obl	_	_
@@ -40186,7 +40186,7 @@
 6	capital	capital	NOUN	S	Number=Sing	2	obl	_	_
 7	on	on	ADP	E	_	8	case	_	_
 8	20	20	NUM	N	NumType=Card	2	obl	_	_
-9	May	May	PROPN	SP	_	8	flat	_	SpaceAfter=No
+9	May	May	PROPN	SP	_	8	nmod:unmarked	_	SpaceAfter=No
 10	,	,	PUNCT	FF	_	8	punct	_	_
 11	his	his	DET	DP	Poss=Yes|PronType=Prs	15	nmod:poss	_	_
 12	fifty	fifty	NUM	N	NumType=Card	15	nummod	_	SpaceAfter=No
@@ -40205,7 +40205,7 @@
 6	,	,	PUNCT	FF	_	2	punct	_	_
 7	on	on	ADP	E	_	8	case	_	_
 8	18	18	NUM	N	NumType=Card	12	obl	_	_
-9	August	August	PROPN	SP	_	8	flat	_	SpaceAfter=No
+9	August	August	PROPN	SP	_	8	nmod:unmarked	_	SpaceAfter=No
 10	,	,	PUNCT	FF	_	8	punct	_	_
 11	Balzac	Balzac	PROPN	SP	_	12	nsubj	_	_
 12	died	die	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
@@ -46128,7 +46128,7 @@
 # text = On 29 June, however, a cannon set fire to the thatch of the Globe and burned the theatre to the ground, an event which pinpoints the date of a Shakespeare play with rare precision.
 1	On	on	ADP	E	_	2	case	_	_
 2	29	29	NUM	N	NumType=Card	9	obl	_	_
-3	June	June	PROPN	SP	_	2	flat	_	SpaceAfter=No
+3	June	June	PROPN	SP	_	2	nmod:unmarked	_	SpaceAfter=No
 4	,	,	PUNCT	FF	_	2	punct	_	_
 5	however	however	ADV	B	_	9	advmod	_	SpaceAfter=No
 6	,	,	PUNCT	FF	_	5	punct	_	_
