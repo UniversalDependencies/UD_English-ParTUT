@@ -7354,7 +7354,7 @@
 5	's	's	PART	PART	_	4	case	_	_
 6	proposal	proposal	NOUN	S	Number=Sing	13	obl	_	_
 7	-20	-20	NUM	N	NumType=Card	8	nummod	_	SpaceAfter=No
-8	º	º	NOUN	S	Number=Plur	13	nsubj	_	_
+8	º	°	NOUN	S	Number=Plur	13	nsubj	_	_
 9	C	C	PROPN	SP	_	8	nmod:unmarked	_	_
 10	would	will	AUX	VM	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	13	aux	_	_
 11	have	have	AUX	VA	VerbForm=Inf	13	aux	_	_
