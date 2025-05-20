@@ -2854,13 +2854,13 @@
 12	observed	observe	VERB	V	Tense=Past|VerbForm=Part	6	conj	_	_
 13	on	on	ADP	E	_	14	case	_	_
 14	23	23	NUM	N	NumType=Card	12	obl	_	_
-15	April	April	PROPN	SP	_	14	flat	_	SpaceAfter=No
+15	April	April	PROPN	SP	_	14	nmod:unmarked	_	SpaceAfter=No
 16	,	,	PUNCT	FF	_	14	punct	_	_
 17	Saint	Saint	PROPN	SP	_	20	nmod:poss	_	_
 18-19	George's	_	_	_	_	_	_	_	_
 18	George	George	PROPN	SP	_	17	flat	_	_
 19	's	's	PART	PART	_	17	case	_	_
-20	Day	day	NOUN	S	Number=Sing	14	nmod	_	SpaceAfter=No
+20	Day	day	NOUN	S	Number=Sing	14	appos	_	SpaceAfter=No
 21	.	.	PUNCT	FS	_	6	punct	_	_
 
 # sent_id = en_partut-ud-1859
