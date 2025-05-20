@@ -42181,7 +42181,7 @@
 9	1613	1613	NUM	N	NumType=Card	5	obl	_	_
 10	at	at	ADP	E	_	11	case	_	_
 11	age	age	NOUN	S	Number=Sing	5	obl	_	_
-12	49	49	NUM	N	NumType=Card	11	nummod	_	SpaceAfter=No
+12	49	49	NUM	N	NumType=Card	11	flat	_	SpaceAfter=No
 13	,	,	PUNCT	FF	_	11	punct	_	_
 14	where	where	ADV	B	PronType=Rel	16	advmod	_	_
 15	he	he	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	16	nsubj	_	_
@@ -42748,7 +42748,7 @@
 2	the	the	DET	RD	Definite=Def|PronType=Art	3	det	_	_
 3	age	age	NOUN	S	Number=Sing	8	obl	_	_
 4	of	of	ADP	E	_	5	case	_	_
-5	18	18	NUM	N	NumType=Card	3	nummod	_	SpaceAfter=No
+5	18	18	NUM	N	NumType=Card	3	nmod	_	SpaceAfter=No
 6	,	,	PUNCT	FF	_	3	punct	_	_
 7	Shakespeare	Shakespeare	PROPN	SP	_	8	nsubj	_	_
 8	married	marry	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
@@ -42892,7 +42892,7 @@
 7	the	the	DET	RD	Definite=Def|PronType=Art	8	det	_	_
 8	age	age	NOUN	S	Number=Sing	2	obl	_	_
 9	of	of	ADP	E	_	10	case	_	_
-10	11	11	NUM	N	NumType=Card	8	nummod	_	_
+10	11	11	NUM	N	NumType=Card	8	nmod	_	_
 11	and	and	CCONJ	CC	_	13	cc	_	_
 12	was	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	13	aux	_	_
 13	buried	bury	VERB	V	Tense=Past|VerbForm=Part	2	conj	_	_
