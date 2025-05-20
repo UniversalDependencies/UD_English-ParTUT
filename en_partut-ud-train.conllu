@@ -23257,11 +23257,11 @@
 
 # sent_id = en_partut-ud-1021
 # text = FEB 10, 2014.
-1	FEB	February	PROPN	SP	_	0	root	_	_
-2	10	10	NUM	N	NumType=Card	1	flat	_	SpaceAfter=No
-3	,	,	PUNCT	FF	_	1	punct	_	_
-4	2014	2014	NUM	N	NumType=Card	1	flat	_	SpaceAfter=No
-5	.	.	PUNCT	FS	_	1	punct	_	_
+1	FEB	February	PROPN	SP	_	2	nmod:unmarked	_	_
+2	10	10	NUM	N	NumType=Card	0	root	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	2	punct	_	_
+4	2014	2014	NUM	N	NumType=Card	2	nmod:unmarked	_	SpaceAfter=No
+5	.	.	PUNCT	FS	_	2	punct	_	_
 
 # sent_id = en_partut-ud-1022
 # text = Death by Finance.
@@ -26749,11 +26749,11 @@
 
 # sent_id = en_partut-ud-1170
 # text = FEB 27, 2014.
-1	FEB	February	PROPN	SP	_	0	root	_	_
-2	27	27	NUM	N	NumType=Card	1	flat	_	SpaceAfter=No
-3	,	,	PUNCT	FF	_	1	punct	_	_
-4	2014	2014	NUM	N	NumType=Card	1	flat	_	SpaceAfter=No
-5	.	.	PUNCT	FS	_	1	punct	_	_
+1	FEB	February	PROPN	SP	_	2	nmod:unmarked	_	_
+2	27	27	NUM	N	NumType=Card	0	root	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	2	punct	_	_
+4	2014	2014	NUM	N	NumType=Card	2	nmod:unmarked	_	SpaceAfter=No
+5	.	.	PUNCT	FS	_	2	punct	_	_
 
 # sent_id = en_partut-ud-1171
 # text = China's Growth Puzzle.
@@ -30566,11 +30566,11 @@
 
 # sent_id = en_partut-ud-1322
 # text = MAR 20, 2014.
-1	MAR	March	PROPN	SP	_	0	root	_	_
-2	20	20	NUM	N	NumType=Card	1	flat	_	SpaceAfter=No
-3	,	,	PUNCT	FF	_	1	punct	_	_
-4	2014	2014	NUM	N	NumType=Card	1	flat	_	SpaceAfter=No
-5	.	.	PUNCT	FS	_	1	punct	_	_
+1	MAR	March	PROPN	SP	_	2	nmod:unmarked	_	_
+2	20	20	NUM	N	NumType=Card	0	root	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	2	punct	_	_
+4	2014	2014	NUM	N	NumType=Card	2	nmod:unmarked	_	SpaceAfter=No
+5	.	.	PUNCT	FS	_	2	punct	_	_
 
 # sent_id = en_partut-ud-1323
 # text = South Korea's Feminine Future.
@@ -33166,11 +33166,11 @@
 
 # sent_id = en_partut-ud-1425
 # text = MAR 31, 2014.
-1	MAR	mar	NOUN	S	Number=Sing	0	root	_	_
-2	31	31	NUM	N	NumType=Card	1	flat	_	SpaceAfter=No
-3	,	,	PUNCT	FF	_	1	punct	_	_
-4	2014	2014	NUM	N	NumType=Card	1	flat	_	SpaceAfter=No
-5	.	.	PUNCT	FS	_	1	punct	_	_
+1	MAR	March	PROPN	SP	_	2	nmod:unmarked	_	_
+2	31	31	NUM	N	NumType=Card	0	root	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	2	punct	_	_
+4	2014	2014	NUM	N	NumType=Card	2	nmod:unmarked	_	SpaceAfter=No
+5	.	.	PUNCT	FS	_	2	punct	_	_
 
 # sent_id = en_partut-ud-1426
 # text = Marx and the Mechanical Turk.
@@ -33866,11 +33866,11 @@
 
 # sent_id = en_partut-ud-1450
 # text = APR 4, 2014.
-1	APR	April	PROPN	SP	_	0	root	_	_
-2	4	4	NUM	N	NumType=Card	1	flat	_	SpaceAfter=No
-3	,	,	PUNCT	FF	_	1	punct	_	_
-4	2014	2014	NUM	N	NumType=Card	1	flat	_	SpaceAfter=No
-5	.	.	PUNCT	FS	_	1	punct	_	_
+1	APR	April	PROPN	SP	_	2	nmod:unmarked	_	_
+2	4	4	NUM	N	NumType=Card	0	root	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	2	punct	_	_
+4	2014	2014	NUM	N	NumType=Card	2	nmod:unmarked	_	SpaceAfter=No
+5	.	.	PUNCT	FS	_	2	punct	_	_
 
 # sent_id = en_partut-ud-1451
 # text = The Yalta Temptation.
@@ -34838,11 +34838,11 @@
 
 # sent_id = en_partut-ud-1494
 # text = APR 7, 2014.
-1	APR	April	PROPN	SP	_	0	root	_	_
-2	7	7	NUM	N	NumType=Card	1	flat	_	SpaceAfter=No
-3	,	,	PUNCT	FF	_	1	punct	_	_
-4	2014	2014	NUM	N	NumType=Card	1	flat	_	SpaceAfter=No
-5	.	.	PUNCT	FS	_	1	punct	_	_
+1	APR	April	PROPN	SP	_	2	nmod:unmarked	_	_
+2	7	7	NUM	N	NumType=Card	0	root	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	2	punct	_	_
+4	2014	2014	NUM	N	NumType=Card	2	nmod:unmarked	_	SpaceAfter=No
+5	.	.	PUNCT	FS	_	2	punct	_	_
 
 # sent_id = en_partut-ud-1495
 # text = The Mosquito Menace.
