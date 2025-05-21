@@ -114,7 +114,7 @@
 # sent_id = en_partut-ud-64
 # text = Creative Commons is not a party to this License, and makes no warranty whatsoever in connection with the Work.
 1	Creative	Creative	PROPN	SP	_	6	nsubj	_	_
-2	Commons	Commons	PROPN	SP	Number=Ptan	1	flat	_	_
+2	Commons	Commons	PROPN	SP	Number=Sing	1	flat	_	_
 3	is	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
 4	not	not	PART	PART	Polarity=Neg	6	advmod	_	_
 5	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	6	det	_	_
@@ -3150,7 +3150,7 @@
 3	realm	realm	NOUN	S	Number=Sing	12	obl	_	_
 4	of	of	ADP	E	_	6	case	_	_
 5	international	international	ADJ	A	Degree=Pos	6	amod	_	_
-6	economics	economics	NOUN	S	Number=Ptan	3	nmod	_	SpaceAfter=No
+6	economics	economics	NOUN	S	Number=Sing	3	nmod	_	SpaceAfter=No
 7	,	,	PUNCT	FF	_	3	punct	_	_
 8	being	be	AUX	VA	VerbForm=Ger	9	aux	_	_
 9	perceived	perceive	VERB	V	Tense=Past|VerbForm=Part	12	nsubj	_	_
@@ -3378,7 +3378,7 @@
 13	matter	matter	VERB	V	VerbForm=Inf	11	xcomp	_	_
 14	less	less	ADV	B	Degree=Cmp	13	advmod	_	_
 15	than	than	ADP	E	_	16	case	_	_
-16	politics	politics	NOUN	S	Number=Ptan	14	obl	_	SpaceAfter=No
+16	politics	politics	NOUN	S	Number=Sing	14	obl	_	SpaceAfter=No
 17	.	.	PUNCT	FS	_	11	punct	_	_
 
 # sent_id = en_partut-ud-1530
