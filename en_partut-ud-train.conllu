@@ -4463,7 +4463,7 @@
 15	believe	believe	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	19	parataxis	_	SpaceAfter=No
 16	,	,	PUNCT	FF	_	15	punct	_	_
 17	we	we	PRON	PE	Number=Plur|Person=1|PronType=Prs	19	nsubj	_	_
-18	all	all	PRON	PI	PronType=Ind	17	nmod	_	_
+18	all	all	DET	T	PronType=Tot	17	advmod	_	_
 19	do	do	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	7	advcl	_	SpaceAfter=No
 20	,	,	PUNCT	FF	_	19	punct	_	_
 21	of	of	ADP	E	_	23	case	_	_
@@ -7883,7 +7883,7 @@
 # sent_id = en_partut-ud-295
 # text = We all regret that the European Committee for Standardisation (CEN) has not been able, in the required time, to carry out the amendment of the provisions necessary for the required harmonisation within the European Union.
 1	We	we	PRON	PE	Number=Plur|Person=1|PronType=Prs	3	nsubj	_	_
-2	all	all	PRON	PI	PronType=Ind	1	nmod	_	_
+2	all	all	DET	T	PronType=Tot	1	advmod	_	_
 3	regret	regret	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	that	that	SCONJ	CS	_	16	mark	_	_
 5	the	the	DET	RD	Definite=Def|PronType=Art	7	det	_	_
@@ -11167,7 +11167,7 @@
 # sent_id = en_partut-ud-402
 # text = We all agree that we should ask that, halfway through these programmes, when the assessment of the Directives is made, Parliament should be given an equally influential role on the grounds that we are the citizens' representatives.
 1	We	we	PRON	PE	Number=Plur|Person=1|PronType=Prs	3	nsubj	_	_
-2	all	all	PRON	PI	PronType=Ind	1	nmod	_	_
+2	all	all	DET	T	PronType=Tot	1	advmod	_	_
 3	agree	agree	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	that	that	SCONJ	CS	_	7	mark	_	_
 5	we	we	PRON	PE	Number=Plur|Person=1|PronType=Prs	7	nsubj	_	_
@@ -22156,7 +22156,7 @@
 20	things	thing	NOUN	S	Number=Plur	14	conj	_	_
 21	that	that	PRON	PR	PronType=Rel	26	obj	_	_
 22	we	we	PRON	PE	Number=Plur|Person=1|PronType=Prs	26	nsubj	_	_
-23	all	all	PRON	PI	PronType=Ind	22	nmod	_	_
+23	all	all	DET	T	PronType=Tot	22	advmod	_	_
 24	pretty	pretty	ADV	B	_	25	advmod	_	_
 25	well	well	ADV	B	_	26	advmod	_	_
 26	know	know	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	20	acl:relcl	_	SpaceAfter=No
