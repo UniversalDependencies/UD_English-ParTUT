@@ -20184,7 +20184,7 @@
 5	General	general	ADJ	A	Degree=Pos	6	amod	_	_
 6	Assembly	assembly	NOUN	S	Number=Sing	7	nmod	_	_
 7	resolution	resolution	NOUN	S	Number=Sing	3	obl	_	_
-8	217A	217A	NUM	N	NumType=Card	7	flat	_	_
+8	217A	217A	PROPN	SP	Number=Sing	7	flat	_	_
 9	(	(	PUNCT	FB	_	10	punct	_	SpaceAfter=No
 10	III	III	NUM	N	NumForm=Roman|NumType=Card	8	flat	_	SpaceAfter=No
 11	)	)	PUNCT	FB	_	10	punct	_	_
