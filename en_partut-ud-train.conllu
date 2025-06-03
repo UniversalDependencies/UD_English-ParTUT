@@ -6665,22 +6665,14 @@
 60	[	[	PUNCT	FB	_	61	punct	_	SpaceAfter=No
 61	COM	COM	PROPN	SP	_	45	nmod	_	_
 62	(	(	PUNCT	FB	_	63	punct	_	SpaceAfter=No
-63	1999	1999	NUM	N	NumType=Card	61	nummod	_	SpaceAfter=No
+63	1999	1999	NUM	N	NumType=Card	61	appos	_	SpaceAfter=No
 64	)	)	PUNCT	FB	_	63	punct	_	_
-65	158	158	NUM	N	NumType=Card	61	nummod	_	SpaceAfter=No
-66	-	-	PUNCT	FF	_	61	punct	_	SpaceAfter=No
-67	C5-0004	C5-0004	PROPN	SP	_	61	nmod	_	SpaceAfter=No
-68	/	/	PUNCT	FF	_	61	punct	_	SpaceAfter=No
-69	1999	1999	NUM	N	NumType=Card	61	nummod	_	SpaceAfter=No
-70	-	-	PUNCT	FF	_	61	punct	_	SpaceAfter=No
-71	1999	1999	NUM	N	NumType=Card	61	nummod	_	SpaceAfter=No
-72	/	/	PUNCT	FF	_	61	punct	_	SpaceAfter=No
-73	0083	0083	NUM	N	NumType=Card	61	nummod	_	_
-74	(	(	PUNCT	FB	_	75	punct	_	SpaceAfter=No
-75	COD	COD	PROPN	SP	_	61	nmod	_	SpaceAfter=No
-76	)	)	PUNCT	FB	_	75	punct	_	SpaceAfter=No
-77	]	]	PUNCT	FB	_	61	punct	_	SpaceAfter=No
-78	.	.	PUNCT	FS	_	6	punct	_	_
+65	158-C5-0004/1999-1999/0083	158-C5-0004/1999-1999/0083	PROPN	SP	Number=Sing	61	flat	_	_
+66	(	(	PUNCT	FB	_	67	punct	_	SpaceAfter=No
+67	COD	COD	PROPN	SP	_	61	appos	_	SpaceAfter=No
+68	)	)	PUNCT	FB	_	67	punct	_	SpaceAfter=No
+69	]	]	PUNCT	FB	_	61	punct	_	SpaceAfter=No
+70	.	.	PUNCT	FS	_	6	punct	_	_
 
 # sent_id = en_partut-ud-248
 # text = Mr President, Commissioner, ladies and gentlemen, the Directive on the approximation of the laws of the member states with regard to the transport of dangerous goods by road, which entered into force on 1 January 1997, contains a number of transitional provisions which are only valid for a limited period of time, the term of validity being linked to the completion of specific standardisation work by the CEN, that is the European committee for standardisation.
