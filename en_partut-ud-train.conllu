@@ -20184,16 +20184,15 @@
 5	General	general	ADJ	A	Degree=Pos	6	amod	_	_
 6	Assembly	assembly	NOUN	S	Number=Sing	7	nmod	_	_
 7	resolution	resolution	NOUN	S	Number=Sing	3	obl	_	_
-8	217	217	NUM	N	NumType=Card	7	nummod	_	SpaceAfter=No
-9	A	A	X	X	_	8	dep	_	_
-10	(	(	PUNCT	FB	_	11	punct	_	SpaceAfter=No
-11	III	III	NUM	N	NumForm=Roman|NumType=Card	8	flat	_	SpaceAfter=No
-12	)	)	PUNCT	FB	_	11	punct	_	_
-13	of	of	ADP	E	_	14	case	_	_
-14	10	10	NUM	N	NumType=Card	7	nmod	_	_
-15	December	December	PROPN	SP	_	14	nmod:unmarked	_	_
-16	1948	1948	NUM	N	NumType=Card	14	nmod:unmarked	_	SpaceAfter=No
-17	.	.	PUNCT	FS	_	1	punct	_	_
+8	217A	217A	NUM	N	NumType=Card	7	flat	_	_
+9	(	(	PUNCT	FB	_	10	punct	_	SpaceAfter=No
+10	III	III	NUM	N	NumForm=Roman|NumType=Card	8	flat	_	SpaceAfter=No
+11	)	)	PUNCT	FB	_	10	punct	_	_
+12	of	of	ADP	E	_	13	case	_	_
+13	10	10	NUM	N	NumType=Card	7	nmod	_	_
+14	December	December	PROPN	SP	_	13	nmod:unmarked	_	_
+15	1948	1948	NUM	N	NumType=Card	13	nmod:unmarked	_	SpaceAfter=No
+16	.	.	PUNCT	FS	_	1	punct	_	_
 
 # sent_id = en_partut-ud-738
 # text = PREAMBLE.
