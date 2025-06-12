@@ -5559,9 +5559,9 @@
 9	in	in	ADP	E	_	11	case	_	_
 10	another	another	DET	RI	Definite=Ind|Number=Sing|PronType=Art	11	det	_	_
 11	Directive	Directive	NOUN	S	Number=Sing	7	obl	_	SpaceAfter=No
-12	,	,	PUNCT	FF	_	7	punct	_	_
+12	,	,	PUNCT	FF	_	13	punct	_	_
 13	95/35/EC	95/35/EC	PROPN	SP	Number=Sing	11	appos	_	SpaceAfter=No
-14	,	,	PUNCT	FF	_	3	punct	_	_
+14	,	,	PUNCT	FF	_	13	punct	_	_
 15	seem	seem	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	0	root	_	_
 16	sufficiently	sufficiently	ADV	B	_	17	advmod	_	_
 17	adequate	adequate	ADJ	A	Degree=Pos	15	xcomp	_	_
