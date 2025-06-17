@@ -558,7 +558,7 @@
 
 # sent_id = en_partut-ud-506
 # text = Facebook Adverts.
-1	Facebook	Facebook	PROPN	SP	_	2	nmod	_	_
+1	Facebook	Facebook	PROPN	SP	_	2	compound	_	_
 2	Adverts	advert	NOUN	S	Number=Plur	0	root	_	SpaceAfter=No
 3	.	.	PUNCT	FS	_	2	punct	_	_
 
@@ -579,7 +579,7 @@
 6	visits	visit	NOUN	S	Number=Plur	4	nmod	_	_
 7	originating	originate	VERB	V	Number=Sing|Tense=Pres|VerbForm=Part	6	acl	_	_
 8	from	from	ADP	E	_	10	case	_	_
-9	Facebook	Facebook	PROPN	SP	_	10	nmod	_	_
+9	Facebook	Facebook	PROPN	SP	_	10	compound	_	_
 10	Adverts	advert	NOUN	S	Number=Plur	7	obl	_	SpaceAfter=No
 11	.	.	PUNCT	FS	_	4	punct	_	_
 
