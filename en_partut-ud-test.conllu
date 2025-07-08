@@ -3092,7 +3092,7 @@
 13	to	to	PART	PART	_	14	mark	_	_
 14	relay	relay	VERB	V	VerbForm=Inf	12	acl	_	_
 15	relevant	relevant	ADJ	A	Degree=Pos	16	amod	_	_
-16	data	datum	NOUN	S	Number=Plur	14	obj	_	_
+16	data	data	NOUN	S	Number=Plur	14	obj	_	_
 17	to	to	ADP	E	_	20	case	_	_
 18	decision	decision	NOUN	S	Number=Sing	20	nmod	_	SpaceAfter=No
 19	-	-	PUNCT	FF	_	18	punct	_	SpaceAfter=No
