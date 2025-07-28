@@ -1819,15 +1819,15 @@
 # text = The largest organism in the world is in Eastern Oregon.
 1	The	the	DET	RD	Definite=Def|PronType=Art	3	det	_	_
 2	largest	largest	ADJ	A	Degree=Sup	3	amod	_	_
-3	organism	organism	NOUN	S	Number=Sing	9	nsubj	_	_
+3	organism	organism	NOUN	S	Number=Sing	10	nsubj	_	_
 4	in	in	ADP	E	_	6	case	_	_
 5	the	the	DET	RD	Definite=Def|PronType=Art	6	det	_	_
 6	world	world	NOUN	S	Number=Sing	3	nmod	_	_
-7	is	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
-8	in	in	ADP	E	_	9	case	_	_
-9	Eastern	Eastern	PROPN	SP	_	0	root	_	_
-10	Oregon	Oregon	PROPN	SP	_	9	flat	_	SpaceAfter=No
-11	.	.	PUNCT	FS	_	9	punct	_	_
+7	is	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
+8	in	in	ADP	E	_	10	case	_	_
+9	Eastern	eastern	ADJ	A	Degree=Pos	10	amod	_	_
+10	Oregon	Oregon	PROPN	SP	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	FS	_	10	punct	_	_
 
 # sent_id = en_partut-ud-940
 # text = 2,200 acres in size, 2,000 years old.
