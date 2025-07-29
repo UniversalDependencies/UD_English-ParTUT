@@ -26157,10 +26157,10 @@
 3	remarkable	remarkable	ADJ	A	Degree=Pos	4	amod	_	_
 4	transformation	transformation	NOUN	S	Number=Sing	19	obl	_	_
 5	of	of	ADP	E	_	9	case	_	_
-6	Central	Central	PROPN	SP	_	9	nmod:poss	_	_
+6	Central	central	ADJ	A	Degree=Pos	7	amod	_	_
 7-8	Europe's	_	_	_	_	_	_	_	_
-7	Europe	Europe	PROPN	SP	_	6	flat	_	_
-8	's	's	PART	PART	_	6	case	_	_
+7	Europe	Europe	PROPN	SP	_	9	nmod:poss	_	_
+8	's	's	PART	PART	_	7	case	_	_
 9	economies	economy	NOUN	S	Number=Plur	4	nmod	_	_
 10	in	in	ADP	E	_	12	case	_	_
 11	the	the	DET	RD	Definite=Def|PronType=Art	12	det	_	_
