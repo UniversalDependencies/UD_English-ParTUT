@@ -1248,7 +1248,7 @@
 # text = We exhale carbon dioxide, so does mycelium.
 1	We	we	PRON	PE	Number=Plur|Person=1|PronType=Prs	2	nsubj	_	_
 2	exhale	exhale	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	0	root	_	_
-3	carbon	carbon	NOUN	S	Number=Sing	4	nmod	_	_
+3	carbon	carbon	NOUN	S	Number=Sing	4	compound	_	_
 4	dioxide	dioxide	NOUN	S	Number=Sing	2	obj	_	SpaceAfter=No
 5	,	,	PUNCT	FF	_	7	punct	_	_
 6	so	so	ADV	B	_	7	advmod	_	_
@@ -1552,8 +1552,8 @@
 2	acid	acid	NOUN	S	Number=Sing	7	nsubj	_	_
 3	is	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
 4	two	two	NUM	N	NumType=Card	7	nummod	_	_
-5	carbon	carbon	NOUN	S	Number=Sing	6	nmod	_	_
-6	dioxide	dioxide	NOUN	S	Number=Sing	7	nmod	_	_
+5	carbon	carbon	NOUN	S	Number=Sing	6	compound	_	_
+6	dioxide	dioxide	NOUN	S	Number=Sing	7	compound	_	_
 7	molecules	molecule	NOUN	S	Number=Plur	0	root	_	_
 8	joined	join	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	7	acl	_	_
 9	together	together	ADV	B	_	8	advmod	_	SpaceAfter=No
@@ -1567,13 +1567,13 @@
 4	and	and	CCONJ	CC	_	5	cc	_	_
 5	mycelium	mycelium	NOUN	S	Number=Sing	3	conj	_	_
 6	sequester	sequester	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	0	root	_	_
-7	carbon	carbon	NOUN	S	Number=Sing	8	nmod	_	_
+7	carbon	carbon	NOUN	S	Number=Sing	8	compound	_	_
 8	dioxide	dioxide	NOUN	S	Number=Sing	6	obj	_	_
 9	in	in	ADP	E	_	11	case	_	_
 10	the	the	DET	RD	Definite=Def|PronType=Art	11	det	_	_
 11	form	form	NOUN	S	Number=Sing	6	obl	_	_
 12	of	of	ADP	E	_	14	case	_	_
-13	calcium	calcium	NOUN	S	Number=Sing	14	nmod	_	_
+13	calcium	calcium	NOUN	S	Number=Sing	14	compound	_	_
 14	oxalates	oxalate	NOUN	S	Number=Plur	11	nmod	_	SpaceAfter=No
 15	.	.	PUNCT	FS	_	6	punct	_	_
 
@@ -1588,7 +1588,7 @@
 7	are	be	AUX	VA	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	9	aux	_	_
 8	also	also	ADV	B	_	9	advmod	_	_
 9	sequestering	sequester	VERB	V	Number=Sing|Tense=Pres|VerbForm=Part	1	conj	_	_
-10	carbon	carbon	NOUN	S	Number=Sing	11	nmod	_	_
+10	carbon	carbon	NOUN	S	Number=Sing	11	compound	_	_
 11	dioxide	dioxide	NOUN	S	Number=Sing	9	obj	_	_
 12	through	through	ADP	E	_	14	case	_	_
 13	the	the	DET	RD	Definite=Def|PronType=Art	14	det	_	_
@@ -2274,7 +2274,7 @@
 # text = A global carbon tax would mitigate climate risks while alleviating government debt burdens.
 1	A	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	4	det	_	_
 2	global	global	ADJ	A	Degree=Pos	3	amod	_	_
-3	carbon	carbon	NOUN	S	Number=Sing	4	nmod	_	_
+3	carbon	carbon	NOUN	S	Number=Sing	4	compound	_	_
 4	tax	tax	NOUN	S	Number=Sing	6	nsubj	_	_
 5	would	will	AUX	VM	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	6	aux	_	_
 6	mitigate	mitigate	VERB	V	VerbForm=Inf	0	root	_	_
