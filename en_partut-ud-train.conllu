@@ -9039,7 +9039,7 @@
 19	the	the	DET	RD	Definite=Def|PronType=Art	22	det	_	_
 20	European	European	ADJ	A	Degree=Pos	22	amod	_	_
 21	Social	social	ADJ	A	Degree=Pos	22	amod	_	_
-22	Fund	fund	NOUN	S	Number=Sing	15	nmod	_	SpaceAfter=No
+22	Fund	Fund	PROPN	SP	_	15	nmod	_	SpaceAfter=No
 23	.	.	PUNCT	FS	_	4	punct	_	_
 
 # sent_id = en_partut-ud-332
@@ -9069,7 +9069,7 @@
 23	between	between	ADP	E	_	27	case	_	_
 24	European	European	ADJ	A	Degree=Pos	26	amod	_	_
 25	Social	social	ADJ	A	Degree=Pos	26	amod	_	_
-26	Fund	fund	NOUN	S	Number=Sing	27	nmod	_	_
+26	Fund	Fund	PROPN	SP	_	27	nmod	_	_
 27	assistance	assistance	NOUN	S	Number=Sing	22	nmod	_	SpaceAfter=No
 28	,	,	PUNCT	FF	_	27	punct	_	_
 29	which	which	PRON	PR	PronType=Rel	31	nsubj	_	_
@@ -11456,8 +11456,8 @@
 12	the	the	DET	RD	Definite=Def|PronType=Art	16	det	_	_
 13	European	European	ADJ	A	Degree=Pos	15	amod	_	_
 14	Regional	regional	ADJ	A	Degree=Pos	15	amod	_	_
-15	Development	development	NOUN	S	Number=Sing	16	nmod	_	_
-16	Fund	fund	NOUN	S	Number=Sing	10	obl	_	_
+15	Development	Development	PROPN	SP	_	16	compound	_	_
+16	Fund	Fund	PROPN	SP	_	10	obl	_	_
 17	and	and	CCONJ	CC	_	20	cc	_	_
 18	the	the	DET	RD	Definite=Def|PronType=Art	20	det	_	_
 19	Cohesion	cohesion	NOUN	S	Number=Sing	20	nmod	_	_
@@ -11469,8 +11469,8 @@
 25	that	that	SCONJ	CS	_	31	mark	_	_
 26	the	the	DET	RD	Definite=Def|PronType=Art	29	det	_	_
 27	European	European	ADJ	A	Degree=Pos	29	amod	_	_
-28	Social	socail	ADJ	A	Degree=Pos	29	amod	_	_
-29	Fund	fund	NOUN	S	Number=Sing	31	nsubj	_	_
+28	Social	social	ADJ	A	Degree=Pos	29	amod	_	_
+29	Fund	Fund	PROPN	SP	Number=Sing	31	nsubj	_	_
 30	has	have	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	31	aux	_	_
 31	played	play	VERB	V	Tense=Past|VerbForm=Part	24	ccomp	_	_
 32	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	35	det	_	_
@@ -14804,8 +14804,8 @@
 12	in	in	ADP	E	_	17	case	_	_
 13	its	its	DET	AP	Number=Sing|Poss=Yes|PronType=Prs	17	nmod:poss	_	_
 14	European	European	ADJ	A	Degree=Pos	17	amod	_	_
-15	Climate	climate	NOUN	S	Number=Sing	16	nmod	_	_
-16	Change	change	NOUN	S	Number=Sing	17	nmod	_	_
+15	Climate	Climate	PROPN	SP	Number=Sing	16	compound	_	_
+16	Change	Change	PROPN	SP	Number=Sing	17	compound	_	_
 17	Programme	Programme	PROPN	SP	_	8	obl	_	_
 18	(	(	PUNCT	FB	_	19	punct	_	SpaceAfter=No
 19	ECCP	ECCP	PROPN	SP	_	17	appos	_	SpaceAfter=No
@@ -18032,7 +18032,7 @@
 26	Anti	anti	X	X	_	28	amod	_	SpaceAfter=No
 27	-	-	PUNCT	FF	_	28	punct	_	SpaceAfter=No
 28	Fraud	fraud	NOUN	S	Number=Sing	29	nmod	_	_
-29	Office	office	NOUN	S	Number=Sing	22	nmod	_	_
+29	Office	Office	PROPN	SP	Number=Sing	22	nmod	_	_
 30	(	(	PUNCT	FB	_	31	punct	_	SpaceAfter=No
 31	OLAF	OLAF	PROPN	SP	_	29	appos	_	SpaceAfter=No
 32	)	)	PUNCT	FB	_	31	punct	_	_
@@ -26342,11 +26342,11 @@
 4	,	,	PUNCT	FF	_	2	punct	_	_
 5	the	the	DET	RD	Definite=Def|PronType=Art	7	det	_	_
 6	European	European	ADJ	A	Degree=Pos	7	amod	_	_
-7	Bank	bank	NOUN	S	Number=Sing	16	nsubj	_	_
+7	Bank	Bank	PROPN	SP	_	16	nsubj	_	_
 8	for	for	ADP	E	_	9	case	_	_
-9	Reconstruction	reconstruction	NOUN	S	_	7	nmod	_	_
+9	Reconstruction	Reconstruction	PROPN	SP	_	7	nmod	_	_
 10	and	and	CCONJ	CC	_	11	cc	_	_
-11	Development	development	NOUN	S	_	9	conj	_	_
+11	Development	Development	PROPN	SP	_	9	conj	_	_
 12	(	(	PUNCT	FB	_	13	punct	_	SpaceAfter=No
 13	EBRD	EBRD	PROPN	SP	_	7	nmod	_	SpaceAfter=No
 14	)	)	PUNCT	FB	_	13	punct	_	_
