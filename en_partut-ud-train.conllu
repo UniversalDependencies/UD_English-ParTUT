@@ -1837,10 +1837,10 @@
 39	the	the	DET	RD	Definite=Def|PronType=Art	41	det	_	_
 40	various	various	ADJ	A	Degree=Pos	41	amod	_	_
 41	countries	country	NOUN	S	Number=Plur	28	nmod	_	_
-42	of	of	ADP	E	_	44	case	_	_
-43	the	the	DET	RD	Definite=Def|PronType=Art	44	det	_	_
-44	European	European	PROPN	SP	_	41	nmod	_	_
-45	Union	Union	PROPN	SP	_	44	flat	_	SpaceAfter=No
+42	of	of	ADP	E	_	45	case	_	_
+43	the	the	DET	RD	Definite=Def|PronType=Art	45	det	_	_
+44	European	European	ADJ	A	Degree=Pos	45	amod	_	_
+45	Union	Union	PROPN	SP	_	41	nmod	_	SpaceAfter=No
 46	.	.	PUNCT	FS	_	7	punct	_	_
 
 # sent_id = en_partut-ud-74
@@ -4987,10 +4987,10 @@
 29	to	to	PART	PART	_	30	mark	_	_
 30	make	make	VERB	V	VerbForm=Inf	28	acl	_	_
 31	transport	transport	NOUN	S	Number=Sing	30	obj	_	_
-32	in	in	ADP	E	_	34	case	_	_
-33	the	the	DET	RD	Definite=Def|PronType=Art	34	det	_	_
-34	European	European	PROPN	SP	_	30	obl	_	_
-35	Union	Union	PROPN	SP	_	34	flat	_	_
+32	in	in	ADP	E	_	35	case	_	_
+33	the	the	DET	RD	Definite=Def|PronType=Art	35	det	_	_
+34	European	European	ADJ	A	Degree=Pos	35	amod	_	_
+35	Union	Union	PROPN	SP	_	30	obl	_	_
 36	as	as	ADV	B	_	37	advmod	_	_
 37	safe	safe	ADJ	A	Degree=Pos	30	xcomp	_	_
 38	as	as	ADP	E	_	39	case	_	_
@@ -6849,9 +6849,9 @@
 # sent_id = en_partut-ud-253
 # text = Should the European Union fail to take action, then Member States would be obliged to amend their national legislation for a very brief period, until the CEN completes its work, which would cause unnecessary cost and uncertainty.
 1	Should	shall	AUX	VM	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	5	aux	_	_
-2	the	the	DET	RD	Definite=Def|PronType=Art	3	det	_	_
-3	European	European	PROPN	SP	_	5	nsubj	_	_
-4	Union	Union	PROPN	SP	_	3	flat	_	_
+2	the	the	DET	RD	Definite=Def|PronType=Art	4	det	_	_
+3	European	European	ADJ	A	Degree=Pos	4	amod	_	_
+4	Union	Union	PROPN	SP	_	5	nsubj	_	_
 5	fail	fail	VERB	V	VerbForm=Inf	15	advcl	_	_
 6	to	to	PART	PART	_	7	mark	_	_
 7	take	take	VERB	V	VerbForm=Inf	5	xcomp	_	_
@@ -7729,10 +7729,10 @@
 19	the	the	DET	RD	Definite=Def|PronType=Art	21	det	_	_
 20	northern	northern	ADJ	A	Degree=Pos	21	amod	_	_
 21	parts	part	NOUN	S	Number=Plur	17	obl	_	_
-22	of	of	ADP	E	_	24	case	_	_
-23	the	the	DET	RD	Definite=Def|PronType=Art	24	det	_	_
-24	European	European	PROPN	SP	_	21	nmod	_	_
-25	Union	Union	PROPN	SP	_	24	flat	_	SpaceAfter=No
+22	of	of	ADP	E	_	25	case	_	_
+23	the	the	DET	RD	Definite=Def|PronType=Art	25	det	_	_
+24	European	European	ADJ	A	Degree=Pos	25	amod	_	_
+25	Union	Union	PROPN	SP	_	21	nmod	_	SpaceAfter=No
 26	.	.	PUNCT	FS	_	7	punct	_	_
 
 # sent_id = en_partut-ud-287
@@ -7895,10 +7895,10 @@
 33	the	the	DET	RD	Definite=Def|PronType=Art	35	det	_	_
 34	required	require	VERB	V	Tense=Past|VerbForm=Part	35	acl	_	_
 35	harmonisation	harmonization	NOUN	S	Number=Sing	31	obl	_	_
-36	within	within	ADP	E	_	38	case	_	_
-37	the	the	DET	RD	Definite=Def|PronType=Art	38	det	_	_
-38	European	European	PROPN	SP	_	24	obl	_	_
-39	Union	Union	PROPN	SP	_	38	flat	_	SpaceAfter=No
+36	within	within	ADP	E	_	39	case	_	_
+37	the	the	DET	RD	Definite=Def|PronType=Art	39	det	_	_
+38	European	European	ADJ	A	Degree=Pos	39	amod	_	_
+39	Union	Union	PROPN	SP	_	24	obl	_	SpaceAfter=No
 40	.	.	PUNCT	FS	_	3	punct	_	_
 
 # sent_id = en_partut-ud-296
@@ -7990,10 +7990,10 @@
 25	the	the	DET	RD	Definite=Def|PronType=Art	27	det	_	_
 26	climatic	climatic	ADJ	A	Degree=Pos	27	amod	_	_
 27	diversity	diversity	NOUN	S	Number=Sing	24	obj	_	_
-28	of	of	ADP	E	_	30	case	_	_
-29	the	the	DET	RD	Definite=Def|PronType=Art	30	det	_	_
-30	European	European	PROPN	SP	_	27	nmod	_	_
-31	Union	Union	PROPN	SP	_	30	flat	_	SpaceAfter=No
+28	of	of	ADP	E	_	31	case	_	_
+29	the	the	DET	RD	Definite=Def|PronType=Art	31	det	_	_
+30	European	European	ADJ	A	Degree=Pos	31	amod	_	_
+31	Union	Union	PROPN	SP	_	27	nmod	_	SpaceAfter=No
 32	,	,	PUNCT	FF	_	27	punct	_	_
 33	which	which	PRON	PR	PronType=Rel	35	nsubj	_	_
 34	sometimes	sometimes	ADV	B	_	35	advmod	_	_
@@ -9383,10 +9383,10 @@
 14	we	we	PRON	PE	Number=Plur|Person=1|PronType=Prs	16	nsubj	_	_
 15	should	shall	AUX	VM	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	16	aux	_	_
 16	set	set	VERB	V	VerbForm=Inf	12	acl:relcl	_	_
-17	in	in	ADP	E	_	19	case	_	_
-18	the	the	DET	RD	Definite=Def|PronType=Art	19	det	_	_
-19	European	European	PROPN	SP	_	16	obl	_	_
-20	Union	Union	PROPN	SP	_	19	flat	_	_
+17	in	in	ADP	E	_	20	case	_	_
+18	the	the	DET	RD	Definite=Def|PronType=Art	20	det	_	_
+19	European	European	ADJ	A	Degree=Pos	20	amod	_	_
+20	Union	Union	PROPN	SP	_	16	obl	_	_
 21	is	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
 22	to	to	PART	PART	_	23	mark	_	_
 23	make	make	VERB	V	VerbForm=Inf	5	ccomp	_	_
@@ -9581,11 +9581,11 @@
 26	believe	believe	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	10	advcl	_	_
 27	that	that	SCONJ	CS	_	42	mark	_	SpaceAfter=No
 28	,	,	PUNCT	FF	_	42	punct	_	_
-29	for	for	ADP	E	_	31	case	_	_
-30	the	the	DET	RD	Definite=Def|PronType=Art	31	det	_	_
-31	European	European	PROPN	SP	_	42	nmod	_	_
-32	Union	Union	PROPN	SP	_	31	flat	_	SpaceAfter=No
-33	,	,	PUNCT	FF	_	31	punct	_	_
+29	for	for	ADP	E	_	32	case	_	_
+30	the	the	DET	RD	Definite=Def|PronType=Art	32	det	_	_
+31	European	European	ADJ	A	Degree=Pos	32	amod	_	_
+32	Union	Union	PROPN	SP	_	42	nmod	_	SpaceAfter=No
+33	,	,	PUNCT	FF	_	32	punct	_	_
 34	maintaining	maintain	VERB	V	VerbForm=Ger	42	csubj	_	_
 35	the	the	DET	RD	Definite=Def|PronType=Art	36	det	_	_
 36	population	population	NOUN	S	Number=Sing	34	obj	_	_
@@ -11195,9 +11195,9 @@
 4	not	not	PART	PART	Polarity=Neg	5	advmod	_	_
 5	accept	accept	VERB	V	VerbForm=Inf	0	root	_	_
 6	that	that	SCONJ	CS	_	10	mark	_	_
-7	the	the	DET	RD	Definite=Def|PronType=Art	8	det	_	_
-8	European	European	PROPN	SP	_	10	nsubj	_	_
-9	Union	Union	PROPN	SP	_	8	flat	_	_
+7	the	the	DET	RD	Definite=Def|PronType=Art	9	det	_	_
+8	European	European	ADJ	A	Degree=Pos	9	amod	_	_
+9	Union	Union	PROPN	SP	_	10	nsubj	_	_
 10	takes	take	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	ccomp	_	_
 11	decisions	decision	NOUN	S	Number=Plur	10	obj	_	_
 12	in	in	ADP	E	_	14	case	_	_
@@ -12550,7 +12550,7 @@
 9	need	need	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	7	acl:relcl	_	_
 10	from	from	ADP	E	_	13	case	_	_
 11	the	the	DET	RD	Definite=Def|PronType=Art	13	det	_	_
-12	European	European	NOUN	S	_	13	nmod	_	_
+12	European	European	ADJ	A	Degree=Pos	13	amod	_	_
 13	Commission	commission	NOUN	S	Number=Sing	9	obl	_	_
 14	are	be	AUX	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	7	cop	_	_
 15	not	not	PART	PART	Polarity=Neg	16	advmod	_	_
@@ -16437,10 +16437,10 @@
 12	the	the	DET	RD	Definite=Def|PronType=Art	14	det	_	_
 13	Official	official	ADJ	A	Degree=Pos	14	amod	_	_
 14	Journal	journal	NOUN	S	Number=Sing	10	obl	_	_
-15	of	of	ADP	E	_	17	case	_	_
-16	the	the	DET	RD	Definite=Def|PronType=Art	17	det	_	_
-17	European	European	PROPN	SP	_	14	nmod	_	_
-18	Union	Union	PROPN	SP	_	17	flat	_	SpaceAfter=No
+15	of	of	ADP	E	_	18	case	_	_
+16	the	the	DET	RD	Definite=Def|PronType=Art	18	det	_	_
+17	European	European	ADJ	A	Degree=Pos	18	amod	_	_
+18	Union	Union	PROPN	SP	_	14	nmod	_	SpaceAfter=No
 19	,	,	PUNCT	FF	_	10	punct	_	_
 20	compliance	compliance	NOUN	S	Number=Sing	24	nsubj	_	_
 21	with	with	ADP	E	_	22	case	_	_
@@ -23913,9 +23913,9 @@
 # text = Meanwhile, the European Union and China are pressing to close their own deals in Asia and elsewhere.
 1	Meanwhile	meanwhile	ADV	B	_	9	advmod	_	SpaceAfter=No
 2	,	,	PUNCT	FF	_	1	punct	_	_
-3	the	the	DET	RD	Definite=Def|PronType=Art	4	det	_	_
-4	European	European	PROPN	SP	_	9	nsubj	_	_
-5	Union	Union	PROPN	SP	_	4	flat	_	_
+3	the	the	DET	RD	Definite=Def|PronType=Art	5	det	_	_
+4	European	European	ADJ	A	Degree=Pos	5	amod	_	_
+5	Union	Union	PROPN	SP	_	9	nsubj	_	_
 6	and	and	CCONJ	CC	_	7	cc	_	_
 7	China	China	PROPN	SP	_	5	conj	_	_
 8	are	be	AUX	VA	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	9	aux	_	_
@@ -25902,15 +25902,15 @@
 3	demonstrated	demonstrate	VERB	V	Tense=Past|VerbForm=Part	0	root	_	_
 4	their	their	DET	AP	Poss=Yes|PronType=Prs	5	nmod:poss	_	_
 5	allegiance	allegiance	NOUN	S	Number=Sing	3	obj	_	_
-6	to	to	ADP	E	_	8	case	_	_
-7	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	8	det	_	_
-8	European	European	PROPN	SP	_	5	nmod	_	_
-9	Union	Union	PROPN	SP	_	8	flat	_	_
+6	to	to	ADP	E	_	9	case	_	_
+7	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	9	det	_	_
+8	European	European	ADJ	A	Degree=Pos	9	amod	_	_
+9	Union	Union	PROPN	SP	_	5	nmod	_	_
 10	that	that	PRON	PR	PronType=Rel	14	nsubj	_	_
 11	is	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	_
 12	itself	it	PRON	PE	Number=Sing|Person=3|PronType=Prs	14	obl	_	_
 13	hopelessly	hopelessly	ADV	B	_	14	advmod	_	_
-14	divided	divide	VERB	V	Tense=Past|VerbForm=Part	8	acl:relcl	_	SpaceAfter=No
+14	divided	divide	VERB	V	Tense=Past|VerbForm=Part	9	acl:relcl	_	SpaceAfter=No
 15	,	,	PUNCT	FF	_	14	punct	_	_
 16	with	with	ADP	E	_	19	case	_	_
 17	the	the	DET	RD	Definite=Def|PronType=Art	19	det	_	_
@@ -35442,9 +35442,9 @@
 8	recently	recently	ADV	B	_	9	advmod	_	_
 9	declared	declare	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 10	that	that	SCONJ	CS	_	16	mark	_	_
-11	the	the	DET	RD	Definite=Def|PronType=Art	12	det	_	_
-12	European	European	PROPN	SP	_	16	nsubj	_	_
-13	Union	Union	PROPN	SP	_	12	flat	_	_
+11	the	the	DET	RD	Definite=Def|PronType=Art	13	det	_	_
+12	European	European	ADJ	A	Degree=Pos	13	amod	_	_
+13	Union	Union	PROPN	SP	_	16	nsubj	_	_
 14	has	have	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	aux	_	_
 15	"	"	PUNCT	FB	_	16	punct	_	SpaceAfter=No
 16	moved	move	VERB	V	Tense=Past|VerbForm=Part	9	ccomp	_	_

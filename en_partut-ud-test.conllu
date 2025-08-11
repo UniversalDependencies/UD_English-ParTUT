@@ -1116,10 +1116,10 @@
 7	hereby	hereby	ADV	B	_	8	advmod	_	_
 8	become	become	VERB	V	Tense=Past|VerbForm=Part	0	root	_	_
 9	members	member	NOUN	S	Number=Plur	8	xcomp	_	_
-10	of	of	ADP	E	_	12	case	_	_
-11	the	the	DET	RD	Definite=Def|PronType=Art	12	det	_	_
-12	European	European	PROPN	SP	_	9	nmod	_	_
-13	Union	Union	PROPN	SP	_	12	flat	_	SpaceAfter=No
+10	of	of	ADP	E	_	13	case	_	_
+11	the	the	DET	RD	Definite=Def|PronType=Art	13	det	_	_
+12	European	European	ADJ	A	Degree=Pos	13	amod	_	_
+13	Union	Union	PROPN	SP	_	9	nmod	_	SpaceAfter=No
 14	.	.	PUNCT	FS	_	8	punct	_	_
 
 # sent_id = en_partut-ud-947
@@ -1351,10 +1351,10 @@
 13	Bulgaria	Bulgaria	PROPN	SP	_	11	nmod	_	_
 14	and	and	CCONJ	CC	_	15	cc	_	_
 15	Romania	Romania	PROPN	SP	_	13	conj	_	_
-16	to	to	ADP	E	_	18	case	_	_
-17	the	the	DET	RD	Definite=Def|PronType=Art	18	det	_	_
-18	European	European	PROPN	SP	_	8	nmod	_	_
-19	Union	Union	PROPN	SP	_	18	flat	_	SpaceAfter=No
+16	to	to	ADP	E	_	19	case	_	_
+17	the	the	DET	RD	Definite=Def|PronType=Art	19	det	_	_
+18	European	European	ADJ	A	Degree=Pos	19	amod	_	_
+19	Union	Union	PROPN	SP	_	8	nmod	_	SpaceAfter=No
 20	.	.	PUNCT	FS	_	1	punct	_	_
 
 # sent_id = en_partut-ud-957
@@ -2558,10 +2558,10 @@
 6	the	the	DET	RD	Definite=Def|PronType=Art	8	det	_	_
 7	Official	official	ADJ	A	Degree=Pos	8	amod	_	_
 8	Journal	journal	NOUN	S	Number=Sing	4	obl	_	_
-9	of	of	ADP	E	_	11	case	_	_
-10	the	the	DET	RD	Definite=Def|PronType=Art	11	det	_	_
-11	European	European	PROPN	SP	_	8	nmod	_	_
-12	Union	Union	PROPN	SP	_	11	flat	_	_
+9	of	of	ADP	E	_	12	case	_	_
+10	the	the	DET	RD	Definite=Def|PronType=Art	12	det	_	_
+11	European	European	ADJ	A	Degree=Pos	12	amod	_	_
+12	Union	Union	PROPN	SP	_	8	nmod	_	_
 13	if	if	SCONJ	CS	_	22	mark	_	_
 14	the	the	DET	RD	Definite=Def|PronType=Art	15	det	_	_
 15	texts	text	NOUN	S	Number=Plur	22	nsubj:pass	_	_

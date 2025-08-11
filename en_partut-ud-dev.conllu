@@ -334,10 +334,10 @@
 12	of	of	ADP	E	_	14	case	_	_
 13	the	the	DET	RD	Definite=Def|PronType=Art	14	det	_	_
 14	territory	territory	NOUN	S	Number=Sing	11	nmod	_	_
-15	of	of	ADP	E	_	17	case	_	_
-16	the	the	DET	RD	Definite=Def|PronType=Art	17	det	_	_
-17	European	European	PROPN	SP	_	14	nmod	_	_
-18	Union	Union	PROPN	SP	_	17	flat	_	SpaceAfter=No
+15	of	of	ADP	E	_	18	case	_	_
+16	the	the	DET	RD	Definite=Def|PronType=Art	18	det	_	_
+17	European	European	ADJ	A	Degree=Pos	18	amod	_	_
+18	Union	Union	PROPN	SP	_	14	nmod	_	SpaceAfter=No
 19	.	.	PUNCT	FS	_	2	punct	_	_
 
 # sent_id = en_partut-ud-374
