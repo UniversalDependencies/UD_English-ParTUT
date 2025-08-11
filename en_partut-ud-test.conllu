@@ -1798,7 +1798,7 @@
 16	-	-	PUNCT	FF	_	17	punct	_	SpaceAfter=No
 17	flow	flow	NOUN	S	Number=Sing	11	nmod	_	_
 18	and	and	CCONJ	CC	_	20	cc	_	_
-19	Schengen	Schengen	PROPN	SP	_	20	nmod	_	_
+19	Schengen	Schengen	PROPN	SP	_	20	compound	_	_
 20	Facility	facility	NOUN	S	Number=Sing	17	conj	_	SpaceAfter=No
 21	.	.	PUNCT	FS	_	4	punct	_	_
 
