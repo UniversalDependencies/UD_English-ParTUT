@@ -18026,26 +18026,24 @@
 20	the	the	DET	RD	Definite=Def|PronType=Art	22	det	_	_
 21	independent	independent	ADJ	A	Degree=Pos	22	amod	_	_
 22	auditor	auditor	NOUN	S	Number=Sing	18	obl	_	_
-23	of	of	ADP	E	_	29	case	_	_
-24	the	the	DET	RD	Definite=Def|PronType=Art	29	det	_	_
-25	European	European	ADJ	A	Degree=Pos	29	amod	_	_
-26	Anti	anti	X	X	_	28	amod	_	SpaceAfter=No
-27	-	-	PUNCT	FF	_	28	punct	_	SpaceAfter=No
-28	Fraud	fraud	NOUN	S	Number=Sing	29	nmod	_	_
-29	Office	Office	PROPN	SP	Number=Sing	22	nmod	_	_
-30	(	(	PUNCT	FB	_	31	punct	_	SpaceAfter=No
-31	OLAF	OLAF	PROPN	SP	_	29	appos	_	SpaceAfter=No
-32	)	)	PUNCT	FB	_	31	punct	_	_
-33	who	who	PRON	PR	PronType=Rel	34	nsubj	_	_
-34	submitted	submit	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	29	acl:relcl	_	_
-35	the	the	DET	RD	Definite=Def|PronType=Art	37	det	_	_
-36	evaluation	evaluation	NOUN	S	Number=Sing	37	nmod	_	_
-37	report	report	NOUN	S	Number=Sing	34	obj	_	_
-38	on	on	ADP	E	_	39	case	_	_
-39	30	30	NUM	N	NumType=Card	34	obl	_	_
-40	November	November	PROPN	SP	_	39	nmod:unmarked	_	_
-41	2004	2004	NUM	N	NumType=Card	39	nmod:unmarked	_	SpaceAfter=No
-42	.	.	PUNCT	FS	_	18	punct	_	_
+23	of	of	ADP	E	_	27	case	_	_
+24	the	the	DET	RD	Definite=Def|PronType=Art	27	det	_	_
+25	European	European	ADJ	A	Degree=Pos	27	amod	_	_
+26	Anti-Fraud	Anti-Fraud	PROPN	SP	_	27	compound	_	_
+27	Office	Office	PROPN	SP	_	22	nmod	_	_
+28	(	(	PUNCT	FB	_	29	punct	_	SpaceAfter=No
+29	OLAF	OLAF	PROPN	SP	_	27	appos	_	SpaceAfter=No
+30	)	)	PUNCT	FB	_	29	punct	_	_
+31	who	who	PRON	PR	PronType=Rel	32	nsubj	_	_
+32	submitted	submit	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	27	acl:relcl	_	_
+33	the	the	DET	RD	Definite=Def|PronType=Art	35	det	_	_
+34	evaluation	evaluation	NOUN	S	Number=Sing	35	nmod	_	_
+35	report	report	NOUN	S	Number=Sing	32	obj	_	_
+36	on	on	ADP	E	_	37	case	_	_
+37	30	30	NUM	N	NumType=Card	32	obl	_	_
+38	November	November	PROPN	SP	_	37	nmod:unmarked	_	_
+39	2004	2004	NUM	N	NumType=Card	37	nmod:unmarked	_	SpaceAfter=No
+40	.	.	PUNCT	FS	_	18	punct	_	_
 
 # sent_id = en_partut-ud-664
 # text = The evaluator examined the files of 21 of the Pericles actions carried out until March 2004, on Member State or Commission initiative.
