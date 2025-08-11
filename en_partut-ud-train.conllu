@@ -8287,7 +8287,7 @@
 13	the	the	DET	RD	Definite=Def|PronType=Art	17	det	_	_
 14	European	European	ADJ	A	Degree=Pos	16	amod	_	_
 15	Structural	structural	ADJ	A	Degree=Pos	16	amod	_	_
-16	Funds	fund	NOUN	S	Number=Plur	17	nmod	_	_
+16	Funds	Fund	PROPN	SP	Number=Plur	17	nmod	_	_
 17	programme	programme	NOUN	S	Number=Sing	11	obl	_	_
 18	to	to	PART	PART	_	19	mark	_	_
 19	alleviate	alleviate	VERB	V	VerbForm=Inf	11	advcl	_	_
