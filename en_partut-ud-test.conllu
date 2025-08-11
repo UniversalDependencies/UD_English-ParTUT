@@ -1399,14 +1399,12 @@
 10	referred	refer	VERB	V	Tense=Past|VerbForm=Part	9	acl	_	_
 11	to	to	ADP	E	_	10	obl	_	_
 12	in	in	ADP	E	_	13	case	_	_
-13	Article	article	NOUN	S	Number=Sing	10	obl	_	_
-14	IV	fourth	ADJ	NO	Degree=Pos|NumType=Ord	13	amod	_	SpaceAfter=No
-15	-	-	PUNCT	FF	_	14	punct	_	SpaceAfter=No
-16	438	438	NUM	N	NumType=Card	14	nummod	_	_
-17	of	of	ADP	E	_	19	case	_	_
-18	the	the	DET	RD	Definite=Def|PronType=Art	19	det	_	_
-19	Constitution	constitution	NOUN	S	Number=Sing	13	nmod	_	SpaceAfter=No
-20	.	.	PUNCT	FS	_	8	punct	_	_
+13	Article	Article	PROPN	SP	_	10	obl	_	_
+14	IV-438	IV-438	PROPN	SP	_	13	flat	_	_
+15	of	of	ADP	E	_	17	case	_	_
+16	the	the	DET	RD	Definite=Def|PronType=Art	17	det	_	_
+17	Constitution	constitution	NOUN	S	Number=Sing	13	nmod	_	SpaceAfter=No
+18	.	.	PUNCT	FS	_	8	punct	_	_
 
 # sent_id = en_partut-ud-959
 # text = It shall submit a draft of the protocols for conclusion to the Council.
