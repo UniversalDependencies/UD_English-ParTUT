@@ -2628,14 +2628,14 @@
 2	Cousin	Cousin	X	SW	Foreign=Yes	1	flat:foreign	_	_
 3	Pons	Pons	X	SW	Foreign=Yes	1	flat:foreign	_	_
 4	(	(	PUNCT	FB	_	5	punct	_	SpaceAfter=No
-5	1847	1847	NUM	N	NumType=Card	1	nummod	_	SpaceAfter=No
+5	1847	1847	NUM	N	NumType=Card	1	nmod:unmarked	_	SpaceAfter=No
 6	)	)	PUNCT	FB	_	5	punct	_	_
 7	and	and	CCONJ	CC	_	8	cc	_	_
 8	La	La	X	SW	Foreign=Yes	1	conj	_	_
 9	Cousine	Cousine	X	SW	Foreign=Yes	8	flat:foreign	_	_
 10	Bette	Bette	X	SW	Foreign=Yes	8	flat:foreign	_	_
 11	(	(	PUNCT	FB	_	12	punct	_	SpaceAfter=No
-12	1848	1848	NUM	N	NumType=Card	8	nummod	_	SpaceAfter=No
+12	1848	1848	NUM	N	NumType=Card	8	nmod:unmarked	_	SpaceAfter=No
 13	)	)	PUNCT	FB	_	12	punct	_	_
 14	tell	tell	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 15	the	the	DET	RD	Definite=Def|PronType=Art	16	det	_	_

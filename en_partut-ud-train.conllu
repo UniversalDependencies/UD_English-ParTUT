@@ -38206,7 +38206,7 @@
 6	Les	Les	PROPN	SP	_	3	obl	_	_
 7	Chouans	Chouans	PROPN	SP	_	6	flat	_	_
 8	(	(	PUNCT	FB	_	9	punct	_	SpaceAfter=No
-9	1829	1829	NUM	N	NumType=Card	6	nummod	_	SpaceAfter=No
+9	1829	1829	NUM	N	NumType=Card	6	nmod:unmarked	_	SpaceAfter=No
 10	)	)	PUNCT	FB	_	9	punct	_	SpaceAfter=No
 11	,	,	PUNCT	FF	_	6	punct	_	_
 12	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	13	det	_	_
@@ -38754,7 +38754,7 @@
 6	Father	father	NOUN	S	Number=Sing	7	nmod:desc	_	_
 7	Goriot	Goriot	PROPN	SP	_	1	appos	_	SpaceAfter=No
 8	,	,	PUNCT	FF	_	7	punct	_	_
-9	1835	1835	NUM	N	NumType=Card	7	nummod	_	SpaceAfter=No
+9	1835	1835	NUM	N	NumType=Card	7	nmod:unmarked	_	SpaceAfter=No
 10	)	)	PUNCT	FB	_	7	punct	_	_
 11	was	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	14	cop	_	_
 12	his	his	DET	AP	Poss=Yes|PronType=Prs	14	nmod:poss	_	_
@@ -38856,8 +38856,8 @@
 
 # sent_id = en_partut-ud-1665
 # text = In 1836 Balzac took the helm of the Chronique De Paris, a weekly magazine of society and politics.
-1	In	in	ADP	E	_	3	case	_	_
-2	1836	1836	NUM	N	NumType=Card	3	nummod	_	_
+1	In	in	ADP	E	_	2	case	_	_
+2	1836	1836	NUM	N	NumType=Card	3	nmod	_	_
 3	Balzac	Balzac	PROPN	SP	_	4	obl	_	_
 4	took	take	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 5	the	the	DET	RD	Definite=Def|PronType=Art	6	det	_	_
@@ -41796,8 +41796,8 @@
 
 # sent_id = en_partut-ud-1800
 # text = In 1970 Roland Barthes published S/Z, a detailed analysis of Balzac's story Sarrasine and a key work in structuralist literary criticism.
-1	In	in	ADP	E	_	3	case	_	_
-2	1970	1970	NUM	N	NumType=Card	3	nummod	_	_
+1	In	in	ADP	E	_	2	case	_	_
+2	1970	1970	NUM	N	NumType=Card	3	nmod	_	_
 3	Roland	Roland	PROPN	SP	_	5	obl	_	_
 4	Barthes	Barthes	PROPN	SP	_	3	flat	_	_
 5	published	publish	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
@@ -43535,7 +43535,7 @@
 # sent_id = en_partut-ud-1866
 # text = The 1616 edition of Ben Jonson's Works names him on the cast lists for Every Man In His Humour (1598) and Sejanus His Fall (1603).
 1	The	the	DET	RD	Definite=Def|PronType=Art	3	det	_	_
-2	1616	1616	NUM	N	NumType=Card	3	nummod	_	_
+2	1616	1616	NUM	N	NumType=Card	3	nmod:unmarked	_	_
 3	edition	edition	NOUN	S	Number=Sing	9	nsubj	_	_
 4	of	of	ADP	E	_	8	case	_	_
 5	Ben	Ben	PROPN	SP	_	8	nmod:poss	_	_
@@ -43556,14 +43556,14 @@
 19	His	his	DET	AP	Poss=Yes|PronType=Prs	20	nmod:poss	_	_
 20	Humour	humour	NOUN	S	Number=Sing	17	nmod	_	_
 21	(	(	PUNCT	FB	_	22	punct	_	SpaceAfter=No
-22	1598	1598	NUM	N	NumType=Card	17	nummod	_	SpaceAfter=No
+22	1598	1598	NUM	N	NumType=Card	17	nmod:unmarked	_	SpaceAfter=No
 23	)	)	PUNCT	FB	_	22	punct	_	_
 24	and	and	CCONJ	CC	_	25	cc	_	_
 25	Sejanus	Sejanus	PROPN	SP	_	17	conj	_	_
 26	His	his	DET	AP	Poss=Yes|PronType=Prs	27	nmod:poss	_	_
 27	Fall	fall	NOUN	S	Number=Sing	25	nmod	_	_
 28	(	(	PUNCT	FB	_	29	punct	_	SpaceAfter=No
-29	1603	1603	NUM	N	NumType=Card	25	nummod	_	SpaceAfter=No
+29	1603	1603	NUM	N	NumType=Card	25	nmod:unmarked	_	SpaceAfter=No
 30	)	)	PUNCT	FB	_	29	punct	_	SpaceAfter=No
 31	.	.	PUNCT	FS	_	9	punct	_	_
 
@@ -48177,12 +48177,12 @@
 13	Samuel	Samuel	PROPN	SP	_	11	nmod	_	_
 14	Johnson	Johnson	PROPN	SP	_	13	flat	_	_
 15	in	in	ADP	E	_	16	case	_	_
-16	1765	1765	NUM	N	NumType=Card	11	nummod	_	_
+16	1765	1765	NUM	N	NumType=Card	13	nmod	_	_
 17	and	and	CCONJ	CC	_	18	cc	_	_
 18	Edmond	Edmond	PROPN	SP	_	13	conj	_	_
 19	Malone	Malone	PROPN	SP	_	18	flat	_	_
 20	in	in	ADP	E	_	21	case	_	_
-21	1790	1790	NUM	N	NumType=Card	18	nummod	_	SpaceAfter=No
+21	1790	1790	NUM	N	NumType=Card	18	nmod	_	SpaceAfter=No
 22	,	,	PUNCT	FF	_	11	punct	_	_
 23	added	add	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 24	to	to	ADP	E	_	27	case	_	_
