@@ -44285,11 +44285,11 @@
 13	probably	probably	ADV	B	_	14	advmod	_	_
 14	entitled	entitle	VERB	V	Tense=Past|VerbForm=Part	9	acl:relcl	_	_
 15	to	to	ADP	E	_	16	case	_	_
-16	one	one	NUM	N	NumType=Card	14	nummod	_	_
-17	third	third	ADJ	NO	Degree=Pos|NumType=Ord	14	amod	_	_
+16	one	one	NUM	N	NumType=Card	17	nummod	_	_
+17	third	third	NOUN	S	Number=Sing|NumForm=Word|NumType=Frac	14	obl	_	_
 18	of	of	ADP	E	_	20	case	_	_
 19	his	his	DET	AP	Poss=Yes|PronType=Prs	20	nmod:poss	_	_
-20	estate	estate	NOUN	S	Number=Sing	17	obl	_	_
+20	estate	estate	NOUN	S	Number=Sing	17	nmod	_	_
 21	automatically	automatically	ADV	B	_	14	advmod	_	SpaceAfter=No
 22	.	.	PUNCT	FS	_	5	punct	_	_
 
