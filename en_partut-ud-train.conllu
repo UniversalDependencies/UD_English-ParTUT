@@ -1614,7 +1614,7 @@
 3	foregoing	foregoing	ADJ	A	Degree=Pos	8	amod	_	_
 4	two	two	NUM	N	NumType=Card	8	nummod	_	_
 5	(	(	PUNCT	FB	_	6	punct	_	SpaceAfter=No
-6	2	2	NUM	N	NumType=Card	4	nummod	_	SpaceAfter=No
+6	2	2	NUM	N	NumType=Card	4	appos	_	SpaceAfter=No
 7	)	)	PUNCT	FB	_	6	punct	_	_
 8	sentences	sentence	NOUN	S	Number=Plur	24	obl	_	SpaceAfter=No
 9	,	,	PUNCT	FF	_	8	punct	_	_
@@ -7951,14 +7951,14 @@
 16	20	20	NUM	N	NumType=Card	17	nummod	_	_
 17	degrees	degree	NOUN	S	Number=Plur	12	nmod	_	_
 18	below	below	ADP	E	_	19	case	_	_
-19	zero	zero	NUM	N	NumType=Card	17	nummod	_	SpaceAfter=No
+19	zero	zero	NUM	N	NumType=Card	17	nmod	_	SpaceAfter=No
 20	,	,	PUNCT	FF	_	24	punct	_	_
 21	but	but	CCONJ	CC	_	24	cc	_	_
 22	of	of	ADP	E	_	24	case	_	_
 23	40	40	NUM	N	NumType=Card	24	nummod	_	_
 24	degrees	degree	NOUN	S	Number=Plur	17	conj	_	_
 25	below	below	ADP	E	_	26	case	_	_
-26	zero	zero	NUM	N	NumType=Card	24	nummod	_	SpaceAfter=No
+26	zero	zero	NUM	N	NumType=Card	24	nmod	_	SpaceAfter=No
 27	.	.	PUNCT	FS	_	7	punct	_	_
 
 # sent_id = en_partut-ud-298
@@ -17764,7 +17764,7 @@
 19	as	as	ADP	E	_	20	case	_	_
 20	early	early	ADV	B	_	18	advmod	_	_
 21	as	as	ADP	E	_	22	case	_	_
-22	1998	1998	NUM	N	NumType=Card	20	nummod	_	_
+22	1998	1998	NUM	N	NumType=Card	20	nmod	_	_
 23	[	[	PUNCT	FB	_	24	punct	_	SpaceAfter=No
 24	1	1	NUM	N	NumType=Card	3	nummod	_	SpaceAfter=No
 25	]	]	PUNCT	FB	_	24	punct	_	SpaceAfter=No
