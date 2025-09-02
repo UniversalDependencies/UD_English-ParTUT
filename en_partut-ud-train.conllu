@@ -11328,9 +11328,9 @@
 23	for	for	ADP	E	_	25	case	_	_
 24	the	the	DET	RD	Definite=Def|PronType=Art	25	det	_	_
 25	period	period	NOUN	S	Number=Sing	14	nmod	_	_
-26	2000	2000	NUM	N	NumType=Card	25	nummod	_	SpaceAfter=No
-27	-	-	PUNCT	FF	_	26	punct	_	SpaceAfter=No
-28	2006	2006	NUM	N	NumType=Card	26	nummod	_	_
+26	2000	2000	NUM	N	NumType=Card	25	nmod:unmarked	_	SpaceAfter=No
+27	-	-	SYM	X	_	28	case	_	SpaceAfter=No
+28	2006	2006	NUM	N	NumType=Card	26	nmod	_	_
 29	and	and	CCONJ	CC	_	32	cc	_	_
 30	the	the	DET	RD	Definite=Def|PronType=Art	32	det	_	_
 31	main	main	ADJ	A	Degree=Pos	32	amod	_	_
@@ -11414,7 +11414,7 @@
 2	EU	EU	PROPN	SP	_	3	nmod	_	_
 3	programmes	programme	NOUN	S	Number=Plur	14	nsubj	_	_
 4	between	between	ADP	E	_	5	case	_	_
-5	1989	1989	NUM	N	NumType=Card	3	nummod	_	SpaceAfter=No
+5	1989	1989	NUM	N	NumType=Card	3	nmod	_	SpaceAfter=No
 6	,	,	PUNCT	FF	_	7	punct	_	_
 7	1993	1993	NUM	N	NumType=Card	5	conj	_	SpaceAfter=No
 8	,	,	PUNCT	FF	_	9	punct	_	_
@@ -12014,9 +12014,9 @@
 22	the	the	DET	RD	Definite=Def|PronType=Art	23	det	_	_
 23	programming	programming	NOUN	S	Number=Sing	21	obj	_	_
 24	for	for	ADP	E	_	25	case	_	_
-25	2000	2000	NUM	N	NumType=Card	23	nummod	_	SpaceAfter=No
-26	-	-	PUNCT	FF	_	25	punct	_	SpaceAfter=No
-27	2006	2006	NUM	N	NumType=Card	25	nummod	_	SpaceAfter=No
+25	2000	2000	NUM	N	NumType=Card	23	nmod	_	SpaceAfter=No
+26	-	-	SYM	X	_	27	case	_	SpaceAfter=No
+27	2006	2006	NUM	N	NumType=Card	25	nmod	_	SpaceAfter=No
 28	,	,	PUNCT	FF	_	23	punct	_	_
 29	which	which	PRON	PR	PronType=Rel	34	nsubj	_	_
 30	must	must	AUX	VM	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	34	aux	_	_
@@ -18665,9 +18665,9 @@
 13	during	during	ADP	E	_	15	case	_	_
 14	the	the	DET	RD	Definite=Def|PronType=Art	15	det	_	_
 15	period	period	NOUN	S	Number=Sing	12	nmod	_	_
-16	2002	2002	NUM	N	NumType=Card	15	nummod	_	SpaceAfter=No
-17	-	-	PUNCT	FF	_	16	punct	_	SpaceAfter=No
-18	2005	2005	NUM	N	NumType=Card	16	nummod	_	_
+16	2002	2002	NUM	N	NumType=Card	15	nmod:unmarked	_	SpaceAfter=No
+17	-	-	SYM	X	_	18	case	_	SpaceAfter=No
+18	2005	2005	NUM	N	NumType=Card	16	nmod	_	_
 19	will	will	AUX	VM	Mood=Ind|Tense=Pres|VerbForm=Fin	20	aux	_	_
 20	reach	reach	VERB	V	VerbForm=Inf	0	root	_	_
 21	80	80	NUM	N	NumType=Card	22	nummod	_	SpaceAfter=No
