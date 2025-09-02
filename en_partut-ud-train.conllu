@@ -42186,7 +42186,7 @@
 17	,	,	PUNCT	FF	_	19	punct	_	_
 18	and	and	CCONJ	CC	_	19	cc	_	_
 19	Macbeth	Macbeth	PROPN	SP	_	11	conj	_	SpaceAfter=No
-20	,	,	PUNCT	FF	_	3	punct	_	_
+20	,	,	PUNCT	FF	_	21	punct	_	_
 21	considered	consider	VERB	V	Tense=Past|VerbForm=Part	5	acl	_	_
 22	some	some	PRON	PI	PronType=Ind	21	obl	_	_
 23	of	of	ADP	E	_	26	case	_	_
