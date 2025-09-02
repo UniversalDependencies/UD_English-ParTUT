@@ -349,7 +349,7 @@
 22	audio	audio	NOUN	S	Number=Sing	23	nmod	_	_
 23	transmission	transmission	NOUN	S	Number=Sing	18	obl	_	_
 24	Derivative	derivative	ADJ	A	Degree=Pos	25	amod	_	_
-25	Works	work	NOUN	S	Number=Plur	2	obj	_	SpaceAfter=No
+25	Works	work	NOUN	S	Number=Plur	15	obj	_	SpaceAfter=No
 26	.	.	PUNCT	FS	_	2	punct	_	_
 
 # sent_id = en_partut-ud-23
