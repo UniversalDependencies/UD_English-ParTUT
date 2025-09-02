@@ -12120,7 +12120,7 @@
 4	areas	area	NOUN	S	Number=Plur	0	root	_	_
 5	of	of	ADP	E	_	6	case	_	_
 6	action	action	NOUN	S	Number=Sing	4	nmod	_	_
-7	which	which	PRON	PR	PronType=Rel	9	obj	_	_
+7	which	which	PRON	PR	PronType=Rel	9	obl	_	_
 8	I	I	PRON	PE	Number=Sing|Person=1|PronType=Prs	9	nsubj	_	_
 9	invite	invite	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	acl:relcl	_	_
 10	the	the	DET	RD	Definite=Def|PronType=Art	11	det	_	_
