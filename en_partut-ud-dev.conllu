@@ -240,7 +240,7 @@
 6	prerequisites	prerequisite	NOUN	S	Number=Plur	7	nsubj	_	_
 7	differ	differ	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	0	root	_	_
 8	from	from	ADP	E	_	9	case	_	_
-9	one	one	NUM	N	NumType=Card	7	nummod	_	_
+9	one	one	NUM	N	NumType=Card	11	nummod	_	_
 10	Member	member	NOUN	S	Number=Sing	11	compound	_	_
 11	State	state	NOUN	S	Number=Sing	7	obl	_	_
 12	to	to	ADP	E	_	13	case	_	_
