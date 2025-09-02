@@ -3335,7 +3335,7 @@
 # sent_id = en_partut-ud-1485
 # text = If there is no oppression of Russian speakers in Ukraine, there is no reason to change the country's political structure.
 1	If	if	SCONJ	CS	_	3	mark	_	_
-2	there	there	PRON	_	_	3	expl	_	_
+2	there	there	PRON	_	PronType=Dem	3	expl	_	_
 3	is	be	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	advcl	_	_
 4	no	no	DET	DI	PronType=Ind	5	det	_	_
 5	oppression	oppression	NOUN	S	Number=Sing	3	nsubj	_	_
@@ -3345,7 +3345,7 @@
 9	in	in	ADP	E	_	10	case	_	_
 10	Ukraine	Ukraine	PROPN	SP	_	3	obl	_	SpaceAfter=No
 11	,	,	PUNCT	FF	_	3	punct	_	_
-12	there	there	PRON	_	_	13	expl	_	_
+12	there	there	PRON	_	PronType=Dem	13	expl	_	_
 13	is	be	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 14	no	no	DET	DI	PronType=Ind	15	det	_	_
 15	reason	reason	NOUN	S	Number=Sing	13	nsubj	_	_
@@ -3846,7 +3846,7 @@
 5	of	of	ADP	E	_	6	case	_	_
 6	academics	academic	NOUN	S	Number=Plur	4	nmod	_	_
 7	believe	believe	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	0	root	_	_
-8	there	there	PRON	_	_	9	expl	_	_
+8	there	there	PRON	_	PronType=Dem	9	expl	_	_
 9	is	be	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	ccomp	_	_
 10	reason	reason	NOUN	S	Number=Sing	9	nsubj	_	_
 11	to	to	PART	PART	_	12	mark	_	_

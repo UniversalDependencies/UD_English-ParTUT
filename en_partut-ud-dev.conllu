@@ -1185,7 +1185,7 @@
 6	of	of	ADP	E	_	7	case	_	_
 7	soil	soil	NOUN	S	Number=Sing	5	nmod	_	SpaceAfter=No
 8	,	,	PUNCT	FF	_	5	punct	_	_
-9	there	there	PRON	_	_	11	expl	_	_
+9	there	there	PRON	_	PronType=Dem	11	expl	_	_
 10	can	can	AUX	VM	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	11	aux	_	_
 11	be	be	VERB	V	VerbForm=Inf	0	root	_	_
 12	more	more	ADJ	A	Degree=Cmp|ExtPos=ADV	14	advmod	_	_
@@ -2167,7 +2167,7 @@
 14	the	the	DET	RD	Definite=Def|PronType=Art	15	det	_	_
 15	brightest	brightest	NOUN	S	Number=Sing	12	conj	_	SpaceAfter=No
 16	,	,	PUNCT	FF	_	4	punct	_	_
-17	there	there	PRON	_	_	19	expl	_	_
+17	there	there	PRON	_	PronType=Dem	19	expl	_	_
 18	could	can	AUX	VM	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	19	aux	_	_
 19	be	be	VERB	V	VerbForm=Inf	0	root	_	_
 20	little	little	ADJ	A	Degree=Pos	22	amod	_	_
@@ -2445,7 +2445,7 @@
 # sent_id = en_partut-ud-1499
 # text = And there are an estimated 200,000 cases of yellow fever annually, leading to 30,000 deaths worldwide.
 1	And	and	CCONJ	CC	_	3	cc	_	_
-2	there	there	PRON	_	_	3	expl	_	_
+2	there	there	PRON	_	PronType=Dem	3	expl	_	_
 3	are	be	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	an	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	7	det	_	_
 5	estimated	estimate	VERB	V	Tense=Past|VerbForm=Part	7	acl	_	_

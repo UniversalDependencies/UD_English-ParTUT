@@ -1506,7 +1506,7 @@
 
 # sent_id = en_partut-ud-61
 # text = There are no understandings, agreements or representations with respect to the Work not specified here.
-1	There	there	PRON	_	_	2	expl	_	_
+1	There	there	PRON	_	PronType=Dem	2	expl	_	_
 2	are	be	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	no	no	DET	DI	PronType=Ind	4	det	_	_
 4	understandings	understanding	NOUN	S	Number=Plur	2	nsubj	_	SpaceAfter=No
@@ -1898,7 +1898,7 @@
 8	and	and	CCONJ	CC	_	9	cc	_	_
 9	television	television	NOUN	S	Number=Sing	7	conj	_	_
 10	that	that	SCONJ	CS	_	13	mark	_	_
-11	there	there	PRON	_	_	13	expl	_	_
+11	there	there	PRON	_	PronType=Dem	13	expl	_	_
 12	have	have	AUX	VA	VerbForm=Inf	13	aux	_	_
 13	been	be	VERB	V	Tense=Past|VerbForm=Part	4	ccomp	_	_
 14	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	15	det	_	_
@@ -2778,7 +2778,7 @@
 # text = Why has there been no Health and Safety Committee meeting since 1998?
 1	Why	why	ADV	B	_	4	advmod	_	_
 2	has	have	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
-3	there	there	PRON	_	_	4	expl	_	_
+3	there	there	PRON	_	PronType=Dem	4	expl	_	_
 4	been	be	VERB	V	Tense=Past|VerbForm=Part	0	root	_	_
 5	no	no	DET	DI	PronType=Ind	10	det	_	_
 6	Health	health	NOUN	S	Number=Sing	10	nmod	_	_
@@ -2794,7 +2794,7 @@
 # text = Why has there been no fire drill, either in the Brussels Parliament buildings or the Strasbourg Parliament buildings?
 1	Why	why	ADV	B	_	4	advmod	_	_
 2	has	have	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
-3	there	there	PRON	_	_	4	expl	_	_
+3	there	there	PRON	_	PronType=Dem	4	expl	_	_
 4	been	be	VERB	V	Tense=Past|VerbForm=Part	0	root	_	_
 5	no	no	DET	DI	PronType=Ind	7	det	_	_
 6	fire	fire	NOUN	S	Number=Sing	7	nmod	_	_
@@ -2817,7 +2817,7 @@
 # text = Why are there no fire instructions?
 1	Why	why	ADV	B	_	2	advmod	_	_
 2	are	be	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	0	root	_	_
-3	there	there	PRON	_	_	2	expl	_	_
+3	there	there	PRON	_	PronType=Dem	2	expl	_	_
 4	no	no	DET	DI	PronType=Ind	6	det	_	_
 5	fire	fire	NOUN	S	Number=Sing	6	nmod	_	_
 6	instructions	instruction	NOUN	S	Number=Plur	2	nsubj	_	SpaceAfter=No
@@ -3054,7 +3054,7 @@
 7	to	to	PART	PART	_	8	mark	_	_
 8	know	know	VERB	V	VerbForm=Inf	6	xcomp	_	_
 9	if	if	SCONJ	CS	_	12	mark	_	_
-10	there	there	PRON	_	_	12	expl	_	_
+10	there	there	PRON	_	PronType=Dem	12	expl	_	_
 11	will	will	AUX	VM	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	12	aux	_	_
 12	be	be	VERB	V	VerbForm=Inf	8	ccomp	_	_
 13	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	15	det	_	_
@@ -3378,7 +3378,7 @@
 
 # sent_id = en_partut-ud-132
 # text = There has therefore been enough time for the Commission to prepare its programme and for us to become familiar with it and explain it to our citizens.
-1	There	there	PRON	_	_	4	expl	_	_
+1	There	there	PRON	_	PronType=Dem	4	expl	_	_
 2	has	have	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
 3	therefore	therefore	ADV	B	_	4	advmod	_	_
 4	been	be	VERB	V	Tense=Past|VerbForm=Part	0	root	_	_
@@ -3510,7 +3510,7 @@
 14	and	and	CCONJ	CC	_	15	cc	_	_
 15	reflect	reflect	VERB	V	VerbForm=Inf	13	conj	_	SpaceAfter=No
 16	,	,	PUNCT	FF	_	9	punct	_	_
-17	there	there	PRON	_	_	19	expl	_	_
+17	there	there	PRON	_	PronType=Dem	19	expl	_	_
 18	can	can	AUX	VM	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	19	aux	_	_
 19	be	be	VERB	V	VerbForm=Inf	3	ccomp	_	_
 20	no	no	DET	DI	PronType=Ind	21	det	_	_
@@ -3568,7 +3568,7 @@
 2	the	the	DET	RD	Definite=Def|PronType=Art	3	det	_	_
 3	pretext	pretext	NOUN	S	Number=Sing	22	obl	_	_
 4	that	that	SCONJ	CS	_	6	mark	_	_
-5	there	there	PRON	_	_	6	expl	_	_
+5	there	there	PRON	_	PronType=Dem	6	expl	_	_
 6	is	be	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	acl	_	_
 7	no	no	DET	DI	PronType=Ind	8	det	_	_
 8	text	text	NOUN	S	Number=Sing	6	nsubj	_	SpaceAfter=No
@@ -3600,7 +3600,7 @@
 34	other	other	ADJ	A	Degree=Pos	35	amod	_	_
 35	hand	hand	NOUN	S	Number=Sing	39	obl	_	SpaceAfter=No
 36	,	,	PUNCT	FF	_	35	punct	_	_
-37	there	there	PRON	_	_	39	expl	_	_
+37	there	there	PRON	_	PronType=Dem	39	expl	_	_
 38	would	will	AUX	VM	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	39	aux	_	_
 39	be	be	VERB	V	VerbForm=Inf	22	conj	_	_
 40	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	41	det	_	_
@@ -3959,7 +3959,7 @@
 
 # sent_id = en_partut-ud-154
 # text = There is no room for amendments.
-1	There	there	PRON	_	_	2	expl	_	_
+1	There	there	PRON	_	PronType=Dem	2	expl	_	_
 2	is	be	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	no	no	DET	DI	PronType=Ind	4	det	_	_
 4	room	room	NOUN	S	Number=Sing	2	nsubj	_	_
@@ -4715,7 +4715,7 @@
 28	is	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	29	cop	_	_
 29	concerned	concerned	ADJ	A	Degree=Pos	32	advcl	_	SpaceAfter=No
 30	,	,	PUNCT	FF	_	29	punct	_	_
-31	there	there	PRON	_	_	29	expl	_	_
+31	there	there	PRON	_	PronType=Dem	29	expl	_	_
 32	is	be	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	acl	_	_
 33	still	still	ADV	B	_	32	advmod	_	_
 34	much	much	ADV	B	_	35	advmod	_	_
@@ -5125,7 +5125,7 @@
 7	is	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
 8	enforcement	enforcement	NOUN	S	Number=Sing	6	nsubj	_	_
 9	and	and	CCONJ	CC	_	11	cc	_	_
-10	there	there	PRON	_	_	11	expl	_	_
+10	there	there	PRON	_	PronType=Dem	11	expl	_	_
 11	are	be	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	6	conj	_	SpaceAfter=No
 12	,	,	PUNCT	FF	_	11	punct	_	_
 13	of	of	ADP	E	ExtPos=ADV	11	advmod	_	_
@@ -5264,7 +5264,7 @@
 
 # sent_id = en_partut-ud-199
 # text = There will be major problems with enforcing this rule at present, especially with smaller companies, as these cannot afford safety advisors.
-1	There	there	PRON	_	_	3	expl	_	_
+1	There	there	PRON	_	PronType=Dem	3	expl	_	_
 2	will	will	AUX	VM	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
 3	be	be	VERB	V	VerbForm=Inf	0	root	_	_
 4	major	major	ADJ	A	Degree=Pos	5	amod	_	_
@@ -5894,7 +5894,7 @@
 5	kind	kind	ADJ	A	Degree=Pos	2	nmod	_	_
 6	result	result	VERB	V	VerbForm=Inf	0	root	_	_
 7	in	in	ADP	E	_	9	mark	_	_
-8	there	there	PRON	_	_	9	expl	_	_
+8	there	there	PRON	_	PronType=Dem	9	expl	_	_
 9	being	be	VERB	V	VerbForm=Ger	6	advcl	_	_
 10	inadequate	inadequate	ADJ	A	Degree=Pos	11	amod	_	_
 11	rules	rule	NOUN	S	Number=Plur	9	nsubj	_	_
@@ -6028,7 +6028,7 @@
 1	in	in	ADP	E	_	3	case	_	_
 2	the	the	DET	RD	Definite=Def|PronType=Art	3	det	_	_
 3	end	end	NOUN	S	Number=Sing	5	obl	_	_
-4	there	there	PRON	_	_	5	expl	_	_
+4	there	there	PRON	_	PronType=Dem	5	expl	_	_
 5	is	be	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 6	only	only	ADV	B	_	5	advmod	_	_
 7	one	one	NUM	N	NumType=Card	8	nummod	_	_
@@ -6504,7 +6504,7 @@
 15	not	not	PART	PART	Polarity=Neg	16	advmod	_	_
 16	wait	wait	VERB	V	VerbForm=Inf	0	root	_	_
 17	until	until	SCONJ	CS	_	19	mark	_	_
-18	there	there	PRON	_	_	19	expl	_	_
+18	there	there	PRON	_	PronType=Dem	19	expl	_	_
 19	is	be	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	advcl	_	_
 20	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	21	det	_	_
 21	disaster	disaster	NOUN	S	Number=Sing	19	nsubj	_	_
@@ -6523,7 +6523,7 @@
 34	it	it	PRON	PE	Number=Sing|Person=3|PronType=Prs	32	obl	_	_
 35	even	even	ADV	B	_	38	advmod	_	_
 36	when	when	SCONJ	CS	_	38	mark	_	_
-37	there	there	PRON	_	_	38	expl	_	_
+37	there	there	PRON	_	PronType=Dem	38	expl	_	_
 38	are	be	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	32	advcl	_	_
 39	no	no	DET	DI	PronType=Ind	41	det	_	_
 40	such	such	DET	DD	PronType=Dem	41	det	_	_
@@ -7097,7 +7097,7 @@
 4	to	to	PART	PART	_	5	mark	_	_
 5	ensure	ensure	VERB	V	VerbForm=Inf	3	xcomp	_	_
 6	that	that	SCONJ	CS	_	8	mark	_	_
-7	there	there	PRON	_	_	8	expl	_	_
+7	there	there	PRON	_	PronType=Dem	8	expl	_	_
 8	is	be	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	ccomp	_	_
 9	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	10	det	_	_
 10	reference	reference	NOUN	S	Number=Sing	8	nsubj	_	_
@@ -7368,7 +7368,7 @@
 
 # sent_id = en_partut-ud-272
 # text = There is support for the EU in Lapland also, so let us remember them.
-1	There	there	PRON	_	_	2	expl	_	_
+1	There	there	PRON	_	PronType=Dem	2	expl	_	_
 2	is	be	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	support	support	NOUN	S	Number=Sing	2	nsubj	_	_
 4	for	for	ADP	E	_	6	case	_	_
@@ -8431,7 +8431,7 @@
 7	to	to	PART	PART	_	8	mark	_	_
 8	ensure	ensure	VERB	V	VerbForm=Inf	2	advcl	_	_
 9	that	that	SCONJ	CS	_	11	mark	_	_
-10	there	there	PRON	_	_	11	expl	_	_
+10	there	there	PRON	_	PronType=Dem	11	expl	_	_
 11	is	be	VERB	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	ccomp	_	_
 12	matched	match	VERB	V	Tense=Past|VerbForm=Part	13	acl	_	_
 13	funding	funding	NOUN	S	Number=Sing	11	nsubj	_	_
@@ -9666,7 +9666,7 @@
 36	-	-	PUNCT	FF	_	24	punct	_	_
 37	and	and	CCONJ	CC	_	40	cc	_	_
 38	perhaps	perhaps	ADV	B	_	40	advmod	_	_
-39	there	there	PRON	_	_	40	expl	_	_
+39	there	there	PRON	_	PronType=Dem	40	expl	_	_
 40	are	be	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	24	conj	_	_
 41	more	more	ADJ	A	Degree=Cmp	40	nsubj	_	_
 42	of	of	ADP	E	_	43	case	_	_
@@ -10314,7 +10314,7 @@
 
 # sent_id = en_partut-ud-369
 # text = There must be an internal coherence in the Commission directorate, while respecting the specific local and regional aspects of Commission programmes.
-1	There	there	PRON	_	_	3	expl	_	_
+1	There	there	PRON	_	PronType=Dem	3	expl	_	_
 2	must	must	AUX	VM	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
 3	be	be	VERB	V	VerbForm=Inf	0	root	_	_
 4	an	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	6	det	_	_
@@ -11237,7 +11237,7 @@
 16	responsibilities	responsibility	NOUN	S	Number=Plur	14	obj	_	_
 17	and	and	CCONJ	CC	_	20	cc	_	_
 18	that	that	SCONJ	CS	_	20	mark	_	_
-19	there	there	PRON	_	_	20	expl	_	_
+19	there	there	PRON	_	PronType=Dem	20	expl	_	_
 20	is	be	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	conj	_	_
 21	communication	communication	NOUN	S	Number=Sing	20	nsubj	_	_
 22	with	with	ADP	E	_	24	case	_	_
@@ -12273,7 +12273,7 @@
 13	ensure	ensure	VERB	V	VerbForm=Inf	9	xcomp	_	SpaceAfter=No
 14	,	,	PUNCT	FF	_	13	punct	_	_
 15	that	that	SCONJ	CS	_	17	mark	_	_
-16	there	there	PRON	_	_	17	expl	_	_
+16	there	there	PRON	_	PronType=Dem	17	expl	_	_
 17	is	be	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	ccomp	_	_
 18	some	some	DET	DI	PronType=Ind	19	det	_	_
 19	publicity	publicity	NOUN	S	Number=Sing	17	nsubj	_	_
@@ -12622,7 +12622,7 @@
 
 # sent_id = en_partut-ud-457
 # text = There are, therefore, two points to which I would like to draw the Commission's attention.
-1	There	there	PRON	_	_	2	expl	_	_
+1	There	there	PRON	_	PronType=Dem	2	expl	_	_
 2	are	be	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 3	,	,	PUNCT	FF	_	2	punct	_	_
 4	therefore	therefore	ADV	B	_	2	advmod	_	SpaceAfter=No
@@ -15362,7 +15362,7 @@
 
 # sent_id = en_partut-ud-591
 # text = There should be sufficient flexibility to enable this factor to be integrated in product design whilst taking account of technical, functional and economic considerations.
-1	There	there	PRON	_	_	3	expl	_	_
+1	There	there	PRON	_	PronType=Dem	3	expl	_	_
 2	should	shall	AUX	VM	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	3	aux	_	_
 3	be	be	VERB	V	VerbForm=Inf	0	root	_	_
 4	sufficient	sufficient	ADJ	A	Degree=Pos	5	amod	_	_
@@ -18354,7 +18354,7 @@
 
 # sent_id = en_partut-ud-677
 # text = There should be a prioritisation in favour of staff exchanges and specific training, including case studies.
-1	There	there	PRON	_	_	3	expl	_	_
+1	There	there	PRON	_	PronType=Dem	3	expl	_	_
 2	should	shall	AUX	VM	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	3	aux	_	_
 3	be	be	VERB	V	VerbForm=Inf	0	root	_	_
 4	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	5	det	_	_
@@ -18472,7 +18472,7 @@
 26	an	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	27	det	_	_
 27	assessment	assessment	NOUN	S	Number=Sing	25	obj	_	_
 28	as	as	SCONJ	CS	_	30	mark	_	_
-29	there	there	PRON	_	_	30	expl	_	_
+29	there	there	PRON	_	PronType=Dem	30	expl	_	_
 30	was	be	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	25	advcl	_	_
 31	not	not	PART	PART	Polarity=Neg	32	advmod	_	_
 32	sufficient	sufficient	ADJ	A	Degree=Pos	33	amod	_	_
@@ -18979,7 +18979,7 @@
 18	and	and	CCONJ	CC	_	19	cc	_	_
 19	2005	2005	NUM	N	NumType=Card	17	conj	_	SpaceAfter=No
 20	,	,	PUNCT	FF	_	17	punct	_	_
-21	there	there	PRON	_	_	22	expl	_	_
+21	there	there	PRON	_	PronType=Dem	22	expl	_	_
 22	is	be	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	advcl	_	_
 23	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	26	det	_	_
 24	more	more	ADV	B	Degree=Cmp	25	advmod	_	_
@@ -22504,7 +22504,7 @@
 # sent_id = en_partut-ud-836
 # text = There's no mechanism in this game for them to go anywhere but into a bigger and bigger pile of indigestible Styrofoam peanuts.
 1-2	There's	_	_	_	_	_	_	_	_
-1	There	there	PRON	_	_	2	expl	_	_
+1	There	there	PRON	_	PronType=Dem	2	expl	_	_
 2	's	be	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	no	no	DET	DI	PronType=Ind	4	det	_	_
 4	mechanism	mechanism	NOUN	S	Number=Sing	2	nsubj	_	_
@@ -22658,7 +22658,7 @@
 10	dolphin	dolphin	NOUN	S	Number=Sing	7	conj	_	_
 11	-	-	PUNCT	FF	_	10	punct	_	_
 12-13	there's	_	_	_	_	_	_	_	_
-12	there	there	PRON	_	_	13	expl	_	_
+12	there	there	PRON	_	PronType=Dem	13	expl	_	_
 13	's	be	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 14	only	only	ADV	B	_	13	advmod	_	_
 15	one	one	NUM	N	NumType=Card	16	nummod	_	_
@@ -22794,7 +22794,7 @@
 # sent_id = en_partut-ud-852
 # text = There's another top predator in the ocean, it turns out.
 1-2	There's	_	_	_	_	_	_	_	_
-1	There	there	PRON	_	_	2	expl	_	_
+1	There	there	PRON	_	PronType=Dem	2	expl	_	_
 2	's	be	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	ccomp	_	_
 3	another	another	DET	RI	Definite=Ind|Number=Sing|PronType=Art	5	det	_	_
 4	top	top	ADJ	A	Degree=Pos	5	amod	_	_
@@ -23258,7 +23258,7 @@
 5	it	it	PRON	PE	Number=Sing|Person=3|PronType=Prs	6	nsubj	_	_
 6	seems	seem	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	advcl	_	SpaceAfter=No
 7	,	,	PUNCT	FF	_	6	punct	_	_
-8	there	there	PRON	_	_	9	expl	_	_
+8	there	there	PRON	_	PronType=Dem	9	expl	_	_
 9	are	be	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	0	root	_	_
 10	deep-seated	deep-seated	ADJ	A	Degree=Pos	11	amod	_	_
 11	problems	problem	NOUN	S	Number=Plur	9	nsubj	_	SpaceAfter=No
@@ -25130,7 +25130,7 @@
 
 # sent_id = en_partut-ud-1107
 # text = There may have been more savings opportunities for households and more diverse funding sources for firms, but the added value of asset-management activity was illusory.
-1	There	there	PRON	_	_	4	expl	_	_
+1	There	there	PRON	_	PronType=Dem	4	expl	_	_
 2	may	may	AUX	VM	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
 3	have	have	AUX	VA	VerbForm=Inf	4	aux	_	_
 4	been	be	VERB	V	Tense=Past|VerbForm=Part	0	root	_	_
@@ -25677,7 +25677,7 @@
 
 # sent_id = en_partut-ud-1131
 # text = There were many casualties, but the citizens prevailed.
-1	There	there	PRON	_	_	2	expl	_	_
+1	There	there	PRON	_	PronType=Dem	2	expl	_	_
 2	were	be	VERB	V	Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	0	root	_	_
 3	many	many	ADJ	A	Degree=Pos	4	amod	_	_
 4	casualties	casualty	NOUN	S	Number=Plur	2	nsubj	_	SpaceAfter=No
@@ -26800,7 +26800,7 @@
 2	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	3	det	_	_
 3	result	result	NOUN	S	Number=Sing	6	obl	_	SpaceAfter=No
 4	,	,	PUNCT	FF	_	3	punct	_	_
-5	there	there	PRON	_	_	6	expl	_	_
+5	there	there	PRON	_	PronType=Dem	6	expl	_	_
 6	is	be	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 7	no	no	DET	DI	PronType=Ind	8	det	_	_
 8	risk	risk	NOUN	S	Number=Sing	6	nsubj	_	_
@@ -27865,7 +27865,7 @@
 4	geopolitical	geopolitical	ADJ	A	Degree=Pos	5	amod	_	_
 5	disruptions	disruption	NOUN	S	Number=Plur	1	obj	_	SpaceAfter=No
 6	,	,	PUNCT	FF	_	1	punct	_	_
-7	there	there	PRON	_	_	8	expl	_	_
+7	there	there	PRON	_	PronType=Dem	8	expl	_	_
 8	are	be	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	0	root	_	_
 9	some	some	DET	DI	PronType=Ind	11	det	_	_
 10	formidable	formidable	ADJ	A	Degree=Pos	11	amod	_	_
@@ -28123,7 +28123,7 @@
 
 # sent_id = en_partut-ud-1231
 # text = There are parallel shortcomings in many other markets.
-1	There	there	PRON	_	_	2	expl	_	_
+1	There	there	PRON	_	PronType=Dem	2	expl	_	_
 2	are	be	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	parallel	parallel	ADJ	A	Degree=Pos	4	amod	_	_
 4	shortcomings	shortcoming	NOUN	S	Number=Plur	2	nsubj	_	_
@@ -28534,7 +28534,7 @@
 5	the	the	DET	RD	Definite=Def|PronType=Art	6	det	_	_
 6	world	world	NOUN	S	Number=Sing	9	obl	_	SpaceAfter=No
 7	,	,	PUNCT	FF	_	6	punct	_	_
-8	there	there	PRON	_	_	9	expl	_	_
+8	there	there	PRON	_	PronType=Dem	9	expl	_	_
 9	is	be	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 10	enormous	enormous	ADJ	A	Degree=Pos	11	amod	_	_
 11	enthusiasm	enthusiasm	NOUN	S	Number=Sing	9	nsubj	_	_
@@ -28576,7 +28576,7 @@
 # sent_id = en_partut-ud-1250
 # text = But there is a puzzle:
 1	But	but	CCONJ	CC	_	3	cc	_	_
-2	there	there	PRON	_	_	3	expl	_	_
+2	there	there	PRON	_	PronType=Dem	3	expl	_	_
 3	is	be	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	5	det	_	_
 5	puzzle	puzzle	NOUN	S	Number=Sing	3	nsubj	_	SpaceAfter=No
@@ -28663,7 +28663,7 @@
 # sent_id = en_partut-ud-1254
 # text = "There are several possible explanations for this.
 1	"	"	PUNCT	FB	_	3	punct	_	SpaceAfter=No
-2	There	there	PRON	_	_	3	expl	_	_
+2	There	there	PRON	_	PronType=Dem	3	expl	_	_
 3	are	be	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	several	several	ADJ	A	Degree=Pos	6	amod	_	_
 5	possible	possible	ADJ	A	Degree=Pos	6	amod	_	_
@@ -28701,7 +28701,7 @@
 3	turns	turn	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	advcl	_	_
 4	out	out	ADV	B	_	3	compound:prt	_	SpaceAfter=No
 5	,	,	PUNCT	FF	_	3	punct	_	_
-6	there	there	PRON	_	_	7	expl	_	_
+6	there	there	PRON	_	PronType=Dem	7	expl	_	_
 7	is	be	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 8	some	some	DET	DI	PronType=Ind	9	det	_	_
 9	truth	truth	NOUN	S	Number=Sing	7	nsubj	_	_
@@ -29502,7 +29502,7 @@
 1	Of	of	ADP	E	ExtPos=ADV	5	advmod	_	_
 2	course	course	NOUN	S	Number=Sing	1	fixed	_	SpaceAfter=No
 3	,	,	PUNCT	FF	_	1	punct	_	_
-4	there	there	PRON	_	_	5	expl	_	_
+4	there	there	PRON	_	PronType=Dem	5	expl	_	_
 5	are	be	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	0	root	_	_
 6	grounds	ground	NOUN	S	Number=Plur	5	nsubj	_	_
 7	for	for	ADP	E	_	9	case	_	_
@@ -30200,7 +30200,7 @@
 3	news	news	NOUN	S	Number=Sing	4	nsubj	_	_
 4	is	be	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 5	that	that	SCONJ	CS	_	7	mark	_	_
-6	there	there	PRON	_	_	7	expl	_	_
+6	there	there	PRON	_	PronType=Dem	7	expl	_	_
 7	are	be	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	4	ccomp	_	_
 8	solutions	solution	NOUN	S	Number=Plur	7	nsubj	_	SpaceAfter=No
 9	.	.	PUNCT	FS	_	4	punct	_	_
@@ -32388,7 +32388,7 @@
 17	,	,	PUNCT	FF	_	4	punct	_	_
 18	except	except	ADP	E	_	21	case	_	_
 19	when	when	SCONJ	CS	_	21	mark	_	_
-20	there	there	PRON	_	_	21	expl	_	_
+20	there	there	PRON	_	PronType=Dem	21	expl	_	_
 21	is	be	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	advcl	_	_
 22	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	25	det	_	_
 23	racy	racy	ADJ	A	Degree=Pos	25	amod	_	_
@@ -33766,7 +33766,7 @@
 
 # sent_id = en_partut-ud-1452
 # text = There is nothing phony, however, about the efforts we Ukrainians are now making to defend our country and our democracy.
-1	There	there	PRON	_	_	2	expl	_	_
+1	There	there	PRON	_	PronType=Dem	2	expl	_	_
 2	is	be	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	nothing	nothing	PRON	PI	PronType=Ind	2	nsubj	_	_
 4	phony	phony	ADJ	A	Degree=Pos	3	amod	_	SpaceAfter=No
@@ -33924,7 +33924,7 @@
 
 # sent_id = en_partut-ud-1457
 # text = There will be no more surrendering of sovereign Ukrainian territory.
-1	There	there	PRON	_	_	3	expl	_	_
+1	There	there	PRON	_	PronType=Dem	3	expl	_	_
 2	will	will	AUX	VM	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
 3	be	be	VERB	V	VerbForm=Inf	0	root	_	_
 4	no	no	ADV	BN	PronType=Neg	5	advmod	_	_
@@ -34503,7 +34503,7 @@
 
 # sent_id = en_partut-ud-1482
 # text = there is no oppression of Russian speakers in Ukraine, and there never has been.
-1	there	there	PRON	_	_	2	expl	_	_
+1	there	there	PRON	_	PronType=Dem	2	expl	_	_
 2	is	be	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	no	no	DET	DI	PronType=Ind	4	det	_	_
 4	oppression	oppression	NOUN	S	Number=Sing	2	nsubj	_	_
@@ -34514,7 +34514,7 @@
 9	Ukraine	Ukraine	PROPN	SP	_	2	obl	_	SpaceAfter=No
 10	,	,	PUNCT	FF	_	15	punct	_	_
 11	and	and	CCONJ	CC	_	15	cc	_	_
-12	there	there	PRON	_	_	15	expl	_	_
+12	there	there	PRON	_	PronType=Dem	15	expl	_	_
 13	never	never	ADV	B	_	15	advmod	_	_
 14	has	have	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	aux	_	_
 15	been	be	VERB	V	Tense=Past|VerbForm=Part	2	conj	_	SpaceAfter=No
@@ -34763,7 +34763,7 @@
 1	In	in	ADP	E	_	2	case	_	_
 2	2012	2012	NUM	N	NumType=Card	5	obl	_	SpaceAfter=No
 3	,	,	PUNCT	FF	_	2	punct	_	_
-4	there	there	PRON	_	_	5	expl	_	_
+4	there	there	PRON	_	PronType=Dem	5	expl	_	_
 5	were	be	VERB	V	Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin	0	root	_	_
 6	an	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	10	det	_	_
 7	estimated	estimate	VERB	V	Tense=Past|VerbForm=Part	10	acl	_	_
@@ -34845,7 +34845,7 @@
 # text = Given that there are no vaccines or drug treatments for illnesses like dengue fever and West Nile virus, and that treatments for diseases like malaria are difficult to access in many at-risk areas, more effective mechanisms for controlling mosquito populations are desperately needed.
 1	Given	give	VERB	V	Tense=Past|VerbForm=Part	47	advcl	_	_
 2	that	that	SCONJ	CS	_	4	mark	_	_
-3	there	there	PRON	_	_	4	expl	_	_
+3	there	there	PRON	_	PronType=Dem	4	expl	_	_
 4	are	be	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	1	ccomp	_	_
 5	no	no	DET	DI	PronType=Ind	6	det	_	_
 6	vaccines	vaccine	NOUN	S	Number=Plur	4	nsubj	_	_
@@ -40641,7 +40641,7 @@
 3	explained	explain	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 4	that	that	SCONJ	CS	_	7	mark	_	_
 5	"	"	PUNCT	FB	_	7	punct	_	SpaceAfter=No
-6	there	there	PRON	_	_	7	expl	_	_
+6	there	there	PRON	_	PronType=Dem	7	expl	_	_
 7	is	be	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ccomp	_	_
 8	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	9	det	_	_
 9	center	center	NOUN	S	Number=Sing	7	nsubj	_	_
@@ -42089,7 +42089,7 @@
 8	survive	survive	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 9	,	,	PUNCT	FF	_	13	punct	_	_
 10	and	and	CCONJ	CC	_	13	cc	_	_
-11	there	there	PRON	_	_	13	expl	_	_
+11	there	there	PRON	_	PronType=Dem	13	expl	_	_
 12	has	have	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	aux	_	_
 13	been	be	VERB	V	Tense=Past|VerbForm=Part	8	conj	_	_
 14	considerable	considerable	ADJ	A	Degree=Pos	15	amod	_	_
@@ -43089,7 +43089,7 @@
 # sent_id = en_partut-ud-1850
 # text = ... there is an upstart Crow, beautified with our feathers, that with his Tiger's heart wrapped in a Player's hide, supposes he is as well able to bombast out a blank verse as the best of you:
 1	...	.	PUNCT	FF	_	3	punct	_	_
-2	there	there	PRON	_	_	3	expl	_	_
+2	there	there	PRON	_	PronType=Dem	3	expl	_	_
 3	is	be	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	an	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	6	det	_	_
 5	upstart	upstart	ADJ	A	Degree=Pos	6	amod	_	_
@@ -43963,7 +43963,7 @@
 29	,	,	PUNCT	FF	_	7	punct	_	_
 30	which	which	PRON	PR	PronType=Rel	31	nsubj	_	_
 31	meant	mean	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	7	acl:relcl	_	_
-32	there	there	PRON	_	_	33	expl	_	_
+32	there	there	PRON	_	PronType=Dem	33	expl	_	_
 33	was	be	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	31	ccomp	_	_
 34	often	often	ADV	B	_	33	advmod	_	_
 35	no	no	DET	DI	PronType=Ind	37	det	_	_
