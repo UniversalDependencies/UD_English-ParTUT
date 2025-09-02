@@ -43535,7 +43535,7 @@
 # sent_id = en_partut-ud-1866
 # text = The 1616 edition of Ben Jonson's Works names him on the cast lists for Every Man In His Humour (1598) and Sejanus His Fall (1603).
 1	The	the	DET	RD	Definite=Def|PronType=Art	3	det	_	_
-2	1616	1616	NUM	N	NumType=Card	3	nmod:unmarked	_	_
+2	1616	1616	NUM	N	NumType=Card	3	compound	_	_
 3	edition	edition	NOUN	S	Number=Sing	9	nsubj	_	_
 4	of	of	ADP	E	_	8	case	_	_
 5	Ben	Ben	PROPN	SP	_	8	nmod:poss	_	_
