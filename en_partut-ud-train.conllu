@@ -46061,7 +46061,7 @@
 7	Henry	Henry	PROPN	SP	_	4	conj	_	_
 8	Condell	Condell	PROPN	SP	_	7	flat	_	SpaceAfter=No
 9	,	,	PUNCT	FF	_	4	punct	_	_
-10	two	two	NUM	N	NumType=Card	4	nummod	_	_
+10	two	two	NUM	N	NumType=Card	4	appos	_	_
 11	of	of	ADP	E	_	14	case	_	_
 12-13	Shakespeare's	_	_	_	_	_	_	_	_
 12	Shakespeare	Shakespeare	PROPN	SP	_	14	nmod:poss	_	_
