@@ -18053,7 +18053,7 @@
 4	the	the	DET	RD	Definite=Def|PronType=Art	5	det	_	_
 5	files	file	NOUN	S	Number=Plur	3	obj	_	_
 6	of	of	ADP	E	_	7	case	_	_
-7	21	21	NUM	N	NumType=Card	5	nummod	_	_
+7	21	21	NUM	N	NumType=Card	5	nmod	_	_
 8	of	of	ADP	E	_	11	case	_	_
 9	the	the	DET	RD	Definite=Def|PronType=Art	11	det	_	_
 10	Pericles	Pericles	PROPN	SP	_	11	nmod	_	_
@@ -18635,7 +18635,7 @@
 # text = Intentions for 2005 show that the remaining amount will also be completely consumed.
 1	Intentions	intention	NOUN	S	Number=Plur	4	nsubj	_	_
 2	for	for	ADP	E	_	3	case	_	_
-3	2005	2005	NUM	N	NumType=Card	1	nummod	_	_
+3	2005	2005	NUM	N	NumType=Card	1	nmod	_	_
 4	show	show	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 5	that	that	SCONJ	CS	_	13	mark	_	_
 6	the	the	DET	RD	Definite=Def|PronType=Art	8	det	_	_
@@ -18859,7 +18859,7 @@
 19	broader	broader	ADJ	A	Degree=Cmp	20	amod	_	_
 20	level	level	NOUN	S	Number=Sing	16	obl	_	_
 21	in	in	ADP	E	_	22	case	_	_
-22	2005	2005	NUM	N	NumType=Card	20	nummod	_	SpaceAfter=No
+22	2005	2005	NUM	N	NumType=Card	20	nmod	_	SpaceAfter=No
 23	.	.	PUNCT	FS	_	6	punct	_	_
 
 # sent_id = en_partut-ud-695
@@ -22120,7 +22120,7 @@
 6	Cannery	Cannery	PROPN	SP	_	4	nmod	_	_
 7	Row	Row	PROPN	SP	_	6	flat	_	_
 8	in	in	ADP	E	_	9	case	_	_
-9	1932	1932	NUM	N	NumType=Card	4	nummod	_	SpaceAfter=No
+9	1932	1932	NUM	N	NumType=Card	4	nmod	_	SpaceAfter=No
 10	.	.	PUNCT	FS	_	4	punct	_	_
 
 # sent_id = en_partut-ud-818
@@ -26882,7 +26882,7 @@
 24	three	three	NUM	N	NumType=Card	25	nummod	_	_
 25	decades	decade	NOUN	S	Number=Plur	21	obl	_	_
 26	after	after	ADP	E	_	27	case	_	_
-27	1980	1980	NUM	N	NumType=Card	25	nummod	_	SpaceAfter=No
+27	1980	1980	NUM	N	NumType=Card	25	nmod	_	SpaceAfter=No
 28	.	.	PUNCT	FS	_	4	punct	_	_
 
 # sent_id = en_partut-ud-1181
@@ -32345,7 +32345,7 @@
 5	the	the	DET	RD	Definite=Def|PronType=Art	6	det	_	_
 6	IMF	IMF	PROPN	SP	_	3	nmod	_	_
 7	in	in	ADP	E	_	8	case	_	_
-8	1944	1944	NUM	N	NumType=Card	3	nummod	_	SpaceAfter=No
+8	1944	1944	NUM	N	NumType=Card	3	nmod	_	SpaceAfter=No
 9	,	,	PUNCT	FF	_	1	punct	_	_
 10	many	many	ADJ	A	Degree=Pos	15	nsubj	_	_
 11	of	of	ADP	E	_	14	case	_	_
@@ -32499,7 +32499,7 @@
 11	,	,	PUNCT	FF	_	4	punct	_	_
 12	page	page	NOUN	S	Number=Sing	15	nmod	_	SpaceAfter=No
 13	-	-	PUNCT	FF	_	12	punct	_	SpaceAfter=No
-14	three	three	NUM	N	NumType=Card	12	nummod	_	_
+14	three	three	NUM	N	NumType=Card	12	nmod:unmarked	_	_
 15	coverage	coverage	NOUN	S	Number=Sing	24	nsubj:pass	_	_
 16	of	of	ADP	E	_	18	case	_	_
 17	our	us	DET	AP	Poss=Yes|PronType=Prs	18	nmod:poss	_	_
@@ -33718,7 +33718,7 @@
 5	pieces	piece	NOUN	S	Number=Plur	9	nsubj	_	_
 6	of	of	ADP	E	_	7	case	_	_
 7	option	option	NOUN	S	Number=Sing	5	nmod	_	_
-8	three	three	NUM	N	NumType=Card	7	nummod	_	_
+8	three	three	NUM	N	NumType=Card	7	nmod:unmarked	_	_
 9	remain	remain	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	0	root	_	_
 10	stubbornly	stubbornly	ADV	B	_	11	advmod	_	_
 11	impervious	impervious	ADJ	A	Degree=Pos	9	xcomp	_	_
@@ -33736,7 +33736,7 @@
 23	,	,	PUNCT	FF	_	22	punct	_	_
 24	while	while	SCONJ	CS	_	35	mark	_	_
 25	option	option	NOUN	S	Number=Sing	35	nsubj	_	_
-26	four	four	NUM	N	NumType=Card	25	nummod	_	_
+26	four	four	NUM	N	NumType=Card	25	nmod:unmarked	_	_
 27	–	–	PUNCT	FB	_	28	punct	_	_
 28	engaging	engage	VERB	V	VerbForm=Ger	25	acl	_	_
 29	in	in	ADP	E	_	31	case	_	_
@@ -34026,7 +34026,7 @@
 9	Yalta	Yalta	PROPN	SP	_	10	nmod	_	_
 10	Conference	conference	NOUN	S	Number=Sing	5	obl	_	_
 11	in	in	ADP	E	_	12	case	_	_
-12	1945	1945	NUM	N	NumType=Card	10	nummod	_	SpaceAfter=No
+12	1945	1945	NUM	N	NumType=Card	10	nmod	_	SpaceAfter=No
 13	,	,	PUNCT	FF	_	10	punct	_	_
 14	where	where	ADV	B	PronType=Rel	17	advmod	_	_
 15	Joseph	Joseph	PROPN	SP	_	17	nsubj	_	_
@@ -35940,7 +35940,7 @@
 15	is	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	aux:pass	_	_
 16	regarded	regard	VERB	V	Tense=Past|VerbForm=Part	0	root	_	_
 17	as	as	ADP	E	_	18	case	_	_
-18	one	one	NUM	N	NumType=Card	16	nummod	_	_
+18	one	one	NUM	N	NumType=Card	16	obl	_	_
 19	of	of	ADP	E	_	21	case	_	_
 20	the	the	DET	RD	Definite=Def|PronType=Art	21	det	_	_
 21	founders	founder	NOUN	S	Number=Plur	18	nmod	_	_
@@ -36397,9 +36397,9 @@
 4	of	of	ADP	E	_	5	case	_	_
 5	Terror	Terror	PROPN	SP	_	3	nmod	_	_
 6	(	(	PUNCT	FB	_	7	punct	_	SpaceAfter=No
-7	1793	1793	NUM	N	NumType=Card	3	nummod	_	_
-8	–	–	PUNCT	FF	_	7	punct	_	_
-9	94	94	NUM	N	NumType=Card	7	nummod	_	SpaceAfter=No
+7	1793	1793	NUM	N	NumType=Card	3	nmod:unmarked	_	_
+8	–	–	SYM	X	_	9	case	_	_
+9	94	94	NUM	N	NumType=Card	7	nmod	_	SpaceAfter=No
 10	)	)	PUNCT	FB	_	7	punct	_	SpaceAfter=No
 11	,	,	PUNCT	FF	_	3	punct	_	_
 12	he	he	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	nsubj:pass	_	_
@@ -36713,7 +36713,7 @@
 # text = At age ten Balzac was sent to the Oratorian grammar school in Vendôme, where he studied for seven years.
 1	At	at	ADP	E	_	2	case	_	_
 2	age	age	NOUN	S	Number=Sing	6	obl	_	_
-3	ten	ten	NUM	N	NumType=Card	2	nummod	_	_
+3	ten	ten	NUM	N	NumType=Card	2	flat	_	_
 4	Balzac	Balzac	PROPN	SP	_	6	nsubj:pass	_	_
 5	was	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	aux:pass	_	_
 6	sent	send	VERB	V	Tense=Past|VerbForm=Part	0	root	_	_
@@ -37690,7 +37690,7 @@
 8	des	des	X	SW	Foreign=Yes	7	flat:foreign	_	_
 9	Ardennes	Ardennes	X	SW	Foreign=Yes	7	flat:foreign	_	_
 10	(	(	PUNCT	FB	_	11	punct	_	SpaceAfter=No
-11	1822	1822	NUM	N	NumType=Card	7	nummod	_	SpaceAfter=No
+11	1822	1822	NUM	N	NumType=Card	7	nmod:unmarked	_	SpaceAfter=No
 12	)	)	PUNCT	FB	_	11	punct	_	_
 13	-	-	PUNCT	FB	_	14	punct	_	_
 14	banned	ban	VERB	V	Tense=Past|VerbForm=Part	6	acl	_	_
@@ -38548,7 +38548,7 @@
 6	fatal	fatal	ADJ	A	Degree=Pos	7	amod	_	_
 7	accident	accident	NOUN	S	Number=Sing	22	obl	_	_
 8	in	in	ADP	E	_	9	case	_	_
-9	1832	1832	NUM	N	NumType=Card	7	nummod	_	_
+9	1832	1832	NUM	N	NumType=Card	7	nmod	_	_
 10	(	(	PUNCT	FB	_	12	punct	_	SpaceAfter=No
 11	he	he	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	_
 12	slipped	slip	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	7	appos	_	_
@@ -38987,7 +38987,7 @@
 27	Lost	lost	ADJ	A	Degree=Pos	28	amod	_	_
 28	Illusions	illusion	NOUN	S	Number=Plur	24	appos	_	SpaceAfter=No
 29	,	,	PUNCT	FF	_	28	punct	_	_
-30	1843	1843	NUM	N	NumType=Card	28	nummod	_	SpaceAfter=No
+30	1843	1843	NUM	N	NumType=Card	28	nmod:unmarked	_	SpaceAfter=No
 31	)	)	PUNCT	FB	_	28	punct	_	SpaceAfter=No
 32	.	.	PUNCT	FS	_	12	punct	_	_
 
@@ -39062,7 +39062,7 @@
 11	and	and	CCONJ	CC	_	12	cc	_	_
 12	Low	low	NOUN	S	_	10	conj	_	SpaceAfter=No
 13	,	,	PUNCT	FF	_	10	punct	_	_
-14	1847	1847	NUM	N	NumType=Card	10	nummod	_	SpaceAfter=No
+14	1847	1847	NUM	N	NumType=Card	10	nmod:unmarked	_	SpaceAfter=No
 15	)	)	PUNCT	FB	_	10	punct	_	_
 16	continues	continue	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 17-18	Lucien's	_	_	_	_	_	_	_	_
@@ -39113,7 +39113,7 @@
 3	part	part	NOUN	S	Number=Sing	8	nsubj	_	_
 4	(	(	PUNCT	FB	_	6	punct	_	SpaceAfter=No
 5	of	of	ADP	E	_	6	case	_	_
-6	four	four	NUM	N	NumType=Card	3	nummod	_	SpaceAfter=No
+6	four	four	NUM	N	NumType=Card	3	nmod	_	SpaceAfter=No
 7	)	)	PUNCT	FB	_	6	punct	_	_
 8	covers	cover	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 9	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	10	det	_	_
@@ -39234,7 +39234,7 @@
 31	golden	golden	ADJ	A	Degree=Pos	32	amod	_	_
 32	eyes	eye	NOUN	S	Number=Plur	28	nmod	_	SpaceAfter=No
 33	,	,	PUNCT	FF	_	28	punct	_	_
-34	1835	1835	NUM	N	NumType=Card	28	nummod	_	SpaceAfter=No
+34	1835	1835	NUM	N	NumType=Card	28	nmod:unmarked	_	SpaceAfter=No
 35	)	)	PUNCT	FB	_	28	punct	_	_
 36	opens	open	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	advcl	_	_
 37	with	with	ADP	E	_	40	case	_	_
@@ -39403,7 +39403,7 @@
 22	Government	Government	PROPN	SP	_	23	nmod	_	_
 23	Clerks	clerk	NOUN	S	Number=Plur	19	appos	_	SpaceAfter=No
 24	,	,	PUNCT	FF	_	23	punct	_	_
-25	1841	1841	NUM	N	NumType=Card	23	nummod	_	SpaceAfter=No
+25	1841	1841	NUM	N	NumType=Card	23	nmod:unmarked	_	SpaceAfter=No
 26	)	)	PUNCT	FB	_	23	punct	_	_
 27	-	-	PUNCT	FB	_	19	punct	_	_
 28	are	be	AUX	VA	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	30	aux:pass	_	_
@@ -40995,13 +40995,13 @@
 6	over	over	ADP	E	_	7	case	_	_
 7	time	time	NOUN	S	Number=Sing	5	obl	_	_
 8	from	from	ADP	E	_	9	case	_	_
-9	one	one	NUM	N	NumType=Card	5	nummod	_	_
+9	one	one	NUM	N	NumType=Card	5	obl	_	_
 10	of	of	ADP	E	_	11	case	_	_
 11	despondency	despondency	NOUN	S	Number=Sing	9	nmod	_	_
 12	and	and	CCONJ	CC	_	13	cc	_	_
 13	chagrin	chagrin	NOUN	S	Number=Sing	11	conj	_	_
 14	to	to	ADP	E	_	15	case	_	_
-15	one	one	NUM	N	NumType=Card	5	nummod	_	_
+15	one	one	NUM	N	NumType=Card	5	obl	_	_
 16	of	of	ADP	E	_	17	case	_	_
 17	solidarity	solidarity	NOUN	S	Number=Sing	15	nmod	_	_
 18	and	and	CCONJ	CC	_	19	cc	_	_
@@ -41059,7 +41059,7 @@
 21	are	be	AUX	VA	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	22	aux:pass	_	_
 22	pushed	push	VERB	V	Tense=Past|VerbForm=Part	19	acl:relcl	_	_
 23	to	to	ADP	E	_	24	case	_	_
-24	one	one	NUM	N	NumType=Card	22	nummod	_	_
+24	one	one	NUM	N	NumType=Card	22	obl	_	_
 25	side	side	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	24	advcl	_	_
 26	by	by	ADP	E	_	27	case	_	_
 27	society	society	NOUN	S	Number=Sing	22	obl	_	SpaceAfter=No
@@ -41496,7 +41496,7 @@
 14	my	my	DET	AP	Number=Sing|Poss=Yes|PronType=Prs	15	nmod:poss	_	_
 15	Life	life	NOUN	S	Number=Sing	12	nmod	_	SpaceAfter=No
 16	,	,	PUNCT	FF	_	12	punct	_	_
-17	1822	1822	NUM	N	NumType=Card	12	nummod	_	SpaceAfter=No
+17	1822	1822	NUM	N	NumType=Card	12	nmod:unmarked	_	SpaceAfter=No
 18	)	)	PUNCT	FB	_	12	punct	_	SpaceAfter=No
 19	,	,	PUNCT	FF	_	12	punct	_	_
 20	in	in	ADP	E	_	21	case	_	_
@@ -41599,7 +41599,7 @@
 24	essays	essay	NOUN	S	Number=Plur	19	nmod	_	_
 25	(	(	PUNCT	FB	_	27	punct	_	SpaceAfter=No
 26	in	in	ADP	E	_	27	case	_	_
-27	1875	1875	NUM	N	NumType=Card	24	nummod	_	SpaceAfter=No
+27	1875	1875	NUM	N	NumType=Card	24	nmod	_	SpaceAfter=No
 28	,	,	PUNCT	FF	_	29	punct	_	_
 29	1877	1877	NUM	N	NumType=Card	27	conj	_	SpaceAfter=No
 30	,	,	PUNCT	FF	_	31	punct	_	_
