@@ -42174,7 +42174,7 @@
 5	tragedies	tragedy	NOUN	S	Number=Plur	3	obj	_	_
 6	until	until	ADP	E	_	8	case	_	_
 7	about	about	ADV	B	_	8	advmod	_	_
-8	1608	1608	NUM	N	NumType=Card	5	nummod	_	SpaceAfter=No
+8	1608	1608	NUM	N	NumType=Card	3	obl	_	SpaceAfter=No
 9	,	,	PUNCT	FF	_	8	punct	_	_
 10	including	include	VERB	V	Number=Sing|Tense=Pres|VerbForm=Part	5	acl	_	_
 11	Hamlet	Hamlet	PROPN	SP	_	10	obj	_	SpaceAfter=No
