@@ -45126,7 +45126,7 @@
 2	titular	titular	ADJ	A	Degree=Pos	3	amod	_	_
 3	hero	hero	NOUN	S	Number=Sing	18	nsubj:pass	_	_
 4	of	of	ADP	E	_	5	case	_	_
-5	one	one	NUM	N	NumType=Card	3	nummod	_	_
+5	one	one	NUM	N	NumType=Card	3	nmod	_	_
 6	of	of	ADP	E	_	11	case	_	_
 7-8	Shakespeare's	_	_	_	_	_	_	_	_
 7	Shakespeare	Shakespeare	PROPN	SP	_	11	nmod:poss	_	_
@@ -45603,9 +45603,9 @@
 2	the	the	DET	RD	Definite=Def|PronType=Art	3	det	_	_
 3	plagues	plague	NOUN	S	Number=Plur	13	obl	_	_
 4	of	of	ADP	E	_	5	case	_	_
-5	1592	1592	NUM	N	NumType=Card	3	nummod	_	SpaceAfter=No
-6	–	–	PUNCT	FF	_	7	punct	_	SpaceAfter=No
-7	3	3	NUM	N	NumType=Card	5	nummod	_	SpaceAfter=No
+5	1592	1592	NUM	N	NumType=Card	3	nmod	_	SpaceAfter=No
+6	–	–	SYM	X	_	7	case	_	SpaceAfter=No
+7	3	3	NUM	N	NumType=Card	5	nmod	_	SpaceAfter=No
 8	,	,	PUNCT	FF	_	3	punct	_	_
 9-10	Shakespeare's	_	_	_	_	_	_	_	_
 9	Shakespeare	Shakespeare	PROPN	SP	_	11	nmod:poss	_	_
@@ -48033,7 +48033,7 @@
 5	the	the	DET	RD	Definite=Def|PronType=Art	6	det	_	_
 6	monarchy	monarchy	NOUN	S	Number=Sing	3	nmod	_	_
 7	in	in	ADP	E	_	8	case	_	_
-8	1660	1660	NUM	N	NumType=Card	3	nummod	_	_
+8	1660	1660	NUM	N	NumType=Card	3	nmod	_	_
 9	and	and	CCONJ	CC	_	11	cc	_	_
 10	the	the	DET	RD	Definite=Def|PronType=Art	11	det	_	_
 11	end	end	NOUN	S	Number=Sing	3	conj	_	_
@@ -49025,7 +49025,7 @@
 11	First	first	ADJ	NO	Degree=Pos|NumType=Ord	12	amod	_	_
 12	Folio	Folio	NOUN	S	Number=Sing	8	obl	_	_
 13	of	of	ADP	E	_	14	case	_	_
-14	1623	1623	NUM	N	NumType=Card	12	nummod	_	SpaceAfter=No
+14	1623	1623	NUM	N	NumType=Card	12	nmod	_	SpaceAfter=No
 15	,	,	PUNCT	FF	_	7	punct	_	_
 16	listed	list	VERB	V	Tense=Past|VerbForm=Part	7	acl	_	_
 17	below	below	ADV	B	_	16	advmod	_	_
