@@ -14846,7 +14846,7 @@
 28	the	the	DET	RD	Definite=Def|PronType=Art	29	det	_	_
 29	Council	Council	NOUN	S	Number=Sing	25	conj	_	_
 30	[	[	PUNCT	FB	_	31	punct	_	SpaceAfter=No
-31	3	3	NUM	N	NumType=Card	19	nummod	_	SpaceAfter=No
+31	3	3	NUM	N	NumType=Card	19	parataxis	_	SpaceAfter=No
 32	]	]	PUNCT	FB	_	31	punct	_	SpaceAfter=No
 33	.	.	PUNCT	FS	_	4	punct	_	_
 
@@ -17766,7 +17766,7 @@
 21	as	as	ADP	E	_	22	case	_	_
 22	1998	1998	NUM	N	NumType=Card	20	nmod	_	_
 23	[	[	PUNCT	FB	_	24	punct	_	SpaceAfter=No
-24	1	1	NUM	N	NumType=Card	3	nummod	_	SpaceAfter=No
+24	1	1	NUM	N	NumType=Card	3	parataxis	_	SpaceAfter=No
 25	]	]	PUNCT	FB	_	24	punct	_	SpaceAfter=No
 26	.	.	PUNCT	FS	_	3	punct	_	_
 
@@ -17786,7 +17786,7 @@
 12	money	money	NOUN	S	Number=Sing	13	obj	_	_
 13	counterfeiting	counterfeiting	NOUN	S	Number=Sing	11	obj	_	_
 14	[	[	PUNCT	FB	_	15	punct	_	SpaceAfter=No
-15	4	4	NUM	N	NumType=Card	9	nummod	_	SpaceAfter=No
+15	4	4	NUM	N	NumType=Card	9	parataxis	_	SpaceAfter=No
 16	]	]	PUNCT	FB	_	15	punct	_	SpaceAfter=No
 17	.	.	PUNCT	FS	_	9	punct	_	_
 
@@ -17805,7 +17805,7 @@
 11	two	two	NUM	N	NumType=Card	12	nummod	_	_
 12	reports	report	NOUN	S	Number=Plur	10	obj	_	_
 13	[	[	PUNCT	FB	_	14	punct	_	SpaceAfter=No
-14	5	5	NUM	N	NumType=Card	12	nummod	_	SpaceAfter=No
+14	5	5	NUM	N	NumType=Card	12	parataxis	_	SpaceAfter=No
 15	]	]	PUNCT	FB	_	14	punct	_	_
 16	on	on	ADP	E	_	18	case	_	_
 17	the	the	DET	RD	Definite=Def|PronType=Art	18	det	_	_
@@ -18097,7 +18097,7 @@
 21	main	main	ADJ	A	Degree=Pos	22	amod	_	_
 22	conclusions	conclusion	NOUN	S	Number=Plur	18	obj	_	_
 23	[	[	PUNCT	FB	_	24	punct	_	SpaceAfter=No
-24	6	6	NUM	N	NumType=Card	18	nummod	_	SpaceAfter=No
+24	6	6	NUM	N	NumType=Card	18	parataxis	_	SpaceAfter=No
 25	]	]	PUNCT	FB	_	24	punct	_	SpaceAfter=No
 26	:	:	PUNCT	FC	_	18	punct	_	_
 
