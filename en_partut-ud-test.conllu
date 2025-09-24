@@ -899,7 +899,7 @@
 # sent_id = en_partut-ud-596
 # text = (14) As a general principle, the energy consumption of EUPs in stand-by or off-mode should be reduced to the minimum necessary for their proper functioning.
 1	(	(	PUNCT	FB	_	2	punct	_	SpaceAfter=No
-2	14	14	NUM	N	NumType=Card	22	nummod	_	SpaceAfter=No
+2	14	14	NUM	N	NumType=Card	22	discourse	_	SpaceAfter=No
 3	)	)	PUNCT	FB	_	2	punct	_	_
 4	As	as	ADP	E	_	7	case	_	_
 5	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	7	det	_	_
@@ -968,7 +968,7 @@
 # sent_id = en_partut-ud-768
 # text = (2) Everyone has the right to leave any country, including his own, and to return to his country.
 1	(	(	PUNCT	FB	_	2	punct	_	SpaceAfter=No
-2	2	2	NUM	N	NumType=Card	5	nummod	_	SpaceAfter=No
+2	2	2	NUM	N	NumType=Card	5	discourse	_	SpaceAfter=No
 3	)	)	PUNCT	FB	_	2	punct	_	_
 4	Everyone	everyone	PRON	PE	Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
 5	has	have	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
@@ -994,7 +994,7 @@
 # sent_id = en_partut-ud-773
 # text = (1) Men and women of full age, without any limitation due to race, nationality or religion, have the right to marry and to found a family.
 1	(	(	PUNCT	FB	_	2	punct	_	SpaceAfter=No
-2	1	1	NUM	N	NumType=Card	22	nummod	_	SpaceAfter=No
+2	1	1	NUM	N	NumType=Card	22	discourse	_	SpaceAfter=No
 3	)	)	PUNCT	FB	_	2	punct	_	_
 4	Men	men	NOUN	S	Number=Plur	22	nsubj	_	_
 5	and	and	CCONJ	CC	_	6	cc	_	_
@@ -1029,7 +1029,7 @@
 # sent_id = en_partut-ud-785
 # text = (2) Everyone has the right of equal access to public service in his country.
 1	(	(	PUNCT	FB	_	2	punct	_	SpaceAfter=No
-2	2	2	NUM	N	NumType=Card	5	nummod	_	SpaceAfter=No
+2	2	2	NUM	N	NumType=Card	5	discourse	_	SpaceAfter=No
 3	)	)	PUNCT	FB	_	2	punct	_	_
 4	Everyone	everyone	PRON	PE	Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
 5	has	have	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
@@ -1049,7 +1049,7 @@
 # sent_id = en_partut-ud-791
 # text = (3) Everyone who works has the right to just and favourable remuneration ensuring for himself and his family an existence worthy of human dignity, and supplemented, if necessary, by other means of social protection.
 1	(	(	PUNCT	FB	_	2	punct	_	SpaceAfter=No
-2	3	3	NUM	N	NumType=Card	7	nummod	_	SpaceAfter=No
+2	3	3	NUM	N	NumType=Card	7	discourse	_	SpaceAfter=No
 3	)	)	PUNCT	FB	_	2	punct	_	_
 4	Everyone	everyone	PRON	PE	Number=Sing|Person=3|PronType=Prs	7	nsubj	_	_
 5	who	who	PRON	PR	PronType=Rel	6	nsubj	_	_

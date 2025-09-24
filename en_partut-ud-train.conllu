@@ -14562,7 +14562,7 @@
 # sent_id = en_partut-ud-569
 # text = (2) Energy-using products (EUPs) account for a large proportion of the consumption of natural resources and energy in the Community.
 1	(	(	PUNCT	FB	_	2	punct	_	SpaceAfter=No
-2	2	2	NUM	N	NumType=Card	11	nummod	_	SpaceAfter=No
+2	2	2	NUM	N	NumType=Card	11	discourse	_	SpaceAfter=No
 3	)	)	PUNCT	FB	_	2	punct	_	_
 4	Energy	energy	NOUN	S	Number=Sing	6	obj	_	SpaceAfter=No
 5	-	-	PUNCT	FF	_	4	punct	_	SpaceAfter=No
@@ -14687,7 +14687,7 @@
 # sent_id = en_partut-ud-573
 # text = (3) The ecodesign of products is a crucial factor in the Community strategy on Integrated Product Policy.
 1	(	(	PUNCT	FB	_	2	punct	_	SpaceAfter=No
-2	3	3	NUM	N	NumType=Card	11	nummod	_	SpaceAfter=No
+2	3	3	NUM	N	NumType=Card	11	discourse	_	SpaceAfter=No
 3	)	)	PUNCT	FB	_	2	punct	_	_
 4	The	the	DET	RD	Definite=Def|PronType=Art	5	det	_	_
 5	ecodesign	ecodesign	NOUN	S	Number=Sing	11	nsubj	_	_
@@ -14750,7 +14750,7 @@
 # sent_id = en_partut-ud-575
 # text = (4) Energy efficiency improvement - with one of the available options being more efficient end use of electricity - is regarded as contributing substantially to the achievement of greenhouse gas emission targets in the Community.
 1	(	(	PUNCT	FB	_	2	punct	_	SpaceAfter=No
-2	4	4	NUM	N	NumType=Card	23	nummod	_	SpaceAfter=No
+2	4	4	NUM	N	NumType=Card	23	discourse	_	SpaceAfter=No
 3	)	)	PUNCT	FB	_	2	punct	_	_
 4	Energy	energy	NOUN	S	Number=Sing	5	nmod	_	_
 5	efficiency	efficiency	NOUN	S	Number=Sing	6	nmod	_	_
@@ -14888,7 +14888,7 @@
 # sent_id = en_partut-ud-580
 # text = (5) Action should be taken during the design phase of EUPs, since it appears that the pollution caused during a product's life cycle is determined at that stage, and most of the costs involved are committed then.
 1	(	(	PUNCT	FB	_	2	punct	_	SpaceAfter=No
-2	5	5	NUM	N	NumType=Card	7	nummod	_	SpaceAfter=No
+2	5	5	NUM	N	NumType=Card	7	discourse	_	SpaceAfter=No
 3	)	)	PUNCT	FB	_	2	punct	_	_
 4	Action	action	NOUN	S	Number=Sing	7	nsubj:pass	_	_
 5	should	shall	AUX	VM	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	7	aux	_	_
@@ -14935,7 +14935,7 @@
 # sent_id = en_partut-ud-581
 # text = (6) A coherent framework for the application of Community Ecodesign requirements for EUPs should be established with the aim of ensuring the free movement of those products which comply and of improving their overall environmental impact.
 1	(	(	PUNCT	FB	_	2	punct	_	SpaceAfter=No
-2	6	6	NUM	N	NumType=Card	18	nummod	_	SpaceAfter=No
+2	6	6	NUM	N	NumType=Card	18	discourse	_	SpaceAfter=No
 3	)	)	PUNCT	FB	_	2	punct	_	_
 4	A	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	6	det	_	_
 5	coherent	coherent	ADJ	A	Degree=Pos	6	amod	_	_
@@ -14994,7 +14994,7 @@
 # sent_id = en_partut-ud-583
 # text = (7) Ecodesign requirements should be set bearing in mind the goals and priorities of the Sixth Community Environment Action Programme, including as appropriate applicable goals of the relevant thematic strategies of that Programme.
 1	(	(	PUNCT	FB	_	2	punct	_	SpaceAfter=No
-2	7	7	NUM	N	NumType=Card	8	nummod	_	SpaceAfter=No
+2	7	7	NUM	N	NumType=Card	8	discourse	_	SpaceAfter=No
 3	)	)	PUNCT	FB	_	2	punct	_	_
 4	Ecodesign	ecodesign	NOUN	S	Number=Sing	5	nmod	_	_
 5	requirements	requirement	NOUN	S	Number=Plur	8	nsubj:pass	_	_
@@ -15034,7 +15034,7 @@
 # sent_id = en_partut-ud-584
 # text = (8) This Directive seeks to achieve a high level of protection for the environment by reducing the potential environmental impact of EUPs, which will ultimately be beneficial to consumers and other end-users.
 1	(	(	PUNCT	FB	_	2	punct	_	SpaceAfter=No
-2	8	8	NUM	N	NumType=Card	6	nummod	_	SpaceAfter=No
+2	8	8	NUM	N	NumType=Card	6	discourse	_	SpaceAfter=No
 3	)	)	PUNCT	FB	_	2	punct	_	_
 4	This	this	DET	DD	Number=Sing|PronType=Dem	5	det	_	_
 5	Directive	Directive	NOUN	S	Number=Sing	6	nsubj	_	_
@@ -15129,7 +15129,7 @@
 # sent_id = en_partut-ud-587
 # text = (9) A Member State deeming it necessary to maintain national provisions on grounds of major needs relating to the protection of the environment, or to introduce new ones based on new scientific evidence relating to the protection of the environment on groundsof a problem specific to that member state arising after the adoption of the applicable implementing measure, may do so following the conditions laid down in article 95 (4), (5) and (6) of the treaty, that provides for a prior notification to and approval from the Commission.
 1	(	(	PUNCT	FB	_	2	punct	_	SpaceAfter=No
-2	9	9	NUM	N	NumType=Card	65	nummod	_	SpaceAfter=No
+2	9	9	NUM	N	NumType=Card	65	discourse	_	SpaceAfter=No
 3	)	)	PUNCT	FB	_	2	punct	_	_
 4	A	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	6	det	_	_
 5	Member	member	NOUN	S	Number=Sing	6	compound	_	_
@@ -15203,7 +15203,7 @@
 73	article	article	NOUN	S	Number=Sing	70	obl	_	_
 74	95	95	NUM	N	NumType=Card	73	flat	_	_
 75	(	(	PUNCT	FB	_	76	punct	_	SpaceAfter=No
-76	4	4	NUM	N	NumType=Card	73	nummod	_	SpaceAfter=No
+76	4	4	NUM	N	NumType=Card	73	flat	_	SpaceAfter=No
 77	)	)	PUNCT	FB	_	76	punct	_	SpaceAfter=No
 78	,	,	PUNCT	FF	_	80	punct	_	_
 79	(	(	PUNCT	FB	_	80	punct	_	SpaceAfter=No
@@ -15234,7 +15234,7 @@
 # sent_id = en_partut-ud-588
 # text = (10) In order to maximise the environmental benefits from improved design it may be necessary to inform consumers about the environmental characteristics and performance of EUPs and to advise them about how to use products in a manner which is environmentally friendly.
 1	(	(	PUNCT	FB	_	2	punct	_	SpaceAfter=No
-2	10	10	NUM	N	NumType=Card	7	nummod	_	SpaceAfter=No
+2	10	10	NUM	N	NumType=Card	7	discourse	_	SpaceAfter=No
 3	)	)	PUNCT	FB	_	2	punct	_	_
 4	In	in	ADP	E	ExtPos=SCONJ	7	mark	_	_
 5	order	order	NOUN	S	Number=Sing	4	fixed	_	_
@@ -15282,7 +15282,7 @@
 # sent_id = en_partut-ud-589
 # text = (11) The approach set out in the Green Paper on Integrated Product Policy, which is a major innovative element of the Sixth Community Environment Action Programme, aims to reduce the environmental impacts of products across the whole of their life cycle.
 1	(	(	PUNCT	FB	_	2	punct	_	SpaceAfter=No
-2	11	11	NUM	N	NumType=Card	31	nummod	_	SpaceAfter=No
+2	11	11	NUM	N	NumType=Card	31	discourse	_	SpaceAfter=No
 3	)	)	PUNCT	FB	_	2	punct	_	_
 4	The	the	DET	RD	Definite=Def|PronType=Art	5	det	_	_
 5	approach	approach	NOUN	S	Number=Sing	31	nsubj	_	_
@@ -15392,7 +15392,7 @@
 # sent_id = en_partut-ud-592
 # text = (12) Although a comprehensive approach to environmental performance is desirable, greenhouse gas mitigation through increased energy efficiency should be considered a priority environmental goal pending the adoption of a working plan.
 1	(	(	PUNCT	FB	_	2	punct	_	SpaceAfter=No
-2	12	12	NUM	N	NumType=Card	23	nummod	_	SpaceAfter=No
+2	12	12	NUM	N	NumType=Card	23	discourse	_	SpaceAfter=No
 3	)	)	PUNCT	FB	_	2	punct	_	_
 4	Although	although	SCONJ	CS	_	12	mark	_	_
 5	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	7	det	_	_
@@ -15430,7 +15430,7 @@
 # sent_id = en_partut-ud-593
 # text = (13) It may be necessary and justified to establish specific quantified ecodesign requirements for some products or environmental aspects thereof in order to ensure that their environmental impact is minimised.
 1	(	(	PUNCT	FB	_	2	punct	_	SpaceAfter=No
-2	13	13	NUM	N	NumType=Card	7	nummod	_	SpaceAfter=No
+2	13	13	NUM	N	NumType=Card	7	discourse	_	SpaceAfter=No
 3	)	)	PUNCT	FB	_	2	punct	_	_
 4	It	it	PRON	PE	Number=Sing|Person=3|PronType=Prs	7	expl	_	_
 5	may	may	AUX	VM	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	_
@@ -15580,7 +15580,7 @@
 # sent_id = en_partut-ud-597
 # text = (15) While the best-performing products or technologies available on the market, including on international markets, should be taken as reference, the level of ecodesign requirements should be established on the basis of technical, economic and environmental analysis.
 1	(	(	PUNCT	FB	_	2	punct	_	SpaceAfter=No
-2	15	15	NUM	N	NumType=Card	24	nummod	_	SpaceAfter=No
+2	15	15	NUM	N	NumType=Card	24	discourse	_	SpaceAfter=No
 3	)	)	PUNCT	FB	_	2	punct	_	_
 4	While	while	SCONJ	CS	_	24	mark	_	_
 5	the	the	DET	RD	Definite=Def|PronType=Art	9	det	_	_
@@ -15730,7 +15730,7 @@
 # sent_id = en_partut-ud-603
 # text = (16) Priority should be given to alternative courses of action such as self-regulation by the industry where such action is likely to deliver the policy objectives faster or in a less costly manner than mandatory requirements.
 1	(	(	PUNCT	FB	_	2	punct	_	SpaceAfter=No
-2	16	16	NUM	N	NumType=Card	7	nummod	_	SpaceAfter=No
+2	16	16	NUM	N	NumType=Card	7	discourse	_	SpaceAfter=No
 3	)	)	PUNCT	FB	_	2	punct	_	_
 4	Priority	priority	NOUN	S	Number=Sing	7	nsubj:pass	_	_
 5	should	shall	AUX	VM	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	7	aux	_	_
@@ -15796,7 +15796,7 @@
 # sent_id = en_partut-ud-605
 # text = (18) For the assessment of voluntary agreements or other self-regulation measures presented as alternatives to implementing measures, information on at least the following issues should be available:
 1	(	(	PUNCT	FB	_	2	punct	_	SpaceAfter=No
-2	18	18	NUM	N	NumType=Card	30	nummod	_	SpaceAfter=No
+2	18	18	NUM	N	NumType=Card	30	discourse	_	SpaceAfter=No
 3	)	)	PUNCT	FB	_	2	punct	_	_
 4	For	for	ADP	E	_	6	case	_	_
 5	the	the	DET	RD	Definite=Def|PronType=Art	6	det	_	_
@@ -15918,7 +15918,7 @@
 # sent_id = en_partut-ud-608
 # text = (20) This Directive should also encourage the integration of Ecodesign in small and medium-sized enterprises (SMEs) and very small firms.
 1	(	(	PUNCT	FB	_	2	punct	_	SpaceAfter=No
-2	20	20	NUM	N	NumType=Card	8	nummod	_	SpaceAfter=No
+2	20	20	NUM	N	NumType=Card	8	discourse	_	SpaceAfter=No
 3	)	)	PUNCT	FB	_	2	punct	_	_
 4	This	this	DET	DD	Number=Sing|PronType=Dem	5	det	_	_
 5	Directive	Directive	NOUN	S	Number=Sing	8	nsubj	_	_
@@ -15996,7 +15996,7 @@
 # sent_id = en_partut-ud-612
 # text = (22) When preparing implementing measures and its working plan the Commission should consult Member States' representatives as well as interested parties concerned with the product group, such as industry, including SMEs and craft industry, trade unions, traders, retailers, importers, environmental protection groups and consumer organisations.
 1	(	(	PUNCT	FB	_	2	punct	_	SpaceAfter=No
-2	22	22	NUM	N	NumType=Card	15	nummod	_	SpaceAfter=No
+2	22	22	NUM	N	NumType=Card	15	discourse	_	SpaceAfter=No
 3	)	)	PUNCT	FB	_	2	punct	_	_
 4	When	when	SCONJ	CS	_	5	mark	_	_
 5	preparing	prepare	VERB	V	VerbForm=Ger	15	advcl	_	_
@@ -16056,7 +16056,7 @@
 # sent_id = en_partut-ud-613
 # text = (23) When preparing implementing measures, the Commission should also take due account of existing national environmental legislation, in particular concerning toxic substances, which Member States have indicated that they consider should be preserved, without reducing the existing and justified levels of protection in the Member States.
 1	(	(	PUNCT	FB	_	2	punct	_	SpaceAfter=No
-2	23	23	NUM	N	NumType=Card	13	nummod	_	SpaceAfter=No
+2	23	23	NUM	N	NumType=Card	13	discourse	_	SpaceAfter=No
 3	)	)	PUNCT	FB	_	2	punct	_	_
 4	When	when	SCONJ	CS	_	5	mark	_	_
 5	preparing	prepare	VERB	V	VerbForm=Ger	13	advcl	_	_
@@ -16112,7 +16112,7 @@
 # sent_id = en_partut-ud-614
 # text = (24) Regard should be given to the modules and rules intended for use in technical harmonisation Directives set out in Council Decision 93/465/EEC of 22 July 1993 concerning the modules for the various phases of the conformity assessment procedures and the rules for the affixing and use of the CE conformity marking, which are intended to be used in the technical harmonisation Directives.
 1	(	(	PUNCT	FB	_	2	punct	_	SpaceAfter=No
-2	24	24	NUM	N	NumType=Card	7	nummod	_	SpaceAfter=No
+2	24	24	NUM	N	NumType=Card	7	discourse	_	SpaceAfter=No
 3	)	)	PUNCT	FB	_	2	punct	_	_
 4	Regard	regard	NOUN	S	Number=Sing	7	nsubj:pass	_	_
 5	should	shall	AUX	VM	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	7	aux	_	_
@@ -16182,7 +16182,7 @@
 # sent_id = en_partut-ud-615
 # text = (25) Surveillance authorities should exchange information on the measures envisaged within the scope of this Directive with a view to improving surveillance of the market.
 1	(	(	PUNCT	FB	_	2	punct	_	SpaceAfter=No
-2	25	25	NUM	N	NumType=Card	7	nummod	_	SpaceAfter=No
+2	25	25	NUM	N	NumType=Card	7	discourse	_	SpaceAfter=No
 3	)	)	PUNCT	FB	_	2	punct	_	_
 4	Surveillance	surveillance	NOUN	S	Number=Sing	5	nmod	_	_
 5	authorities	authority	NOUN	S	Number=Plur	7	nsubj	_	_
@@ -16286,7 +16286,7 @@
 # sent_id = en_partut-ud-619
 # text = (26) A competent body is usually a public or private body, designated by the public authorities, and presenting the necessary guarantees for impartiality and availability of technical expertise for carrying out verification of the product with regard to its compliance with the applicable implementing measures.
 1	(	(	PUNCT	FB	_	2	punct	_	SpaceAfter=No
-2	26	26	NUM	N	NumType=Card	13	nummod	_	SpaceAfter=No
+2	26	26	NUM	N	NumType=Card	13	discourse	_	SpaceAfter=No
 3	)	)	PUNCT	FB	_	2	punct	_	_
 4	A	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	6	det	_	_
 5	competent	competent	ADJ	A	Degree=Pos	6	amod	_	_
@@ -16339,7 +16339,7 @@
 # sent_id = en_partut-ud-620
 # text = (27) Noting the importance of avoiding non-compliance, Member States should ensure that the necessary means are available for effective market surveillance.
 1	(	(	PUNCT	FB	_	2	punct	_	SpaceAfter=No
-2	27	27	NUM	N	NumType=Card	16	nummod	_	SpaceAfter=No
+2	27	27	NUM	N	NumType=Card	16	discourse	_	SpaceAfter=No
 3	)	)	PUNCT	FB	_	2	punct	_	_
 4	Noting	note	VERB	V	VerbForm=Ger	16	advcl	_	_
 5	the	the	DET	RD	Definite=Def|PronType=Art	6	det	_	_
@@ -16369,7 +16369,7 @@
 # sent_id = en_partut-ud-621
 # text = (28) In respect of training and information on ecodesign for SMEs, it may be appropriate to consider accompanying activities.
 1	(	(	PUNCT	FB	_	2	punct	_	SpaceAfter=No
-2	28	28	NUM	N	NumType=Card	18	nummod	_	SpaceAfter=No
+2	28	28	NUM	N	NumType=Card	18	discourse	_	SpaceAfter=No
 3	)	)	PUNCT	FB	_	2	punct	_	_
 4	In	in	ADP	E	_	5	case	_	_
 5	respect	respect	NOUN	S	Number=Sing	18	obl	_	_
@@ -16395,7 +16395,7 @@
 # sent_id = en_partut-ud-622
 # text = (29) It is in the interest of the functioning of the internal market to have standards which have been harmonised at Community level.
 1	(	(	PUNCT	FB	_	2	punct	_	SpaceAfter=No
-2	29	29	NUM	N	NumType=Card	8	nummod	_	SpaceAfter=No
+2	29	29	NUM	N	NumType=Card	8	discourse	_	SpaceAfter=No
 3	)	)	PUNCT	FB	_	2	punct	_	_
 4	It	it	PRON	PE	Number=Sing|Person=3|PronType=Prs	8	expl	_	_
 5	is	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
@@ -16484,7 +16484,7 @@
 # sent_id = en_partut-ud-624
 # text = (30) One of the main roles of harmonised standards should be to help manufacturers in applying the implementing measures adopted under this Directive.
 1	(	(	PUNCT	FB	_	2	punct	_	SpaceAfter=No
-2	30	30	NUM	N	NumType=Card	4	nummod	_	SpaceAfter=No
+2	30	30	NUM	N	NumType=Card	4	discourse	_	SpaceAfter=No
 3	)	)	PUNCT	FB	_	2	punct	_	_
 4	One	one	NUM	N	NumType=Card	0	root	_	_
 5	of	of	ADP	E	_	8	case	_	_
@@ -16602,7 +16602,7 @@
 # sent_id = en_partut-ud-629
 # text = (31) For the purpose of definitions used in this Directive it is useful to refer to relevant international standards such as ISO 14040 (32).
 1	(	(	PUNCT	FB	_	2	punct	_	SpaceAfter=No
-2	31	31	NUM	N	NumType=Card	15	nummod	_	SpaceAfter=No
+2	31	31	NUM	N	NumType=Card	15	discourse	_	SpaceAfter=No
 3	)	)	PUNCT	FB	_	2	punct	_	_
 4	For	for	ADP	E	_	6	case	_	_
 5	the	the	DET	RD	Definite=Def|PronType=Art	6	det	_	_
@@ -16627,7 +16627,7 @@
 24	ISO	ISO	PROPN	SP	_	21	nmod	_	_
 25	14040	14040	NUM	N	NumType=Card	24	flat	_	_
 26	(	(	PUNCT	FB	_	27	punct	_	SpaceAfter=No
-27	32	32	NUM	N	NumType=Card	17	nummod	_	SpaceAfter=No
+27	32	32	NUM	N	NumType=Card	17	discourse	_	SpaceAfter=No
 28	)	)	PUNCT	FB	_	27	punct	_	SpaceAfter=No
 29	.	.	PUNCT	FS	_	15	punct	_	_
 
@@ -16728,7 +16728,7 @@
 # sent_id = en_partut-ud-632
 # text = (33) This Directive is complementary to existing Community instruments such as Council Directive 92/75/EEC of 22 September 1992 on the indication by labelling and standard product information of the consumption of energy and other resources by household appliances, Regulation (EC) No 1980/2000 of the European Parliament and of the Council of 17 July 2000 on a revised Community eco-label award scheme, Regulation (EC) No 2422/2001 of the European Parliament and of the Council of 6 November 2001 on a Community energy efficiency labelling programme for office equipment, Directive 2002/96/EC of the European Parliament and of the Council of 27 January 2003 on waste electrical and electronic equipment (WEEE), Directive 2002/95/EC of the European Parliament and of the Council of 27 January 2003 on the restriction of the use of certain hazardous substances in electrical and electronic equipment and Council Directive 76/769/EEC of 27 July 1976 on the approximation of the laws, regulations and administrative provisions of the Member States relating to restrictions on the marketing and use of certain dangerous substances and preparations.
 1	(	(	PUNCT	FB	_	2	punct	_	SpaceAfter=No
-2	33	33	NUM	N	NumType=Card	7	nummod	_	SpaceAfter=No
+2	33	33	NUM	N	NumType=Card	7	discourse	_	SpaceAfter=No
 3	)	)	PUNCT	FB	_	2	punct	_	_
 4	This	this	DET	DD	Number=Sing|PronType=Dem	5	det	_	_
 5	Directive	Directive	NOUN	S	Number=Sing	7	nsubj	_	_
@@ -16948,7 +16948,7 @@
 # sent_id = en_partut-ud-634
 # text = (34) Since Council Directive 92/42/EEC of 21 May 1992 on efficiency requirements for new hot-water boilers fired with liquid or gaseous fuels, Directive 96/57/EC of the European Parliament and of the Council of 3 September 1996 on energy efficiency requirements for household electric refrigerators, freezers and combinations thereof and Directive 2000/55/EC of the European Parliament and of the Council of 18 September 2000 on energy efficiency requirements for ballasts for fluorescent lighting already contain provisions for the revision of the energy efficiency requirements, they should be integrated into the present framework.
 1	(	(	PUNCT	FB	_	2	punct	_	SpaceAfter=No
-2	34	34	NUM	N	NumType=Card	94	nummod	_	SpaceAfter=No
+2	34	34	NUM	N	NumType=Card	94	discourse	_	SpaceAfter=No
 3	)	)	PUNCT	FB	_	2	punct	_	_
 4	Since	since	SCONJ	CS	_	80	mark	_	_
 5	Council	Council	NOUN	S	Number=Sing	6	nmod	_	_
@@ -17050,7 +17050,7 @@
 # sent_id = en_partut-ud-635
 # text = (35) Directive 92/42/EEC provides for a star rating system intended to ascertain the energy performance of boilers.
 1	(	(	PUNCT	FB	_	2	punct	_	SpaceAfter=No
-2	35	35	NUM	N	NumType=Card	6	nummod	_	SpaceAfter=No
+2	35	35	NUM	N	NumType=Card	6	discourse	_	SpaceAfter=No
 3	)	)	PUNCT	FB	_	2	punct	_	_
 4	Directive	Directive	NOUN	S	Number=Sing	6	nsubj	_	_
 5	92/42/EEC	92/42/EEC	PROPN	SP	Number=Sing	4	flat	_	_
@@ -17111,7 +17111,7 @@
 # sent_id = en_partut-ud-637
 # text = (36) The requirements laid down in Council Directive 78/170/EEC of 13 February 1978 on the performance of heat generators for space heating and the production of hot water in new or existing non-industrial buildings and on the insulation of heat and domestic hot-water distribution in new non-industrial buildings have been superseded by provisions of Directive 92/42/EEC, Council Directive 90/396/EEC of 29 June 1990 on the approximation of the laws of the Member States relating to appliances burning gaseous fuels and Directive 2002/91/EC of the European Parliament and of the Council of 16 December 2002 on the energy performance of buildings.
 1	(	(	PUNCT	FB	_	2	punct	_	SpaceAfter=No
-2	36	36	NUM	N	NumType=Card	59	nummod	_	SpaceAfter=No
+2	36	36	NUM	N	NumType=Card	59	discourse	_	SpaceAfter=No
 3	)	)	PUNCT	FB	_	2	punct	_	_
 4	The	the	DET	RD	Definite=Def|PronType=Art	5	det	_	_
 5	requirements	requirement	NOUN	S	Number=Plur	59	nsubj:pass	_	_
@@ -19484,7 +19484,7 @@
 6	with	with	ADP	E	_	7	case	_	_
 7	Recital	recital	NOUN	S	Number=Sing	5	nmod	_	_
 8	(	(	PUNCT	FB	_	9	punct	_	SpaceAfter=No
-9	7	7	NUM	N	NumType=Card	7	nummod	_	SpaceAfter=No
+9	7	7	NUM	N	NumType=Card	7	flat	_	SpaceAfter=No
 10	)	)	PUNCT	FB	_	9	punct	_	_
 11	of	of	ADP	E	_	14	case	_	_
 12	the	the	DET	RD	Definite=Def|PronType=Art	14	det	_	_
@@ -20790,7 +20790,7 @@
 # sent_id = en_partut-ud-762
 # text = (1) Everyone charged with a penal offence has the right to be presumed innocent until proved guilty according to law in a public trial at which he has had all the guarantees necessary for his defence.
 1	(	(	PUNCT	FB	_	2	punct	_	SpaceAfter=No
-2	1	1	NUM	N	NumType=Card	10	nummod	_	SpaceAfter=No
+2	1	1	NUM	N	NumType=Card	10	discourse	_	SpaceAfter=No
 3	)	)	PUNCT	FB	_	2	punct	_	_
 4	Everyone	everyone	PRON	PE	Number=Sing|Person=3|PronType=Prs	10	nsubj	_	_
 5	charged	charge	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	4	advcl	_	_
@@ -20832,7 +20832,7 @@
 # sent_id = en_partut-ud-763
 # text = (2) No one shall be held guilty of any penal offence on account of any act or omission which did not constitute a penal offence, under national or international law, at the time when it was committed.
 1	(	(	PUNCT	FB	_	2	punct	_	SpaceAfter=No
-2	2	2	NUM	N	NumType=Card	8	nummod	_	SpaceAfter=No
+2	2	2	NUM	N	NumType=Card	8	discourse	_	SpaceAfter=No
 3	)	)	PUNCT	FB	_	2	punct	_	_
 4	No	no	DET	DI	PronType=Ind	5	det	_	_
 5	one	one	PRON	PE	Number=Sing|Person=3|PronType=Prs	8	nsubj:pass	_	_
@@ -20951,7 +20951,7 @@
 # sent_id = en_partut-ud-767
 # text = (1) Everyone has the right to freedom of movement and residence within the borders of each State.
 1	(	(	PUNCT	FB	_	2	punct	_	SpaceAfter=No
-2	1	1	NUM	N	NumType=Card	5	nummod	_	SpaceAfter=No
+2	1	1	NUM	N	NumType=Card	5	discourse	_	SpaceAfter=No
 3	)	)	PUNCT	FB	_	2	punct	_	_
 4	Everyone	everyone	PRON	PE	Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
 5	has	have	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
@@ -20974,7 +20974,7 @@
 # sent_id = en_partut-ud-769
 # text = (1) Everyone has the right to seek and to enjoy in other countries asylum from persecution.
 1	(	(	PUNCT	FB	_	2	punct	_	SpaceAfter=No
-2	1	1	NUM	N	NumType=Card	5	nummod	_	SpaceAfter=No
+2	1	1	NUM	N	NumType=Card	5	discourse	_	SpaceAfter=No
 3	)	)	PUNCT	FB	_	2	punct	_	_
 4	Everyone	everyone	PRON	PE	Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
 5	has	have	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
@@ -20996,7 +20996,7 @@
 # sent_id = en_partut-ud-770
 # text = (2) This right may not be invoked in the case of prosecutions genuinely arising from non-political crimes or from acts contrary to the purposes and principles of the United Nations.
 1	(	(	PUNCT	FB	_	2	punct	_	SpaceAfter=No
-2	2	2	NUM	N	NumType=Card	9	nummod	_	SpaceAfter=No
+2	2	2	NUM	N	NumType=Card	9	discourse	_	SpaceAfter=No
 3	)	)	PUNCT	FB	_	2	punct	_	_
 4	This	this	DET	DD	Number=Sing|PronType=Dem	5	det	_	_
 5	right	right	NOUN	S	Number=Sing	9	nsubj:pass	_	_
@@ -21034,7 +21034,7 @@
 # sent_id = en_partut-ud-772
 # text = (2) No one shall be arbitrarily deprived of his nationality nor denied the right to change his nationality.
 1	(	(	PUNCT	FB	_	2	punct	_	SpaceAfter=No
-2	2	2	NUM	N	NumType=Card	9	nummod	_	SpaceAfter=No
+2	2	2	NUM	N	NumType=Card	9	discourse	_	SpaceAfter=No
 3	)	)	PUNCT	FB	_	2	punct	_	_
 4	No	no	DET	DI	PronType=Ind	5	det	_	_
 5	one	one	PRON	PE	Number=Sing|Person=3|PronType=Prs	9	nsubj:pass	_	_
@@ -21078,7 +21078,7 @@
 # sent_id = en_partut-ud-775
 # text = (2) Marriage shall be entered into only with the free and full consent of the intending spouses.
 1	(	(	PUNCT	FB	_	2	punct	_	SpaceAfter=No
-2	2	2	NUM	N	NumType=Card	7	nummod	_	SpaceAfter=No
+2	2	2	NUM	N	NumType=Card	7	discourse	_	SpaceAfter=No
 3	)	)	PUNCT	FB	_	2	punct	_	_
 4	Marriage	marriage	NOUN	S	Number=Sing	7	nsubj:pass	_	_
 5	shall	shall	AUX	VM	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	_
@@ -21101,7 +21101,7 @@
 # sent_id = en_partut-ud-776
 # text = (3) The family is the natural and fundamental group unit of society and is entitled to protection by society and the State.
 1	(	(	PUNCT	FB	_	2	punct	_	SpaceAfter=No
-2	3	3	NUM	N	NumType=Card	12	nummod	_	SpaceAfter=No
+2	3	3	NUM	N	NumType=Card	12	discourse	_	SpaceAfter=No
 3	)	)	PUNCT	FB	_	2	punct	_	_
 4	The	the	DET	RD	Definite=Def|PronType=Art	5	det	_	_
 5	family	family	NOUN	S	Number=Sing	12	nsubj	_	_
@@ -21129,7 +21129,7 @@
 # sent_id = en_partut-ud-777
 # text = (1) Everyone has the right to own property alone as well as in association with others.
 1	(	(	PUNCT	FB	_	2	punct	_	SpaceAfter=No
-2	1	1	NUM	N	NumType=Card	5	nummod	_	SpaceAfter=No
+2	1	1	NUM	N	NumType=Card	5	discourse	_	SpaceAfter=No
 3	)	)	PUNCT	FB	_	2	punct	_	_
 4	Everyone	everyone	PRON	PE	Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
 5	has	have	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
@@ -21151,7 +21151,7 @@
 # sent_id = en_partut-ud-778
 # text = (2) No one shall be arbitrarily deprived of his property.
 1	(	(	PUNCT	FB	_	2	punct	_	SpaceAfter=No
-2	2	2	NUM	N	NumType=Card	9	nummod	_	SpaceAfter=No
+2	2	2	NUM	N	NumType=Card	9	discourse	_	SpaceAfter=No
 3	)	)	PUNCT	FB	_	2	punct	_	_
 4	No	no	DET	DI	PronType=Ind	5	det	_	_
 5	one	one	PRON	PE	Number=Sing|Person=3|PronType=Prs	9	nsubj:pass	_	_
@@ -21242,7 +21242,7 @@
 # sent_id = en_partut-ud-782
 # text = (1) Everyone has the right to freedom of peaceful assembly and association.
 1	(	(	PUNCT	FB	_	2	punct	_	SpaceAfter=No
-2	1	1	NUM	N	NumType=Card	5	nummod	_	SpaceAfter=No
+2	1	1	NUM	N	NumType=Card	5	discourse	_	SpaceAfter=No
 3	)	)	PUNCT	FB	_	2	punct	_	_
 4	Everyone	everyone	PRON	PE	Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
 5	has	have	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
@@ -21260,7 +21260,7 @@
 # sent_id = en_partut-ud-783
 # text = (2) No one may be compelled to belong to an association.
 1	(	(	PUNCT	FB	_	2	punct	_	SpaceAfter=No
-2	2	2	NUM	N	NumType=Card	8	nummod	_	SpaceAfter=No
+2	2	2	NUM	N	NumType=Card	8	discourse	_	SpaceAfter=No
 3	)	)	PUNCT	FB	_	2	punct	_	_
 4	No	no	DET	DI	PronType=Ind	5	det	_	_
 5	one	one	PRON	PE	Number=Sing|Person=3|PronType=Prs	8	nsubj:pass	_	_
@@ -21277,7 +21277,7 @@
 # sent_id = en_partut-ud-784
 # text = (1) Everyone has the right to take part in the government of his country, directly or through freely chosen representatives.
 1	(	(	PUNCT	FB	_	2	punct	_	SpaceAfter=No
-2	1	1	NUM	N	NumType=Card	5	nummod	_	SpaceAfter=No
+2	1	1	NUM	N	NumType=Card	5	discourse	_	SpaceAfter=No
 3	)	)	PUNCT	FB	_	2	punct	_	_
 4	Everyone	everyone	PRON	PE	Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
 5	has	have	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
@@ -21304,7 +21304,7 @@
 # sent_id = en_partut-ud-786
 # text = (3) The will of the people shall be the basis of the authority of government;
 1	(	(	PUNCT	FB	_	2	punct	_	SpaceAfter=No
-2	3	3	NUM	N	NumType=Card	12	nummod	_	SpaceAfter=No
+2	3	3	NUM	N	NumType=Card	12	discourse	_	SpaceAfter=No
 3	)	)	PUNCT	FB	_	2	punct	_	_
 4	The	the	DET	RD	Definite=Def|PronType=Art	5	det	_	_
 5	will	will	NOUN	S	Number=Sing	12	nsubj	_	_
@@ -21423,7 +21423,7 @@
 # sent_id = en_partut-ud-789
 # text = (1) Everyone has the right to work, to free choice of employment, to just and favourable conditions of work and to protection against unemployment.
 1	(	(	PUNCT	FB	_	2	punct	_	SpaceAfter=No
-2	1	1	NUM	N	NumType=Card	5	nummod	_	SpaceAfter=No
+2	1	1	NUM	N	NumType=Card	5	discourse	_	SpaceAfter=No
 3	)	)	PUNCT	FB	_	2	punct	_	_
 4	Everyone	everyone	PRON	PE	Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
 5	has	have	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
@@ -21455,7 +21455,7 @@
 # sent_id = en_partut-ud-790
 # text = (2) Everyone, without any discrimination, has the right to equal pay for equal work.
 1	(	(	PUNCT	FB	_	2	punct	_	SpaceAfter=No
-2	2	2	NUM	N	NumType=Card	10	nummod	_	SpaceAfter=No
+2	2	2	NUM	N	NumType=Card	10	discourse	_	SpaceAfter=No
 3	)	)	PUNCT	FB	_	2	punct	_	_
 4	Everyone	Everyone	PROPN	SP	_	10	nsubj	_	SpaceAfter=No
 5	,	,	PUNCT	FF	_	4	punct	_	_
@@ -21477,7 +21477,7 @@
 # sent_id = en_partut-ud-792
 # text = (4) Everyone has the right to form and to join trade unions for the protection of his interests.
 1	(	(	PUNCT	FB	_	2	punct	_	SpaceAfter=No
-2	4	4	NUM	N	NumType=Card	5	nummod	_	SpaceAfter=No
+2	4	4	NUM	N	NumType=Card	5	discourse	_	SpaceAfter=No
 3	)	)	PUNCT	FB	_	2	punct	_	_
 4	Everyone	everyone	PRON	PE	Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
 5	has	have	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
@@ -21525,7 +21525,7 @@
 # sent_id = en_partut-ud-794
 # text = (1) Everyone has the right to a standard of living adequate for the health and well-being of himself and of his family, including food, clothing, housing and medical care and necessary social services, and the right to security in the event of unemployment, sickness, disability, widowhood, old age or other lack of livelihood in circumstances beyond his control.
 1	(	(	PUNCT	FB	_	2	punct	_	SpaceAfter=No
-2	1	1	NUM	N	NumType=Card	5	nummod	_	SpaceAfter=No
+2	1	1	NUM	N	NumType=Card	5	discourse	_	SpaceAfter=No
 3	)	)	PUNCT	FB	_	2	punct	_	_
 4	Everyone	everyone	PRON	PE	Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
 5	has	have	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
@@ -21597,7 +21597,7 @@
 # sent_id = en_partut-ud-795
 # text = (2) Motherhood and childhood are entitled to special care and assistance.
 1	(	(	PUNCT	FB	_	2	punct	_	SpaceAfter=No
-2	2	2	NUM	N	NumType=Card	8	nummod	_	SpaceAfter=No
+2	2	2	NUM	N	NumType=Card	8	discourse	_	SpaceAfter=No
 3	)	)	PUNCT	FB	_	2	punct	_	_
 4	Motherhood	motherhood	NOUN	S	Number=Sing	8	nsubj:pass	_	_
 5	and	and	CCONJ	CC	_	6	cc	_	_
@@ -21635,7 +21635,7 @@
 # sent_id = en_partut-ud-797
 # text = (1) Everyone has the right to education.
 1	(	(	PUNCT	FB	_	2	punct	_	SpaceAfter=No
-2	1	1	NUM	N	NumType=Card	5	nummod	_	SpaceAfter=No
+2	1	1	NUM	N	NumType=Card	5	discourse	_	SpaceAfter=No
 3	)	)	PUNCT	FB	_	2	punct	_	_
 4	Everyone	everyone	PRON	PE	Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
 5	has	have	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
@@ -21700,7 +21700,7 @@
 # sent_id = en_partut-ud-800
 # text = (3) Parents have a prior right to choose the kind of education that shall be given to their children.
 1	(	(	PUNCT	FB	_	2	punct	_	SpaceAfter=No
-2	3	3	NUM	N	NumType=Card	5	nummod	_	SpaceAfter=No
+2	3	3	NUM	N	NumType=Card	5	discourse	_	SpaceAfter=No
 3	)	)	PUNCT	FB	_	2	punct	_	_
 4	Parents	parent	NOUN	S	Number=Plur	5	nsubj	_	_
 5	have	have	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	0	root	_	_
@@ -21725,7 +21725,7 @@
 # sent_id = en_partut-ud-801
 # text = (1) Everyone has the right freely to participate in the cultural life of the community, to enjoy the arts and to share in scientific advancement and its benefits.
 1	(	(	PUNCT	FB	_	2	punct	_	SpaceAfter=No
-2	1	1	NUM	N	NumType=Card	5	nummod	_	SpaceAfter=No
+2	1	1	NUM	N	NumType=Card	5	discourse	_	SpaceAfter=No
 3	)	)	PUNCT	FB	_	2	punct	_	_
 4	Everyone	everyone	PRON	PE	Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
 5	has	have	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
@@ -21760,7 +21760,7 @@
 # sent_id = en_partut-ud-802
 # text = (2) Everyone has the right to the protection of the moral and material interests resulting from any scientific, literary or artistic production of which he is the author.
 1	(	(	PUNCT	FB	_	2	punct	_	SpaceAfter=No
-2	2	2	NUM	N	NumType=Card	5	nummod	_	SpaceAfter=No
+2	2	2	NUM	N	NumType=Card	5	discourse	_	SpaceAfter=No
 3	)	)	PUNCT	FB	_	2	punct	_	_
 4	Everyone	everyone	PRON	PE	Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
 5	has	have	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
@@ -21823,7 +21823,7 @@
 # sent_id = en_partut-ud-804
 # text = (1) Everyone has duties to the community in which alone the free and full development of his personality is possible.
 1	(	(	PUNCT	FB	_	2	punct	_	SpaceAfter=No
-2	1	1	NUM	N	NumType=Card	5	nummod	_	SpaceAfter=No
+2	1	1	NUM	N	NumType=Card	5	discourse	_	SpaceAfter=No
 3	)	)	PUNCT	FB	_	2	punct	_	_
 4	Everyone	everyone	PRON	PE	Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
 5	has	have	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
@@ -21849,7 +21849,7 @@
 # sent_id = en_partut-ud-805
 # text = (2) In the exercise of his rights and freedoms, everyone shall be subject only to such limitations as are determined by law solely for the purpose of securing due recognition and respect for the rights and freedoms of others and of meeting the just requirements of morality, public order and the general welfare in a democratic society.
 1	(	(	PUNCT	FB	_	2	punct	_	SpaceAfter=No
-2	2	2	NUM	N	NumType=Card	16	nummod	_	SpaceAfter=No
+2	2	2	NUM	N	NumType=Card	16	discourse	_	SpaceAfter=No
 3	)	)	PUNCT	FB	_	2	punct	_	_
 4	In	in	ADP	E	_	6	case	_	_
 5	the	the	DET	RD	Definite=Def|PronType=Art	6	det	_	_
@@ -21914,7 +21914,7 @@
 # sent_id = en_partut-ud-806
 # text = (3) These rights and freedoms may in no case be exercised contrary to the purposes and principles of the United Nations.
 1	(	(	PUNCT	FB	_	2	punct	_	SpaceAfter=No
-2	3	3	NUM	N	NumType=Card	13	nummod	_	SpaceAfter=No
+2	3	3	NUM	N	NumType=Card	13	discourse	_	SpaceAfter=No
 3	)	)	PUNCT	FB	_	2	punct	_	_
 4	These	this	DET	DD	Number=Plur|PronType=Dem	5	det	_	_
 5	rights	right	NOUN	S	Number=Plur	13	nsubj:pass	_	_
