@@ -730,7 +730,7 @@
 42	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	46	det	_	_
 43	Creative	Creative	PROPN	SP	_	46	nmod	_	_
 44	Commons	Commons	PROPN	SP	Number=Plur	43	flat	_	_
-45	iCommons	iCommons	PROPN	SP	Number=Ptan	43	flat	_	_
+45	iCommons	iCommons	PROPN	SP	Number=Plur	43	flat	_	_
 46	license	license	NOUN	S	Number=Sing	24	conj	_	_
 47	that	that	PRON	PR	PronType=Rel	48	nsubj	_	_
 48	contains	contain	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	46	acl:relcl	_	_
