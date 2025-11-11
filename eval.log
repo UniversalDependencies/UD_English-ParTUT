@@ -1,13 +1,17 @@
 Running the following version of UD tools:
-commit ecbbdff44b15c9b6de4a691e3499c1286459ab2e
+commit 26e6c87a2f518322d15901a351199b6be6569062
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Fri May 9 21:07:42 2025 +0200
+Date:   Fri Nov 7 15:39:58 2025 +0100
 Evaluating the following revision of UD_English-ParTUT:
-commit c99e060f91813e85469680b4a789aa161098d73a
-Merge: fea1c76 a098ff0
+commit 7adf396367c90e6836d78dadf71b29ae1fe88381
+Merge: bd9434b 042cea7
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Size: counted 49634 of 49634 words (nodes).
-Size: min(0, log((N/1000)**2)) = 7.80935216553019.
+CoNLL-U data file regular expression = '(.+)-ud-(train|dev|test)\.conllu'
+Language-treebank code (from CoNLL-U file name) = 'en_partut'
+Language code (from CoNLL-U file name) = 'en'
+Found the following data files: en_partut-ud-dev.conllu, en_partut-ud-test.conllu, en_partut-ud-train.conllu
+Size: counted 49478 of 49478 words (nodes).
+Size: min(0, log((N/1000)**2)) = 7.80305625267099.
 Size: maximum value 13.815511 is for 1000000 words or more.
 Split: Found more than 10000 training words.
 Split: Did not find at least 10000 development words.
@@ -15,30 +19,39 @@ Split: Did not find at least 10000 test words.
 Lemmas: source of annotation (from README) factor is 0.9.
 Universal POS tags: 17 out of 17 found in the corpus.
 Universal POS tags: source of annotation (from README) factor is 0.9.
-Features: 30436 out of 49634 total words have one or more features.
+Features: 30476 out of 49478 total words have one or more features.
 Features: source of annotation (from README) factor is 0.9.
 Universal relations: 33 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 0.9.
-Udapi:
-               TOTAL         66
-Udapi: found 66 bugs.
-Udapi: worst expected case (threshold) is one bug per 10 words. There are 49634 words.
 Genres: found 3 out of 18 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang en --max-err=10 UD_English-ParTUT/en_partut-ud-dev.conllu
 *** PASSED ***
 /net/work/people/zeman/unidep/tools/validate.py --lang en --max-err=10 UD_English-ParTUT/en_partut-ud-test.conllu
+[Line 2824 Sent en_partut-ud-1020]: [L3 Warning obl-should-be-nmod] The parent (node [17] 'carryover') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 3141 Sent en_partut-ud-1356]: [L3 Warning obl-should-be-nmod] The parent (node [36] 'side') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+Warnings: 2
 *** PASSED ***
 /net/work/people/zeman/unidep/tools/validate.py --lang en --max-err=10 UD_English-ParTUT/en_partut-ud-train.conllu
+[Line 244 Sent en_partut-ud-18]: [L3 Warning obl-should-be-nmod] The parent (node [40] 'rights') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 350 Sent en_partut-ud-22]: [L3 Warning obl-should-be-nmod] The parent (node [18] 'means') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 9357 Sent en_partut-ud-343]: [L3 Warning obl-should-be-nmod] The parent (node [4] 'quarters') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 19753 Sent en_partut-ud-726]: [L3 Warning obl-should-be-nmod] The parent (node [8] 'Decision') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 23632 Sent en_partut-ud-1048]: [L3 Warning obl-should-be-nmod] The parent (node [18] 'world') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 32382 Sent en_partut-ud-1395]: [L3 Warning obl-should-be-nmod] The parent (node [8] 'headlines') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 34774 Sent en_partut-ud-1497]: [L3 Warning obl-should-be-nmod] The parent (node [10] 'cases') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 35870 Sent en_partut-ud-1538]: [L3 Warning obl-should-be-nmod] The parent (node [1] 'Balzac') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 41859 Sent en_partut-ud-1803]: [L3 Warning obl-should-be-nmod] The parent (node [1] 'William') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 42278 Sent en_partut-ud-1818]: [L3 Warning pron-det-without-prontype] The word 'all' is tagged 'DET' but it lacks the 'PronType' feature
+Warnings: 10
 *** PASSED ***
 Validity: 1
-(weight=0.0769230769230769) * (score{features}=0.9) = 0.0692307692307692
-(weight=0.0769230769230769) * (score{genres}=0.166666666666667) = 0.0128205128205128
-(weight=0.0769230769230769) * (score{lemmas}=0.9) = 0.0692307692307692
-(weight=0.256410256410256) * (score{size}=0.565259758788162) = 0.144938399689272
-(weight=0.0512820512820513) * (score{split}=0.34) = 0.0174358974358974
-(weight=0.0769230769230769) * (score{tags}=0.9) = 0.0692307692307692
-(weight=0.307692307692308) * (score{udapi}=0.986702663496797) = 0.303600819537476
-(weight=0.0769230769230769) * (score{udeprels}=0.802702702702703) = 0.0617463617463617
-(TOTAL score=0.748234298921828) * (availability=1) * (validity=1) = 0.748234298921828
-STARS = 3.5
-UD_English-ParTUT	0.748234298921828	3.5
+(weight=0.111111111111111) * (score{features}=0.9) = 0.1
+(weight=0.111111111111111) * (score{genres}=0.166666666666667) = 0.0185185185185185
+(weight=0.111111111111111) * (score{lemmas}=0.9) = 0.1
+(weight=0.37037037037037) * (score{size}=0.56480404541928) = 0.209186683488622
+(weight=0.0740740740740741) * (score{split}=0.34) = 0.0251851851851852
+(weight=0.111111111111111) * (score{tags}=0.9) = 0.1
+(weight=0.111111111111111) * (score{udeprels}=0.802702702702703) = 0.0891891891891892
+(TOTAL score=0.642079576381515) * (availability=1) * (validity=1) = 0.642079576381515
+STARS = 3
+UD_English-ParTUT	0.642079576381515	3
