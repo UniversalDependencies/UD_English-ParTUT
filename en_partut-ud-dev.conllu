@@ -1,7 +1,7 @@
 # sent_id = en_partut-ud-2
 # text = Creative Commons Corporation is not a law firm and does not provide legal services.
 1	Creative	Creative	PROPN	SP	_	3	nmod	_	_
-2	Commons	Commons	PROPN	SP	_	1	flat	_	_
+2	Commons	Commons	PROPN	SP	Number=Sing	1	flat	_	_
 3	Corporation	corporation	NOUN	S	Number=Sing	8	nsubj	_	_
 4	is	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
 5	not	not	PART	PART	Polarity=Neg	8	advmod	_	_
@@ -33,7 +33,7 @@
 13	of	of	ADP	E	_	18	case	_	_
 14	this	this	DET	DD	Number=Sing|PronType=Dem	18	det	_	_
 15	Creative	Creative	PROPN	SP	_	18	nmod	_	_
-16	Commons	Commons	PROPN	SP	_	15	flat	_	_
+16	Commons	Commons	PROPN	SP	Number=Sing	15	flat	_	_
 17	Public	public	ADJ	A	Degree=Pos	18	amod	_	_
 18	License	license	NOUN	S	Number=Sing	12	nmod	_	_
 19	(	(	PUNCT	FB	_	21	punct	_	SpaceAfter=No
@@ -114,7 +114,7 @@
 16	proposal	proposal	NOUN	S	Number=Sing	14	obj	_	_
 17	in	in	ADP	E	_	18	case	_	_
 18	paragraph	paragraph	NOUN	S	Number=Sing	14	obl	_	_
-19	6	6	NUM	N	NumType=Card	18	nummod	_	_
+19	6	6	NUM	N	NumType=Card	18	flat	_	_
 20	that	that	PRON	PR	PronType=Rel	28	obj	_	_
 21	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	22	det	_	_
 22	form	form	NOUN	S	Number=Sing	28	nsubj:pass	_	_
@@ -240,7 +240,7 @@
 6	prerequisites	prerequisite	NOUN	S	Number=Plur	7	nsubj	_	_
 7	differ	differ	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	0	root	_	_
 8	from	from	ADP	E	_	9	case	_	_
-9	one	one	NUM	N	NumType=Card	7	nummod	_	_
+9	one	one	NUM	N	NumType=Card	11	nummod	_	_
 10	Member	member	NOUN	S	Number=Sing	11	compound	_	_
 11	State	state	NOUN	S	Number=Sing	7	obl	_	_
 12	to	to	ADP	E	_	13	case	_	_
@@ -334,10 +334,10 @@
 12	of	of	ADP	E	_	14	case	_	_
 13	the	the	DET	RD	Definite=Def|PronType=Art	14	det	_	_
 14	territory	territory	NOUN	S	Number=Sing	11	nmod	_	_
-15	of	of	ADP	E	_	17	case	_	_
-16	the	the	DET	RD	Definite=Def|PronType=Art	17	det	_	_
-17	European	European	PROPN	SP	_	14	nmod	_	_
-18	Union	Union	PROPN	SP	_	17	flat	_	SpaceAfter=No
+15	of	of	ADP	E	_	18	case	_	_
+16	the	the	DET	RD	Definite=Def|PronType=Art	18	det	_	_
+17	European	European	ADJ	A	Degree=Pos	18	amod	_	_
+18	Union	Union	PROPN	SP	_	14	nmod	_	SpaceAfter=No
 19	.	.	PUNCT	FS	_	2	punct	_	_
 
 # sent_id = en_partut-ud-374
@@ -586,7 +586,7 @@
 # sent_id = en_partut-ud-610
 # text = (21) EUPs complying with the ecodesign requirements laid down in implementing measures to this Directive should bear the "CE" marking and associated information, in order to enable them to be placed on the internal market and move freely.
 1	(	(	PUNCT	FB	_	2	punct	_	SpaceAfter=No
-2	21	21	NUM	N	NumType=Card	19	nummod	_	SpaceAfter=No
+2	21	21	NUM	N	NumType=Card	19	discourse	_	SpaceAfter=No
 3	)	)	PUNCT	FB	_	2	punct	_	_
 4	EUPs	EUP	PROPN	SP	_	19	nsubj	_	_
 5	complying	comply	VERB	V	Number=Sing|Tense=Pres|VerbForm=Part	4	acl	_	_
@@ -691,7 +691,7 @@
 # sent_id = en_partut-ud-771
 # text = (1) Everyone has the right to a nationality.
 1	(	(	PUNCT	FB	_	2	punct	_	SpaceAfter=No
-2	1	1	NUM	N	NumType=Card	5	nummod	_	SpaceAfter=No
+2	1	1	NUM	N	NumType=Card	5	discourse	_	SpaceAfter=No
 3	)	)	PUNCT	FB	_	2	punct	_	_
 4	Everyone	everyone	PRON	PE	Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
 5	has	have	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
@@ -754,7 +754,7 @@
 # sent_id = en_partut-ud-872
 # text = We all know the Earth is in trouble.
 1	We	we	PRON	PE	Number=Plur|Person=1|PronType=Prs	3	nsubj	_	_
-2	all	all	PRON	PI	PronType=Ind	3	obl	_	_
+2	all	all	DET	T	PronType=Tot	3	advmod	_	_
 3	know	know	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	the	the	DET	RD	Definite=Def|PronType=Art	5	det	_	_
 5	Earth	earth	NOUN	S	Number=Sing	8	nsubj	_	_
@@ -772,7 +772,7 @@
 5	in	in	ADP	E	_	8	case	_	_
 6	the	the	DET	RD	Definite=Def|PronType=Art	8	det	_	_
 7	6	6	NUM	N	NumType=Card	8	nummod	_	SpaceAfter=No
-8	X	X	X	X	_	4	obl	_	SpaceAfter=No
+8	X	X	NOUN	S	Number=Sing	4	obl	_	SpaceAfter=No
 9	:	:	PUNCT	FC	_	4	punct	_	_
 
 # sent_id = en_partut-ud-874
@@ -865,7 +865,7 @@
 3	the	the	DET	RD	Definite=Def|PronType=Art	6	det	_	_
 4	grand	grand	NOUN	S	Number=Sing	6	nmod	_	_
 5	molecular	molecular	ADJ	A	Degree=Pos	6	amod	_	_
-6	disassemblers	disassemblers	NOUN	S	Number=Plur	0	root	_	_
+6	disassemblers	disassembler	NOUN	S	Number=Plur	0	root	_	_
 7	of	of	ADP	E	_	8	case	_	_
 8	nature	nature	NOUN	S	Number=Sing	6	nmod	_	_
 9	-	-	PUNCT	FF	_	6	punct	_	_
@@ -1185,7 +1185,7 @@
 6	of	of	ADP	E	_	7	case	_	_
 7	soil	soil	NOUN	S	Number=Sing	5	nmod	_	SpaceAfter=No
 8	,	,	PUNCT	FF	_	5	punct	_	_
-9	there	there	PRON	_	_	11	expl	_	_
+9	there	there	PRON	_	PronType=Dem	11	expl	_	_
 10	can	can	AUX	VM	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	11	aux	_	_
 11	be	be	VERB	V	VerbForm=Inf	0	root	_	_
 12	more	more	ADJ	A	Degree=Cmp|ExtPos=ADV	14	advmod	_	_
@@ -1248,7 +1248,7 @@
 # text = We exhale carbon dioxide, so does mycelium.
 1	We	we	PRON	PE	Number=Plur|Person=1|PronType=Prs	2	nsubj	_	_
 2	exhale	exhale	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	0	root	_	_
-3	carbon	carbon	NOUN	S	Number=Sing	4	nmod	_	_
+3	carbon	carbon	NOUN	S	Number=Sing	4	compound	_	_
 4	dioxide	dioxide	NOUN	S	Number=Sing	2	obj	_	SpaceAfter=No
 5	,	,	PUNCT	FF	_	7	punct	_	_
 6	so	so	ADV	B	_	7	advmod	_	_
@@ -1353,18 +1353,17 @@
 5	in	in	ADP	E	_	8	case	_	_
 6	the	the	DET	RD	Definite=Def|PronType=Art	8	det	_	_
 7	early	early	ADJ	A	Degree=Pos	8	amod	_	_
-8	1990	1990	NUM	N	NumType=Card	3	obl	_	SpaceAfter=No
-9	s	s	X	X	_	8	dep	_	SpaceAfter=No
-10	,	,	PUNCT	FF	_	3	punct	_	_
-11	that	that	DET	DD	Number=Sing|PronType=Dem	17	det	_	_
-12	mycelium	mycelium	NOUN	S	Number=Sing	17	nsubj	_	_
-13	is	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	cop	_	_
-14-15	Earth's	_	_	_	_	_	_	_	_
-14	Earth	earth	NOUN	S	Number=Sing	17	nmod	_	_
-15	's	's	PART	PART	_	14	case	_	_
-16	natural	natural	ADJ	A	Degree=Pos	17	amod	_	_
-17	Internet	internet	NOUN	S	Number=Sing	3	ccomp	_	SpaceAfter=No
-18	.	.	PUNCT	FS	_	3	punct	_	_
+8	1990s	1990s	NOUN	S	Number=Ptan|NumForm=Combi|NumType=Card	3	obl	_	SpaceAfter=No
+9	,	,	PUNCT	FF	_	3	punct	_	_
+10	that	that	DET	DD	Number=Sing|PronType=Dem	16	det	_	_
+11	mycelium	mycelium	NOUN	S	Number=Sing	16	nsubj	_	_
+12	is	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	cop	_	_
+13-14	Earth's	_	_	_	_	_	_	_	_
+13	Earth	earth	NOUN	S	Number=Sing	16	nmod:poss	_	_
+14	's	's	PART	PART	_	13	case	_	_
+15	natural	natural	ADJ	A	Degree=Pos	16	amod	_	_
+16	Internet	internet	NOUN	S	Number=Sing	3	ccomp	_	SpaceAfter=No
+17	.	.	PUNCT	FS	_	3	punct	_	_
 
 # sent_id = en_partut-ud-910
 # text = When you look at the mycelium, they're highly branched.
@@ -1508,7 +1507,7 @@
 4	land	land	NOUN	S	Number=Sing	2	obl	_	_
 5	1.3	1.3	NUM	N	NumType=Card	6	compound	_	_
 6	billion	billion	NUM	N	NumType=Card	7	nummod	_	_
-7	years	years	NOUN	S	Number=Sing	8	obl	_	_
+7	years	year	NOUN	S	Number=Plur	8	obl	_	_
 8	ago	ago	ADV	B	_	2	advmod	_	SpaceAfter=No
 9	,	,	PUNCT	FF	_	12	punct	_	_
 10	and	and	CCONJ	CC	_	12	cc	_	_
@@ -1517,7 +1516,7 @@
 13	several	several	ADJ	A	Degree=Pos	16	amod	_	_
 14	hundred	hundred	NUM	N	NumType=Card	15	compound	_	_
 15	million	million	NUM	N	NumType=Card	16	nummod	_	_
-16	years	years	NOUN	S	Number=Sing	17	obl	_	_
+16	years	year	NOUN	S	Number=Plur	17	obl	_	_
 17	later	later	ADV	B	Degree=Cmp	12	advmod	_	SpaceAfter=No
 18	.	.	PUNCT	FS	_	2	punct	_	_
 
@@ -1553,8 +1552,8 @@
 2	acid	acid	NOUN	S	Number=Sing	7	nsubj	_	_
 3	is	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
 4	two	two	NUM	N	NumType=Card	7	nummod	_	_
-5	carbon	carbon	NOUN	S	Number=Sing	6	nmod	_	_
-6	dioxide	dioxide	NOUN	S	Number=Sing	7	nmod	_	_
+5	carbon	carbon	NOUN	S	Number=Sing	6	compound	_	_
+6	dioxide	dioxide	NOUN	S	Number=Sing	7	compound	_	_
 7	molecules	molecule	NOUN	S	Number=Plur	0	root	_	_
 8	joined	join	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	7	acl	_	_
 9	together	together	ADV	B	_	8	advmod	_	SpaceAfter=No
@@ -1568,14 +1567,14 @@
 4	and	and	CCONJ	CC	_	5	cc	_	_
 5	mycelium	mycelium	NOUN	S	Number=Sing	3	conj	_	_
 6	sequester	sequester	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	0	root	_	_
-7	carbon	carbon	NOUN	S	Number=Sing	8	nmod	_	_
+7	carbon	carbon	NOUN	S	Number=Sing	8	compound	_	_
 8	dioxide	dioxide	NOUN	S	Number=Sing	6	obj	_	_
 9	in	in	ADP	E	_	11	case	_	_
 10	the	the	DET	RD	Definite=Def|PronType=Art	11	det	_	_
 11	form	form	NOUN	S	Number=Sing	6	obl	_	_
 12	of	of	ADP	E	_	14	case	_	_
-13	calcium	calcium	NOUN	S	Number=Sing	14	nmod	_	_
-14	oxalates	oxalates	NOUN	S	Number=Sing	11	nmod	_	SpaceAfter=No
+13	calcium	calcium	NOUN	S	Number=Sing	14	compound	_	_
+14	oxalates	oxalate	NOUN	S	Number=Plur	11	nmod	_	SpaceAfter=No
 15	.	.	PUNCT	FS	_	6	punct	_	_
 
 # sent_id = en_partut-ud-923
@@ -1589,7 +1588,7 @@
 7	are	be	AUX	VA	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	9	aux	_	_
 8	also	also	ADV	B	_	9	advmod	_	_
 9	sequestering	sequester	VERB	V	Number=Sing|Tense=Pres|VerbForm=Part	1	conj	_	_
-10	carbon	carbon	NOUN	S	Number=Sing	11	nmod	_	_
+10	carbon	carbon	NOUN	S	Number=Sing	11	compound	_	_
 11	dioxide	dioxide	NOUN	S	Number=Sing	9	obj	_	_
 12	through	through	ADP	E	_	14	case	_	_
 13	the	the	DET	RD	Definite=Def|PronType=Art	14	det	_	_
@@ -1635,18 +1634,17 @@
 2	photograph	photograph	NOUN	S	Number=Sing	4	nsubj:pass	_	_
 3	's	's	PART	PART	_	2	case	_	_
 4	taken	take	VERB	V	Tense=Past|VerbForm=Part	0	root	_	_
-5	1950	1950	NUM	N	NumType=Card	4	obl	_	SpaceAfter=No
-6	s	s	X	X	_	5	dep	_	_
-7	in	in	ADP	E	_	8	case	_	_
-8	Saudi	Saudi	PROPN	SP	_	4	obl	_	_
-9	Arabia	Arabia	PROPN	SP	_	8	flat	_	SpaceAfter=No
-10	.	.	PUNCT	FS	_	4	punct	_	_
+5	1950s	1950s	NOUN	S	Number=Ptan|NumForm=Combi|NumType=Card	4	obl	_	_
+6	in	in	ADP	E	_	7	case	_	_
+7	Saudi	Saudi	PROPN	SP	_	4	obl	_	_
+8	Arabia	Arabia	PROPN	SP	_	7	flat	_	SpaceAfter=No
+9	.	.	PUNCT	FS	_	4	punct	_	_
 
 # sent_id = en_partut-ud-927
 # text = 420 million years ago, this organism existed.
 1	420	420	NUM	N	NumType=Card	2	compound	_	_
 2	million	million	NUM	N	NumType=Card	3	nummod	_	_
-3	years	years	NOUN	S	Number=Sing	4	obl	_	_
+3	years	year	NOUN	S	Number=Plur	4	obl	_	_
 4	ago	ago	ADV	B	_	8	advmod	_	SpaceAfter=No
 5	,	,	PUNCT	FF	_	4	punct	_	_
 6	this	this	DET	DD	Number=Sing|PronType=Dem	7	det	_	_
@@ -1713,7 +1711,7 @@
 2	across	across	ADP	E	_	5	case	_	_
 3	most	most	ADV	B	_	5	advmod	_	_
 4	land	land	ADJ	A	Degree=Pos	5	amod	_	_
-5	masses	masse	NOUN	S	Number=Plur	0	root	_	SpaceAfter=No
+5	masses	mass	NOUN	S	Number=Plur	0	root	_	SpaceAfter=No
 6	.	.	PUNCT	FS	_	5	punct	_	_
 
 # sent_id = en_partut-ud-933
@@ -1821,15 +1819,15 @@
 # text = The largest organism in the world is in Eastern Oregon.
 1	The	the	DET	RD	Definite=Def|PronType=Art	3	det	_	_
 2	largest	largest	ADJ	A	Degree=Sup	3	amod	_	_
-3	organism	organism	NOUN	S	Number=Sing	9	nsubj	_	_
+3	organism	organism	NOUN	S	Number=Sing	10	nsubj	_	_
 4	in	in	ADP	E	_	6	case	_	_
 5	the	the	DET	RD	Definite=Def|PronType=Art	6	det	_	_
 6	world	world	NOUN	S	Number=Sing	3	nmod	_	_
-7	is	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
-8	in	in	ADP	E	_	9	case	_	_
-9	Eastern	Eastern	PROPN	SP	_	0	root	_	_
-10	Oregon	Oregon	PROPN	SP	_	9	flat	_	SpaceAfter=No
-11	.	.	PUNCT	FS	_	9	punct	_	_
+7	is	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
+8	in	in	ADP	E	_	10	case	_	_
+9	Eastern	eastern	ADJ	A	Degree=Pos	10	amod	_	_
+10	Oregon	Oregon	PROPN	SP	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	FS	_	10	punct	_	_
 
 # sent_id = en_partut-ud-940
 # text = 2,200 acres in size, 2,000 years old.
@@ -1970,7 +1968,7 @@
 2	,	,	PUNCT	FF	_	1	punct	_	_
 3	floating	float	VERB	V	Tense=Pres|VerbForm=Part	5	acl	_	_
 4	exchange	exchange	NOUN	S	Number=Sing	5	nmod	_	_
-5	rates	rates	NOUN	S	Number=Sing	9	nsubj	_	_
+5	rates	rate	NOUN	S	Number=Plur	9	nsubj	_	_
 6	are	be	AUX	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	9	cop	_	_
 7	flawed	flawed	ADJ	A	Degree=Pos	9	amod	_	_
 8	shock	shock	NOUN	S	Number=Sing	9	nmod	_	_
@@ -2039,7 +2037,7 @@
 3	time	time	NOUN	S	Number=Sing	0	root	_	_
 4	for	for	ADP	E	_	7	case	_	_
 5-6	India's	_	_	_	_	_	_	_	_
-5	India	India	PROPN	SP	_	7	nmod	_	_
+5	India	India	PROPN	SP	_	7	nmod:poss	_	_
 6	's	's	PART	PART	_	5	case	_	_
 7	leaders	leader	NOUN	S	Number=Plur	3	nmod	_	_
 8	to	to	PART	PART	_	9	mark	_	_
@@ -2057,8 +2055,8 @@
 20	and	and	CCONJ	CC	_	21	cc	_	_
 21	improving	improve	VERB	V	Number=Sing|Tense=Pres|VerbForm=Part	18	conj	_	_
 22-23	citizens'	_	_	_	_	_	_	_	_
-22	citizens	citizen	NOUN	S	Number=Plur	24	nmod	_	_
-23	'	'	PART	PART	_	22	case	_	_
+22	citizens	citizen	NOUN	S	Number=Plur	24	nmod:poss	_	_
+23	'	's	PART	PART	_	22	case	_	_
 24	wellbeing	wellbeing	NOUN	S	Number=Sing	21	obj	_	SpaceAfter=No
 25	.	.	PUNCT	FS	_	3	punct	_	_
 
@@ -2067,7 +2065,7 @@
 1	Andy	Andy	PROPN	SP	_	15	nsubj	_	_
 2	Haldane	Haldane	PROPN	SP	_	1	flat	_	SpaceAfter=No
 3	,	,	PUNCT	FF	_	1	punct	_	_
-4	one	one	NUM	N	NumType=Card	1	nummod	_	_
+4	one	one	NUM	N	NumType=Card	1	appos	_	_
 5	of	of	ADP	E	_	7	case	_	_
 6	the	the	DET	RD	Definite=Def|PronType=Art	7	det	_	_
 7	lieutenants	lieutenant	NOUN	S	Number=Plur	4	nmod	_	_
@@ -2082,7 +2080,7 @@
 16	the	the	DET	RD	Definite=Def|PronType=Art	18	det	_	_
 17	financial	financial	ADJ	A	Degree=Pos	18	amod	_	_
 18-19	sector's	_	_	_	_	_	_	_	_
-18	sector	sector	NOUN	S	Number=Sing	21	nmod	_	_
+18	sector	sector	NOUN	S	Number=Sing	21	nmod:poss	_	_
 19	's	's	PART	PART	_	18	case	_	_
 20	economic	economic	ADJ	A	Degree=Pos	21	amod	_	_
 21	contribution	contribution	NOUN	S	Number=Sing	15	obj	_	SpaceAfter=No
@@ -2124,8 +2122,8 @@
 13	and	and	CCONJ	CC	_	19	cc	_	_
 14	the	the	DET	RD	Definite=Def|PronType=Art	15	det	_	_
 15-16	authors'	_	_	_	_	_	_	_	_
-15	authors	author	NOUN	S	Number=Plur	17	nmod	_	_
-16	'	'	PART	PART	_	15	case	_	_
+15	authors	author	NOUN	S	Number=Plur	17	nmod:poss	_	_
+16	'	's	PART	PART	_	15	case	_	_
 17	conclusions	conclusion	NOUN	S	Number=Plur	19	nsubj	_	_
 18	are	be	AUX	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	19	cop	_	_
 19	controversial	controversial	ADJ	A	Degree=Pos	8	conj	_	SpaceAfter=No
@@ -2169,7 +2167,7 @@
 14	the	the	DET	RD	Definite=Def|PronType=Art	15	det	_	_
 15	brightest	brightest	NOUN	S	Number=Sing	12	conj	_	SpaceAfter=No
 16	,	,	PUNCT	FF	_	4	punct	_	_
-17	there	there	PRON	_	_	19	expl	_	_
+17	there	there	PRON	_	PronType=Dem	19	expl	_	_
 18	could	can	AUX	VM	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	19	aux	_	_
 19	be	be	VERB	V	VerbForm=Inf	0	root	_	_
 20	little	little	ADJ	A	Degree=Pos	22	amod	_	_
@@ -2276,7 +2274,7 @@
 # text = A global carbon tax would mitigate climate risks while alleviating government debt burdens.
 1	A	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	4	det	_	_
 2	global	global	ADJ	A	Degree=Pos	3	amod	_	_
-3	carbon	carbon	NOUN	S	Number=Sing	4	nmod	_	_
+3	carbon	carbon	NOUN	S	Number=Sing	4	compound	_	_
 4	tax	tax	NOUN	S	Number=Sing	6	nsubj	_	_
 5	would	will	AUX	VM	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	6	aux	_	_
 6	mitigate	mitigate	VERB	V	VerbForm=Inf	0	root	_	_
@@ -2297,7 +2295,7 @@
 4	affects	affect	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	advcl	_	_
 5	an	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	6	det	_	_
 6-7	automobile's	_	_	_	_	_	_	_	_
-6	automobile	automobile	NOUN	S	Number=Sing	8	nmod	_	_
+6	automobile	automobile	NOUN	S	Number=Sing	8	nmod:poss	_	_
 7	's	's	PART	PART	_	6	case	_	_
 8	quality	quality	NOUN	S	Number=Sing	4	obj	_	SpaceAfter=No
 9	,	,	PUNCT	FF	_	4	punct	_	_
@@ -2418,7 +2416,7 @@
 2	month	month	NOUN	S	Number=Sing	9	obl	_	SpaceAfter=No
 3	,	,	PUNCT	FF	_	2	punct	_	_
 4-5	Ukraine's	_	_	_	_	_	_	_	_
-4	Ukraine	Ukraine	PROPN	SP	_	6	nmod	_	_
+4	Ukraine	Ukraine	PROPN	SP	_	6	nmod:poss	_	_
 5	's	's	PART	PART	_	4	case	_	_
 6	citizens	citizen	NOUN	S	Number=Plur	9	nsubj	_	_
 7	will	will	AUX	VM	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	9	aux	_	_
@@ -2447,7 +2445,7 @@
 # sent_id = en_partut-ud-1499
 # text = And there are an estimated 200,000 cases of yellow fever annually, leading to 30,000 deaths worldwide.
 1	And	and	CCONJ	CC	_	3	cc	_	_
-2	there	there	PRON	_	_	3	expl	_	_
+2	there	there	PRON	_	PronType=Dem	3	expl	_	_
 3	are	be	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	an	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	7	det	_	_
 5	estimated	estimate	VERB	V	Tense=Past|VerbForm=Part	7	acl	_	_
@@ -2481,7 +2479,7 @@
 12	realize	realize	VERB	V	VerbForm=Inf	0	root	_	_
 13	genetic	genetic	ADJ	A	Degree=Pos	14	amod	_	_
 14-15	engineering's	_	_	_	_	_	_	_	_
-14	engineering	engineering	NOUN	S	Number=Sing	20	nmod	_	_
+14	engineering	engineering	NOUN	S	Number=Sing	20	nmod:poss	_	_
 15	's	's	PART	PART	_	14	case	_	_
 16	full	full	ADJ	A	Degree=Pos	17	amod	_	_
 17	disease	disease	NOUN	S	Number=Sing	19	obj	_	SpaceAfter=No
@@ -2550,7 +2548,7 @@
 16	acres	acre	NOUN	S	Number=Plur	14	obj	_	_
 17	(	(	PUNCT	FB	_	19	punct	_	SpaceAfter=No
 18	81	81	NUM	N	NumType=Card	19	nummod	_	_
-19	Km2	Km2	PROPN	SP	_	16	nmod	_	SpaceAfter=No
+19	Km2	Km2	NOUN	S	_	16	appos	_	SpaceAfter=No
 20	)	)	PUNCT	FB	_	19	punct	_	_
 21	of	of	ADP	E	_	23	case	_	_
 22	oak	oak	NOUN	S	Number=Sing	23	nmod	_	_
@@ -2579,7 +2577,7 @@
 9	to	to	ADP	E	_	13	case	_	_
 10	his	his	DET	AP	Poss=Yes|PronType=Prs	11	nmod:poss	_	_
 11-12	sister's	_	_	_	_	_	_	_	_
-11	sister	sister	NOUN	S	Number=Sing	13	nmod	_	_
+11	sister	sister	NOUN	S	Number=Sing	13	nmod:poss	_	_
 12	's	's	PART	PART	_	11	case	_	_
 13	apartment	apartment	NOUN	S	Number=Sing	8	obl	_	_
 14	and	and	CCONJ	CC	_	15	cc	_	_
@@ -2617,7 +2615,7 @@
 27	of	of	ADP	E	_	33	case	_	_
 28	the	the	DET	RD	Definite=Def|PronType=Art	29	det	_	_
 29-30	book's	_	_	_	_	_	_	_	_
-29	book	book	NOUN	S	Number=Sing	33	nmod	_	_
+29	book	book	NOUN	S	Number=Sing	33	nmod:poss	_	_
 30	's	's	PART	PART	_	29	case	_	_
 31	most	most	ADV	B	_	32	advmod	_	_
 32	brutal	brutal	ADJ	A	Degree=Pos	33	amod	_	_
@@ -2630,14 +2628,14 @@
 2	Cousin	Cousin	X	SW	Foreign=Yes	1	flat:foreign	_	_
 3	Pons	Pons	X	SW	Foreign=Yes	1	flat:foreign	_	_
 4	(	(	PUNCT	FB	_	5	punct	_	SpaceAfter=No
-5	1847	1847	NUM	N	NumType=Card	1	nummod	_	SpaceAfter=No
+5	1847	1847	NUM	N	NumType=Card	1	nmod:unmarked	_	SpaceAfter=No
 6	)	)	PUNCT	FB	_	5	punct	_	_
 7	and	and	CCONJ	CC	_	8	cc	_	_
 8	La	La	X	SW	Foreign=Yes	1	conj	_	_
 9	Cousine	Cousine	X	SW	Foreign=Yes	8	flat:foreign	_	_
 10	Bette	Bette	X	SW	Foreign=Yes	8	flat:foreign	_	_
 11	(	(	PUNCT	FB	_	12	punct	_	SpaceAfter=No
-12	1848	1848	NUM	N	NumType=Card	8	nummod	_	SpaceAfter=No
+12	1848	1848	NUM	N	NumType=Card	8	nmod:unmarked	_	SpaceAfter=No
 13	)	)	PUNCT	FB	_	12	punct	_	_
 14	tell	tell	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 15	the	the	DET	RD	Definite=Def|PronType=Art	16	det	_	_
@@ -2706,7 +2704,7 @@
 2	critics	critic	NOUN	S	Number=Plur	3	nsubj	_	_
 3	consider	consider	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	0	root	_	_
 4-5	Balzac's	_	_	_	_	_	_	_	_
-4	Balzac	Balzac	PROPN	SP	_	6	nmod	_	_
+4	Balzac	Balzac	PROPN	SP	_	6	nmod:poss	_	_
 5	's	's	PART	PART	_	4	case	_	_
 6	writing	writing	NOUN	S	Number=Sing	3	obj	_	_
 7	exemplary	exemplary	NOUN	S	Number=Sing	3	xcomp	_	_
@@ -2758,36 +2756,35 @@
 # sent_id = en_partut-ud-1765
 # text = As part of the 19th-century evolution of the novel as a "democratic literary form", Balzac wrote that "books are written for everybody".
 1	As	as	ADP	E	_	2	case	_	_
-2	part	part	NOUN	S	Number=Sing	22	obl	_	_
-3	of	of	ADP	E	_	9	case	_	_
-4	the	the	DET	RD	Definite=Def|PronType=Art	9	det	_	_
-5	19	19	NUM	N	NumType=Card	8	nummod	_	SpaceAfter=No
-6	th	th	ADJ	A	Degree=Pos	5	amod	_	SpaceAfter=No
-7	-	-	PUNCT	FF	_	5	punct	_	SpaceAfter=No
-8	century	century	NOUN	S	Number=Sing	9	nmod	_	_
-9	evolution	evolution	NOUN	S	Number=Sing	2	nmod	_	_
-10	of	of	ADP	E	_	12	case	_	_
-11	the	the	DET	RD	Definite=Def|PronType=Art	12	det	_	_
-12	novel	novel	NOUN	S	Number=Sing	9	nmod	_	_
-13	as	as	ADP	E	_	18	case	_	_
-14	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	18	det	_	_
-15	"	"	PUNCT	FB	_	18	punct	_	SpaceAfter=No
-16	democratic	democratic	ADJ	A	Degree=Pos	18	amod	_	_
-17	literary	literary	ADJ	A	Degree=Pos	18	amod	_	_
-18	form	form	NOUN	S	Number=Sing	9	nmod	_	SpaceAfter=No
-19	"	"	PUNCT	FB	_	18	punct	_	SpaceAfter=No
-20	,	,	PUNCT	FF	_	2	punct	_	_
-21	Balzac	Balzac	PROPN	SP	_	22	nsubj	_	_
-22	wrote	write	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-23	that	that	SCONJ	CS	_	27	mark	_	_
-24	"	"	PUNCT	FB	_	27	punct	_	SpaceAfter=No
-25	books	book	NOUN	S	Number=Plur	27	nsubj:pass	_	_
-26	are	be	AUX	VA	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	27	aux:pass	_	_
-27	written	write	VERB	V	Tense=Past|VerbForm=Part	22	ccomp	_	_
-28	for	for	ADP	E	_	29	case	_	_
-29	everybody	everybody	NOUN	S	Number=Sing	27	obl	_	SpaceAfter=No
-30	"	"	PUNCT	FB	_	27	punct	_	SpaceAfter=No
-31	.	.	PUNCT	FS	_	22	punct	_	_
+2	part	part	NOUN	S	Number=Sing	21	obl	_	_
+3	of	of	ADP	E	_	8	case	_	_
+4	the	the	DET	RD	Definite=Def|PronType=Art	8	det	_	_
+5	19th	19th	ADJ	A	Degree=Pos|NumForm=Combi|NumType=Ord	7	amod	_	SpaceAfter=No
+6	-	-	PUNCT	FF	_	5	punct	_	SpaceAfter=No
+7	century	century	NOUN	S	Number=Sing	8	nmod	_	_
+8	evolution	evolution	NOUN	S	Number=Sing	2	nmod	_	_
+9	of	of	ADP	E	_	11	case	_	_
+10	the	the	DET	RD	Definite=Def|PronType=Art	11	det	_	_
+11	novel	novel	NOUN	S	Number=Sing	8	nmod	_	_
+12	as	as	ADP	E	_	17	case	_	_
+13	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	17	det	_	_
+14	"	"	PUNCT	FB	_	17	punct	_	SpaceAfter=No
+15	democratic	democratic	ADJ	A	Degree=Pos	17	amod	_	_
+16	literary	literary	ADJ	A	Degree=Pos	17	amod	_	_
+17	form	form	NOUN	S	Number=Sing	8	nmod	_	SpaceAfter=No
+18	"	"	PUNCT	FB	_	17	punct	_	SpaceAfter=No
+19	,	,	PUNCT	FF	_	2	punct	_	_
+20	Balzac	Balzac	PROPN	SP	_	21	nsubj	_	_
+21	wrote	write	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+22	that	that	SCONJ	CS	_	26	mark	_	_
+23	"	"	PUNCT	FB	_	26	punct	_	SpaceAfter=No
+24	books	book	NOUN	S	Number=Plur	26	nsubj:pass	_	_
+25	are	be	AUX	VA	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	26	aux:pass	_	_
+26	written	write	VERB	V	Tense=Past|VerbForm=Part	21	ccomp	_	_
+27	for	for	ADP	E	_	28	case	_	_
+28	everybody	everybody	NOUN	S	Number=Sing	26	obl	_	SpaceAfter=No
+29	"	"	PUNCT	FB	_	26	punct	_	SpaceAfter=No
+30	.	.	PUNCT	FS	_	21	punct	_	_
 
 # sent_id = en_partut-ud-1808
 # text = At the age of 18, he married Anne Hathaway, with whom he had three children:
@@ -2795,7 +2792,7 @@
 2	the	the	DET	RD	Definite=Def|PronType=Art	3	det	_	_
 3	age	age	NOUN	S	Number=Sing	8	obl	_	_
 4	of	of	ADP	E	_	5	case	_	_
-5	18	18	NUM	N	NumType=Card	3	nummod	_	SpaceAfter=No
+5	18	18	NUM	N	NumType=Card	3	nmod	_	SpaceAfter=No
 6	,	,	PUNCT	FF	_	3	punct	_	_
 7	he	he	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	_
 8	married	marry	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
@@ -2835,12 +2832,11 @@
 21	its	its	DET	AP	Number=Sing|Poss=Yes|PronType=Prs	23	nmod:poss	_	_
 22	present	present	ADJ	A	Degree=Pos	23	amod	_	_
 23	heights	height	NOUN	S	Number=Plur	19	nmod	_	_
-24	until	until	ADP	E	_	28	case	_	_
-25	the	the	DET	RD	Definite=Def|PronType=Art	28	det	_	_
-26	19	19	NUM	N	NumType=Card	28	nummod	_	SpaceAfter=No
-27	th	th	ADJ	A	Degree=Pos	26	amod	_	_
-28	century	century	NOUN	S	Number=Sing	19	nmod	_	SpaceAfter=No
-29	.	.	PUNCT	FS	_	6	punct	_	_
+24	until	until	ADP	E	_	27	case	_	_
+25	the	the	DET	RD	Definite=Def|PronType=Art	27	det	_	_
+26	19th	19th	ADJ	A	Degree=Pos|NumForm=Combi|NumType=Ord	27	amod	_	_
+27	century	century	NOUN	S	Number=Sing	19	nmod	_	SpaceAfter=No
+28	.	.	PUNCT	FS	_	6	punct	_	_
 
 # sent_id = en_partut-ud-1826
 # text = His actual date of birth remains unknown, but is traditionally observed on 23 April, Saint George's Day.
@@ -2858,13 +2854,13 @@
 12	observed	observe	VERB	V	Tense=Past|VerbForm=Part	6	conj	_	_
 13	on	on	ADP	E	_	14	case	_	_
 14	23	23	NUM	N	NumType=Card	12	obl	_	_
-15	April	April	PROPN	SP	_	14	flat	_	SpaceAfter=No
+15	April	April	PROPN	SP	_	14	nmod:unmarked	_	SpaceAfter=No
 16	,	,	PUNCT	FF	_	14	punct	_	_
-17	Saint	Saint	PROPN	SP	_	20	nmod	_	_
+17	Saint	Saint	PROPN	SP	_	20	nmod:poss	_	_
 18-19	George's	_	_	_	_	_	_	_	_
 18	George	George	PROPN	SP	_	17	flat	_	_
 19	's	's	PART	PART	_	17	case	_	_
-20	Day	day	NOUN	S	Number=Sing	14	nmod	_	SpaceAfter=No
+20	Day	day	NOUN	S	Number=Sing	14	appos	_	SpaceAfter=No
 21	.	.	PUNCT	FS	_	6	punct	_	_
 
 # sent_id = en_partut-ud-1859
@@ -2902,7 +2898,7 @@
 1	Records	record	NOUN	S	Number=Plur	9	nsubj	_	_
 2	of	of	ADP	E	_	6	case	_	_
 3-4	Shakespeare's	_	_	_	_	_	_	_	_
-3	Shakespeare	Shakespeare	PROPN	SP	_	6	nmod	_	_
+3	Shakespeare	Shakespeare	PROPN	SP	_	6	nmod:poss	_	_
 4	's	's	PART	PART	_	3	case	_	_
 5	property	property	NOUN	S	Number=Sing	6	nmod	_	_
 6	purchases	purchase	NOUN	S	Number=Plur	1	nmod	_	_
@@ -2938,7 +2934,7 @@
 15	area	area	NOUN	S	Number=Sing	6	obl	_	_
 16	north	north	NOUN	S	Number=Sing	15	nmod	_	_
 17	of	of	ADP	E	_	21	case	_	_
-18	St	St	PROPN	SP	_	21	nmod	_	_
+18	St	St	PROPN	SP	_	21	nmod:poss	_	_
 19-20	Paul's	_	_	_	_	_	_	_	_
 19	Paul	Paul	PROPN	SP	_	18	flat	_	_
 20	's	's	PART	PART	_	18	case	_	_
@@ -2967,8 +2963,8 @@
 14	maker	maker	NOUN	S	Number=Sing	10	appos	_	_
 15	of	of	ADP	E	_	18	case	_	_
 16-17	ladies'	_	_	_	_	_	_	_	_
-16	ladies	lady	NOUN	S	Number=Plur	18	nmod	_	_
-17	'	'	PART	PART	_	16	case	_	_
+16	ladies	lady	NOUN	S	Number=Plur	18	nmod:poss	_	_
+17	'	's	PART	PART	_	16	case	_	_
 18	wigs	wig	NOUN	S	Number=Plur	14	nmod	_	_
 19	and	and	CCONJ	CC	_	21	cc	_	_
 20	other	other	ADJ	A	Degree=Pos	21	amod	_	_
@@ -2999,7 +2995,7 @@
 20	for	for	ADP	E	_	24	case	_	_
 21	the	the	DET	RD	Definite=Def|PronType=Art	22	det	_	_
 22-23	King's	_	_	_	_	_	_	_	_
-22	King	king	NOUN	S	Number=Sing	24	nmod	_	_
+22	King	king	NOUN	S	Number=Sing	24	nmod:poss	_	_
 23	's	's	PART	PART	_	22	case	_	_
 24	Men	man	NOUN	S	Number=Plur	19	nmod	_	SpaceAfter=No
 25	.	.	PUNCT	FS	_	6	punct	_	_
@@ -3024,7 +3020,7 @@
 7	recorded	record	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 8	that	that	SCONJ	CS	_	13	mark	_	_
 9	Henry	Henry	PROPN	SP	_	13	nsubj:pass	_	_
-10	VIII	eigth	ADJ	NO	Degree=Pos|NumType=Ord	9	flat	_	_
+10	VIII	VIII	NUM	N	NumForm=Roman|NumType=Card	9	flat	_	_
 11	"	"	PUNCT	FB	_	13	punct	_	SpaceAfter=No
 12	was	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	13	aux:pass	_	_
 13	set	set	ADJ	A	Degree=Pos	7	ccomp	_	_
@@ -3100,7 +3096,7 @@
 # text = In Shakespeare's day, English grammar, spelling and pronunciation were less standardised than they are now, and his use of language helped shape modern English.
 1	In	in	ADP	E	_	4	case	_	_
 2-3	Shakespeare's	_	_	_	_	_	_	_	_
-2	Shakespeare	Shakespeare	PROPN	SP	_	4	nmod	_	_
+2	Shakespeare	Shakespeare	PROPN	SP	_	4	nmod:poss	_	_
 3	's	's	PART	PART	_	2	case	_	_
 4	day	day	NOUN	S	Number=Sing	14	obl	_	SpaceAfter=No
 5	,	,	PUNCT	FF	_	4	punct	_	_
@@ -3133,31 +3129,30 @@
 # text = In the 1950s, a wave of new critical approaches replaced modernism and paved the way for "post-modern" studies of Shakespeare.
 1	In	in	ADP	E	_	3	case	_	_
 2	the	the	DET	RD	Definite=Def|PronType=Art	3	det	_	_
-3	1950	1950	NUM	N	NumType=Card	12	obl	_	SpaceAfter=No
-4	s	s	X	X	_	3	dep	_	SpaceAfter=No
-5	,	,	PUNCT	FF	_	3	punct	_	_
-6	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	7	det	_	_
-7	wave	wave	NOUN	S	Number=Sing	12	nsubj	_	_
-8	of	of	ADP	E	_	11	case	_	_
-9	new	new	ADJ	A	Degree=Pos	11	amod	_	_
-10	critical	critical	ADJ	A	Degree=Pos	11	amod	_	_
-11	approaches	approach	NOUN	S	Number=Plur	7	nmod	_	_
-12	replaced	replace	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-13	modernism	modernism	NOUN	S	Number=Sing	12	obj	_	_
-14	and	and	CCONJ	CC	_	15	cc	_	_
-15	paved	pave	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	12	conj	_	_
-16	the	the	DET	RD	Definite=Def|PronType=Art	17	det	_	_
-17	way	way	NOUN	S	Number=Sing	15	obj	_	_
-18	for	for	ADV	B	_	15	advmod	_	_
-19	"	"	PUNCT	FB	_	20	punct	_	SpaceAfter=No
-20	post	post	NOUN	S	Number=Sing	24	nmod	_	SpaceAfter=No
-21	-	-	PUNCT	FF	_	20	punct	_	SpaceAfter=No
-22	modern	modern	ADJ	A	Degree=Pos	20	amod	_	SpaceAfter=No
-23	"	"	PUNCT	FB	_	20	punct	_	_
-24	studies	study	NOUN	S	Number=Plur	15	nsubj	_	_
-25	of	of	ADP	E	_	26	case	_	_
-26	Shakespeare	Shakespeare	PROPN	SP	_	24	nmod	_	SpaceAfter=No
-27	.	.	PUNCT	FS	_	12	punct	_	_
+3	1950s	1950s	NOUN	S	Number=Ptan|NumForm=Combi|NumType=Card	11	obl	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	3	punct	_	_
+5	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	6	det	_	_
+6	wave	wave	NOUN	S	Number=Sing	11	nsubj	_	_
+7	of	of	ADP	E	_	10	case	_	_
+8	new	new	ADJ	A	Degree=Pos	10	amod	_	_
+9	critical	critical	ADJ	A	Degree=Pos	10	amod	_	_
+10	approaches	approach	NOUN	S	Number=Plur	6	nmod	_	_
+11	replaced	replace	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+12	modernism	modernism	NOUN	S	Number=Sing	11	obj	_	_
+13	and	and	CCONJ	CC	_	14	cc	_	_
+14	paved	pave	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	11	conj	_	_
+15	the	the	DET	RD	Definite=Def|PronType=Art	16	det	_	_
+16	way	way	NOUN	S	Number=Sing	14	obj	_	_
+17	for	for	ADV	B	_	14	advmod	_	_
+18	"	"	PUNCT	FB	_	19	punct	_	SpaceAfter=No
+19	post	post	NOUN	S	Number=Sing	23	nmod	_	SpaceAfter=No
+20	-	-	PUNCT	FF	_	19	punct	_	SpaceAfter=No
+21	modern	modern	ADJ	A	Degree=Pos	19	amod	_	SpaceAfter=No
+22	"	"	PUNCT	FB	_	19	punct	_	_
+23	studies	study	NOUN	S	Number=Plur	14	nsubj	_	_
+24	of	of	ADP	E	_	25	case	_	_
+25	Shakespeare	Shakespeare	PROPN	SP	_	23	nmod	_	SpaceAfter=No
+26	.	.	PUNCT	FS	_	11	punct	_	_
 
 # sent_id = en_partut-ud-2079
 # text = At 18, he married the 26-year-old Anne Hathaway, who was pregnant.
@@ -3182,38 +3177,37 @@
 
 # sent_id = en_partut-ud-2090
 # text = In the late 19th century, Edward Dowden classified four of the late comedies as romances, and though many scholars prefer to call them tragicomedies, his term is often used.
-1	In	in	ADP	E	_	6	case	_	_
-2	the	the	DET	RD	Definite=Def|PronType=Art	6	det	_	_
+1	In	in	ADP	E	_	5	case	_	_
+2	the	the	DET	RD	Definite=Def|PronType=Art	5	det	_	_
 3	late	late	ADJ	A	Degree=Pos	4	amod	_	_
-4	19	19	NUM	N	NumType=Card	6	nummod	_	SpaceAfter=No
-5	th	th	ADJ	A	Degree=Pos	4	amod	_	_
-6	century	century	NOUN	S	Number=Sing	10	obl	_	SpaceAfter=No
-7	,	,	PUNCT	FF	_	6	punct	_	_
-8	Edward	Edward	PROPN	SP	_	10	nsubj	_	_
-9	Dowden	Dowden	PROPN	SP	_	8	flat	_	_
-10	classified	classify	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-11	four	four	NUM	N	NumType=Card	10	obj	_	_
-12	of	of	ADP	E	_	15	case	_	_
-13	the	the	DET	RD	Definite=Def|PronType=Art	15	det	_	_
-14	late	late	ADJ	A	Degree=Pos	15	amod	_	_
-15	comedies	comedy	NOUN	S	Number=Plur	11	nmod	_	_
-16	as	as	ADP	E	_	17	case	_	_
-17	romances	romance	NOUN	S	Number=Plur	10	obl	_	SpaceAfter=No
-18	,	,	PUNCT	FF	_	33	punct	_	_
-19	and	and	CCONJ	CC	_	33	cc	_	_
-20	though	though	SCONJ	CS	_	23	mark	_	_
-21	many	many	ADJ	A	Degree=Pos	22	amod	_	_
-22	scholars	scholar	NOUN	S	Number=Plur	23	nsubj	_	_
-23	prefer	prefer	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	33	advcl	_	_
-24	to	to	PART	PART	_	25	mark	_	_
-25	call	call	VERB	V	VerbForm=Inf	23	ccomp	_	_
-26	them	they	PRON	PE	Number=Plur|Person=3|PronType=Prs	25	obj	_	_
-27	tragicomedies	tragicomedy	NOUN	S	Number=Plur	25	xcomp	_	SpaceAfter=No
-28	,	,	PUNCT	FF	_	23	punct	_	_
-29	his	his	DET	AP	Poss=Yes|PronType=Prs	30	nmod:poss	_	_
-30	term	term	NOUN	S	Number=Sing	33	nsubj:pass	_	_
-31	is	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	33	aux:pass	_	_
-32	often	often	ADV	B	_	33	advmod	_	_
-33	used	use	VERB	V	Tense=Past|VerbForm=Part	10	conj	_	SpaceAfter=No
-34	.	.	PUNCT	FS	_	10	punct	_	_
+4	19th	19th	ADJ	A	Degree=Pos|NumForm=Combi|NumType=Ord	5	amod	_	_
+5	century	century	NOUN	S	Number=Sing	9	obl	_	SpaceAfter=No
+6	,	,	PUNCT	FF	_	5	punct	_	_
+7	Edward	Edward	PROPN	SP	_	9	nsubj	_	_
+8	Dowden	Dowden	PROPN	SP	_	7	flat	_	_
+9	classified	classify	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+10	four	four	NUM	N	NumType=Card	9	obj	_	_
+11	of	of	ADP	E	_	14	case	_	_
+12	the	the	DET	RD	Definite=Def|PronType=Art	14	det	_	_
+13	late	late	ADJ	A	Degree=Pos	14	amod	_	_
+14	comedies	comedy	NOUN	S	Number=Plur	10	nmod	_	_
+15	as	as	ADP	E	_	16	case	_	_
+16	romances	romance	NOUN	S	Number=Plur	9	obl	_	SpaceAfter=No
+17	,	,	PUNCT	FF	_	32	punct	_	_
+18	and	and	CCONJ	CC	_	32	cc	_	_
+19	though	though	SCONJ	CS	_	22	mark	_	_
+20	many	many	ADJ	A	Degree=Pos	21	amod	_	_
+21	scholars	scholar	NOUN	S	Number=Plur	22	nsubj	_	_
+22	prefer	prefer	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	32	advcl	_	_
+23	to	to	PART	PART	_	24	mark	_	_
+24	call	call	VERB	V	VerbForm=Inf	22	ccomp	_	_
+25	them	they	PRON	PE	Number=Plur|Person=3|PronType=Prs	24	obj	_	_
+26	tragicomedies	tragicomedy	NOUN	S	Number=Plur	24	xcomp	_	SpaceAfter=No
+27	,	,	PUNCT	FF	_	22	punct	_	_
+28	his	his	DET	AP	Poss=Yes|PronType=Prs	29	nmod:poss	_	_
+29	term	term	NOUN	S	Number=Sing	32	nsubj:pass	_	_
+30	is	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	32	aux:pass	_	_
+31	often	often	ADV	B	_	32	advmod	_	_
+32	used	use	VERB	V	Tense=Past|VerbForm=Part	9	conj	_	SpaceAfter=No
+33	.	.	PUNCT	FS	_	9	punct	_	_
 
