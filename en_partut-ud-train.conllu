@@ -241,7 +241,7 @@
 40	rights	right	NOUN	S	Number=Plur	38	obj	_	_
 41	in	in	ADP	E	_	43	case	_	_
 42	the	the	DET	RD	Definite=Def|PronType=Art	43	det	_	_
-43	Work	work	NOUN	S	Number=Sing	40	obl	_	_
+43	Work	work	NOUN	S	Number=Sing	40	nmod	_	_
 44	as	as	ADP	E	_	45	mark	_	_
 45	stated	state	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	38	advcl	_	_
 46	below	below	ADV	B	_	45	advmod	_	SpaceAfter=No
@@ -347,7 +347,7 @@
 20	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	23	det	_	_
 21	digital	digital	ADJ	A	Degree=Pos	23	amod	_	_
 22	audio	audio	NOUN	S	Number=Sing	23	nmod	_	_
-23	transmission	transmission	NOUN	S	Number=Sing	18	obl	_	_
+23	transmission	transmission	NOUN	S	Number=Sing	18	nmod	_	_
 24	Derivative	derivative	ADJ	A	Degree=Pos	25	amod	_	_
 25	Works	work	NOUN	S	Number=Plur	15	obj	_	SpaceAfter=No
 26	.	.	PUNCT	FS	_	2	punct	_	_
@@ -9354,7 +9354,7 @@
 5	of	of	ADP	E	_	8	case	_	_
 6	our	us	DET	AP	Poss=Yes|PronType=Prs	8	nmod:poss	_	_
 7	farm	farm	NOUN	S	Number=Sing	8	nmod	_	_
-8	workers	worker	NOUN	S	Number=Plur	4	obl	_	_
+8	workers	worker	NOUN	S	Number=Plur	4	nmod	_	_
 9	are	be	AUX	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	10	cop	_	_
 10	part-time	part-time	ADJ	A	Degree=Pos	0	root	_	_
 11	and	and	CCONJ	CC	_	12	cc	_	_
@@ -19750,7 +19750,7 @@
 7	Council	Council	PROPN	SP	_	8	nmod	_	_
 8	Decision	Decision	PROPN	SP	_	5	nmod	_	_
 9	of	of	ADP	E	_	10	case	_	_
-10	17	17	NUM	N	NumType=Card	8	obl	_	_
+10	17	17	NUM	N	NumType=Card	8	nmod	_	_
 11	December	December	PROPN	SP	_	10	nmod:unmarked	_	_
 12	2001	2001	NUM	N	NumType=Card	10	nmod:unmarked	_	_
 13	establishing	establish	VERB	V	Tense=Pres|VerbForm=Part	4	acl	_	_
@@ -23629,7 +23629,7 @@
 18	world	world	NOUN	S	Number=Sing	16	obj	_	_
 19	as	as	ADP	E	_	21	case	_	_
 20	a	a	DET	RI	Definite=Ind|PronType=Art	21	det	_	_
-21	whole	whole	NOUN	S	Number=Sing	18	obl	_	_
+21	whole	whole	NOUN	S	Number=Sing	18	nmod	_	_
 22	by	by	ADP	E	_	23	mark	_	_
 23	propping	prop	VERB	V	VerbForm=Ger	16	advcl	_	_
 24	up	up	ADP	E	_	23	compound:prt	_	_
@@ -32379,7 +32379,7 @@
 8	headlines	headline	NOUN	S	Number=Plur	4	obj	_	_
 9	in	in	ADP	E	_	11	case	_	_
 10	the	the	DET	RD	Definite=Def|PronType=Art	11	det	_	_
-11	United	United	PROPN	SP	_	8	obl	_	_
+11	United	United	PROPN	SP	_	4	obl	_	_
 12	States	States	PROPN	SP	_	11	flat	_	_
 13	or	or	CCONJ	CC	_	16	cc	_	_
 14	other	other	ADJ	A	Degree=Pos	16	amod	_	_
@@ -34771,7 +34771,7 @@
 9	million	million	NUM	N	NumType=Card	10	nummod	_	_
 10	cases	case	NOUN	S	Number=Plur	5	nsubj	_	_
 11	of	of	ADP	E	_	12	case	_	_
-12	malaria	malaria	NOUN	S	Number=Sing	10	obl	_	SpaceAfter=No
+12	malaria	malaria	NOUN	S	Number=Sing	10	nmod	_	SpaceAfter=No
 13	,	,	PUNCT	FF	_	10	punct	_	_
 14	leading	lead	VERB	V	Number=Sing|Tense=Pres|VerbForm=Part	10	acl	_	_
 15	to	to	ADP	E	_	18	case	_	_
@@ -35867,7 +35867,7 @@
 # text = Balzac (20 May 1799-18 August 1850) was a French novelist and playwright.
 1	Balzac	Balzac	PROPN	SP	_	14	nsubj	_	_
 2	(	(	PUNCT	FB	_	3	punct	_	SpaceAfter=No
-3	20	20	NUM	N	NumType=Card	1	obl	_	_
+3	20	20	NUM	N	NumType=Card	1	nmod:unmarked	_	_
 4	May	May	PROPN	SP	_	3	nmod:unmarked	_	_
 5	1799	1799	NUM	N	NumType=Card	3	nmod:unmarked	_	SpaceAfter=No
 6	-	-	SYM	X	_	7	case	_	SpaceAfter=No
@@ -41856,7 +41856,7 @@
 1	William	William	PROPN	SP	_	18	nsubj	_	_
 2	Shakespeare	Shakespeare	PROPN	SP	_	1	flat	_	_
 3	(	(	PUNCT	FB	_	4	punct	_	SpaceAfter=No
-4	26	26	NUM	N	NumType=Card	1	obl	_	_
+4	26	26	NUM	N	NumType=Card	1	nmod:unmarked	_	_
 5	April	April	PROPN	SP	_	4	nmod:unmarked	_	_
 6	1564	1564	NUM	N	NumType=Card	4	nmod:unmarked	_	_
 7	(	(	PUNCT	FB	_	8	punct	_	SpaceAfter=No
