@@ -1391,7 +1391,7 @@
 32	conditions	condition	NOUN	S	Number=Plur	30	conj	_	_
 33	as	as	ADP	E	_	35	case	_	_
 34	the	the	DET	RD	Definite=Def|PronType=Art	35	det	_	_
-35	license	license	NOUN	S	Number=Sing	30	nmod	_	_
+35	license	license	NOUN	S	Number=Sing	29	obl	_	_
 36	granted	grant	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	35	acl	_	_
 37	to	to	ADP	E	_	38	case	_	_
 38	You	you	PRON	PE	Person=2|PronType=Prs	36	obl	_	_
@@ -1433,7 +1433,7 @@
 29	conditions	condition	NOUN	S	Number=Plur	27	conj	_	_
 30	as	as	ADP	E	_	32	case	_	_
 31	the	the	DET	RD	Definite=Def|PronType=Art	32	det	_	_
-32	license	license	NOUN	S	Number=Sing	27	nmod	_	_
+32	license	license	NOUN	S	Number=Sing	26	obl	_	_
 33	granted	grant	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	32	acl	_	_
 34	to	to	ADP	E	_	35	case	_	_
 35	You	you	PRON	PE	Person=2|PronType=Prs	33	obl	_	_
