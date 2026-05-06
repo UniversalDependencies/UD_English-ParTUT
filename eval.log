@@ -1,10 +1,10 @@
 Running the following version of UD tools:
-commit 26e6c87a2f518322d15901a351199b6be6569062
+commit b39dc4111bb13658bc0c204b48bb78b492e45d2b
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Fri Nov 7 15:39:58 2025 +0100
+Date:   Tue May 5 17:01:41 2026 +0200
 Evaluating the following revision of UD_English-ParTUT:
-commit 7adf396367c90e6836d78dadf71b29ae1fe88381
-Merge: bd9434b 042cea7
+commit 745911f24dcbad8d3c5d02d97c2428f888fdc431
+Merge: c03bf97 9cb9149
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
 CoNLL-U data file regular expression = '(.+)-ud-(train|dev|test)\.conllu'
 Language-treebank code (from CoNLL-U file name) = 'en_partut'
@@ -27,22 +27,8 @@ Genres: found 3 out of 18 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang en --max-err=10 UD_English-ParTUT/en_partut-ud-dev.conllu
 *** PASSED ***
 /net/work/people/zeman/unidep/tools/validate.py --lang en --max-err=10 UD_English-ParTUT/en_partut-ud-test.conllu
-[Line 2824 Sent en_partut-ud-1020]: [L3 Warning obl-should-be-nmod] The parent (node [17] 'carryover') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
-[Line 3141 Sent en_partut-ud-1356]: [L3 Warning obl-should-be-nmod] The parent (node [36] 'side') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
-Warnings: 2
 *** PASSED ***
 /net/work/people/zeman/unidep/tools/validate.py --lang en --max-err=10 UD_English-ParTUT/en_partut-ud-train.conllu
-[Line 244 Sent en_partut-ud-18]: [L3 Warning obl-should-be-nmod] The parent (node [40] 'rights') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
-[Line 350 Sent en_partut-ud-22]: [L3 Warning obl-should-be-nmod] The parent (node [18] 'means') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
-[Line 9357 Sent en_partut-ud-343]: [L3 Warning obl-should-be-nmod] The parent (node [4] 'quarters') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
-[Line 19753 Sent en_partut-ud-726]: [L3 Warning obl-should-be-nmod] The parent (node [8] 'Decision') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
-[Line 23632 Sent en_partut-ud-1048]: [L3 Warning obl-should-be-nmod] The parent (node [18] 'world') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
-[Line 32382 Sent en_partut-ud-1395]: [L3 Warning obl-should-be-nmod] The parent (node [8] 'headlines') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
-[Line 34774 Sent en_partut-ud-1497]: [L3 Warning obl-should-be-nmod] The parent (node [10] 'cases') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
-[Line 35870 Sent en_partut-ud-1538]: [L3 Warning obl-should-be-nmod] The parent (node [1] 'Balzac') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
-[Line 41859 Sent en_partut-ud-1803]: [L3 Warning obl-should-be-nmod] The parent (node [1] 'William') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
-[Line 42278 Sent en_partut-ud-1818]: [L3 Warning pron-det-without-prontype] The word 'all' is tagged 'DET' but it lacks the 'PronType' feature
-Warnings: 10
 *** PASSED ***
 Validity: 1
 (weight=0.111111111111111) * (score{features}=0.9) = 0.1
