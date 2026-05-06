@@ -2821,7 +2821,7 @@
 16	normal	normal	ADJ	A	Degree=Pos	17	amod	_	_
 17	carryover	carryover	NOUN	S	Number=Sing	14	obj	_	_
 18	of	of	ADP	E	_	19	case	_	_
-19	stocks	stock	NOUN	S	Number=Plur	17	obl	_	SpaceAfter=No
+19	stocks	stock	NOUN	S	Number=Plur	17	nmod	_	SpaceAfter=No
 20	.	.	PUNCT	FS	_	10	punct	_	_
 
 # sent_id = en_partut-ud-1068
@@ -3138,7 +3138,7 @@
 36	side	side	NOUN	S	Number=Sing	30	nmod	_	_
 37	of	of	ADP	E	_	39	case	_	_
 38	the	the	DET	RD	Definite=Def|PronType=Art	39	det	_	_
-39	economy	economy	NOUN	S	Number=Sing	36	obl	_	SpaceAfter=No
+39	economy	economy	NOUN	S	Number=Sing	36	nmod	_	SpaceAfter=No
 40	.	.	PUNCT	FS	_	17	punct	_	_
 
 # sent_id = en_partut-ud-1392

@@ -74,7 +74,7 @@
     <feat name="PronType" value="Prs" upos="DET,PRON">1903</feat><!-- his, it, I, we, he, you, their, they, its, our -->
     <feat name="PronType" value="Rcp" upos="DET,PRON">7</feat><!-- each, one, another -->
     <feat name="PronType" value="Rel" upos="ADV,DET,PRON">435</feat><!-- which, that, who, what, where, whom, whose, when, whereby -->
-    <feat name="PronType" value="Tot" upos="DET">59</feat><!-- all -->
+    <feat name="PronType" value="Tot" upos="DET">60</feat><!-- all -->
     <feat name="Reflex" value="Yes" upos="PRON">1</feat><!-- themselves -->
     <feat name="Tense" value="Past" upos="AUX,VERB">2523</feat><!-- was, would, been, should, were, had, could, made, given, wrote -->
     <feat name="Tense" value="Pres" upos="AUX,VERB">2719</feat><!-- is, are, has, have, can, shall, will, may, do, must -->
@@ -113,15 +113,15 @@
     <dep name="flat:foreign">88</dep>
     <dep name="iobj">33</dep>
     <dep name="mark">1618</dep>
-    <dep name="nmod">4066</dep>
+    <dep name="nmod">4072</dep>
     <dep name="nmod:desc">142</dep>
     <dep name="nmod:poss">1006</dep>
-    <dep name="nmod:unmarked">192</dep>
+    <dep name="nmod:unmarked">194</dep>
     <dep name="nsubj">2787</dep>
     <dep name="nsubj:pass">474</dep>
     <dep name="nummod">299</dep>
     <dep name="obj">2059</dep>
-    <dep name="obl">2819</dep>
+    <dep name="obl">2811</dep>
     <dep name="obl:unmarked">1</dep>
     <dep name="orphan">16</dep>
     <dep name="parataxis">41</dep>
